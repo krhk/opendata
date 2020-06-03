@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "@base": "https://data.kr-kralovehradecky.cz/",
+    "type": "@type",
+    "id": "@id",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geojson": "https://purl.org/geojson/vocab#",
+    "položky": "@graph",
+    "zastávka": "https://ofn.gov.cz/umístění/",
+    "geometrie": "geojson:geometry",
+    "objectId": "xsd:integer",
+    "crz": "xsd:integer",
+    "oznacnik1": "xsd:integer",
+    "oznacnik2": "xsd:integer",
+    "crzOznacnik": "xsd:integer"
+  },
+  "položky": [
+    {
+      "type": "zastávka",
+      "id": "zastávka/1",
+      "geometrie": { "geojson:type": "Point", "geojson:coordinates": [16.0615506894965, 50.1443117185118] },
+      "objectId": 1,
+      "crz": 59,
+      "oznacnik1": 1,
+      "oznacnik2": 1,
+      "crzOznacnik": 5901,
+      "název": "Albrechtice n.Orl.-nákupní středisko"
+    },
+    {
+      "type": "zastávka",
+      "id": "zastávka/2",
+      "geometrie": { "geojson:type": "Point", "geojson:coordinates": [16.0618313476414, 50.1442223310093] },
+      "objectId": 2,
+      "crz": 59,
+      "oznacnik1": 2,
+      "oznacnik2": 2,
+      "crzOznacnik": 5902,
+      "název": "Albrechtice n.Orl.-nákupní středisko"
+    }
+  ]
+}

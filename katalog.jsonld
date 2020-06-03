@@ -1,0 +1,15 @@
+{
+    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.kr-kralovehradecky.cz/katalog",
+    "typ": "Katalog",
+    "název": {
+        "cs": "Katalog otevřených dat Královéhradeckého kraje"
+    },
+    "popis": {
+        "cs": "Otevřená data Kralovéhradeckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení."
+    },
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+    "datová_sada": [
+         "https://data.kr-kralovehradecky.cz/seznam-atobusových-zastávek-iredo"
+  ]
+}

@@ -1,0 +1,3369 @@
+{
+  "@context" : {
+    "@base" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/",
+    "položky" : {
+      "@reverse" : "skos:inScheme",
+      "@container" : "@set"
+    },
+    "type" : "@type",
+    "id" : "@id",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "l-sgov-sbírka-111-2009-pojem" : "https://slovník.gov.cz/legislativní/sbírka/111/2009/pojem/",
+    "a-sgov-104-pojem" : "https://slovník.gov.cz/agendový/104/pojem/",
+    "skos" : "http://www.w3.org/2004/02/skos/core#",
+    "owl" : "http://www.w3.org/2002/07/owl#",
+    "číselník" : "skos:ConceptScheme",
+    "položka" : "skos:Concept",
+    "stát" : "a-sgov-104-pojem:stát",
+    "název-číselníku" : {
+      "@id" : "skos:prefLabel",
+      "@container" : "@language"
+    },
+    "kód" : {
+      "@id" : "skos:notation",
+      "@type" : "xsd:string"
+    },
+    "název" : {
+      "@id" : "skos:prefLabel",
+      "@container" : "@language"
+    },
+    "zkr-název" : {
+      "@id" : "skos:altLabel",
+      "@container" : "@language"
+    },
+    "ekvivalent" : {
+      "@id" : "owl:sameAs",
+      "@type" : "@id"
+    }
+  },
+  "id" : "číselník/státy",
+  "type" : "číselník",
+  "název-číselníku" : {
+    "cs" : "Číselník států"
+  },
+  "položky" : [ {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/840",
+    "kód" : "840",
+    "název" : {
+      "cs" : "Spojené státy americké",
+      "en" : "United States"
+    },
+    "zkr-název" : {
+      "cs" : "Spojené státy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/USA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/849",
+    "kód" : "849",
+    "název" : {
+      "cs" : "U.S. Miscellaneous Pacific Islands",
+      "en" : "U.S. Miscellaneous Pacific Islands"
+    },
+    "zkr-název" : {
+      "cs" : "U.S. Miscellaneous Pacific Islands"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PUS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/850",
+    "kód" : "850",
+    "název" : {
+      "cs" : "Americké Panenské ostrovy",
+      "en" : "Virgin Islands, U.S."
+    },
+    "zkr-název" : {
+      "cs" : "Americké Panenské ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VIR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/854",
+    "kód" : "854",
+    "název" : {
+      "cs" : "Burkina Faso",
+      "en" : "Burkina Faso"
+    },
+    "zkr-název" : {
+      "cs" : "Burkina Faso"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BFA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/858",
+    "kód" : "858",
+    "název" : {
+      "cs" : "Uruguayská východní republika",
+      "en" : "Uruguay"
+    },
+    "zkr-název" : {
+      "cs" : "Uruguay"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/URY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/860",
+    "kód" : "860",
+    "název" : {
+      "cs" : "Republika Uzbekistán",
+      "en" : "Uzbekistan"
+    },
+    "zkr-název" : {
+      "cs" : "Uzbekistán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/UZB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/862",
+    "kód" : "862",
+    "název" : {
+      "cs" : "Bolívarovská republika Venezuela",
+      "en" : "Venezuela, Bolivarian Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Venezuela"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VEN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/872",
+    "kód" : "872",
+    "název" : {
+      "cs" : "ostrov Wake",
+      "en" : "Wake Island"
+    },
+    "zkr-název" : {
+      "cs" : "ostrov Wake"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/WAK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/876",
+    "kód" : "876",
+    "název" : {
+      "cs" : "Ostrovy Wallis a Futuna",
+      "en" : "Wallis and Futuna"
+    },
+    "zkr-název" : {
+      "cs" : "Wallis a Futuna"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/WLF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/882",
+    "kód" : "882",
+    "název" : {
+      "cs" : "Nezávislý stát Samoa",
+      "en" : "Samoa"
+    },
+    "zkr-název" : {
+      "cs" : "Samoa"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/WSM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/886",
+    "kód" : "886",
+    "název" : {
+      "cs" : "Jemenská arabská republika",
+      "en" : "Yemen Arab Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Severní Jemen"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/YEM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/887",
+    "kód" : "887",
+    "název" : {
+      "cs" : "Jemenská republika",
+      "en" : "Yemen"
+    },
+    "zkr-název" : {
+      "cs" : "Jemen"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/YEM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/890",
+    "kód" : "890",
+    "název" : {
+      "cs" : "Socialistická federativní republika Jugoslávie",
+      "en" : "Yugoslavia, Socialist Federal Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Jugoslávie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/YUG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/891",
+    "kód" : "891",
+    "název" : {
+      "cs" : "Srbsko a Černá hora",
+      "en" : "Serbia and Montenegro (Yugoslavia, Federal Republic of)"
+    },
+    "zkr-název" : {
+      "cs" : "Srbsko a Černá hora"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SCG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/894",
+    "kód" : "894",
+    "název" : {
+      "cs" : "Zambijská republika",
+      "en" : "Zambia"
+    },
+    "zkr-název" : {
+      "cs" : "Zambie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ZMB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/226",
+    "kód" : "226",
+    "název" : {
+      "cs" : "Republika Rovníková Guinea",
+      "en" : "Equatorial Guinea"
+    },
+    "zkr-název" : {
+      "cs" : "Rovníková Guinea"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GNQ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/230",
+    "kód" : "230",
+    "název" : {
+      "cs" : "Etiopie (před oddělením Eritrey 1993)",
+      "en" : "Ethiopia (before Eritrea split away in 1993)"
+    },
+    "zkr-název" : {
+      "cs" : "Etiopie (před oddělením Eritrey 1993)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ETH"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/630",
+    "kód" : "630",
+    "název" : {
+      "cs" : "Portoriko",
+      "en" : "Puerto Rico"
+    },
+    "zkr-název" : {
+      "cs" : "Portoriko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PRI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/239",
+    "kód" : "239",
+    "název" : {
+      "cs" : "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "en" : "South Georgia and the South Sandwich Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Jižní Georgie a Jižní Sandwichovy ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SGS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/260",
+    "kód" : "260",
+    "název" : {
+      "cs" : "Francouzská jižní území",
+      "en" : "French Southern Territories"
+    },
+    "zkr-název" : {
+      "cs" : "Francouzská jižní území"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ATF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/275",
+    "kód" : "275",
+    "název" : {
+      "cs" : "Okupované palestinské území",
+      "en" : "Palestinian Territory, Occupied"
+    },
+    "zkr-název" : {
+      "cs" : "Palestinské území (okupované)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PSE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/280",
+    "kód" : "280",
+    "název" : {
+      "cs" : "Spolková republika Německo",
+      "en" : "Germany, Federal Republic of (West Germany)"
+    },
+    "zkr-název" : {
+      "cs" : "Spolková republika Německo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DEU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/535",
+    "kód" : "535",
+    "název" : {
+      "cs" : "Bonaire, Svatý Eustach a Saba",
+      "en" : "Bonaire, Sint Eustatius and Saba"
+    },
+    "zkr-název" : {
+      "cs" : "Bonaire, Svatý Eustach a Saba"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BES"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/581",
+    "kód" : "581",
+    "název" : {
+      "cs" : "Menší odlehlé ostrovy USA",
+      "en" : "United States Minor Outlying Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Menší odlehlé ostrovy USA"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/UMI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/590",
+    "kód" : "590",
+    "název" : {
+      "cs" : "Panama (před připojením průplavového pásma 1979)",
+      "en" : "Panama (before adding Panama Canal Zone in 1979)"
+    },
+    "zkr-název" : {
+      "cs" : "Panama (před připojením průplavového pásma 1979)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PAN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/643",
+    "kód" : "643",
+    "název" : {
+      "cs" : "Ruská federace",
+      "en" : "Russian Federation"
+    },
+    "zkr-název" : {
+      "cs" : "Ruská federace"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/RUS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/654",
+    "kód" : "654",
+    "název" : {
+      "cs" : "Svatá Helena, Ascension a Tristan da Cunha",
+      "en" : "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "zkr-název" : {
+      "cs" : "Svatá Helena, Ascension a Tristan da Cunha"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SHN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/670",
+    "kód" : "670",
+    "název" : {
+      "cs" : "Svatý Vincenc a Grenadiny",
+      "en" : "Saint Vincent and the Grenadines"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Vincenc a Grenadiny"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VCT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/694",
+    "kód" : "694",
+    "název" : {
+      "cs" : "Republika Sierra Leone",
+      "en" : "Sierra Leone"
+    },
+    "zkr-název" : {
+      "cs" : "Sierra Leone"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SLE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/705",
+    "kód" : "705",
+    "název" : {
+      "cs" : "Slovinská republika",
+      "en" : "Slovenia"
+    },
+    "zkr-název" : {
+      "cs" : "Slovinsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SVN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/720",
+    "kód" : "720",
+    "název" : {
+      "cs" : "Jemenská lidově demokratická republika",
+      "en" : "Yemen, Democratic"
+    },
+    "zkr-název" : {
+      "cs" : "Jižní Jemen"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/YMD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/4",
+    "kód" : "4",
+    "název" : {
+      "cs" : "Islámská republika Afghánistán",
+      "en" : "Afghanistan"
+    },
+    "zkr-název" : {
+      "cs" : "Afghánistán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AFG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/8",
+    "kód" : "8",
+    "název" : {
+      "cs" : "Albánská republika",
+      "en" : "Albania"
+    },
+    "zkr-název" : {
+      "cs" : "Albánie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ALB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/10",
+    "kód" : "10",
+    "název" : {
+      "cs" : "Antarktida",
+      "en" : "Antarctica"
+    },
+    "zkr-název" : {
+      "cs" : "Antarktida"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ATA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/12",
+    "kód" : "12",
+    "název" : {
+      "cs" : "Alžírská demokratická a lidová republika",
+      "en" : "Algeria"
+    },
+    "zkr-název" : {
+      "cs" : "Alžírsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DZA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/16",
+    "kód" : "16",
+    "název" : {
+      "cs" : "Americká Samoa",
+      "en" : "American Samoa"
+    },
+    "zkr-název" : {
+      "cs" : "Americká Samoa"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ASM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/20",
+    "kód" : "20",
+    "název" : {
+      "cs" : "Andorrské knížectví",
+      "en" : "Andorra"
+    },
+    "zkr-název" : {
+      "cs" : "Andorra"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AND"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/24",
+    "kód" : "24",
+    "název" : {
+      "cs" : "Angolská republika",
+      "en" : "Angola"
+    },
+    "zkr-název" : {
+      "cs" : "Angola"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AGO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/28",
+    "kód" : "28",
+    "název" : {
+      "cs" : "Antigua a Barbuda",
+      "en" : "Antigua and Barbuda"
+    },
+    "zkr-název" : {
+      "cs" : "Antigua a Barbuda"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ATG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/31",
+    "kód" : "31",
+    "název" : {
+      "cs" : "Ázerbájdžánská republika",
+      "en" : "Azerbaijan"
+    },
+    "zkr-název" : {
+      "cs" : "Ázerbájdžán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AZE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/32",
+    "kód" : "32",
+    "název" : {
+      "cs" : "Argentinská republika",
+      "en" : "Argentina"
+    },
+    "zkr-název" : {
+      "cs" : "Argentina"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ARG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/36",
+    "kód" : "36",
+    "název" : {
+      "cs" : "Austrálie",
+      "en" : "Australia"
+    },
+    "zkr-název" : {
+      "cs" : "Austrálie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AUS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/40",
+    "kód" : "40",
+    "název" : {
+      "cs" : "Rakouská republika",
+      "en" : "Austria"
+    },
+    "zkr-název" : {
+      "cs" : "Rakousko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AUT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/44",
+    "kód" : "44",
+    "název" : {
+      "cs" : "Bahamské společenství",
+      "en" : "Bahamas"
+    },
+    "zkr-název" : {
+      "cs" : "Bahamy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BHS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/48",
+    "kód" : "48",
+    "název" : {
+      "cs" : "Království Bahrajn",
+      "en" : "Bahrain"
+    },
+    "zkr-název" : {
+      "cs" : "Bahrajn"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BHR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/50",
+    "kód" : "50",
+    "název" : {
+      "cs" : "Bangladéšská lidová republika",
+      "en" : "Bangladesh"
+    },
+    "zkr-název" : {
+      "cs" : "Bangladéš"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BGD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/51",
+    "kód" : "51",
+    "název" : {
+      "cs" : "Arménská republika",
+      "en" : "Armenia"
+    },
+    "zkr-název" : {
+      "cs" : "Arménie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ARM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/52",
+    "kód" : "52",
+    "název" : {
+      "cs" : "Barbados",
+      "en" : "Barbados"
+    },
+    "zkr-název" : {
+      "cs" : "Barbados"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BRB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/56",
+    "kód" : "56",
+    "název" : {
+      "cs" : "Belgické království",
+      "en" : "Belgium"
+    },
+    "zkr-název" : {
+      "cs" : "Belgie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BEL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/60",
+    "kód" : "60",
+    "název" : {
+      "cs" : "Bermudy",
+      "en" : "Bermuda"
+    },
+    "zkr-název" : {
+      "cs" : "Bermudy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BMU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/64",
+    "kód" : "64",
+    "název" : {
+      "cs" : "Bhútánské království",
+      "en" : "Bhutan"
+    },
+    "zkr-název" : {
+      "cs" : "Bhútán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BTN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/68",
+    "kód" : "68",
+    "název" : {
+      "cs" : "Mnohonárodní stát Bolívie",
+      "en" : "Bolivia, Plurinational State of"
+    },
+    "zkr-název" : {
+      "cs" : "Bolívie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BOL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/70",
+    "kód" : "70",
+    "název" : {
+      "cs" : "Bosna a Hercegovina",
+      "en" : "Bosnia and Herzegovina"
+    },
+    "zkr-název" : {
+      "cs" : "Bosna a Hercegovina"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BIH"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/72",
+    "kód" : "72",
+    "název" : {
+      "cs" : "Republika Botswana",
+      "en" : "Botswana"
+    },
+    "zkr-název" : {
+      "cs" : "Botswana"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BWA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/74",
+    "kód" : "74",
+    "název" : {
+      "cs" : "Bouvetův ostrov",
+      "en" : "Bouvet Island"
+    },
+    "zkr-název" : {
+      "cs" : "Bouvetův ostrov"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BVT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/76",
+    "kód" : "76",
+    "název" : {
+      "cs" : "Brazilská federativní republika",
+      "en" : "Brazil"
+    },
+    "zkr-název" : {
+      "cs" : "Brazílie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BRA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/84",
+    "kód" : "84",
+    "název" : {
+      "cs" : "Belize",
+      "en" : "Belize"
+    },
+    "zkr-název" : {
+      "cs" : "Belize"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BLZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/86",
+    "kód" : "86",
+    "název" : {
+      "cs" : "Britské indickooceánské území",
+      "en" : "British Indian Ocean Territory"
+    },
+    "zkr-název" : {
+      "cs" : "Britské indickooceánské území"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IOT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/90",
+    "kód" : "90",
+    "název" : {
+      "cs" : "Šalomounovy ostrovy",
+      "en" : "Solomon Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Šalomounovy ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SLB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/92",
+    "kód" : "92",
+    "název" : {
+      "cs" : "Britské Panenské ostrovy",
+      "en" : "Virgin Islands, British"
+    },
+    "zkr-název" : {
+      "cs" : "Britské Panenské ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VGB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/95",
+    "kód" : "95",
+    "název" : {
+      "cs" : "Republika Kosovo",
+      "en" : "xxx"
+    },
+    "zkr-název" : {
+      "cs" : "Kosovo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/XKO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/96",
+    "kód" : "96",
+    "název" : {
+      "cs" : "Brunej Darussalam",
+      "en" : "Brunei Darussalam"
+    },
+    "zkr-název" : {
+      "cs" : "Brunej Darussalam"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BRN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/100",
+    "kód" : "100",
+    "název" : {
+      "cs" : "Bulharská republika",
+      "en" : "Bulgaria"
+    },
+    "zkr-název" : {
+      "cs" : "Bulharsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BGR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/104",
+    "kód" : "104",
+    "název" : {
+      "cs" : "Svaz Myanmar",
+      "en" : "Myanmar"
+    },
+    "zkr-název" : {
+      "cs" : "Myanmar"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MMR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/108",
+    "kód" : "108",
+    "název" : {
+      "cs" : "Republika Burundi",
+      "en" : "Burundi"
+    },
+    "zkr-název" : {
+      "cs" : "Burundi"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BDI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/795",
+    "kód" : "795",
+    "název" : {
+      "cs" : "Turkmenistán",
+      "en" : "Turkmenistan"
+    },
+    "zkr-název" : {
+      "cs" : "Turkmenistán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TKM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/796",
+    "kód" : "796",
+    "název" : {
+      "cs" : "Ostrovy Turks a Caicos",
+      "en" : "Turks and Caicos Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Ostrovy Turks a Caicos"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TCA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/798",
+    "kód" : "798",
+    "název" : {
+      "cs" : "Tuvalu",
+      "en" : "Tuvalu"
+    },
+    "zkr-název" : {
+      "cs" : "Tuvalu"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TUV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/800",
+    "kód" : "800",
+    "název" : {
+      "cs" : "Ugandská republika",
+      "en" : "Uganda"
+    },
+    "zkr-název" : {
+      "cs" : "Uganda"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/UGA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/804",
+    "kód" : "804",
+    "název" : {
+      "cs" : "Ukrajina",
+      "en" : "Ukraine"
+    },
+    "zkr-název" : {
+      "cs" : "Ukrajina"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/UKR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/807",
+    "kód" : "807",
+    "název" : {
+      "cs" : "Bývalá jugoslávská republika Makedonie",
+      "en" : "Macedonia, the former Yugoslav Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Makedonie, bývalá jugoslávská republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MKD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/810",
+    "kód" : "810",
+    "název" : {
+      "cs" : "Sovětský svaz",
+      "en" : "USSR"
+    },
+    "zkr-název" : {
+      "cs" : "Sovětský svaz"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SUN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/818",
+    "kód" : "818",
+    "název" : {
+      "cs" : "Egyptská arabská republika",
+      "en" : "Egypt"
+    },
+    "zkr-název" : {
+      "cs" : "Egypt"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/EGY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/826",
+    "kód" : "826",
+    "název" : {
+      "cs" : "Spojené království Velké Británie a Severního Irska",
+      "en" : "United Kingdom"
+    },
+    "zkr-název" : {
+      "cs" : "Spojené království"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GBR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/831",
+    "kód" : "831",
+    "název" : {
+      "cs" : "Guernsey",
+      "en" : "Guernsey"
+    },
+    "zkr-název" : {
+      "cs" : "Guernsey"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GGY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/832",
+    "kód" : "832",
+    "název" : {
+      "cs" : "Jersey",
+      "en" : "Jersey"
+    },
+    "zkr-název" : {
+      "cs" : "Jersey"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/JEY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/833",
+    "kód" : "833",
+    "název" : {
+      "cs" : "Ostrov Man",
+      "en" : "Isle of Man"
+    },
+    "zkr-název" : {
+      "cs" : "Ostrov Man"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IMN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/834",
+    "kód" : "834",
+    "název" : {
+      "cs" : "Tanzanská sjednocená republika",
+      "en" : "Tanzania, United Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Tanzanská sjednocená republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TZA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/112",
+    "kód" : "112",
+    "název" : {
+      "cs" : "Běloruská republika",
+      "en" : "Belarus"
+    },
+    "zkr-název" : {
+      "cs" : "Bělorusko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BLR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/116",
+    "kód" : "116",
+    "název" : {
+      "cs" : "Kambodžské království",
+      "en" : "Cambodia"
+    },
+    "zkr-název" : {
+      "cs" : "Kambodža"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KHM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/120",
+    "kód" : "120",
+    "název" : {
+      "cs" : "Kamerunská republika",
+      "en" : "Cameroon"
+    },
+    "zkr-název" : {
+      "cs" : "Kamerun"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CMR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/124",
+    "kód" : "124",
+    "název" : {
+      "cs" : "Kanada",
+      "en" : "Canada"
+    },
+    "zkr-název" : {
+      "cs" : "Kanada"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CAN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/756",
+    "kód" : "756",
+    "název" : {
+      "cs" : "Švýcarská konfederace",
+      "en" : "Switzerland"
+    },
+    "zkr-název" : {
+      "cs" : "Švýcarsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CHE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/760",
+    "kód" : "760",
+    "název" : {
+      "cs" : "Syrská arabská republika",
+      "en" : "Syrian Arab Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Syrská arabská republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SYR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/762",
+    "kód" : "762",
+    "název" : {
+      "cs" : "Republika Tádžikistán",
+      "en" : "Tajikistan"
+    },
+    "zkr-název" : {
+      "cs" : "Tádžikistán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TJK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/764",
+    "kód" : "764",
+    "název" : {
+      "cs" : "Thajské království",
+      "en" : "Thailand"
+    },
+    "zkr-název" : {
+      "cs" : "Thajsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/THA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/768",
+    "kód" : "768",
+    "název" : {
+      "cs" : "Republika Togo",
+      "en" : "Togo"
+    },
+    "zkr-název" : {
+      "cs" : "Togo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TGO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/772",
+    "kód" : "772",
+    "název" : {
+      "cs" : "Tokelau",
+      "en" : "Tokelau"
+    },
+    "zkr-název" : {
+      "cs" : "Tokelau"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TKL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/776",
+    "kód" : "776",
+    "název" : {
+      "cs" : "Království Tonga",
+      "en" : "Tonga"
+    },
+    "zkr-název" : {
+      "cs" : "Tonga"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TON"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/780",
+    "kód" : "780",
+    "název" : {
+      "cs" : "Republika Trinidad a Tobago",
+      "en" : "Trinidad and Tobago"
+    },
+    "zkr-název" : {
+      "cs" : "Trinidad a Tobago"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TTO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/784",
+    "kód" : "784",
+    "název" : {
+      "cs" : "Spojené arabské emiráty",
+      "en" : "United Arab Emirates"
+    },
+    "zkr-název" : {
+      "cs" : "Spojené arabské emiráty"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ARE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/788",
+    "kód" : "788",
+    "název" : {
+      "cs" : "Tuniská republika",
+      "en" : "Tunisia"
+    },
+    "zkr-název" : {
+      "cs" : "Tunisko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TUN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/792",
+    "kód" : "792",
+    "název" : {
+      "cs" : "Turecká republika",
+      "en" : "Turkey"
+    },
+    "zkr-název" : {
+      "cs" : "Turecko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TUR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/128",
+    "kód" : "128",
+    "název" : {
+      "cs" : "ostrovy Kanton a Enderbury",
+      "en" : "Canton and Enderbury Islands"
+    },
+    "zkr-název" : {
+      "cs" : "ostrovy Kanton a Enderbury"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CTE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/132",
+    "kód" : "132",
+    "název" : {
+      "cs" : "Kapverdská republika",
+      "en" : "Cape Verde"
+    },
+    "zkr-název" : {
+      "cs" : "Kapverdy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CPV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/136",
+    "kód" : "136",
+    "název" : {
+      "cs" : "Kajmanské ostrovy",
+      "en" : "Cayman Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Kajmanské ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CYM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/140",
+    "kód" : "140",
+    "název" : {
+      "cs" : "Středoafrická republika",
+      "en" : "Central African Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Středoafrická republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CAF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/144",
+    "kód" : "144",
+    "název" : {
+      "cs" : "Srílanská demokratická socialistická republika",
+      "en" : "Sri Lanka"
+    },
+    "zkr-název" : {
+      "cs" : "Srí Lanka"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LKA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/148",
+    "kód" : "148",
+    "název" : {
+      "cs" : "Čadská republika",
+      "en" : "Chad"
+    },
+    "zkr-název" : {
+      "cs" : "Čad"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TCD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/152",
+    "kód" : "152",
+    "název" : {
+      "cs" : "Chilská republika",
+      "en" : "Chile"
+    },
+    "zkr-název" : {
+      "cs" : "Chile"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CHL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/156",
+    "kód" : "156",
+    "název" : {
+      "cs" : "Čínská lidová republika",
+      "en" : "China"
+    },
+    "zkr-název" : {
+      "cs" : "Čína"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CHN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/158",
+    "kód" : "158",
+    "název" : {
+      "cs" : "Tchaj-wan (čínská provincie)",
+      "en" : "Taiwan, Province of China"
+    },
+    "zkr-název" : {
+      "cs" : "Tchaj-wan (čínská provincie)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TWN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/162",
+    "kód" : "162",
+    "název" : {
+      "cs" : "Vánoční ostrov",
+      "en" : "Christmas Island"
+    },
+    "zkr-název" : {
+      "cs" : "Vánoční ostrov"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CXR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/166",
+    "kód" : "166",
+    "název" : {
+      "cs" : "Kokosové (Keelingovy) ostrovy",
+      "en" : "Cocos (Keeling) Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Kokosové (Keelingovy) ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CCK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/170",
+    "kód" : "170",
+    "název" : {
+      "cs" : "Kolumbijská republika",
+      "en" : "Colombia"
+    },
+    "zkr-název" : {
+      "cs" : "Kolumbie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/COL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/174",
+    "kód" : "174",
+    "název" : {
+      "cs" : "Komorský svaz",
+      "en" : "Comoros"
+    },
+    "zkr-název" : {
+      "cs" : "Komory"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/COM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/175",
+    "kód" : "175",
+    "název" : {
+      "cs" : "Mayotte",
+      "en" : "Mayotte"
+    },
+    "zkr-název" : {
+      "cs" : "Mayotte"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MYT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/178",
+    "kód" : "178",
+    "název" : {
+      "cs" : "Konžská republika",
+      "en" : "Congo"
+    },
+    "zkr-název" : {
+      "cs" : "Kongo, republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/COG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/180",
+    "kód" : "180",
+    "název" : {
+      "cs" : "Demokratická republika Kongo",
+      "en" : "Congo, the Democratic Republic of the"
+    },
+    "zkr-název" : {
+      "cs" : "Kongo, demokratická republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/COD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/184",
+    "kód" : "184",
+    "název" : {
+      "cs" : "Cookovy ostrovy",
+      "en" : "Cook Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Cookovy ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/COK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/188",
+    "kód" : "188",
+    "název" : {
+      "cs" : "Kostarická republika",
+      "en" : "Costa Rica"
+    },
+    "zkr-název" : {
+      "cs" : "Kostarika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CRI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/191",
+    "kód" : "191",
+    "název" : {
+      "cs" : "Chorvatská republika",
+      "en" : "Croatia"
+    },
+    "zkr-název" : {
+      "cs" : "Chorvatsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HRV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/192",
+    "kód" : "192",
+    "název" : {
+      "cs" : "Kubánská republika",
+      "en" : "Cuba"
+    },
+    "zkr-název" : {
+      "cs" : "Kuba"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CUB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/196",
+    "kód" : "196",
+    "název" : {
+      "cs" : "Kyperská republika",
+      "en" : "Cyprus"
+    },
+    "zkr-název" : {
+      "cs" : "Kypr"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CYP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/200",
+    "kód" : "200",
+    "název" : {
+      "cs" : "Československo",
+      "en" : "Czechoslovakia"
+    },
+    "zkr-název" : {
+      "cs" : "Československo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CSK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/203",
+    "kód" : "203",
+    "název" : {
+      "cs" : "Česká republika",
+      "en" : "Czech Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Česká republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CZE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/204",
+    "kód" : "204",
+    "název" : {
+      "cs" : "Beninská republika",
+      "en" : "Benin"
+    },
+    "zkr-název" : {
+      "cs" : "Benin"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BEN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/208",
+    "kód" : "208",
+    "název" : {
+      "cs" : "Dánské království",
+      "en" : "Denmark"
+    },
+    "zkr-název" : {
+      "cs" : "Dánsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DNK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/212",
+    "kód" : "212",
+    "název" : {
+      "cs" : "Dominické společenství",
+      "en" : "Dominica"
+    },
+    "zkr-název" : {
+      "cs" : "Dominika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DMA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/214",
+    "kód" : "214",
+    "název" : {
+      "cs" : "Dominikánská republika",
+      "en" : "Dominican Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Dominikánská republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DOM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/216",
+    "kód" : "216",
+    "název" : {
+      "cs" : "Země královny Maud",
+      "en" : "Dronning Maud Land"
+    },
+    "zkr-název" : {
+      "cs" : "Země královny Maud"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ATN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/218",
+    "kód" : "218",
+    "název" : {
+      "cs" : "Ekvádorská republika",
+      "en" : "Ecuador"
+    },
+    "zkr-název" : {
+      "cs" : "Ekvádor"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ECU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/222",
+    "kód" : "222",
+    "název" : {
+      "cs" : "Salvadorská republika",
+      "en" : "El Salvador"
+    },
+    "zkr-název" : {
+      "cs" : "Salvador"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SLV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/231",
+    "kód" : "231",
+    "název" : {
+      "cs" : "Etiopská federativní demokratická republika",
+      "en" : "Ethiopia"
+    },
+    "zkr-název" : {
+      "cs" : "Etiopie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ETH"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/232",
+    "kód" : "232",
+    "název" : {
+      "cs" : "Eritrea",
+      "en" : "Eritrea"
+    },
+    "zkr-název" : {
+      "cs" : "Eritrea"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ERI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/233",
+    "kód" : "233",
+    "název" : {
+      "cs" : "Estonská republika",
+      "en" : "Estonia"
+    },
+    "zkr-název" : {
+      "cs" : "Estonsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/EST"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/234",
+    "kód" : "234",
+    "název" : {
+      "cs" : "Faerské ostrovy",
+      "en" : "Faroe Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Faerské ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FRO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/238",
+    "kód" : "238",
+    "název" : {
+      "cs" : "Falklandské ostrovy (Malvíny)",
+      "en" : "Falkland Islands (Malvinas)"
+    },
+    "zkr-název" : {
+      "cs" : "Falklandské ostrovy (Malvíny)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FLK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/242",
+    "kód" : "242",
+    "název" : {
+      "cs" : "Republika Fidžijské ostrovy",
+      "en" : "Fiji"
+    },
+    "zkr-název" : {
+      "cs" : "Fidži"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FJI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/246",
+    "kód" : "246",
+    "název" : {
+      "cs" : "Finská republika",
+      "en" : "Finland"
+    },
+    "zkr-název" : {
+      "cs" : "Finsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FIN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/248",
+    "kód" : "248",
+    "název" : {
+      "cs" : "Alandské ostrovy",
+      "en" : "Aland Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Alandské ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ALA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/249",
+    "kód" : "249",
+    "název" : {
+      "cs" : "Francie metropolitní",
+      "en" : "France, Metropolitan"
+    },
+    "zkr-název" : {
+      "cs" : "Francie metropolitní"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FXX"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/250",
+    "kód" : "250",
+    "název" : {
+      "cs" : "Francouzská republika",
+      "en" : "France"
+    },
+    "zkr-název" : {
+      "cs" : "Francie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FRA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/254",
+    "kód" : "254",
+    "název" : {
+      "cs" : "Francouzská Guyana",
+      "en" : "French Guiana"
+    },
+    "zkr-název" : {
+      "cs" : "Francouzská Guyana"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GUF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/258",
+    "kód" : "258",
+    "název" : {
+      "cs" : "Francouzská Polynésie",
+      "en" : "French Polynesia"
+    },
+    "zkr-název" : {
+      "cs" : "Francouzská Polynésie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PYF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/262",
+    "kód" : "262",
+    "název" : {
+      "cs" : "Džibutská republika",
+      "en" : "Djibouti"
+    },
+    "zkr-název" : {
+      "cs" : "Džibutsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DJI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/266",
+    "kód" : "266",
+    "název" : {
+      "cs" : "Gabonská republika",
+      "en" : "Gabon"
+    },
+    "zkr-název" : {
+      "cs" : "Gabon"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GAB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/268",
+    "kód" : "268",
+    "název" : {
+      "cs" : "Gruzie",
+      "en" : "Georgia"
+    },
+    "zkr-název" : {
+      "cs" : "Gruzie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GEO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/270",
+    "kód" : "270",
+    "název" : {
+      "cs" : "Gambijská republika",
+      "en" : "Gambia"
+    },
+    "zkr-název" : {
+      "cs" : "Gambie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GMB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/276",
+    "kód" : "276",
+    "název" : {
+      "cs" : "Spolková republika Německo",
+      "en" : "Germany"
+    },
+    "zkr-název" : {
+      "cs" : "Německo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DEU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/278",
+    "kód" : "278",
+    "název" : {
+      "cs" : "Německá demokratická republika",
+      "en" : "German Democratic Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Německá demokratická republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/DDR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/288",
+    "kód" : "288",
+    "název" : {
+      "cs" : "Ghanská republika",
+      "en" : "Ghana"
+    },
+    "zkr-název" : {
+      "cs" : "Ghana"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GHA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/292",
+    "kód" : "292",
+    "název" : {
+      "cs" : "Gibraltar",
+      "en" : "Gibraltar"
+    },
+    "zkr-název" : {
+      "cs" : "Gibraltar"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GIB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/296",
+    "kód" : "296",
+    "název" : {
+      "cs" : "Republika Kiribati",
+      "en" : "Kiribati"
+    },
+    "zkr-název" : {
+      "cs" : "Kiribati"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KIR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/300",
+    "kód" : "300",
+    "název" : {
+      "cs" : "Řecká republika",
+      "en" : "Greece"
+    },
+    "zkr-název" : {
+      "cs" : "Řecko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GRC"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/304",
+    "kód" : "304",
+    "název" : {
+      "cs" : "Grónsko",
+      "en" : "Greenland"
+    },
+    "zkr-název" : {
+      "cs" : "Grónsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GRL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/308",
+    "kód" : "308",
+    "název" : {
+      "cs" : "Grenada",
+      "en" : "Grenada"
+    },
+    "zkr-název" : {
+      "cs" : "Grenada"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GRD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/312",
+    "kód" : "312",
+    "název" : {
+      "cs" : "Guadeloupe",
+      "en" : "Guadeloupe"
+    },
+    "zkr-název" : {
+      "cs" : "Guadeloupe"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GLP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/316",
+    "kód" : "316",
+    "název" : {
+      "cs" : "Guam",
+      "en" : "Guam"
+    },
+    "zkr-název" : {
+      "cs" : "Guam"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GUM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/320",
+    "kód" : "320",
+    "název" : {
+      "cs" : "Guatemalská republika",
+      "en" : "Guatemala"
+    },
+    "zkr-název" : {
+      "cs" : "Guatemala"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GTM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/324",
+    "kód" : "324",
+    "název" : {
+      "cs" : "Guinejská republika",
+      "en" : "Guinea"
+    },
+    "zkr-název" : {
+      "cs" : "Guinea"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GIN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/332",
+    "kód" : "332",
+    "název" : {
+      "cs" : "Republika Haiti",
+      "en" : "Haiti"
+    },
+    "zkr-název" : {
+      "cs" : "Haiti"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HTI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/328",
+    "kód" : "328",
+    "název" : {
+      "cs" : "Guyanská republika",
+      "en" : "Guyana"
+    },
+    "zkr-název" : {
+      "cs" : "Guyana"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GUY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/334",
+    "kód" : "334",
+    "název" : {
+      "cs" : "Heardův ostrov a McDonaldovy ostrovy",
+      "en" : "Heard Island and McDonald Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Heardův ostrov a McDonaldovy ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HMD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/336",
+    "kód" : "336",
+    "název" : {
+      "cs" : "Svatý stolec (Vatikánský městský stát)",
+      "en" : "Holy See (Vatican City State)"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý stolec (Vatikánský městský stát)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VAT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/340",
+    "kód" : "340",
+    "název" : {
+      "cs" : "Honduraská republika",
+      "en" : "Honduras"
+    },
+    "zkr-název" : {
+      "cs" : "Honduras"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HND"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/344",
+    "kód" : "344",
+    "název" : {
+      "cs" : "Zvláštní administrativní oblast Číny Hongkong",
+      "en" : "Hong Kong"
+    },
+    "zkr-název" : {
+      "cs" : "Hongkong"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HKG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/348",
+    "kód" : "348",
+    "název" : {
+      "cs" : "Maďarská republika",
+      "en" : "Hungary"
+    },
+    "zkr-název" : {
+      "cs" : "Maďarsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/HUN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/352",
+    "kód" : "352",
+    "název" : {
+      "cs" : "Islandská republika",
+      "en" : "Iceland"
+    },
+    "zkr-název" : {
+      "cs" : "Island"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ISL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/356",
+    "kód" : "356",
+    "název" : {
+      "cs" : "Indická republika",
+      "en" : "India"
+    },
+    "zkr-název" : {
+      "cs" : "Indie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IND"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/360",
+    "kód" : "360",
+    "název" : {
+      "cs" : "Indonéská republika",
+      "en" : "Indonesia"
+    },
+    "zkr-název" : {
+      "cs" : "Indonésie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IDN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/364",
+    "kód" : "364",
+    "název" : {
+      "cs" : "Íránská islámská republika",
+      "en" : "Iran, Islamic Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Írán (islámská republika)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IRN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/368",
+    "kód" : "368",
+    "název" : {
+      "cs" : "Irácká republika",
+      "en" : "Iraq"
+    },
+    "zkr-název" : {
+      "cs" : "Irák"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IRQ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/372",
+    "kód" : "372",
+    "název" : {
+      "cs" : "Irsko",
+      "en" : "Ireland"
+    },
+    "zkr-název" : {
+      "cs" : "Irsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/IRL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/376",
+    "kód" : "376",
+    "název" : {
+      "cs" : "Stát Izrael",
+      "en" : "Israel"
+    },
+    "zkr-název" : {
+      "cs" : "Izrael"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ISR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/380",
+    "kód" : "380",
+    "název" : {
+      "cs" : "Italská republika",
+      "en" : "Italy"
+    },
+    "zkr-název" : {
+      "cs" : "Itálie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ITA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/384",
+    "kód" : "384",
+    "název" : {
+      "cs" : "Republika Pobřeží Slonoviny",
+      "en" : "Côte d Ivoire"
+    },
+    "zkr-název" : {
+      "cs" : "Pobřeží Slonoviny"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CIV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/388",
+    "kód" : "388",
+    "název" : {
+      "cs" : "Jamajka",
+      "en" : "Jamaica"
+    },
+    "zkr-název" : {
+      "cs" : "Jamajka"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/JAM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/392",
+    "kód" : "392",
+    "název" : {
+      "cs" : "Japonsko",
+      "en" : "Japan"
+    },
+    "zkr-název" : {
+      "cs" : "Japonsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/JPN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/396",
+    "kód" : "396",
+    "název" : {
+      "cs" : "Johnstonův ostrov",
+      "en" : "Johnston Island"
+    },
+    "zkr-název" : {
+      "cs" : "Johnstonův ostrov"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/JTN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/398",
+    "kód" : "398",
+    "název" : {
+      "cs" : "Republika Kazachstán",
+      "en" : "Kazakhstan"
+    },
+    "zkr-název" : {
+      "cs" : "Kazachstán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KAZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/400",
+    "kód" : "400",
+    "název" : {
+      "cs" : "Jordánské hášimovské království",
+      "en" : "Jordan"
+    },
+    "zkr-název" : {
+      "cs" : "Jordánsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/JOR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/404",
+    "kód" : "404",
+    "název" : {
+      "cs" : "Keňská republika",
+      "en" : "Kenya"
+    },
+    "zkr-název" : {
+      "cs" : "Keňa"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KEN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/408",
+    "kód" : "408",
+    "název" : {
+      "cs" : "Korejská lidově demokratická republika",
+      "en" : "Korea, Democratic People s Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Korea, lidově demokratická republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PRK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/410",
+    "kód" : "410",
+    "název" : {
+      "cs" : "Korejská republika",
+      "en" : "Korea, Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Korejská republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KOR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/414",
+    "kód" : "414",
+    "název" : {
+      "cs" : "Stát Kuvajt",
+      "en" : "Kuwait"
+    },
+    "zkr-název" : {
+      "cs" : "Kuvajt"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KWT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/417",
+    "kód" : "417",
+    "název" : {
+      "cs" : "Kyrgyzská republika",
+      "en" : "Kyrgyzstan"
+    },
+    "zkr-název" : {
+      "cs" : "Kyrgyzstán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KGZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/418",
+    "kód" : "418",
+    "název" : {
+      "cs" : "Laoská lidově demokratická republika",
+      "en" : "Lao People s Democratic Republic"
+    },
+    "zkr-název" : {
+      "cs" : "Laoská lidově demokratická republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LAO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/422",
+    "kód" : "422",
+    "název" : {
+      "cs" : "Libanonská republika",
+      "en" : "Lebanon"
+    },
+    "zkr-název" : {
+      "cs" : "Libanon"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LBN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/426",
+    "kód" : "426",
+    "název" : {
+      "cs" : "Království Lesotho",
+      "en" : "Lesotho"
+    },
+    "zkr-název" : {
+      "cs" : "Lesotho"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LSO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/428",
+    "kód" : "428",
+    "název" : {
+      "cs" : "Lotyšská republika",
+      "en" : "Latvia"
+    },
+    "zkr-název" : {
+      "cs" : "Lotyšsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LVA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/430",
+    "kód" : "430",
+    "název" : {
+      "cs" : "Liberijská republika",
+      "en" : "Liberia"
+    },
+    "zkr-název" : {
+      "cs" : "Libérie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LBR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/434",
+    "kód" : "434",
+    "název" : {
+      "cs" : "Velká libyjská arabská lidová socialistická džamáhírije",
+      "en" : "Libyan Arab Jamahiriya"
+    },
+    "zkr-název" : {
+      "cs" : "Libyjská arabská džamáhírije"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LBY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/438",
+    "kód" : "438",
+    "název" : {
+      "cs" : "Lichtenštejnské knížectví",
+      "en" : "Liechtenstein"
+    },
+    "zkr-název" : {
+      "cs" : "Lichtenštejnsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LIE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/440",
+    "kód" : "440",
+    "název" : {
+      "cs" : "Litevská republika",
+      "en" : "Lithuania"
+    },
+    "zkr-název" : {
+      "cs" : "Litva"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LTU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/442",
+    "kód" : "442",
+    "název" : {
+      "cs" : "Lucemburské velkovévodství",
+      "en" : "Luxembourg"
+    },
+    "zkr-název" : {
+      "cs" : "Lucembursko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LUX"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/446",
+    "kód" : "446",
+    "název" : {
+      "cs" : "Zvláštní administrativní oblast Číny Macao",
+      "en" : "Macao"
+    },
+    "zkr-název" : {
+      "cs" : "Macao"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MAC"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/450",
+    "kód" : "450",
+    "název" : {
+      "cs" : "Madagaskarská republika",
+      "en" : "Madagascar"
+    },
+    "zkr-název" : {
+      "cs" : "Madagaskar"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MDG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/454",
+    "kód" : "454",
+    "název" : {
+      "cs" : "Republika Malawi",
+      "en" : "Malawi"
+    },
+    "zkr-název" : {
+      "cs" : "Malawi"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MWI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/458",
+    "kód" : "458",
+    "název" : {
+      "cs" : "Malajsie",
+      "en" : "Malaysia"
+    },
+    "zkr-název" : {
+      "cs" : "Malajsie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MYS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/462",
+    "kód" : "462",
+    "název" : {
+      "cs" : "Maledivská republika",
+      "en" : "Maldives"
+    },
+    "zkr-název" : {
+      "cs" : "Maledivy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MDV"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/466",
+    "kód" : "466",
+    "název" : {
+      "cs" : "Republika Mali",
+      "en" : "Mali"
+    },
+    "zkr-název" : {
+      "cs" : "Mali"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MLI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/470",
+    "kód" : "470",
+    "název" : {
+      "cs" : "Maltská republika",
+      "en" : "Malta"
+    },
+    "zkr-název" : {
+      "cs" : "Malta"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MLT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/474",
+    "kód" : "474",
+    "název" : {
+      "cs" : "Martinik",
+      "en" : "Martinique"
+    },
+    "zkr-název" : {
+      "cs" : "Martinik"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MTQ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/478",
+    "kód" : "478",
+    "název" : {
+      "cs" : "Mauritánská islámská republika",
+      "en" : "Mauritania"
+    },
+    "zkr-název" : {
+      "cs" : "Mauritánie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MRT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/480",
+    "kód" : "480",
+    "název" : {
+      "cs" : "Mauricijská republika",
+      "en" : "Mauritius"
+    },
+    "zkr-název" : {
+      "cs" : "Mauricius"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MUS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/484",
+    "kód" : "484",
+    "název" : {
+      "cs" : "Spojené státy mexické",
+      "en" : "Mexico"
+    },
+    "zkr-název" : {
+      "cs" : "Mexiko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MEX"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/488",
+    "kód" : "488",
+    "název" : {
+      "cs" : "Ostrovy Midway",
+      "en" : "Midway Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Ostrovy Midway"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MID"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/492",
+    "kód" : "492",
+    "název" : {
+      "cs" : "Monacké knížectví",
+      "en" : "Monaco"
+    },
+    "zkr-název" : {
+      "cs" : "Monako"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MCO"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/496",
+    "kód" : "496",
+    "název" : {
+      "cs" : "Mongolsko",
+      "en" : "Mongolia"
+    },
+    "zkr-název" : {
+      "cs" : "Mongolsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MNG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/498",
+    "kód" : "498",
+    "název" : {
+      "cs" : "Moldavská republika",
+      "en" : "Moldova, Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Moldavsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MDA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/499",
+    "kód" : "499",
+    "název" : {
+      "cs" : "Černá Hora",
+      "en" : "Montenegro"
+    },
+    "zkr-název" : {
+      "cs" : "Černá Hora"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MNE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/500",
+    "kód" : "500",
+    "název" : {
+      "cs" : "Montserrat",
+      "en" : "Montserrat"
+    },
+    "zkr-název" : {
+      "cs" : "Montserrat"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MSR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/504",
+    "kód" : "504",
+    "název" : {
+      "cs" : "Marocké království",
+      "en" : "Morocco"
+    },
+    "zkr-název" : {
+      "cs" : "Maroko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MAR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/508",
+    "kód" : "508",
+    "název" : {
+      "cs" : "Mosambická republika",
+      "en" : "Mozambique"
+    },
+    "zkr-název" : {
+      "cs" : "Mosambik"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MOZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/512",
+    "kód" : "512",
+    "název" : {
+      "cs" : "Sultanát Omán",
+      "en" : "Oman"
+    },
+    "zkr-název" : {
+      "cs" : "Omán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/OMN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/516",
+    "kód" : "516",
+    "název" : {
+      "cs" : "Namibijská republika",
+      "en" : "Namibia"
+    },
+    "zkr-název" : {
+      "cs" : "Namibie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NAM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/520",
+    "kód" : "520",
+    "název" : {
+      "cs" : "Republika Nauru",
+      "en" : "Nauru"
+    },
+    "zkr-název" : {
+      "cs" : "Nauru"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NRU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/524",
+    "kód" : "524",
+    "název" : {
+      "cs" : "Nepálská federativní demokratická republika",
+      "en" : "Nepal"
+    },
+    "zkr-název" : {
+      "cs" : "Nepál"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NPL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/528",
+    "kód" : "528",
+    "název" : {
+      "cs" : "Nizozemské království",
+      "en" : "Netherlands"
+    },
+    "zkr-název" : {
+      "cs" : "Nizozemsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NLD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/530",
+    "kód" : "530",
+    "název" : {
+      "cs" : "Nizozemské Antily",
+      "en" : "Netherlands Antilles (after Aruba split away in 1986)"
+    },
+    "zkr-název" : {
+      "cs" : "Nizozemské Antily"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ANT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/531",
+    "kód" : "531",
+    "název" : {
+      "cs" : "Curacao",
+      "en" : "Curaçao"
+    },
+    "zkr-název" : {
+      "cs" : "Curacao"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/CUW"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/532",
+    "kód" : "532",
+    "název" : {
+      "cs" : "Nizozemské Antily (před oddělením Aruby v roce 1986)",
+      "en" : "Netherlands Antilles (before Aruba split away in 1986)"
+    },
+    "zkr-název" : {
+      "cs" : "Nizozemské Antily (před oddělením Aruby v roce 1986)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ANT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/533",
+    "kód" : "533",
+    "název" : {
+      "cs" : "Aruba",
+      "en" : "Aruba"
+    },
+    "zkr-název" : {
+      "cs" : "Aruba"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ABW"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/534",
+    "kód" : "534",
+    "název" : {
+      "cs" : "Svatý Martin (nizozemská část)",
+      "en" : "Sint Maarten (Dutch part)"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Martin (nizozemská část)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SXM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/536",
+    "kód" : "536",
+    "název" : {
+      "cs" : "Neutrální zóna",
+      "en" : "Neutral Zone"
+    },
+    "zkr-název" : {
+      "cs" : "Neutrální zóna"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NTZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/540",
+    "kód" : "540",
+    "název" : {
+      "cs" : "Nová Kaledonie",
+      "en" : "New Caledonia"
+    },
+    "zkr-název" : {
+      "cs" : "Nová Kaledonie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NCL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/548",
+    "kód" : "548",
+    "název" : {
+      "cs" : "Republika Vanuatu",
+      "en" : "Vanuatu"
+    },
+    "zkr-název" : {
+      "cs" : "Vanuatu"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VUT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/554",
+    "kód" : "554",
+    "název" : {
+      "cs" : "Nový Zéland",
+      "en" : "New Zealand"
+    },
+    "zkr-název" : {
+      "cs" : "Nový Zéland"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NZL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/558",
+    "kód" : "558",
+    "název" : {
+      "cs" : "Nikaragujská republika",
+      "en" : "Nicaragua"
+    },
+    "zkr-název" : {
+      "cs" : "Nikaragua"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NIC"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/562",
+    "kód" : "562",
+    "název" : {
+      "cs" : "Nigerská republika",
+      "en" : "Niger"
+    },
+    "zkr-název" : {
+      "cs" : "Niger"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NER"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/566",
+    "kód" : "566",
+    "název" : {
+      "cs" : "Nigerijská federativní republika",
+      "en" : "Nigeria"
+    },
+    "zkr-název" : {
+      "cs" : "Nigérie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NGA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/570",
+    "kód" : "570",
+    "název" : {
+      "cs" : "Republika Niue",
+      "en" : "Niue"
+    },
+    "zkr-název" : {
+      "cs" : "Niue"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NIU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/574",
+    "kód" : "574",
+    "název" : {
+      "cs" : "Ostrov Norfolk",
+      "en" : "Norfolk Island"
+    },
+    "zkr-název" : {
+      "cs" : "Ostrov Norfolk"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NFK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/578",
+    "kód" : "578",
+    "název" : {
+      "cs" : "Norské království",
+      "en" : "Norway"
+    },
+    "zkr-název" : {
+      "cs" : "Norsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/NOR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/580",
+    "kód" : "580",
+    "název" : {
+      "cs" : "Společenství Ostrovy Severní Mariany",
+      "en" : "Northern Mariana Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Ostrovy Severní Mariany"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MNP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/582",
+    "kód" : "582",
+    "název" : {
+      "cs" : "Pacific Islands, Trust Territory of the",
+      "en" : "Pacific Islands, Trust Territory of the"
+    },
+    "zkr-název" : {
+      "cs" : "Pacific Islands, Trust Territory of the"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PCI"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/583",
+    "kód" : "583",
+    "název" : {
+      "cs" : "Federativní státy Mikronésie",
+      "en" : "Micronesia, Federated States of"
+    },
+    "zkr-název" : {
+      "cs" : "Mikronésie, federativní státy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/FSM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/584",
+    "kód" : "584",
+    "název" : {
+      "cs" : "Republika Marshallovy ostrovy",
+      "en" : "Marshall Islands"
+    },
+    "zkr-název" : {
+      "cs" : "Marshallovy ostrovy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MHL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/585",
+    "kód" : "585",
+    "název" : {
+      "cs" : "Republika Palau",
+      "en" : "Palau"
+    },
+    "zkr-název" : {
+      "cs" : "Palau"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PLW"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/586",
+    "kód" : "586",
+    "název" : {
+      "cs" : "Pákistánská islámská republika",
+      "en" : "Pakistan"
+    },
+    "zkr-název" : {
+      "cs" : "Pákistán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PAK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/591",
+    "kód" : "591",
+    "název" : {
+      "cs" : "Panamská republika",
+      "en" : "Panama"
+    },
+    "zkr-název" : {
+      "cs" : "Panama"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PAN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/598",
+    "kód" : "598",
+    "název" : {
+      "cs" : "Papua Nová Guinea",
+      "en" : "Papua New Guinea"
+    },
+    "zkr-název" : {
+      "cs" : "Papua Nová Guinea"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PNG"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/600",
+    "kód" : "600",
+    "název" : {
+      "cs" : "Paraguayská republika",
+      "en" : "Paraguay"
+    },
+    "zkr-název" : {
+      "cs" : "Paraguay"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PRY"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/604",
+    "kód" : "604",
+    "název" : {
+      "cs" : "Peruánská republika",
+      "en" : "Peru"
+    },
+    "zkr-název" : {
+      "cs" : "Peru"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PER"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/608",
+    "kód" : "608",
+    "název" : {
+      "cs" : "Filipínská republika",
+      "en" : "Philippines"
+    },
+    "zkr-název" : {
+      "cs" : "Filipíny"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PHL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/612",
+    "kód" : "612",
+    "název" : {
+      "cs" : "Pitcairn",
+      "en" : "Pitcairn"
+    },
+    "zkr-název" : {
+      "cs" : "Pitcairn"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PCN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/616",
+    "kód" : "616",
+    "název" : {
+      "cs" : "Polská republika",
+      "en" : "Poland"
+    },
+    "zkr-název" : {
+      "cs" : "Polsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/POL"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/620",
+    "kód" : "620",
+    "název" : {
+      "cs" : "Portugalská republika",
+      "en" : "Portugal"
+    },
+    "zkr-název" : {
+      "cs" : "Portugalsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PRT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/624",
+    "kód" : "624",
+    "název" : {
+      "cs" : "Republika Guinea-Bissau",
+      "en" : "Guinea-Bissau"
+    },
+    "zkr-název" : {
+      "cs" : "Guinea-Bissau"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/GNB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/626",
+    "kód" : "626",
+    "název" : {
+      "cs" : "Demokratická republika Východní Timor",
+      "en" : "Timor-Leste"
+    },
+    "zkr-název" : {
+      "cs" : "Východní Timor"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/TLS"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/634",
+    "kód" : "634",
+    "název" : {
+      "cs" : "Stát Katar",
+      "en" : "Qatar"
+    },
+    "zkr-název" : {
+      "cs" : "Katar"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/QAT"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/638",
+    "kód" : "638",
+    "název" : {
+      "cs" : "Réunion",
+      "en" : "Réunion"
+    },
+    "zkr-název" : {
+      "cs" : "Réunion"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/REU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/642",
+    "kód" : "642",
+    "název" : {
+      "cs" : "Rumunsko",
+      "en" : "Romania"
+    },
+    "zkr-název" : {
+      "cs" : "Rumunsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ROU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/646",
+    "kód" : "646",
+    "název" : {
+      "cs" : "Republika Rwanda",
+      "en" : "Rwanda"
+    },
+    "zkr-název" : {
+      "cs" : "Rwanda"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/RWA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/652",
+    "kód" : "652",
+    "název" : {
+      "cs" : "Saint Barthélemy",
+      "en" : "Saint Barthélemy"
+    },
+    "zkr-název" : {
+      "cs" : "Saint Barthélemy"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/BLM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/658",
+    "kód" : "658",
+    "název" : {
+      "cs" : "Svatý Kryštof a Nevis",
+      "en" : "Saint Kitts-Nevis-Anguilla"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Kryštof a Nevis"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KNA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/659",
+    "kód" : "659",
+    "název" : {
+      "cs" : "Svatý Kryštof a Nevis",
+      "en" : "Saint Kitts and Nevis"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Kryštof a Nevis"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/KNA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/660",
+    "kód" : "660",
+    "název" : {
+      "cs" : "Anguilla",
+      "en" : "Anguilla"
+    },
+    "zkr-název" : {
+      "cs" : "Anguilla"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/AIA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/662",
+    "kód" : "662",
+    "název" : {
+      "cs" : "Svatá Lucie",
+      "en" : "Saint Lucia"
+    },
+    "zkr-název" : {
+      "cs" : "Svatá Lucie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/LCA"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/663",
+    "kód" : "663",
+    "název" : {
+      "cs" : "Svatý Martin (francouzská část)",
+      "en" : "Saint Martin"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Martin (francouzská část)"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/MAF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/666",
+    "kód" : "666",
+    "název" : {
+      "cs" : "Saint Pierre a Miquelon",
+      "en" : "Saint Pierre and Miquelon"
+    },
+    "zkr-název" : {
+      "cs" : "Saint Pierre a Miquelon"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SPM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/674",
+    "kód" : "674",
+    "název" : {
+      "cs" : "Republika San Marino",
+      "en" : "San Marino"
+    },
+    "zkr-název" : {
+      "cs" : "San Marino"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SMR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/678",
+    "kód" : "678",
+    "název" : {
+      "cs" : "Demokratická republika Svatý Tomáš a Princův ostrov",
+      "en" : "Sao Tome and Principe"
+    },
+    "zkr-název" : {
+      "cs" : "Svatý Tomáš a Princův ostrov"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/STP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/682",
+    "kód" : "682",
+    "název" : {
+      "cs" : "Království Saúdská Arábie",
+      "en" : "Saudi Arabia"
+    },
+    "zkr-název" : {
+      "cs" : "Saúdská Arábie"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SAU"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/686",
+    "kód" : "686",
+    "název" : {
+      "cs" : "Senegalská republika",
+      "en" : "Senegal"
+    },
+    "zkr-název" : {
+      "cs" : "Senegal"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SEN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/688",
+    "kód" : "688",
+    "název" : {
+      "cs" : "Republika Srbsko",
+      "en" : "Serbia"
+    },
+    "zkr-název" : {
+      "cs" : "Srbsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SRB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/690",
+    "kód" : "690",
+    "název" : {
+      "cs" : "Seychelská republika",
+      "en" : "Seychelles"
+    },
+    "zkr-název" : {
+      "cs" : "Seychely"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SYC"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/698",
+    "kód" : "698",
+    "název" : {
+      "cs" : "Sikkim",
+      "en" : "Sikkim"
+    },
+    "zkr-název" : {
+      "cs" : "Sikkim"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SKM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/702",
+    "kód" : "702",
+    "název" : {
+      "cs" : "Singapurská republika",
+      "en" : "Singapore"
+    },
+    "zkr-název" : {
+      "cs" : "Singapur"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SGP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/703",
+    "kód" : "703",
+    "název" : {
+      "cs" : "Slovenská republika",
+      "en" : "Slovakia"
+    },
+    "zkr-název" : {
+      "cs" : "Slovensko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SVK"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/704",
+    "kód" : "704",
+    "název" : {
+      "cs" : "Vietnamská socialistická republika",
+      "en" : "Viet Nam"
+    },
+    "zkr-název" : {
+      "cs" : "Vietnam"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VNM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/706",
+    "kód" : "706",
+    "název" : {
+      "cs" : "Somálská republika",
+      "en" : "Somalia"
+    },
+    "zkr-název" : {
+      "cs" : "Somálsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SOM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/710",
+    "kód" : "710",
+    "název" : {
+      "cs" : "Jihoafrická republika",
+      "en" : "South Africa"
+    },
+    "zkr-název" : {
+      "cs" : "Jižní Afrika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ZAF"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/714",
+    "kód" : "714",
+    "název" : {
+      "cs" : "Vietnamská republika",
+      "en" : "Viet-Nam, Republic of"
+    },
+    "zkr-název" : {
+      "cs" : "Vietnamská republika"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/VDR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/716",
+    "kód" : "716",
+    "název" : {
+      "cs" : "Republika Zimbabwe",
+      "en" : "Zimbabwe"
+    },
+    "zkr-název" : {
+      "cs" : "Zimbabwe"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ZWE"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/724",
+    "kód" : "724",
+    "název" : {
+      "cs" : "Španělské království",
+      "en" : "Spain"
+    },
+    "zkr-název" : {
+      "cs" : "Španělsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ESP"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/732",
+    "kód" : "732",
+    "název" : {
+      "cs" : "Západní Sahara",
+      "en" : "Western Sahara"
+    },
+    "zkr-název" : {
+      "cs" : "Západní Sahara"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ESH"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/736",
+    "kód" : "736",
+    "název" : {
+      "cs" : "Súdánská republika",
+      "en" : "Sudan"
+    },
+    "zkr-název" : {
+      "cs" : "Súdán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SDN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/80",
+    "kód" : "80",
+    "název" : {
+      "cs" : "Britské antarktické teritorium",
+      "en" : "British Antarctic Territory"
+    },
+    "zkr-název" : {
+      "cs" : "Britské antarktické teritorium"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/ATB"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/594",
+    "kód" : "594",
+    "název" : {
+      "cs" : "Panamské průplavové pásmo",
+      "en" : "Panama Canal Zone"
+    },
+    "zkr-název" : {
+      "cs" : "Panamské průplavové pásmo"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/PCZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/729",
+    "kód" : "729",
+    "název" : {
+      "cs" : "Súdánská republika",
+      "en" : "Sudan"
+    },
+    "zkr-název" : {
+      "cs" : "Súdán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SDN"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/728",
+    "kód" : "728",
+    "název" : {
+      "cs" : "Jižní Súdán",
+      "en" : "South Sudan"
+    },
+    "zkr-název" : {
+      "cs" : "Jižní Súdán"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SSD"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/740",
+    "kód" : "740",
+    "název" : {
+      "cs" : "Surinamská republika",
+      "en" : "Suriname"
+    },
+    "zkr-název" : {
+      "cs" : "Surinam"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SUR"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/744",
+    "kód" : "744",
+    "název" : {
+      "cs" : "Svalbard a Jan Mayen",
+      "en" : "Svalbard and Jan Mayen"
+    },
+    "zkr-název" : {
+      "cs" : "Svalbard a Jan Mayen"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SJM"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/748",
+    "kód" : "748",
+    "název" : {
+      "cs" : "Svazijské království",
+      "en" : "Swaziland"
+    },
+    "zkr-název" : {
+      "cs" : "Svazijsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SWZ"
+  }, {
+    "type" : [ "stát", "položka" ],
+    "id" : "stát/752",
+    "kód" : "752",
+    "název" : {
+      "cs" : "Švédské království",
+      "en" : "Sweden"
+    },
+    "zkr-název" : {
+      "cs" : "Švédsko"
+    },
+    "ekvivalent" : "http://publications.europa.eu/resource/authority/country/SWE"
+  } ]
+}
