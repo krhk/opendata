@@ -10,15 +10,21 @@ Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentujíc
 
 Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP). 
 
-> Nenašel jsem lepší způsob, než stáhnout číselník [Orgánů veřejné moci (OVM)](https://data.gov.cz/zdroj/datov%C3%A9-sady/MV/706529437/44a9d6abacd4d0e83a0694e74d028f51) (CSV 33 MB), v něm najít ID kraje a to dosadit do IRI z [příkladu](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#example-3-vzorovy-soubor-katalogu-se-tremi-datovymi-sadami-ve-formatu-json-ld). Výsledkem je IRI poskytovatele `https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546` vedoucí na LodView (pozn. Proč? Nemělo by to vést přímo na API číselníku?).
+Nenašel jsem lepší způsob, než stáhnout číselník [Orgánů veřejné moci (OVM)](https://data.gov.cz/zdroj/datov%C3%A9-sady/MV/706529437/44a9d6abacd4d0e83a0694e74d028f51) (CSV 33 MB), v něm najít ID kraje a to dosadit do IRI z [příkladu](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#example-3-vzorovy-soubor-katalogu-se-tremi-datovymi-sadami-ve-formatu-json-ld). Výsledkem je IRI poskytovatele `https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546` vedoucí na LodView.
 
-> Pro znalé SPARQL lze vylistovat všechny orgány veřejné moci (jejich jména a IRI) pomocí:
-    ```
-    select * WHERE {
-      ?x <https://slovník.gov.cz/legislativní/sbírka/111/2009/pojem/má-název-orgánu-veřejné-moci> ?y
-    }
-    ```
-    na endpointu `https://rpp-opendata.egon.gov.cz/odrpp/sparql` (pozn. Proč to nefunguje taky na `data.gov.cz/sparql`?).
+> Proč na LodView? Nemělo by to vést přímo na API číselníku?
+
+Pro znalé SPARQL lze vylistovat všechny orgány veřejné moci (jejich jména a IRI) pomocí:
+
+  ```
+  select * WHERE {
+    ?x <https://slovník.gov.cz/legislativní/sbírka/111/2009/pojem/má-název-orgánu-veřejné-moci> ?y
+  }
+  ```
+
+na endpointu `https://rpp-opendata.egon.gov.cz/odrpp/sparql`.
+
+> Proč to nefunguje taky na `data.gov.cz/sparql`?
 
 Výsledný soubor vypadá takto (bez lokalizovaných popisků):
 
