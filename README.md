@@ -1,35 +1,16 @@
 # Vyvtáření LKOD pro KHK
 
-Tento dokument popisuje proces vytváření lokálního katalogu otevřených dat (LKOD) dle [posledních specifikací](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#dcat-ap-dokumenty-katalog) a to pomocí statických souborů ve formátu [`JSON-LD`](https://ofn.gov.cz/propojen%C3%A1-data/draft/#serializace-JSON-LD). 
-
+Tento dokument popisuje proces vytváření lokálního katalogu otevřených dat (LKOD) dle [posledních specifikací](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#dcat-ap-dokumenty-katalog) a to pomocí rozhraní [DCAT-AP Dokumenty](https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/#dcat-ap-dokumenty).
 
 
 ## 1. Vytvoření souboru katalogu
 
 Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentující datový katalog samotný a výčet jeho datových sad. Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP). 
 
-Nenašel jsem lepší způsob, než stáhnout číselník [Orgánů veřejné moci (OVM)](https://data.gov.cz/zdroj/datov%C3%A9-sady/MV/706529437/44a9d6abacd4d0e83a0694e74d028f51) (CSV 33 MB), v něm najít ID kraje a to dosadit do IRI z [příkladu](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#example-3-vzorovy-soubor-katalogu-se-tremi-datovymi-sadami-ve-formatu-json-ld). Výsledkem je IRI poskytovatele `https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546` vedoucí na LodView.
-
-> Proč na LodView? Nemělo by to vést přímo na API číselníku?
-
-Pro znalé SPARQL lze vylistovat všechny orgány veřejné moci (jejich jména a IRI) pomocí:
-
-  ```
-  select * WHERE {
-    ?x <https://slovník.gov.cz/legislativní/sbírka/111/2009/pojem/má-název-orgánu-veřejné-moci> ?y
-  }
-  ```
-
-na endpointu `https://rpp-opendata.egon.gov.cz/odrpp/sparql`.
-
-> Proč to nefunguje taky na `data.gov.cz/sparql`?
-
-Výsledný soubor vypadá takto (bez lokalizovaných popisků):
-
 ```json
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://data.kr-kralovehradecky.cz/katalog",
+    "iri": "https://open.datakhk.cz/katalog.jsonld",
     "typ": "Katalog",
     "název": {
         "cs": "Katalog otevřených dat Královéhradeckého kraje"
@@ -38,13 +19,51 @@ Výsledný soubor vypadá takto (bez lokalizovaných popisků):
         "cs": "Otevřená data Kralovéhradeckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení."
     },
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-    "datová_sada": []
+    "datová_sada": [
+        "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/"    
+    ]
 }
 ```
 
-Atribut `datová_sada` nyní obsahuje prázdný seznam datových sad (jejich IRI), takže rovnou jednu vytvoříme.
+Atribut `datová_sada` obsahuje pouze jednu sadu. Proces vytváření této sady je popsán níže v kapitole 2. 
 
+### 1.1. Registrace katalogu do NKOD
 
+Vyplníme formulář na https://data.gov.cz/formul%C3%A1%C5%99/registrace-lok%C3%A1ln%C3%ADho-katalogu a dostaneme následující soubor.
+
+```json
+{
+  "@type": [
+    "http://www.w3.org/ns/dcat#Catalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "http://www.w3.org/ns/dcat#endpointURL": {
+    "@value": "https://open.datakhk.cz/katalog.jsonld",
+    "@type": "http://www.w3.org/2001/XMLSchema#anyURI"
+  },
+  "http://purl.org/dc/terms/title": {
+    "@language": "cs",
+    "@value": "Katalog otevřených dat Královéhradeckého kraje"
+  },
+  "http://www.w3.org/ns/dcat#contactPoint": {
+    "@type": [
+      "http://www.w3.org/2006/vcard/ns#Organization"
+    ],
+    "http://www.w3.org/2006/vcard/ns#fn": {
+      "@language": "cs",
+      "@value": "Milan Šulc"
+    },
+    "http://www.w3.org/2006/vcard/ns#hasEmail": "spravce@datakhk.cz"
+  },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://open.datakhk.cz/"
+  }
+}
+```
+
+Ten je potřeba zaslat na datovou schránku dle instrukcí.
+
+> Registrační záznam katalogu stáhněte a zašlete jej jako jedinou přílohu datové zprávy s příponou ".txt" a předmětem "NKOD" do datové schránky m3hp53v.
 
 
 ## 2. Vytvoření souboru datové sady
@@ -64,7 +83,7 @@ POINT (16.0633678107035 50.1400207746239),5,61,1,1,6101,Albrechtice n.Orl.-pošt
 
 ### 2.1. Analýza dat
 
-Data jsou čistá. Problém je pouze s kódováním, které není UTF-8 ale CP-1250. Toto bude nutné zohlednit při konverzi souboru z CSV do JSON-LD. Náselduje analýza jednotlivých sloupců.
+Data jsou čistá. Problém je pouze s kódováním, které není UTF-8 ale CP-1250. Náselduje analýza jednotlivých sloupců.
 
 **WKT - formát zápisu vektorové geometrie**
 
@@ -80,7 +99,7 @@ Jedná se o umělý unikátní číselný identifikátor označníku zastávky.
 
 **OZNACNIK1, OZNACNIK2 - číslo označníku (2místné číslo)**
 
-Dva číselné sloupce, které pomáhají identifikovat označník v rámci dané zastávky.
+Dva číselné sloupce, které pomáhají identifikovat označník v rámci dané zastávky. Hodnota sloupce OZNACNIK1 je v několika málo případech prázdná.
 
 **CRZ_OZNACN - jedinečný identifikátor označníku skládající se z kombinace CRZ + OZNACNIK2, poslední dvojčíslí vždy značí číslo označníku příslušející k dané zastávce**
 
@@ -90,84 +109,12 @@ Unikátní číselný identikátor označníku, nyní dle CRZ.
 
 Lidsky čitelný název zastávky. Označníky každé zastávky nesou typicky stejný název.
 
-### 2.2. Mapování dat
+### 2.2. Vytvoření CSVW schema
 
-Nyní je potřeba vyřešit obohacení surových dat o metadata. Mezi [existujícimi OFN](https://opendata.gov.cz/otev%C5%99en%C3%A9-form%C3%A1ln%C3%AD-normy:start#ofn_pro_konkr%C3%A9tn%C3%AD_datov%C3%A9_sady) jsem nenašel vhodnou sadu, bude tedy potřeba definovat nový model. Použiju však některé existujicí specifikace pro [sdílené datové typy](https://opendata.gov.cz/otev%C5%99en%C3%A9-form%C3%A1ln%C3%AD-normy:start#specifikace_pro_nej%C4%8Dast%C4%9Bji_se_vyskytuj%C3%ADc%C3%AD_%C4%8D%C3%A1sti_dat), konkrétně `Umístění`. Zbylé atributy budou modelovány pomocí specifikace [Základních datových typů](https://ofn.gov.cz/základní-datové-typy/draft/).
- 
-**Kontejner pro zastávky**
+Dle doporučení vytvoříme [CSVW schema](https://www.w3.org/TR/tabular-data-primer/). Výsledkem je soubor [atobusové-zastávky-iredo.csv-metadata.json](src/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv-metadata.json)
 
-Nejprve je potřeba definovat uzel seznamu zastávek. Existující dokumenty NKOD k tomu běžně používají uzel `položky` typu `@graph`.
+### 2.3. Vytvoření souboru s metadaty datové sady v JSON-LD
 
-**Uzel zastávka**
+TODO
 
-Přimo zástávku jsem nenašel mezi [dostupnými OFN](https://opendata.gov.cz/otev%C5%99en%C3%A9-form%C3%A1ln%C3%AD-normy:start#ofn_pro_konkr%C3%A9tn%C3%AD_datov%C3%A9_sady) ani ve [slovníku pojmů](https://slovnik.gov.cz/prohlížeč). Slovník Schema.org sice definuje pojem `https://schema.org/BusStop`, jeho atributy ale nejsou kompatibilní s doporučeními OFN. Z těch obecných zastávku nejlépe popisuje `Umístění`. Založím tedy nový uzel `zastávka` typu `https://ofn.gov.cz/umístění/`.
 
-> Je zde potřeba definovat nový typ pod vlastním slovníkem - např. `https://data.kr-kralovehradecky.cz/zastávka/`?
-
-**ID zastávky**
-
-Jednoznačný identifikátor ve světě otevřených dat je IRI. Použiju tedy vlastnost `@id` a její hodnotu vytvořím pomocí kombinace namespace `https://data.kr-kralovehradecky.cz/zastávka/` a hodnoty ve sloupci `OBJECTID`. Např. `"@id": "https://data.kr-kralovehradecky.cz/zastávka/123"`.
-
-> Je potřeba implementovat dereferencování této IRI?  
-
-**WKT**
-
-Sloupec WKT definuji jako bod `geometrie` (vlastnost `Umístění`) se souřadnicemi. Např. `"geometrie": { "type": "Point", "coordinates": [16.0615506894965, 50.1443117185118] }`.
-
->  Lze specifikovat souř. systém v JSON-LD?
-
-**OBJECTID, CRZ, OZNACNIK1, OZNACNIK2 a CRZ_OZNACN**
-
-Použiju typ `xsd:integer` z jazyka XML Schema. Např. `"crz": 123`.
-
-**TARIF_NAZE**
-
-Pro název zastávky použiju vlastnost `název` z třídy `Umístění`. Podpora lokalizace zde asi nemá smysl. Např. `"název": "Albrechtice n.Orl.-nákupní středisko"`. 
-
-Výsledný JSON-LD soubor vypadá takto (pro 1 zastávku):
-
-```json
-{
-  "@context": {
-    "@base": "https://data.kr-kralovehradecky.cz/",
-    "type": "@type",
-    "id": "@id",
-    "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "geojson": "https://purl.org/geojson/vocab#",
-    "položky": "@graph",
-    "zastávka": "https://ofn.gov.cz/umístění/",
-    "geometrie": "geojson:geometry",
-    "objectId": "xsd:integer",
-    "crz": "xsd:integer",
-    "oznacnik1": "xsd:integer",
-    "oznacnik2": "xsd:integer",
-    "crzOznacnik": "xsd:integer"
-  },
-  "položky": [
-    {
-      "type": "zastávka",
-      "id": "zastávka/1",
-      "geometrie": { "geojson:type": "Point", "geojson:coordinates": [16.0615506894965, 50.1443117185118] },
-      "objectId": 1,
-      "crz": 59,
-      "oznacnik1": 1,
-      "oznacnik2": 1,
-      "crzOznacnik": 5901,
-      "název": "Albrechtice n.Orl.-nákupní středisko"
-    },
-    {
-      "type": "zastávka",
-      "id": "zastávka/2",
-      "geometrie": { "geojson:type": "Point", "geojson:coordinates": [16.0618313476414, 50.1442223310093] },
-      "objectId": 2,
-      "crz": 59,
-      "oznacnik1": 2,
-      "oznacnik2": 2,
-      "crzOznacnik": 5902,
-      "název": "Albrechtice n.Orl.-nákupní středisko"
-    }
-  ]
-}
-```
-
-Pro úplnost dodávám, že jsem zvolil (zatím neexistující) namespace `https://data.kr-kralovehradecky.cz/` a ačkoliv to není potřeba, držel jsem se stejného formátu jako v publikacích MVCR a definoval jsem aliasy pro `@type` a `@id`.    

@@ -1,0 +1,79 @@
+{
+  "@type": [
+    "http://www.w3.org/ns/dcat#Dataset",
+    "https://data.gov.cz/slovník/nkod/typ-datové-sady-dle-zdroje/Formulář"
+  ],
+  "http://purl.org/dc/terms/title": {
+    "@language": "cs",
+    "@value": "Autobusové zastávky IREDO"
+  },
+  "http://purl.org/dc/terms/description": {
+    "@language": "cs",
+    "@value": "Seznam zastávek, které jsou v systému autobusové dopravy Královéhradeckého kraje. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje."
+  },
+  "http://www.w3.org/ns/dcat#keyword": [
+    {
+      "@language": "cs",
+      "@value": "zastávka"
+    },
+    {
+      "@language": "cs",
+      "@value": "IREDO"
+    },
+    {
+      "@language": "cs",
+      "@value": "autobus"
+    }
+  ],
+  "http://www.w3.org/ns/dcat#distribution": [
+    {
+      "@type": [
+        "http://www.w3.org/ns/dcat#Distribution"
+      ],
+      "http://www.w3.org/ns/dcat#downloadURL": {
+        "@id": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv"
+      },
+      "http://www.w3.org/ns/dcat#mediaType": {
+        "@id": "http://www.iana.org/assignments/media-types/text/csv"
+      },
+      "http://purl.org/dc/terms/format": {
+        "@id": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "https://data.gov.cz/slovník/podmínky-užití/specifikace": {
+        "@type": "https://data.gov.cz/slovník/podmínky-užití/Specifikace",
+        "https://data.gov.cz/slovník/podmínky-užití/autorské-dílo": {
+          "@id": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/"
+        },
+        "https://data.gov.cz/slovník/podmínky-užití/databáze-jako-autorské-dílo": {
+          "@id": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/"
+        },
+        "https://data.gov.cz/slovník/podmínky-užití/databáze-chráněná-zvláštními-právy": {
+          "@id": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/"
+        },
+        "https://data.gov.cz/slovník/podmínky-užití/osobní-údaje": {
+          "@id": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        }
+      },
+      "http://purl.org/dc/terms/conformsTo": {
+        "@id": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv-metadata.json"
+      }
+    }
+  ],
+  "http://purl.org/dc/terms/accrualPeriodicity": {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  "http://purl.org/dc/terms/spatial": {
+    "@id": "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  },
+  "http://www.w3.org/ns/dcat#theme": [
+    {
+      "@id": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+    },
+    {
+      "@id": "http://eurovoc.europa.eu/100154"
+    },
+    {
+      "@id": "http://eurovoc.europa.eu/4197"
+    }
+  ]
+}

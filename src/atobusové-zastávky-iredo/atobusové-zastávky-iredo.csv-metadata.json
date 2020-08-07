@@ -1,0 +1,68 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "atobusové-zastávky-iredo.csv",
+  "dc:title": "Seznam autobusových zastávek IREDO v kraji",
+  "dc:description": "Seznam zastávek, které jsou v systému autobusové dopravy Královéhradeckého kraje. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje.",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "WKT",
+        "dc:title": "Geosouřadnice zastávky",
+        "dc:description": "Souřadnice ve formátu zápisu vektorové geometrie OGC WKT (souřadnice v systému WGS84).",
+        "datatype": {
+          "base": "string",
+          "format": "POINT \\(\\d+(\\.\\d+)? \\d+(\\.\\d+)?\\)",
+          "rdfs:seeAlso": "http://www.opengeospatial.org/standards/sfa"
+        },
+        "required": true
+      },
+      {
+        "titles": "OBJECTID",
+        "dc:title": "Identifikátor záznamu",
+        "dc:description": "Unikátní číselný identifikátor označníku zastávky.",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "CRZ",
+        "dc:title": "Číslo centrálního registru zastá@vek",
+        "dc:description": "Číselný identifikátor zastávky dle centrálního registru zastávek bez rozlišení směru (označníku).",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "OZNACNIK1",
+        "dc:title": "1. číslo označníku",
+        "dc:description": "Číslo označníku v rámci zastávky (první číslice).",
+        "datatype": "byte",
+        "required": true
+      },
+      {
+        "titles": "OZNACNIK2",
+        "dc:title": "2. číslo označníku",
+        "dc:description": "Číslo označníku v rámci zastávky (druhá číslice).",
+        "datatype": "byte"
+      },
+      {
+        "titles": "CRZ_OZNACN",
+        "dc:title": "Jedinečný identifikátor označníku",
+        "dc:description": "Unikátní číselný identikátor označníku, nyní dle CRZ. Skládá se z kombinace CRZ + OZNACNIK2, poslední dvojčíslí vždy značí číslo označníku příslušející k dané zastávce.",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "TARIF_NAZE,C,250",
+        "dc:title": "Tarifní název zastávky",
+        "dc:description": "Lidsky čitelný název zastávky v syntaxi používané systémem IREDO. Označníky každé zastávky nesou typicky stejný název.",
+        "lang": "cs",
+        "datatype": "string",
+        "required": true
+      }
+    ]
+  }
+}
