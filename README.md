@@ -2,10 +2,11 @@
 
 Tento dokument popisuje proces vytváření lokálního katalogu otevřených dat (LKOD) dle [posledních specifikací](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#dcat-ap-dokumenty-katalog) a to pomocí rozhraní [DCAT-AP Dokumenty](https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/#dcat-ap-dokumenty).
 
-
 ## 1. Vytvoření souboru katalogu
 
-Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentující datový katalog samotný a výčet jeho datových sad. Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP). 
+Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentující datový katalog samotný a výčet jeho datových sad. Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP).
+
+Výsledkem je soubor [katalog.jsonld](src/katalog.jsonld):
 
 ```json
 {
@@ -20,16 +21,16 @@ Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentujíc
     },
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
     "datová_sada": [
-        "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/"    
+        "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/"    
     ]
 }
 ```
 
-Atribut `datová_sada` obsahuje pouze jednu sadu. Proces vytváření této sady je popsán níže v kapitole 2. 
+Atribut `datová_sada` obsahuje pouze jednu sadu. Proces vytváření této sady je popsán níže v kapitole 2.
 
 ### 1.1. Registrace katalogu do NKOD
 
-Vyplníme formulář na https://data.gov.cz/formul%C3%A1%C5%99/registrace-lok%C3%A1ln%C3%ADho-katalogu a dostaneme následující soubor.
+Vyplníme formulář na https://data.gov.cz/formulář/registrace-lokálního-katalogu a dostaneme soubor [nkod-registrace.jsonld.txt](src/nkod-registrace.jsonld.txt).
 
 ```json
 {
@@ -111,10 +112,10 @@ Lidsky čitelný název zastávky. Označníky každé zastávky nesou typicky s
 
 ### 2.2. Vytvoření CSVW schema
 
-Dle doporučení vytvoříme [CSVW schema](https://www.w3.org/TR/tabular-data-primer/). Výsledkem je soubor [atobusové-zastávky-iredo.csv-metadata.json](src/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv-metadata.json)
+Dle doporučení vytvoříme [CSVW schema](https://www.w3.org/TR/tabular-data-primer/), které je popisuje jednotlivé sloupce v CSV. Výsledkem je soubor [autobusové-zastávky-iredo.csv-metadata.json](src/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.csv-metadata.json).
 
 ### 2.3. Vytvoření souboru s metadaty datové sady v JSON-LD
 
-TODO
+Nyní je potřeba popsat datovou sadu metadatovým souborem, kterému bude rozumět NKOD. Použijeme [formulář pro vytvoření datové sady](https://dev.nkod.opendata.cz/formulář/registrace-datové-sady) a na konci soubor stáhneme (dev verze podporuje všechny nezbytné atributy). Na konci zvolíme způsob stažení LKOD a výsledkem je JSON-LD soubor [autobusové-zastávky-iredo.jsonld](src/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.jsonld).
 
-
+> Pozn.: Při deployi bude potřeba zajistit, aby tento soubor byl dostupný na IRI datové sady, tj. https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/
