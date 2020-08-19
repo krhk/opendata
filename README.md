@@ -116,6 +116,4 @@ Dle doporučení vytvoříme [CSVW schema](https://www.w3.org/TR/tabular-data-pr
 
 ### 2.3. Vytvoření souboru s metadaty datové sady v JSON-LD
 
-Nyní je potřeba popsat datovou sadu metadatovým souborem, kterému bude rozumět NKOD. Použijeme [formulář pro vytvoření datové sady](https://dev.nkod.opendata.cz/formulář/registrace-datové-sady) a na konci soubor stáhneme (dev verze podporuje všechny nezbytné atributy). Na konci zvolíme způsob stažení LKOD a výsledkem je JSON-LD soubor [autobusové-zastávky-iredo.jsonld](src/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.jsonld).
-
-> Pozn.: Při deployi bude potřeba zajistit, aby tento soubor byl dostupný na IRI datové sady, tj. https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/
+Nyní je potřeba popsat datovou sadu metadatovým souborem, kterému bude rozumět NKOD. Použijeme [formulář pro vytvoření datové sady](https://dev.nkod.opendata.cz/formulář/registrace-datové-sady) a na konci soubor stáhneme (dev verze podporuje všechny nezbytné atributy). Na konci zvolíme způsob stažení LKOD a výsledkem je JSON-LD soubor [autobusové-zastávky-iredo.jsonld](src/katalog/autobusové-zastávky-iredo/index.jsonld).
