@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/",
+    "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
     "typ": "Datová sada",
     "název": {
         "cs": "Autobusové zastávky IREDO",
@@ -40,12 +40,12 @@
     "distribuce": [
         {
             "typ": "Distribuce",
-            "iri": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo//distribuce/1",
-            "soubor_ke_stažení": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv",
-            "přístupové_url": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv",
+            "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/distribuce/1",
+            "soubor_ke_stažení": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.csv",
+            "přístupové_url": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.csv",
             "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
             "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-            "schéma": "https://open.datakhk.cz/katalog/atobusové-zastávky-iredo/atobusové-zastávky-iredo.csv-metadata.json",
+            "schéma": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/autobusové-zastávky-iredo.csv-metadata.json",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
                 "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
