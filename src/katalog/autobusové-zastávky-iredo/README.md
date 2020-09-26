@@ -10,7 +10,3 @@ Seznam zastávek, které jsou v systému autobusové dopravy Královéhradeckéh
 - OZNACNIK1, OZNACNIK2 - číslo označníku (2-místné číslo)
 - CRZ_OZNACN -jedinečný identifikátor označníku skládající se z kombinace CRZ + OZNACNIK2, poslední dvojčíslí vždy značí číslo označníku příslušející k dané zastávce
 - TARIF_NAZE - tarifní název zastávky v syntaxi používané systémem IREDO
-
-## Poznámky
-
-- Originální CSV je ve složce `input`.
