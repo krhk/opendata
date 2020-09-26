@@ -30,7 +30,7 @@
       },
       {
         "titles": "CRZ",
-        "dc:title": "Číslo centrálního registru zastá@vek",
+        "dc:title": "Číslo centrálního registru zastávek",
         "dc:description": "Číselný identifikátor zastávky dle centrálního registru zastávek bez rozlišení směru (označníku).",
         "datatype": "integer",
         "required": true
@@ -63,6 +63,7 @@
         "datatype": "string",
         "required": true
       }
-    ]
+    ],
+    "primaryKey": "OBJECTID"
   }
 }
