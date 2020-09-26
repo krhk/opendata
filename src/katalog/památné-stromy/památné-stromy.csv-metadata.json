@@ -1,0 +1,89 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "památné-stromy.csv",
+  "dc:title": "Památné stromy",
+  "dc:description": "Seznam památných stromů v Královéhradeckém kraji.",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "kod",
+        "titles": "kód",
+        "dc:title": "Kód",
+        "dc:description": "Unikátní identifikátor objektu (památky).",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "název",
+        "dc:title": "Název",
+        "dc:description": "Lidsky čitelný název objektu (památky).",
+        "lang": "cs",
+        "datatype": "string",
+        "required": true
+      },
+      {
+        "titles": "typ objektu",
+        "dc:title": "Typ",
+        "dc:description": "Typ objektu - zda se jedná o strom nebo skupinu",
+        "datatype": {
+          "base": "string",
+          "format": "Jednotlivý strom|Skupina stromů|Stromořadí"
+        },
+        "required": true
+      },
+      {
+        "titles": "poč. vyhl.",
+        "dc:title": "Počet ke dni vyhlášení",
+        "dc:description": "Počet jedinců ve skupině ke dni vyhlášení (včetně stromů jejichž ochrana již byla zrušena, nebo zaniklé).",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "poč. souč.",
+        "dc:title": "Akuální počet",
+        "dc:description": "Akutální počet jedinců ve skupině.",
+        "datatype": "integer",
+        "required": true
+      },
+      {
+        "titles": "okres",
+        "dc:title": "Okres",
+        "dc:description": "Název okresu, ve kterém se strom nachází.",
+        "datatype": "string",
+        "required": true
+      },
+      {
+        "titles": "dat. vyhl.",
+        "dc:title": "Datum vyhlášení",
+        "dc:description": "Datum vyhlášení památky.",
+        "datatype": {
+          "base": "date",
+          "format": "dd.MM.yyyy"
+        },
+        "required": true
+      },
+      {
+        "titles": "dat. zruš.",
+        "dc:title": "Datum zrušení",
+        "dc:description": "Datum zrušení památky.",
+        "datatype": {
+          "base": "date",
+          "format": "dd.MM.yyyy"
+        }
+      },
+      {
+        "titles": "orgány ochrany přírody",
+        "dc:title": "Orgány ochrany přírody",
+        "dc:description": "Název zodpovědného orgánu ochrany přírody.",
+        "datatype": "string",
+        "required": true
+      }
+    ],
+    "primaryKey": "kod"
+  }
+}

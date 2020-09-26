@@ -10,6 +10,7 @@
     },
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
     "datová_sada": [
-        "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/"
+        "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
+        "https://open.datakhk.cz/katalog/památné-stromy/"
     ]
 }
