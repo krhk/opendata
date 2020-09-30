@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/katalog/památné-stromy",
+  "iri": "https://open.datakhk.cz/katalog/památné-stromy/",
   "typ": "Datová sada",
   "název": {
     "cs": "Památné stromy",
