@@ -48,12 +48,12 @@ Vyplníme formulář na https://data.gov.cz/formulář/registrace-lokálního-ka
     ],
     "http://www.w3.org/2006/vcard/ns#fn": {
       "@language": "cs",
-      "@value": "Milan Šulc"
+      "@value": "Radmila Velnerová"
     },
-    "http://www.w3.org/2006/vcard/ns#hasEmail": "spravce@datakhk.cz"
+    "http://www.w3.org/2006/vcard/ns#hasEmail": "rvelnerova@kr-kralovehradecky.cz"
   },
   "http://xmlns.com/foaf/0.1/homepage": {
-    "@id": "https://open.datakhk.cz/"
+    "@id": "https://datakhk.cz/"
   }
 }
 ```
