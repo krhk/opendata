@@ -67,6 +67,10 @@ function httpGet(url) {
 
         api
             .get(options, res => {
+                if (res.statusCode !== 200) {
+                    reject(`Invalid request to ${url}`);
+                }
+
                 const chunks = [];
                 res.on("data", d => (chunks.push(d)));
                 res.on("end", () => {
