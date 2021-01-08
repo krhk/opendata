@@ -1,0 +1,745 @@
+{
+  "categories": [
+    {
+      "name": "Úřední deska",
+      "sets": [
+        {
+          "name": "Úřední deska Královéhradeckého kraje",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113266",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aktuality",
+      "sets": [
+        {
+          "name": "Aktuality Královéhradeckého kraje",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113267",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/rss/aktuality.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sociální věci",
+      "sets": [
+        {
+          "name": "Katalog sociálních služeb v Královéhradeckém kraji (KISSOS)",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113272",
+          "distributions": [
+            {
+              "type": "XLS",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/soc-veci/Udaje-o-organizacich-a-sluzbach.xls"
+            },
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/soc-veci/Udaje-o-organizacich-a-sluzbach.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kalendář akcí",
+      "sets": [
+        {
+          "name": "Kalendář akcí Královéhradeckého kraje",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113272",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "https://www.hkregion.cz/bs/data_repository/export/events.php?nomenclatures=show"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kontakty",
+      "sets": [
+        {
+          "name": "Telefonní seznam Královéhradeckého kraje",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113430",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/telefonni-seznam.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Investiční příležitosti",
+      "sets": [
+        {
+          "name": "Lokality určené pro investiční příležitosti v Královéhradeckém kraji",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113931",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/investice-wgs84.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrovaný záchranný systém",
+      "sets": [
+        {
+          "name": "Policie",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113940",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/izs/Policie-CR.csv"
+            }
+          ]
+        },
+        {
+          "name": "Stanice a pracoviště HZS",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113940",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/izs/Stanice-a-pracoviste-HZS.csv"
+            }
+          ]
+        },
+        {
+          "name": "Výjezdové základny ZZS",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113940",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/izs/Vyjezdove-zakladny-ZZS.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seznam organizací KHK",
+      "sets": [
+        {
+          "name": "Seznam příspěvkových organizací zřízených Královéhradeckým krajem",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113282",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/po/Seznam-prispevkovych-organizaci-Kralovehradeckeho-kraje.csv"
+            }
+          ]
+        },
+        {
+          "name": "Seznam organizací Královéhradeckého kraje mimo škol a školských zařízení",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113282",
+          "distributions": [
+            {
+              "type": "XLS",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/po/Seznam-organizaci-Kralovehradeckeho-kraje.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zdravotnictví",
+      "sets": [
+        {
+          "name": "Lékařská pohotovostní služba Královéhradeckého kraje - přehled",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113285",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/zdravotnictvi/LPS.csv"
+            }
+          ]
+        },
+        {
+          "name": "Stomatologická lékařská pohotovost",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113285",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/zdravotnictvi/LSSP.csv"
+            }
+          ]
+        },
+        {
+          "name": "Následná péče v Královéhradeckém kraji",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113285",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/zdravotnictvi/Nasledna-pece.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Školství",
+      "sets": [
+        {
+          "name": "Rejstřík škol a školských zařízení KHK",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/skolstvi/Rejstrik-skol-a-skolskych-zarizeni-KHK.csv"
+            }
+          ]
+        },
+        {
+          "name": "Počty žáků v oborech vzdělání krajských SŠ dle formy, druhu, délky ve školním roce",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/skolstvi/Pocty-zaku-v-oborech-vzdelani-krajskych-SS-dle-formy--druhu--delky-studia-ve-skolnim-roce.csv"
+            }
+          ]
+        },
+        {
+          "name": "Seznam všech škol a školských zařízení v Královéhradeckém kraji",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "GEOJSON",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/skolstvi/skoly_KHK.geojson"
+            }
+          ]
+        },
+        {
+          "name": "Přehled oborů středních škol zřizovaných krajem",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/skolstvi/Prehled-oboru-strednich-skol-zrizovanych-krajem.csv"
+            }
+          ]
+        },
+        {
+          "name": "Přehled počtu žáků v oborech a formách studia podle pracovišť středních škol zřizovaných krajem",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/skolstvi/Prehled-poctu-zaku-v-oborech-a-formach-studia-podle-pracovist-strednich-skol-zrizovanych-krajem.csv"
+            }
+          ]
+        },
+        {
+          "name": "Seznam příspěvkových organizací Královéhradeckého kraje - oblast školství",
+          "doc": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=113275",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/skolstvi/Seznam-prispevkovych-organizaci-Kralovehradeckeho-kraje---oblast-skolstvi.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Doprava",
+      "sets": [
+        {
+          "name": "Seznam autobusových zastávek IREDO v kraji",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/doprava/doprava-113947/",
+          "distributions": [
+            {
+              "type": "XLSX",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/doprava/zastavky.xlsx"
+            },
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/doprava/zastavky.csv"
+            }
+          ]
+        },
+        {
+          "name": "Linky a spoje - výpis návaznosti autobusových linek",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/doprava/doprava-113947/",
+          "distributions": [
+            {
+              "type": "XLS",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/Linky-a-spoje---vypis-navaznosti-autobusovych-linek.xls"
+            },
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/Linky-a-spoje---vypis-navaznosti-autobusovych-linek.csv"
+            }
+          ]
+        },
+        {
+          "name": "Čekací doby autobusových linek",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/doprava/doprava-113947/",
+          "distributions": [
+            {
+              "type": "XLS",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/Cekaci-doby-autobusovych-linek.xls"
+            },
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/Cekaci-doby-autobusovych-linek.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Hospodářsky slabé regiony",
+      "sets": [
+        {
+          "name": "Hospodářsky slabé regiony Královéhradeckého kraje",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/hospodarsky-slabe-regiony-kralovehradeckeho-kraje-317385/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Hospodarsky-slabe-regiony-KHK-2019.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Cyklotrasy",
+      "sets": [
+        {
+          "name": "Cyklotrasa Les království – Miletín – Hořice – Ohnišťany",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Cyklotrasa-Les-kralovstvi-_-Miletin-_-Horice-_-Ohnistany---Cyklotrasa-Ohnistany---Novy-Byd.csv"
+            }
+          ]
+        },
+        {
+          "name": "Cyklotrasa Ohnišťany – Nový Bydžov a Chlumec nad Cidlinou – Kladruby nad Labem",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Cyklotrasa-Ohnistany-_-Novy-Bydzov-a-Chlumec-nad-Cidlinou-_-Kladruby-nad-Labem---Cyklotrasa-Ohnistany---Novy-Byd.csv"
+            }
+          ]
+        },
+        {
+          "name": "Cyklotrasa Rychnov – Dobruška – Nové město - Provodov",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Cyklotrasa-Rychnov-_-Dobruska-_-Nove-mesto---Provodov---Cyklotrasa-Solnice---Rozkos.csv"
+            }
+          ]
+        },
+        {
+          "name": "Dálková cyklotrasa č. 2 (Labská stezka)",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Dalkova-cyklotrasa-c--2-_Labska-stezka_---Cyklotrasa-2.csv"
+            }
+          ]
+        },
+        {
+          "name": "Dálková cyklotrasa č. 22 (Příhraniční)",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Dalkova-cyklotrasa-c--22-_Prihranicni_---Cyklotrasa-22.csv"
+            }
+          ]
+        },
+        {
+          "name": "Dálkové cyklotrasy 14, 27 Ratibořice",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/cyklotrasy-317417/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Dalkove-cyklotrasy-14--27-Ratiborice---Cyklotrasa-14.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Památné stromy",
+      "sets": [
+        {
+          "name": "Památné stromy",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/pamatne-stromy-113950/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Seznam-pamatnych-stromu.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Pravidelné akce",
+      "sets": [
+        {
+          "name": "Sportovní",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/pravidelne-alce-113367/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Sportovni.xml"
+            }
+          ]
+        },
+        {
+          "name": "Gastronomické",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/pravidelne-alce-113367/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Gastronomicke.xml"
+            }
+          ]
+        },
+        {
+          "name": "Kulturní",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/pravidelne-alce-113367/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Kulturni.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Zajímavosti a cíle",
+      "sets": [
+        {
+          "name": "Architektura",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Architektura.xml"
+            }
+          ]
+        },
+        {
+          "name": "Církevní památy",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Cirkevni-pamatky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Hrady",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Hrady.xml"
+            }
+          ]
+        },
+        {
+          "name": "Ostatní historické památky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Ostatni-historicke-pamatky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Pevnosti a opevnění",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Pevnosti-a-opevneni.xml"
+            }
+          ]
+        },
+        {
+          "name": "Přírodní zajímavosti",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Prirodni-zajimavosti.xml"
+            }
+          ]
+        },
+        {
+          "name": "Rozhledny a vyhlídky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Rozhledny-a-vyhlidky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Technické památky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Technicke-pamatky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Zámky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Zamky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Židovské památky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/zajimavosti-a-cile-113366/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Zidovske-pamatky.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Turistické regiony",
+      "sets": [
+        {
+          "name": "Turistické regiony",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turisticke-regiony-113365/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Turisticke-regiony.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Bez bariér",
+      "sets": [
+        {
+          "name": "Typy na výlety",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/bez-barier-113362/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Tipy-na-vylety.xml"
+            }
+          ]
+        },
+        {
+          "name": "Služby",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/bez-barier-113362/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Sluzby.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Města a obce",
+      "sets": [
+        {
+          "name": "Města a obce",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/mesta-a-obce-113341/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Mesta-a-obce.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Kultura a zábava",
+      "sets": [
+        {
+          "name": "Divadla, filharmonie",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Divadla--filharmonie.xml"
+            }
+          ]
+        },
+        {
+          "name": "Kina",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Kina.xml"
+            }
+          ]
+        },
+        {
+          "name": "Kluby",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Kluby.xml"
+            }
+          ]
+        },
+        {
+          "name": "Muzea a galerie",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Muzea-a-galerie.xml"
+            }
+          ]
+        },
+        {
+          "name": "Zábavní centra",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Zabavni-centra.xml"
+            }
+          ]
+        },
+        {
+          "name": "Knihovny",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/kultura-a-zabava-113335/",
+          "distributions": [
+            {
+              "type": "CSV",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Seznam-knihoven.csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cestovní ruch - Turistika a cykloturistika",
+      "sets": [
+        {
+          "name": "Cyklobusy",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Cyklobusy.xml"
+            }
+          ]
+        },
+        {
+          "name": "Cyklostezky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Cyklostezky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Cyklovýlety",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Cyklovylety.xml"
+            }
+          ]
+        },
+        {
+          "name": "Informační centra",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Informacni-centra.xml"
+            }
+          ]
+        },
+        {
+          "name": "Lanovky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Lanovky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Naučné stezky",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Naucne-stezky.xml"
+            }
+          ]
+        },
+        {
+          "name": "Ostatní",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Ostatni.xml"
+            }
+          ]
+        },
+        {
+          "name": "Pěší turistika",
+          "doc": "http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/opendata/cr/turistika-a-cykloturistika-113353/",
+          "distributions": [
+            {
+              "type": "XML",
+              "url": "http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/opendata/CR/Pesi-turistika.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
