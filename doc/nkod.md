@@ -1,3 +1,8 @@
+# NKOD
+
+**nkod-registrace.jsonld**
+
+```json
 {
   "@type": [
     "http://www.w3.org/ns/dcat#Catalog",
@@ -25,3 +30,4 @@
     "@id": "https://datakhk.cz/"
   }
 }
+```
