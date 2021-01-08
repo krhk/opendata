@@ -3,10 +3,10 @@
   "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
   "typ": "Datová sada",
   "název": {
-    "cs": "Doprava"
+    "cs": "Seznam autobusových zastávek IREDO v kraji"
   },
   "popis": {
-    "cs": "Doprava"
+    "cs": "Seznam autobusových zastávek IREDO v kraji"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
