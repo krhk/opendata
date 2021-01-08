@@ -57,7 +57,7 @@ const URL = `https://open.datakhk.cz`;
       // Generate metadata file
       console.log(`Writing set metadata file ${file}`);
       const setCtx = {
-        name: category.name,
+        name: set.name,
         category: category.name,
         categorySlug: slugify(category.name),
         dists,
