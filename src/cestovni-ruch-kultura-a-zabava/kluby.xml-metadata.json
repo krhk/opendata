@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "kluby.xml",
+  "dc:title": "Kluby",
+  "dc:description": "Kluby",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "zidovske-pamatky.xml",
+  "dc:title": "Židovské památky",
+  "dc:description": "Židovské památky",
+  "tableSchema": {}
+}

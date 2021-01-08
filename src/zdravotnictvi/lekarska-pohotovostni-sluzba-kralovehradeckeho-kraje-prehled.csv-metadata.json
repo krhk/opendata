@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "lekarska-pohotovostni-sluzba-kralovehradeckeho-kraje-prehled.csv",
+  "dc:title": "Lékařská pohotovostní služba Královéhradeckého kraje - přehled",
+  "dc:description": "Lékařská pohotovostní služba Královéhradeckého kraje - přehled",
+  "tableSchema": {}
+}

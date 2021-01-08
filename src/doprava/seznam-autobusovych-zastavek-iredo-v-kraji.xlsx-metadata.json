@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "seznam-autobusovych-zastavek-iredo-v-kraji.xlsx",
+  "dc:title": "Seznam autobusových zastávek IREDO v kraji",
+  "dc:description": "Seznam autobusových zastávek IREDO v kraji",
+  "tableSchema": {}
+}

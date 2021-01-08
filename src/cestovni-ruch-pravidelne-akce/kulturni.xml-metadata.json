@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "kulturni.xml",
+  "dc:title": "Kulturní",
+  "dc:description": "Kulturní",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "sportovni.xml",
+  "dc:title": "Sportovní",
+  "dc:description": "Sportovní",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "mesta-a-obce.xml",
+  "dc:title": "Města a obce",
+  "dc:description": "Města a obce",
+  "tableSchema": {}
+}

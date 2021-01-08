@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "seznam-prispevkovych-organizaci-zrizenych-kralovehradeckym-krajem.csv",
+  "dc:title": "Seznam příspěvkových organizací zřízených Královéhradeckým krajem",
+  "dc:description": "Seznam příspěvkových organizací zřízených Královéhradeckým krajem",
+  "tableSchema": {}
+}

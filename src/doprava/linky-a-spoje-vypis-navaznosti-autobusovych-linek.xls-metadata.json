@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "linky-a-spoje-vypis-navaznosti-autobusovych-linek.xls",
+  "dc:title": "Linky a spoje - výpis návaznosti autobusových linek",
+  "dc:description": "Linky a spoje - výpis návaznosti autobusových linek",
+  "tableSchema": {}
+}

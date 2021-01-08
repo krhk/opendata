@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "cyklovylety.xml",
+  "dc:title": "Cyklovýlety",
+  "dc:description": "Cyklovýlety",
+  "tableSchema": {}
+}

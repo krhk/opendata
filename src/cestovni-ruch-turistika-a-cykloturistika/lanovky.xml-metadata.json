@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "lanovky.xml",
+  "dc:title": "Lanovky",
+  "dc:description": "Lanovky",
+  "tableSchema": {}
+}

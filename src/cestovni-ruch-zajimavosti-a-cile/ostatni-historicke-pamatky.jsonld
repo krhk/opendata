@@ -1,0 +1,47 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Cestovní ruch - Zajímavosti a cíle"
+  },
+  "popis": {
+    "cs": "Cestovní ruch - Zajímavosti a cíle"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALY",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/REGI"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/4197"
+  ],
+  "kontaktní_bod": {},
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://open.datakhk.cz/cestovni-ruch-zajimavosti-a-cile/distribuce/1",
+      "soubor_ke_stažení": "https://open.datakhk.cz/cestovni-ruch-zajimavosti-a-cile/ostatni-historicke-pamatky.xml",
+      "přístupové_url": "https://open.datakhk.cz/cestovni-ruch-zajimavosti-a-cile/ostatni-historicke-pamatky.xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
+      "schéma": "https://open.datakhk.cz/cestovni-ruch-zajimavosti-a-cile/ostatni-historicke-pamatky.xml-metadata.json",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

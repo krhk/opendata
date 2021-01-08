@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "seznam-prispevkovych-organizaci-kralovehradeckeho-kraje-oblast-skolstvi.csv",
+  "dc:title": "Seznam příspěvkových organizací Královéhradeckého kraje - oblast školství",
+  "dc:description": "Seznam příspěvkových organizací Královéhradeckého kraje - oblast školství",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "aktuality-kralovehradeckeho-kraje.xml",
+  "dc:title": "Aktuality Královéhradeckého kraje",
+  "dc:description": "Aktuality Královéhradeckého kraje",
+  "tableSchema": {}
+}

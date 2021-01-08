@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "seznam-vsech-skol-a-skolskych-zarizeni-v-kralovehradeckem-kraji.geojson",
+  "dc:title": "Seznam všech škol a školských zařízení v Královéhradeckém kraji",
+  "dc:description": "Seznam všech škol a školských zařízení v Královéhradeckém kraji",
+  "tableSchema": {}
+}

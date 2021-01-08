@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "vyjezdove-zakladny-zzs.csv",
+  "dc:title": "Výjezdové základny ZZS",
+  "dc:description": "Výjezdové základny ZZS",
+  "tableSchema": {}
+}

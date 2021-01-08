@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "hospodarsky-slabe-regiony-kralovehradeckeho-kraje.csv",
+  "dc:title": "Hospodářsky slabé regiony Královéhradeckého kraje",
+  "dc:description": "Hospodářsky slabé regiony Královéhradeckého kraje",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "pevnosti-a-opevneni.xml",
+  "dc:title": "Pevnosti a opevnění",
+  "dc:description": "Pevnosti a opevnění",
+  "tableSchema": {}
+}

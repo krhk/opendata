@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "dalkove-cyklotrasy-14-27-ratiborice.csv",
+  "dc:title": "Dálkové cyklotrasy 14, 27 Ratibořice",
+  "dc:description": "Dálkové cyklotrasy 14, 27 Ratibořice",
+  "tableSchema": {}
+}

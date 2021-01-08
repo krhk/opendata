@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "sluzby.xml",
+  "dc:title": "Služby",
+  "dc:description": "Služby",
+  "tableSchema": {}
+}

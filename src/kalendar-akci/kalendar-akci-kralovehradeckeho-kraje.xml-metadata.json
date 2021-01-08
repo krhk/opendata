@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "kalendar-akci-kralovehradeckeho-kraje.xml",
+  "dc:title": "Kalendář akcí Královéhradeckého kraje",
+  "dc:description": "Kalendář akcí Královéhradeckého kraje",
+  "tableSchema": {}
+}

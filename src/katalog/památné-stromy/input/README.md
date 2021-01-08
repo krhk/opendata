@@ -1,2 +1,0 @@
-- Zdroj: http://www.kr-kralovehradecky.cz/assets/kraj-volene-organy/sklad/opendata/CR/Seznam-pamatnych-stromu.csv
-- Dostupné z: http://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/sklad/opendata/cr/pamatne-stromy-113950/

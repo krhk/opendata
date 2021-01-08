@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "uredni-deska-kralovehradeckeho-kraje.xml",
+  "dc:title": "Úřední deska Královéhradeckého kraje",
+  "dc:description": "Úřední deska Královéhradeckého kraje",
+  "tableSchema": {}
+}

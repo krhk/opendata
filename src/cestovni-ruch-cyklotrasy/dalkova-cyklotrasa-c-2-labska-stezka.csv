@@ -1,0 +1,79 @@
+číslo úseku,TYP KOMUNIKACE - KÓDY,staničení od,staničení do,délka,,,komunikace,z,do,stavební stav,STAVEBNÍ STAV - KÓDY,POVRCH - KÓDY,vlastnické vztahy,doporučená opatření,investiční náklady,1000 Kč / km,DOTACE,info - dotace
+1,4,"0,000","1,060",1 060,,,III/299 20,Kuks,Stanovice,špatný – zpevněný,2,1,Královéhradecký kraj,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",4 240,4000,,
+2,3,"1,060","1,660",600,,,MK,Stanovice,,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+3,5,"1,660","3,040",1 380,,,stezka,Stanovice,most přes Labe,nezpevněný povrch,2,2,soukromé pozemky,novostavba stezky,5 520,4000,1,"dotace na PD, 18RRDU2-0004, město Dvůr Králové nad Labem"
+4,5,"3,040","3,070",30,,,most přes Labe,,,novostavba,2,2,ČR – Povodí Labe,novostavba lávky,4 500,150000,1,"dotace na PD, 18RRDU2-0004, město Dvůr Králové nad Labem"
+5,5,"3,070","3,560",490,,,stezka,most přes Labe,Žireč,nezpevněný povrch,2,2,ČR – SPÚ,novostavba stezky,1 960,4000,1,"dotace na PD, 18RRDU2-0004, město Dvůr Králové nad Labem"
+6,3,"3,560","3,910",350,,,MK,Žireč,,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+7,4,"3,910","3,960",50,,,III/299 15,Žireč,,dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",10,50,,
+8,4,"3,960","4,180",220,,,III/285 4,Žireč,,špatný – zpevněný,2,1,Královéhradecký kraj,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",440,2000,,
+9,3,"4,180","6,180",2 000,,,MK,Žireč,Žirecká Podstráň,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,50,25,,
+10,4,"6,180","7,090",910,,,III/299 17,Žirecká Podstráň,Dvůr Králové n/L,dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",50,50,,
+11,4,"7,090","8,010",920,,,III/299 15,Dvůr Králové n/L,ul. Heydukova,dobrý – zpevněný,1,1,Královéhradecký kraj,integrace cyklistů v rámci plánované rekonstrukce komunikace,1 840,2000,3,"dotace na stavbu, 17RRD05-0021, Dvůr Králové nad labem  (pouze část úseku) - DOKONČENO"
+12,2,"8,010","9,210",1 200,,,stezka,Dvůr Králové n/L,stezka „Benešovo nábř.“,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,30,25,3,"dotace na stavbu, 16RRD05-0014, Dvůr Králové nad Labem (pouze část) úseku) - DOKONČENO"
+13,3,"9,210","9,240",30,,,MK,Dvůr Králové n/L,ul. Husova/most Labe,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",10,50,,
+14,5,"9,240","9,910",670,,,stezka,Dvůr Králové n/L,propojení Husova – Slovany,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,2 680,4000,,
+15,3,"9,910","10,470",560,,,MK,Dvůr Králové n/L,Slovany,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",1 120,2000,,
+16,5,"10,470","11,640",1 170,,,stezka,Dvůr Králové n/L,Verdek,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,4 680,4000,,
+17,3,"11,640","11,730",90,,,MK,Verdek,most Labe,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",180,2000,,
+18,5,"11,730","12,400",670,,,stezka,Verdek / most Labe,Filířovice / cesta k Labi,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,2 680,4000,,
+19,3,"12,400","13,170",770,,,MK,Filířovice,,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",1 540,2000,,
+20,5,"13,170","13,790",620,,,stezka,Filířovice,Bílá Třemešná,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,20,25,,
+21,3,"13,790","14,530",740,,,MK,Bílá Třemešná,V Alejích,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",1 480,2000,,
+22,4,"14,530","15,130",600,,,III/325 44,Bílá Třemešná,v.n. Les Království,dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",30,50,,
+23,3,"15,130","19,190",4 060,,,ÚK,v.n. Les Království,most přes Labe,nezpevněný povrch,1,2,"Lesy ČR, ČR-PL",svislé značení ,110,25,,
+24,5,"19,190","19,240",50,,,most přes Labe,Dolní Nemojov,Souvrať,novostavba,2,2,"Lesy ČR, ČR-PL",novostavba lávky,7 500,150000,,
+25,5,"19,240","19,640",400,,,stezka,Souvrať,propojení na cestu,novostavba,2,2,"Lesy ČR, ČR-PL",novostavba stezky,3 200,8000,,
+26,3,"19,640","21,600",1 960,,,ÚK,Souvrať,Debrné,dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",100,50,,
+27,5,"21,600","21,650",50,,,most přes Labe,Debrné,,novostavba,2,2,ČR – Povodí Labe,novostavba lávky,7 500,150000,,
+28,5,"21,650","22,590",940,,,stezka,Debrné,,novostavba,2,2,soukromé pozemky,novostavba stezky,3 760,4000,,
+29,3,"22,590","24,070",1 480,,,ÚK,Debrné,Chotěvice,dobrý – nezpevněný,1,2,obecní pozemky,svislé značení ,40,25,,
+30,3,"24,070","24,580",510,,,ÚK,Chotěvice,Pilníkovský potok,nezpevněný povrch,1,2,obecní pozemky,"rekonstrukce krytu, svislé značení",1 020,2000,,
+31,5,"24,580","24,590",10,,,most,Pilníkovský potok,,novostavba,2,2,ČR – Povodí Labe,novostavba lávky,1 500,150000,1,"dotace na PD, 17RRD05-0009, Chotěvice"
+32,3,"24,590","24,830",240,,,ÚK,Pilníkovský potok,Vestřev,nezpevněný povrch,1,2,obecní pozemky,"rekonstrukce krytu, svislé značení",480,2000,1,"dotace na PD, 17RRD05-0009, Chotěvice"
+33,5,"24,830","25,730",900,,,stezka,Chotěvice,Vestřev,nezpevněný povrch,2,2,soukromé pozemky,novostavba stezky,3 600,4000,1,"dotace na PD, 17RRD05-0009, Chotěvice + dotace na PD, 17RRD05-0010, Dolní Olešnice"
+34,3,"25,730","25,770",40,,,ÚK,Vestřev,sjezd k ČOV,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,1,"dotace na PD, 17RRD05-0010, Dolní Olešnice"
+35,5,"25,770","25,910",140,,,stezka,Vestřev,podél silnice I/16,novostavba,2,2,ČR – ŘSD,novostavba stezky,560,4000,1,"dotace na PD, 17RRD05-0010, Dolní Olešnice"
+36,5,"25,910","25,920",10,,,žel. přejezd,Chotěvice,žel. trať 040,novostavba,2,2,ČR – SŽDC,novostavba přejezdu,1 500,150000,1,"dotace na PD, 17RRD05-0010, Dolní Olešnice"
+37,5,"25,920","27,600",1 680,,,stezka,Chotěvice,Hostinné,novostavba,2,2,soukromé pozemky,novostavba stezky,6 720,4000,1,"dotace na PD, 17RRD05-0011, Hostinné"
+38,2,"27,600","27,800",200,,,stezka,Hostinné,stezka „Ke Karlovu“,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+39,3,"27,800","28,000",200,,,MK,Hostinné,ul. U Konírny,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+40,2,"28,000","28,220",220,,,stezka,Hostinné,stezka k železniční stanici Hostinné,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+41,3,"28,220","28,850",630,,,MK,Hostinné,Kaštanová / K. Čapka / most přes Labe,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+42,2,"28,850","29,500",650,,,stezka,Hostinné,stezka „Závodí“,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+43,3,"29,500","29,990",490,,,MK,Hostinné,V Lipkách / Deymova,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+44,2,"29,990","31,610",1 620,,,stezka,Hostinné,stezka „Deymova / Vrchlabská“,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,50,25,,
+45,5,"31,610","34,050",2 440,,,III/326 36,Hostinné,Klášterská Lhota,novostavba,2,2,soukromé pozemky,novostavba stezky,9 760,4000,1,"dotace na PD, 17RRD05-0012, Hostinné, 2019 DOTACE SFDI na stavbu (6 mil.)"
+46,3,"34,050","34,720",670,,,ÚK,Klášterská Lhota,,nezpevněný povrch,1,2,obecní pozemky,"rekonstrukce krytu, svislé značení",1 340,2000,1,"dotace na PD, 17RRD05-0012, Hostinné"
+47,3,"34,720","35,620",900,,,MK,Klášterská Lhota,,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,30,25,,
+48,5,"35,620","35,720",100,,,stezka,Klášterská Lhota,podél III/325 51,novostavba,2,2,soukromé pozemky,novostavba stezky,400,4000,,
+49,3,"35,720","35,850",130,,,ÚK,Klášterská Lhota,ÚK k jezu,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení ,10,25,,
+50,5,"35,850","36,170",320,,,stezka,Klášterská Lhota,ÚK k jezu,nezpevněný povrch,2,2,ČR,novostavba stezky,1 280,4000,,
+51,5,"36,170","36,200",30,,,most přes Labe,Klášterská Lhota,,novostavba,2,2,ČR,novostavba lávky,4 500,150000,,
+52,5,"36,200","36,820",620,,,stezka,Klášterská Lhota,Kunčice n/L,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,2 480,4000,1,"dotace na PD, 17RRD05-0008, Kunčice nad Labem (pouze část úseku)"
+53,3,"36,820","37,230",410,,,MK,Kunčice n/L,,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,1,"dotace na PD, 17RRD05-0008, Kunčice nad Labem"
+54,5,"37,230","39,150",1 920,,,stezka,Kunčice n/L,podél III/325 51,novostavba,2,2,samosprávní a soukromé pozemky,novostavba stezky,7 680,4000,1,"dotace na PD, 17RRD05-0008, Kunčice nad Labem (pouze část úseku)"
+55,3,"39,150","40,360",1 210,,,ÚK a MK,Kunčice n/L,Vrchlabí/Podhůří,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,40,25,,
+56,3,"40,360","40,670",310,,,MK,Vrchlabí/Podhůří,ul. Jana Opletala 1,dobrý – nezpevněný,1,2,obecní pozemky,"rekonstrukce krytu, svislé značení",620,2000,,
+57,3,"40,670","41,320",650,,,MK,Vrchlabí/Podhůří,ul. Jana Opletala 2,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+58,3,"41,320","41,490",170,,,MK,Vrchlabí/Podhůří,ul. Lipová,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",340,2000,,
+59,3,"41,490","42,370",880,,,MK,Vrchlabí/Podhůří,ul. Poštovní,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",50,50,,
+60,2,"42,370","43,150",780,,,stezka,Vrchlabí,ul. Dělnická,dobrý – zpevněný,1,1,obecní pozemky,svislé značení,20,25,,
+61,3,"43,150","43,780",630,,,MK,Vrchlabí,ul. Žižkova,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",630,1000,,
+62,5,"43,780","44,060",280,,,stezka,Vrchlabí,nábřeží ul. Dělnická,novostavba,2,2,obecní a soukromé pozemky,novostavba stezky,1 120,4000,,
+63,2,"44,060","44,380",320,,,stezka,Vrchlabí,ul. Tyršova,stavba v realizaci (ŘSD ČR a Město Vrchlabí),2,1,ČR a obecní pozemky,svislé značení ,10,25,,
+64,4,"44,380","44,590",210,,,MK jendosměrná,Vrchlabí,ul. Slovanská,novostavba,2,2,obecní pozemky,novostavba stezky,840,4000,,
+65,3,"44,590","44,810",220,,,MK,Vrchlabí,ul. Palackého,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+66,3,"44,810","44,850",40,,,MK,Vrchlabí,křižovatka ul. Palackého/Pražská,dobrý – zpevněný,1,1,obecní pozemky,rekonstrukce křižovatky,200,5000,,
+67,3,"44,850","45,650",800,,,MK,Vrchlabí,ul. U Nemocnice + zámecký park,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+68,3,"45,650","45,800",150,,,MK,Vrchlabí,nábřeží Hotel Gendorf,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",300,2000,,
+69,2,"45,800","46,020",220,,,stezka a lávka,Vrchlabí,Labské nábřeží,stavba v realizaci (Město Vrchlabí),2,1,obecní pozemky,svislé značení,10,25,,
+70,3,"46,020","46,280",260,,,MK,Vrchlabí,ul. Jos. Šíra,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",520,2000,,
+71,3,"46,280","46,310",30,,,most,Vrchlabí,most v ul. Jos. Šíra,špatný,2,1,obecní pozemky,rekonstrukce mostu,1 500,50000,,
+72,3,"46,310","46,790",480,,,MK,Vrchlabí,ul. Jos. Šíra – nám. Míru -ul. J.K.Tyla,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+73,3,"46,790","46,950",160,,,MK,Vrchlabí,ul. J.K.Tyla (Hotel TTC) – čerpadla Vrchlabí,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",320,2000,,
+74,5,"46,950","47,780",830,,,stezka,Vrchlabí,nábřeží „u kostelíčku“,novostavba,2,2,obecní a soukromé pozemky,novostavba stezky,2 490,3000,,
+75,3,"47,780","48,800",1 020,,,MK,Vrchlabí,ul. Bucharova – areál OZC – ul. U Splavu,dobrý – zpevněný,1,1,obecní a soukromé pozemky,svislé značení ,30,25,,
+76,5,"48,800","48,860",60,,,stezka + lávka,Vrchlabí,„nad splavem“,novostavba,2,2,ČR,novostavba stezky a lávky,4 500,75000,,
+77,5,"48,860","49,070",210,,,stezka „Za Řekou“,Vrchlabí,Hořejší Vrchlabí,novostavba,2,2,ČR a obecní pozemky,novostavba stezky,1 260,6000,,
+78,3,"49,070","50,730",1 660,,,MK (ul. Za Řekou),Hořejší Vrchlabí,Herlíkovice,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,50,25,,

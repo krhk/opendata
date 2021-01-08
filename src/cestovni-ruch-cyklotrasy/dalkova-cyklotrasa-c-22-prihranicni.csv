@@ -1,0 +1,83 @@
+číslo úseku,,staničení od,staničení do,délka,komunikace,z,do,stavební stav,STAVEBNÍ STAV - KÓDY,POVRCH - KÓDY,vlastnické vztahy,doporučená opatření,investiční náklady,Kč / m,DOTACE,dotace - info
+1,5,"0,000","0,600",600,stezka,(hranice kraje) III/2955 Horní Branná,Vrchlabí/areál Vejsplachy,novostavba,2,2,soukromé pozemky,novostavba stezky,2 400,4 000,,
+2,2,"0,600","1,460",860,stezka,Vrchlabí/areál Vejsplachy,křižovatka Valteřická/Bělopotocká,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,30,25,,
+3,5,"1,460","1,480",20,I/14,Vrchlabí,křižovatka Valteřická/Bělopotocká,bez opatření pro pěší a cyklodopravu,2,2,obecní pozemky,dělený přechod,80,4 000,,
+4,3,"1,480","1,920",440,MK,"Vrchlabí, ul. Bělopotocká",úsek Valteřická > Pražská,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",30,50,,
+5,3,"1,920","1,960",40,MK,Vrchlabí,úsek křižovatka Bělopotocká/Pražská,bez opatření pro pěší a cyklodopravu,1,1,obecní pozemky,dělený přechod,160,4 000,,
+6,3,"1,960","2,180",220,MK,"Vrchlabí, ul. Palackého",úsek Pražská > Slovanská,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+7,5,"2,180","2,390",210,stezka,"Vrchlabí, ul. Slovanská",úsek Palackého > Nerudova,bez opatření pro pěší a cyklodopravu,2,2,obecní pozemky,novostavba stezky,840,4 000,,
+8,2,"2,390","2,710",320,stezka,"Vrchlabí, ul. Tyršova",úsek Nerudova > Dělnická,stezka v realizaci,1,1,obecní pozemky,svislé značení ,10,25,,
+9,2,"2,710","2,880",170,stezka,"Vrchlabí, ul. Tyršova",úsek Dělnická > Nádražní,stezka v realizaci,1,1,obecní pozemky,svislé značení ,10,25,,
+10,5,"2,880","3,030",150,stezka,"Vrchlabí, ul. Lánovská",úsek Nádražní > Vápenická,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,600,4 000,,
+11,2,"3,030","5,450",2 420,stezka,Vrchlabí,Prostřední Lánov,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,70,25,,
+12,5,"5,450","5,780",330,stezka,Prostřední Lánov,,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,1 320,4 000,,
+13,3,"5,780","5,890",110,MK,Prostřední Lánov,,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",10,50,,
+14,5,"5,890","6,760",870,stezka,Prostřední Lánov,prům. areál V Domcích,bez opatření pro pěší a cyklodopravu,2,2,ČR a soukromé pozemky,novostavba stezky,3 480,4 000,,
+15,3,"6,760","7,760",1 000,ÚK,areál V Domcích,Kovársko,špatný – zpevněný,1,1,obecní pozemky,"rekonstrukce krytu, svislé značení",2 000,2 000,,
+16,5,"7,760","9,570",1 810,stezka,Kovársko,Čistá,bez opatření pro pěší a cyklodopravu,2,2,ČR a soukromé pozemky,novostavba stezky,7 240,4 000,,
+17,3,"9,570","9,710",140,ÚK,Čistá,,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",280,2 000,,
+18,5,"9,710","9,980",270,stezka,Čistá,III/325 54,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,1 080,4 000,,
+19,4,"9,980","11,970",1 990,III/325 54,Čistá,Fořt,dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",100,50,,
+20,3,"11,970","15,450",3 480,MK,Fořt,Rudník,dobrý – zpevněný,1,1,ČR a obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",180,50,,
+21,4,"15,450","16,760",1 310,II/325,"Rudník, křiž. Fořt","Rudník, křiž. ObÚ",dobrý – zpevněný,1,1,Královéhradecký kraj,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",70,50,,
+22,3,"16,760","16,820",60,MK,"Rudník, křiž. II/325","Rudník, ObÚ",dobrý – zpevněný,1,1,obecní pozemky,svislé značení,10,25,,
+23,3,"16,820","16,860",40,UK,Rudník,plocha u ObÚ,dobrý – zpevněný,1,1,obecní  pozemky,svislé značení,10,25,,
+24,5,"16,860","18,720",1 860,stezka,"Rudník, obecní úřad",Leopoldov,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,7 440,4 000,1,"dotace na PD, 17RRD05-0022, Mladé Buky. dotace na PD 18RRDU2-0006 Rudník"
+25,5,"18,720","19,540",820,stezka,Leopoldov,Javorník,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,3 280,4 000,1,"dotace na PD, 17RRD05-0022, Mladé Buky, dotace na PD 18RRDU2-0006 Rudník"
+26,3,"19,540","19,670",130,ÚK,Javorník,,špatný – nezpevněný,2,2,obecní pozemky,"rekonstrukce komunikace, svislé značení",520,4 000,1,"dotace na PD, 17RRD05-0022, Mladé Buky, dotace na PD 18RRDU2-0006 Rudník"
+27.1,5,"19,670","22,930",3 260,stezka,Javorník,Hertvíkovice,novostavba,2,2,obecní a soukromé pozemky,novostavba stezky,13 040,4 000,1,"dotace na PD, 17RRD05-0022, Mladé Buky, dotace na PD 18RRDU2-0006 Rudník"
+27.2,3,"22,930","23,450",520,ÚK,Hertvíkovice,,špatný – nezpevněný,2,2,ČR a obecní pozemky,"rekonstrukce komunikace, svislé značení",2 080,4 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky, dotace na PD 18RRDU2-0006 Rudník"
+28,5,"23,450","23,710",260,stezka podél I/14,Hertvíkovice,,bez opatření pro pěší a cyklodopravu,2,2,ČR ŘSD,novostavba stezky,1 040,4 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky"
+29.1,3,"23,710","24,420",710,ÚK,Hertvíkovice,,špatný – nezpevněný,2,2,obecní pozemky,"rekonstrukce komunikace, svislé značení",2 840,4 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky"
+29.2,5,"24,420","24,530",110,stezka,Hertvíkovice,,bez opatření pro pěší a cyklodopravu,2,2,obecní pozemky,novostavba stezky,880,8 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky"
+30,5,"24,530","25,360",830,stezka podél I/14,Hertvíkovice,"Mladé Buky, kostel",bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,3 320,4 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky"
+31,3,"25,360","25,710",350,MK,"Mladé Buky, kostel Sv.Kateřiny","Mladé Buky, ul.Mladobucká",špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce krytu, svislé značení",700,2 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky, dotace na PD, 17RRD05-0022, Mladé Buky"
+32,5,"25,710","26,510",800,MK,Mladé Buky,ul. Mladobucká 1. část,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,3 200,4 000,1,"dotace na PD, 16RRD05-0005, Mladé Buky, dotace na PD, 17RRD05-0022, Mladé Buky"
+33,3,"26,510","27,640",1 130,MK,Mladé Buky,vnitřní část,dobrý – zpevněný,1,1,obecní pozemky,svislé značení,60,50,1,"dotace na PD, 16RRD05-0005, Mladé Buky, dotace na PD, 17RRD05-0022, Mladé Buky"
+34,5,"27,640","29,280",1 640,MK,"Mladé Buky, ul. Mladobucká 2. část",Trutnov,bez opatření pro pěší a cyklodopravu,2,2,obecní a soukromé pozemky,novostavba stezky,6 560,4 000,1,"dotace na PD, 16RRD05-0004, město Trutnov, dotace na PD, 17RRD05-0022, Mladé Buky, dotace na stavbu, 18RRDU2-0008, Trutnov"
+35,5,"29,280","29,295",15,lávka,Trutnov,Zlatý potok,novostavba,2,2,KRNAP,novostavba lávky,1 500,100 000,2,"dotace na PD, 16RRD05-0004, město Trutnov, dotace na stavbu, 18RRDU2-0008, Trutnov"
+36,3,"29,295","29,415",120,MK,"Trutnov, ul. Na Odbočce",úsek Mladobucká > Horská,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce komunikace, svislé značení",480,4 000,2,"dotace na PD, 16RRD05-0004, město Trutnov, dotace na stavbu, 18RRDU2-0008, Trutnov"
+37,3,"29,415","30,285",870,MK,"Trutnov, ul. Horská",úsek Na Odbočce > Dlouhá,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",50,50,,
+38,3,"30,285","31,175",890,MK,"Trutnov, ul. Dlouhá – Slovenská - Úpská",úsek Horská > Nábřežní,dobrý – zpevněný,1,1,obecní pozemky,"svislé a vodorovné značení, cyklopruhy/cyklopiktogramy",50,50,2,"dotace na stavbu, 18RRDU2-0008, Trutnov"
+39,2,"31,175","36,555",5 380,stezka,"Trutnov, cyklotrasa",úsek Horní Staré Město > Poříčí,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,140,25,,
+40,3,"36,555","36,855",300,MK,"Trutnov, ul. Vrbová",,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+41,5,"36,855","37,055",200,stezka,"Trutnov, ul. Náchodská",úsek Vrbová > Na Břehu,bez opatření pro pěší a cyklodopravu,2,2,obecní pozemky,novostavba stezky,400,2 000,,
+42,3,"37,055","37,335",280,MK,"Trutnov, ul. Na Břehu",úsek Náchodská > K Mostu,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+43,5,"37,335","37,785",450,stezka,"Trutnov, prodloužení ul.Na Břehu",úsek K Mostu > lávka Na Hrázi,bez opatření pro pěší a cyklodopravu,2,2,ČR – Povodí Labe,novostavba stezky,1 800,4 000,,
+44,3,"37,785","38,065",280,MK,"Trutnov, ul. Na Hrázi",úsek lávka > Kladská,špatný – zpevněný,2,1,obecní pozemky,"rekonstrukce komunikace, svislé značení",560,2 000,,
+45,5,"38,065","38,115",50,I/14,"Trutnov, Poříčí",elektrárenský most,bez opatření pro pěší a cyklodopravu,2,2,ČR,novostavba stezky,400,8 000,,
+46,4,"38,115","46,405",8 290,II/301,Trutnov,Chvaleč,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé a vodorovné značení,420,50,,
+47,4,"46,405","55,505",9 100,III/301 10,Chvaleč,Dolní Adršpach,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé a vodorovné značení,460,50,,
+48,2,"55,505","57,475",1 970,stezka,Dolní Adršpach,Bučnice,dobrý – nezpevněný,1,2,obecní pozemky,svislé značení ,50,25,,
+49,3,"57,475","57,885",410,ÚK,Bučnice,,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+50,5,"57,885","58,725",840,stezka,Bučnice,ATC Bučnice,nezpevněný povrch,2,2,obecní pozemky,novostavba stezky,6 720,8 000,,
+51,5,"58,725","59,175",450,stezka,ATC Bučnice,Teplické Skalní Město,nezpevněný povrch,2,2,obecní pozemky,rekonstrukce stezky,1 800,4 000,,
+52,3,"59,175","61,065",1 890,MK,Teplické Skalní Město,úsek Střmenské podhradí > Nerudova,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,50,25,,
+53,4,"61,065","61,215",150,III/301 10,Teplice nad Metují,ul. A. Jiráska,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení ,10,25,,
+54,3,"61,215","62,005",790,MK,Teplice nad Metují,ul. Palackého,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+55,4,"62,005","67,645",5 640,III/301 10,Teplice nad Metují,Česká Metuje,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení ,150,25,,
+56,4,"67,645","70,315",2 670,II/301,Česká Metuje,Žďár nad Metují,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení ,70,25,,
+57,3,"70,315","71,605",1 290,MK,Žďár nad Metují,Bukovice,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,40,25,,
+58,5,"71,605","72,235",630,stezka,Bukovice,Police nad Metují,nezpevněný povrch,2,2,soukromé pozemky,novostavba stezky,2 520,4 000,,
+59,3,"72,235","72,735",500,MK,Police nad Metují,Malá Ledhuj,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+60,4,"72,735","72,775",40,II/301,"Police n/M, ul. Žďárská",úsek V Rokli > Pod Jasany,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,10,25,,
+61,4,"72,775","78,095",5 320,II/303,Police nad Metují,Kozínek,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé a vodorovné značení,140,25,1,"dotace na výkup pozemků (část úseku), 18RRDU2-0012, Police nad Metují, dotace na PD 16RRD05-0011, Police nad Metují"
+62,3,"78,095","78,995",900,ÚK,Kozínek,Žabokrky,špatný – nezpevněný,2,2,obecní a soukromé pozemky,"rekonstrukce komunikace, svislé značení",3 600,4 000,,
+63,3,"78,995","80,095",1 100,ÚK,Žabokrky,Velký Dřevíč,dobrý – zpevněný,1,1,obecní a soukromé pozemky,svislé značení ,30,25,,
+64,4,"80,095","80,195",100,III/303 13,Velký Dřevíč,ul. Na Drahách,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,10,25,,
+65,3,"80,195","81,155",960,MK,Velký Dřevíč,Hronov,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,30,25,,
+66,4,"81,155","81,255",100,II/303,"Hronov, ul. Jungmannova",úsek Padolí > Knáhlova,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé a vodorovné značení,10,50,,
+67,3,"81,255","81,695",440,MK,"Hronov, ul. Knáhlova","Hronov, ul.Čapkova",dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,20,25,,
+68,4,"81,695","84,685",2 990,III/303 1,Hronov,Velké Poříčí,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,80,25,,
+69,4,"84,685","84,925",240,III/303 2,"Velké Poříčí, ul. Žďárecká",úsek Poříčská > Pod Horou,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,10,25,,
+70,3,"84,925","85,175",250,MK,Velké Poříčí,ul. Pod Horou,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,10,25,,
+71,2,"85,175","88,425",3 250,stezka,Velké Poříčí,"Náchod, Běloves",dobrý – zpevněný,1,1,obecní pozemky,svislé značení,90,25,,
+72,3,"88,425","94,395",5 970,MK,"Náchod, Na Horním Konci > U Zbrojnice > 1. máje > Družstevní > Mánesovo nábř. > Dobrošovská > Krásnohorské > Na Strži > Lidická  > Na Skalce > Pod Lipím",,dobrý – zpevněný,1,1,obecní pozemky,svislé značení ,150,25,,
+73,4,"94,395","105,295",10 900,III/285 26,"Náchod, Lipí","Borová, U Jedle",dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,280,25,,
+74,4,"105,295","107,315",2 020,III/285 28,"Borová, U Jedle","Rzy, Zelinkův Mlýn",dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,60,25,,
+75,4,"107,315","109,385",2 070,II/285,"Rzy, Zelinkův Mlýn",Olešnice v Orl. horách,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,60,25,,
+76,4,"109,385","120,925",11 540,II/310,Olešnice v Orl. horách,Deštné v Orl. horách,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,290,25,,
+77,4,"120,925","134,515",13 590,II/311,Deštné v Orl. horách,Orlické Záhoří,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,340,25,,
+78,4,"134,515","143,995",9 480,II/311,Orlické Záhoří,Neratov,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,240,25,,
+79,4,"143,995","150,535",6 540,II/311,Neratov,Bartošovice v Orl. horách,dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,170,25,,
+80,4,"150,535","155,185",4 650,II/311,Bartošovice v Orl. horách,Zemská brána (hranice kraje),dobrý – zpevněný,1,1,Královéhradecký kraj,svislé značení,120,25,,

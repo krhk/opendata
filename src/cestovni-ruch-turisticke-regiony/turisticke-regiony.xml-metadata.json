@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "turisticke-regiony.xml",
+  "dc:title": "Turistické regiony",
+  "dc:description": "Turistické regiony",
+  "tableSchema": {}
+}

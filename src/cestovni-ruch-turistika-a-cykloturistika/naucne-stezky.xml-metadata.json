@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "naucne-stezky.xml",
+  "dc:title": "Naučné stezky",
+  "dc:description": "Naučné stezky",
+  "tableSchema": {}
+}

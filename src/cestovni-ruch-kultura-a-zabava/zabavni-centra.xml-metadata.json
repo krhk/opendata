@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "zabavni-centra.xml",
+  "dc:title": "Zábavní centra",
+  "dc:description": "Zábavní centra",
+  "tableSchema": {}
+}

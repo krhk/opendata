@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "cyklotrasa-les-kralovstvi-miletin-horice-ohnistany.csv",
+  "dc:title": "Cyklotrasa Les království – Miletín – Hořice – Ohnišťany",
+  "dc:description": "Cyklotrasa Les království – Miletín – Hořice – Ohnišťany",
+  "tableSchema": {}
+}

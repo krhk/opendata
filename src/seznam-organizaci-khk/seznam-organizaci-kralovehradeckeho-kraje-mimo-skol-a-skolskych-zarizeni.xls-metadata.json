@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "seznam-organizaci-kralovehradeckeho-kraje-mimo-skol-a-skolskych-zarizeni.xls",
+  "dc:title": "Seznam organizací Královéhradeckého kraje mimo škol a školských zařízení",
+  "dc:description": "Seznam organizací Královéhradeckého kraje mimo škol a školských zařízení",
+  "tableSchema": {}
+}

@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "cs"
+    }
+  ],
+  "url": "prehled-oboru-strednich-skol-zrizovanych-krajem.csv",
+  "dc:title": "Přehled oborů středních škol zřizovaných krajem",
+  "dc:description": "Přehled oborů středních škol zřizovaných krajem",
+  "tableSchema": {}
+}
