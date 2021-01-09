@@ -1,9 +1,7 @@
-# Vyvtáření LKOD pro KHK
+# Opendata KHK (Kralovehradecky kraj)
 
-Tento dokument popisuje proces vytváření lokálního katalogu otevřených dat (LKOD) dle [posledních specifikací](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#dcat-ap-dokumenty-katalog) a to pomocí rozhraní [DCAT-AP Dokumenty](https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/#dcat-ap-dokumenty).
+- Web: https://datakhk.cz
+- Katalog: https://open.datakhk.cz/katalog.jsonld
+- NKOD: https://data.gov.cz/datov%C3%A9-sady?poskytovatel=Kr%C3%A1lov%C3%A9hradeck%C3%BD%20kraj
 
-## Otvírání dat
-
-- [Vytvoření katalogu](doc/tutorial-katalog.md)
-- [Vytvoření datové sady - zastávky IREDO](doc/tutorial-zastavky.md)
-- [Vytvoření datové sady - památné stromy](doc/tutorial-stromy.md)
+![](https://api.microlink.io?url=https%3A%2F%2Fdatakhk.cz&screenshot=true&meta=false&embed=screenshot.url)

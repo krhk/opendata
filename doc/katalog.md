@@ -1,5 +1,7 @@
 # Vytvoření souboru katalogu
 
+Tento dokument popisuje proces vytváření lokálního katalogu otevřených dat (LKOD) dle [posledních specifikací](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/draft/#dcat-ap-dokumenty-katalog) a to pomocí rozhraní [DCAT-AP Dokumenty](https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/#dcat-ap-dokumenty).
+
 Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentující datový katalog samotný a výčet jeho datových sad. Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP).
 
 Výsledkem je soubor [katalog.jsonld](../src/katalog.jsonld):
@@ -17,7 +19,7 @@ Výsledkem je soubor [katalog.jsonld](../src/katalog.jsonld):
     },
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
     "datová_sada": [
-        "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/"    
+        "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/"
     ]
 }
 ```
