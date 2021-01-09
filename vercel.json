@@ -4,7 +4,7 @@
     { "src": "src/**", "use": "@now/static" }
   ],
   "redirects": [
-    { "source": "/", "destination": "https://github.com/krhk/opendata" }
+    { "source": "/", "destination": "/katalog.jsonld" }
   ],
   "rewrites": [
     { "source": "/(.*)", "destination": "/src/$1" }
