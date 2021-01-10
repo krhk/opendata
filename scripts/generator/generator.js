@@ -53,6 +53,7 @@ const URL = `https://open.datakhk.cz`;
 
       // Set vars
       const file = path.resolve(folder, slugify(set.name) + '.jsonld');
+      const fileBase = path.basename(file);
 
       // Generate metadata file
       console.log(`Writing set metadata file ${file}`);
@@ -60,6 +61,7 @@ const URL = `https://open.datakhk.cz`;
         name: set.name,
         category: category.name,
         categorySlug: slugify(category.name),
+        file: fileBase,
         dists,
       };
       writeFile(file, JSON.stringify(await generateSet(setCtx), null, 2));
@@ -166,7 +168,7 @@ async function generateDist(ctx) {
 async function generateSet(ctx) {
   const set = {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
+    "iri": generateUrl([ctx.categorySlug, ctx.file]),
     "typ": "Datová sada",
     "název": {
       "cs": ctx.name,
@@ -182,8 +184,8 @@ async function generateSet(ctx) {
     "geografické_území": [],
     "prostorové_pokrytí": [],
     "klíčové_slovo": {
-      "cs": [],
-      "en": [],
+      "cs": ['královéhradecký kraj', 'khk'],
+      "en": ['královéhradecký region', 'khk'],
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALY",
     "téma": [
@@ -197,7 +199,6 @@ async function generateSet(ctx) {
     "distribuce": []
   }
 
-  let counter = 1;
   for await (const dist of ctx.dists) {
     const categorySlug = ctx.categorySlug.toLowerCase();
     const file = dist.file;
@@ -206,7 +207,7 @@ async function generateSet(ctx) {
 
     set['distribuce'].push({
       "typ": "Distribuce",
-      "iri": generateUrl([categorySlug, 'distribuce', counter++]),
+      "iri": generateUrl([categorySlug, file]),
       "soubor_ke_stažení": generateUrl([categorySlug, file]),
       "přístupové_url": generateUrl([categorySlug, file]),
       "typ_média": `http://www.iana.org/assignments/media-types/text/csv/${ext.toLowerCase()}`,
