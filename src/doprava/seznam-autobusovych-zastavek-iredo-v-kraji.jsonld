@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/katalog/autobusové-zastávky-iredo/",
+  "iri": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam autobusových zastávek IREDO v kraji"
@@ -14,8 +14,14 @@
   "geografické_území": [],
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
-    "cs": [],
-    "en": []
+    "cs": [
+      "královéhradecký kraj",
+      "khk"
+    ],
+    "en": [
+      "královéhradecký region",
+      "khk"
+    ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALY",
   "téma": [
@@ -29,7 +35,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://open.datakhk.cz/doprava/distribuce/1",
+      "iri": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.xlsx",
       "soubor_ke_stažení": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.xlsx",
       "přístupové_url": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.xlsx",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv/xlsx",
@@ -45,7 +51,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://open.datakhk.cz/doprava/distribuce/2",
+      "iri": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.csv",
       "soubor_ke_stažení": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.csv",
       "přístupové_url": "https://open.datakhk.cz/doprava/seznam-autobusovych-zastavek-iredo-v-kraji.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv/csv",
