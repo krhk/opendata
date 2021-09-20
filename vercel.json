@@ -1,12 +1,12 @@
 {
   "version": 2,
   "builds": [
-    { "src": "src/**", "use": "@now/static" }
+    { "src": "public/**", "use": "@vercel/static" }
   ],
   "redirects": [
     { "source": "/", "destination": "/katalog.jsonld" }
   ],
   "rewrites": [
-    { "source": "/(.*)", "destination": "/src/$1" }
+    { "source": "/(.*)", "destination": "/public/$1" }
   ]
 }
