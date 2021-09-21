@@ -4,7 +4,7 @@ Tento dokument popisuje proces vytváření lokálního katalogu otevřených da
 
 Výchozím API endpointem je `katalog`, který specifikuje entitu reprezentující datový katalog samotný a výčet jeho datových sad. Atributy jsou triviální až na položku `poskytovatel`, kde je potřeba dohleda správný identifikátor IRI pro daný kraj dle Registru práv a povinností (RPP).
 
-Výsledkem je soubor [katalog.jsonld](../src/katalog.jsonld):
+Výsledkem je soubor [katalog.jsonld](../public/katalog.jsonld):
 
 ```json
 {
@@ -28,7 +28,7 @@ Atribut `datová_sada` obsahuje pouze jednu sadu. Proces vytváření této sady
 
 ### Registrace katalogu do NKOD
 
-Vyplníme formulář na https://data.gov.cz/formulář/registrace-lokálního-katalogu a dostaneme soubor [nkod-registrace.jsonld.txt](../src/nkod-registrace.jsonld.txt).
+Vyplníme formulář na https://data.gov.cz/formulář/registrace-lokálního-katalogu a dostaneme soubor [nkod-registrace.jsonld.txt](./nkod.md).
 
 ```json
 {

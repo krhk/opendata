@@ -1,0 +1,294 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/katalog.json",
+  "iri": "https://open.datakhk.cz/katalog.jsonld",
+  "typ": "Katalog",
+  "domovská_stránka": "https://datakhk.cz",
+  "název": {
+    "cs": "Katalog otevřených dat Královéhradeckého kraje"
+  },
+  "popis": {
+    "cs": "Otevřená data Kralovéhradeckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení."
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Krajský úřad Královéhradeckého kraje / Odbor analýz a podpory řízení"
+    },
+    "e-mail": "info@datakhk.cz"
+  },
+  "datová_sada": [
+    "https://open.datakhk.cz/c4e7b2614e4a414fbe968da87eb07b5c_0.jsonld",
+    "https://open.datakhk.cz/7d51a76bf674450499fb8934f32cece0_0.jsonld"
+  ],
+  "_datasets": [
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/datová-sada.json",
+      "iri": "https://open.datakhk.cz/c4e7b2614e4a414fbe968da87eb07b5c_0.jsonld",
+      "typ": "Datová sada",
+      "název": {
+        "cs": "Výjezdové stanice Zdravotnické záchranné služby Královéhradeckého kraje"
+      },
+      "popis": {
+        "cs": "Lokalizace všech stanic Zdravotnické záchranné služby Královéhradeckého kraje na území Královéhradeckého kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Otevřená data KHK",
+          "IZS"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALY",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0",
+          "přístupové_url": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDjezdov%C3%A9_stanice_Zdravotnick%C3%A9_z%C3%A1chrann%C3%A9_slu%C5%BEby_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDjezdov%C3%A9_stanice_Zdravotnick%C3%A9_z%C3%A1chrann%C3%A9_slu%C5%BEby_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+          "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDjezdov%C3%A9_stanice_Zdravotnick%C3%A9_z%C3%A1chrann%C3%A9_slu%C5%BEby_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "KML"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "Shapefile"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/c4e7b2614e4a414fbe968da87eb07b5c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/datová-sada.json",
+      "iri": "https://open.datakhk.cz/7d51a76bf674450499fb8934f32cece0_0.jsonld",
+      "typ": "Datová sada",
+      "název": {
+        "cs": "Zastávky"
+      },
+      "popis": {
+        "cs": "{{default.description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Otevřená data KHK",
+          "Doprava"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALY",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0",
+          "přístupové_url": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Zast%C3%A1vky/FeatureServer/0",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Zast%C3%A1vky/FeatureServer/0",
+          "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Zast%C3%A1vky/FeatureServer/0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "KML"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "název": {
+            "cs": "Shapefile"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "přístupové_url": "https://www.datakhk.cz/datasets/7d51a76bf674450499fb8934f32cece0_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    }
+  ]
+}
