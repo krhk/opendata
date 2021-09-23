@@ -25,7 +25,7 @@ import { generateUrl } from '../generator';
 		jméno: {
 			cs: CONFIG.META_LKOD.contact_name,
 		},
-		"e-mail": CONFIG.META_LKOD.contact_email,
+		"e-mail": `mailto:${CONFIG.META_LKOD.contact_email}`,
 	}
 	dto['datová_sada'] = [];
 	dto['_datasets'] = [];
