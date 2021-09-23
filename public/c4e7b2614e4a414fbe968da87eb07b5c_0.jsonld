@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/datová-sada.json",
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://open.datakhk.cz/c4e7b2614e4a414fbe968da87eb07b5c_0.jsonld",
   "typ": "Datová sada",
   "název": {

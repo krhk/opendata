@@ -16,5 +16,5 @@ export const META_LKOD = {
 	homepage: "https://datakhk.cz",
 	contact_type: 'Organizace',
 	contact_name: 'Krajský úřad Královéhradeckého kraje / Odbor analýz a podpory řízení',
-	contact_email: 'info@datakhk.cz',
+	contact_email: 'datakhk@kr-kralovehradecky.cz',
 }

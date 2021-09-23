@@ -9,7 +9,7 @@ import { generateUrl } from '../generator';
 	const dto: Partial<Transfer.Root> = {};
 
 	// Catalogue
-	dto["@context"] = "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/katalog.json";
+	dto["@context"] = "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld";
 	dto['iri'] = generateUrl('katalog.jsonld');
 	dto['typ'] = "Katalog";
 	dto['domovská_stránka'] = CONFIG.META_LKOD.homepage;
@@ -35,7 +35,7 @@ import { generateUrl } from '../generator';
 		const dataset: Partial<Lkod.Dataset> = {};
 
 		const id = parseIdentifier(arcgisDataset.identifier);
-		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/schémata/datová-sada.json';
+		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld';
 		dataset['iri'] = generateUrl(`${id}.jsonld`);
 		dataset['typ'] = 'Datová sada';
 		dataset['název'] = {
