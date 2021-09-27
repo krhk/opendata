@@ -10,14 +10,14 @@
       "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0",
       "title": "Seznam organizací Královéhradeckého kraje",
-      "description": "<br />",
+      "description": "<div><font size='3'>Datová sada s prostorovou lokalizací sídel právnických osob a organizačních složek založených nebo zřízených Královéhradeckým krajem. <br /></font></div><div><font size='3'><br /></font></div><div><font size='3'><span style='font-weight:bold;'>Součástí datové sady jsou tyto atributy:</span></font><span style='font-weight:bold;'></span><br /><span style='font-weight:bold;'></span></div><ul><li><span style='font-weight:bold;'>DP_ID</span> – jedinečný identifikátor</li><li><span style='font-weight:bold;'>Nazev</span> – název organizace</li><li><span style='font-weight:bold;'>ICO</span> – IČO organizace</li><li><span style='font-weight:bold;'>Pravni_forma</span> – právní forma</li><li><span style='font-weight:bold;'>Nazev_obce</span> – název obce sídla organizace</li><li><span style='font-weight:bold;'>Kod_obce</span> – kód obce sídla organizace dle RÚIAN</li><li><span style='font-weight:bold;'>Nazev_ulice </span>– ulice sídla organizace</li><li><span style='font-weight:bold;'>Cislo_domovni</span> – číslo popisné sídla organizace</li><li><span style='font-weight:bold;'>Typ_cisla_domovniho</span> – typ čísla domovního</li><li><span style='font-weight:bold;'>PSC </span>– poštovní směrovací číslo sídla organizace</li><li><span style='font-weight:bold;'>www_1</span> – webové stránky organizace </li><li><span style='font-weight:bold;'>www_2</span> – webové stránky organizace </li><li><span style='font-weight:bold;'>Fotografie_zdroj</span> – zdroj fotografie</li><li><span style='font-weight:bold;'>Fotografie_1</span> – fotografie 2000x1500 pixelů</li><li><span style='font-weight:bold;'>Fotografie_2</span> – fotografie v rozlišení 200x150 pixelů</li><li><span style='font-weight:bold;'>WKT</span> – zápis vektorové geometrie</li><li><span style='font-weight:bold;'>x</span> – zeměpisná délka v souřadnicovém systému WGS84</li><li><span style='font-weight:bold;'>y</span> – zeměpisná šířka v souřadnicovém systému WGS84</li></ul><div><br /></div><div>Data jsou uložena v souřadnicovém systému WGS84.<br /></div>",
       "keyword": [
         "Organizace"
       ],
       "issued": "2021-09-25T21:57:26.000Z",
-      "modified": "2021-09-25T23:58:23.000Z",
+      "modified": "2021-09-26T21:40:28.000Z",
       "publisher": {
-        "name": "Tomas_Merta_DATAKHK"
+        "name": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -69,6 +69,75 @@
         }
       ],
       "spatial": "15.2719,16.2744,16.4684,50.6607",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "landingPage": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0",
+      "title": "Stanice a pracoviště HZS",
+      "description": "Stanice a pracoviště Hasičského záchranného sboru ČR v Královéhradeckém kraji",
+      "keyword": [
+        "IZS"
+      ],
+      "issued": "2021-09-26T21:24:23.000Z",
+      "modified": "2021-09-27T06:54:18.000Z",
+      "publisher": {
+        "name": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Merta_DATAKHK"
+      },
+      "accessLevel": "public",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stanice_a_pracovi%C5%A1t%C4%9B_HZS/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.36,50.1727,16.3355,50.6196",
       "theme": [
         "geospatial"
       ]

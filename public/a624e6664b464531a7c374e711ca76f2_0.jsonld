@@ -1,16 +1,16 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/62fc0e1a69994405b7b3cf653496107f_0.jsonld",
+  "iri": "https://open.datakhk.cz/a624e6664b464531a7c374e711ca76f2_0.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Seznam organizací Královéhradeckého kraje"
+    "cs": "Stanice a pracoviště HZS"
   },
   "popis": {
-    "cs": "<div><font size='3'>Datová sada s prostorovou lokalizací sídel právnických osob a organizačních složek založených nebo zřízených Královéhradeckým krajem. <br /></font></div><div><font size='3'><br /></font></div><div><font size='3'><span style='font-weight:bold;'>Součástí datové sady jsou tyto atributy:</span></font><span style='font-weight:bold;'></span><br /><span style='font-weight:bold;'></span></div><ul><li><span style='font-weight:bold;'>DP_ID</span> – jedinečný identifikátor</li><li><span style='font-weight:bold;'>Nazev</span> – název organizace</li><li><span style='font-weight:bold;'>ICO</span> – IČO organizace</li><li><span style='font-weight:bold;'>Pravni_forma</span> – právní forma</li><li><span style='font-weight:bold;'>Nazev_obce</span> – název obce sídla organizace</li><li><span style='font-weight:bold;'>Kod_obce</span> – kód obce sídla organizace dle RÚIAN</li><li><span style='font-weight:bold;'>Nazev_ulice </span>– ulice sídla organizace</li><li><span style='font-weight:bold;'>Cislo_domovni</span> – číslo popisné sídla organizace</li><li><span style='font-weight:bold;'>Typ_cisla_domovniho</span> – typ čísla domovního</li><li><span style='font-weight:bold;'>PSC </span>– poštovní směrovací číslo sídla organizace</li><li><span style='font-weight:bold;'>www_1</span> – webové stránky organizace </li><li><span style='font-weight:bold;'>www_2</span> – webové stránky organizace </li><li><span style='font-weight:bold;'>Fotografie_zdroj</span> – zdroj fotografie</li><li><span style='font-weight:bold;'>Fotografie_1</span> – fotografie 2000x1500 pixelů</li><li><span style='font-weight:bold;'>Fotografie_2</span> – fotografie v rozlišení 200x150 pixelů</li><li><span style='font-weight:bold;'>WKT</span> – zápis vektorové geometrie</li><li><span style='font-weight:bold;'>x</span> – zeměpisná délka v souřadnicovém systému WGS84</li><li><span style='font-weight:bold;'>y</span> – zeměpisná šířka v souřadnicovém systému WGS84</li></ul><div><br /></div><div>Data jsou uložena v souřadnicovém systému WGS84.<br /></div>"
+    "cs": "Stanice a pracoviště Hasičského záchranného sboru ČR v Královéhradeckém kraji"
   },
   "klíčové_slovo": {
     "cs": [
-      "Organizace"
+      "IZS"
     ]
   },
   "téma": [
@@ -23,12 +23,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0",
+      "iri": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0",
-      "přístupové_url": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0",
+      "přístupové_url": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -41,12 +41,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stanice_a_pracovi%C5%A1t%C4%9B_HZS/FeatureServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stanice_a_pracovi%C5%A1t%C4%9B_HZS/FeatureServer/0",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stanice_a_pracovi%C5%A1t%C4%9B_HZS/FeatureServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -59,12 +59,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -77,12 +77,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -95,12 +95,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
@@ -113,12 +113,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datakhk.cz/datasets/62fc0e1a69994405b7b3cf653496107f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datakhk.cz/datasets/a624e6664b464531a7c374e711ca76f2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
