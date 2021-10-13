@@ -1,4 +1,5 @@
 import _url from 'url';
+import _ from "lodash";
 import * as CONFIG from '@/config';
 import { httpGet } from '@/http';
 import { writeJson } from '@/helpers';
@@ -10,6 +11,10 @@ async function downloadArcgis(): Promise<any> {
 
 async function syncArcgis(): Promise<any> {
 	const arcgis = await downloadArcgis();
+
+	// Order datasets
+	arcgis.dataset = _.orderBy(arcgis.dataset, 'identifier');
+
 	await writeJson(CONFIG.ARCGIS_FILE, arcgis);
 }
 
