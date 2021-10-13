@@ -1,3 +1,4 @@
+import _ from "lodash";
 import { readJson, parseIdentifier, writeJson } from '@/helpers';
 import { detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import _url from 'url';
@@ -30,8 +31,11 @@ import { generateUrl } from '../generator';
 	dto['datová_sada'] = [];
 	dto['_datasets'] = [];
 
+	// Sort datasets
+	const arcgisDatasets = _.orderBy(arcgis.dataset, 'identifier');
+
 	// Datasets
-	for await (const arcgisDataset of arcgis.dataset) {
+	for await (const arcgisDataset of arcgisDatasets) {
 		const dataset: Partial<Lkod.Dataset> = {};
 
 		const id = parseIdentifier(arcgisDataset.identifier);
