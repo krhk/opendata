@@ -1,5 +1,5 @@
 import { readJson, parseIdentifier, writeJson } from '@/helpers';
-import { detectMediaType } from '@/mapper';
+import { detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import _url from 'url';
 import * as CONFIG from '../config';
 import { generateUrl } from '../generator';
@@ -47,8 +47,8 @@ import { generateUrl } from '../generator';
 		dataset['klíčové_slovo'] = {
 			cs: arcgisDataset.keyword,
 		}
-		dataset['téma'] = ['http://publications.europa.eu/resource/authority/data-theme']; // @todo
-		dataset['periodicita_aktualizace'] = 'http://publications.europa.eu/resource/authority/frequency/ANNUALY'; // @todo
+		dataset['téma'] = detectTheme(arcgisDataset);
+		dataset['periodicita_aktualizace'] = detectPeriodicity(arcgisDataset);
 		dataset['prvek_rúian'] = [
 			"https://linked.cuzk.cz/resource/ruian/vusc/86"
 		];

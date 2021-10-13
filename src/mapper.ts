@@ -1,3 +1,6 @@
+import _ from "lodash";
+import * as CONFIG from './config';
+
 export function detectMediaType(type: string): Lib.MediaType {
 	switch (type) {
 		case "text/html":
@@ -16,4 +19,21 @@ export function detectMediaType(type: string): Lib.MediaType {
 			return { fileType: 'UNKNOWN', mediaType: 'unknown' };
 		}
 	}
+}
+
+export function detectPeriodicity(dataset: any): string {
+	const value = _.get(dataset, 'metadata.mdMaint.maintFreq.MaintFreqCd.@_value', '000');
+	const period = CONFIG.META_LKOD.periodicity[value];
+
+	return `http://publications.europa.eu/resource/authority/frequency/${period}`;
+}
+
+export function detectTheme(dataset: any): string[] {
+	const values: string[] = Array.from(dataset.category ?? []);
+
+	return values.map((value: string) => {
+		return CONFIG.META_LKOD.themes[value].map(theme => {
+			return `http://publications.europa.eu/resource/authority/data-theme/${theme.toUpperCase()}`;
+		});
+	}).flatMap(value => value);
 }
