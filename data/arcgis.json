@@ -2097,7 +2097,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "IZS a bezpečnost"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
