@@ -1,8 +1,8 @@
-import { parseIdentifier, readJson, writeJson } from '@/helpers';
 import _url from 'url';
 import path from 'path';
 import _ from "lodash";
-import * as CONFIG from '../config';
+import { parseIdentifier, readJson, writeJson } from '@/helpers';
+import * as CONFIG from '../../config';
 
 (async () => {
 	const dto: Transfer.Root = await readJson(CONFIG.DTO_FILE);

@@ -1,5 +1,5 @@
 import _ from "lodash";
-import * as CONFIG from './config';
+import * as CONFIG from '../config';
 
 export function detectMediaType(type: string): Lib.MediaType {
 	switch (type) {

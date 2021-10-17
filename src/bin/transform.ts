@@ -1,9 +1,9 @@
 import _ from "lodash";
+import _url from 'url';
 import { readJson, parseIdentifier, writeJson } from '@/helpers';
 import { detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
-import _url from 'url';
-import * as CONFIG from '../config';
-import { generateUrl } from '../generator';
+import { generateUrl } from '@/generator';
+import * as CONFIG from '../../config';
 
 (async () => {
 	const arcgis: Arcgis.Catalogue = await readJson(CONFIG.ARCGIS_FILE);

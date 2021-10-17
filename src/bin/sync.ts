@@ -1,8 +1,8 @@
 import _url from 'url';
 import _ from "lodash";
-import * as CONFIG from '@/config';
 import { httpGet } from '@/http';
 import { writeJson } from '@/helpers';
+import * as CONFIG from '../../config';
 
 async function downloadArcgis(): Promise<any> {
 	const res = await httpGet(CONFIG.ARCGIS_URL);
