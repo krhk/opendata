@@ -6,6 +6,106 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
+      "title": "Divadla a filharmonie",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Divadla",
+        "Filharmonie",
+        "Kultura"
+      ],
+      "issued": "2021-10-21T23:19:48.000Z",
+      "modified": "2021-10-21T23:20:04.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23550400,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/divadla_filharmonie.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"divadla_filharmonie\",\"uRI\":\"CIMPATH=mapa/divadla_filharmonie.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"divadla_filharmonie\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"divadla_filharmonie\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211020,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Divadla",
+              "Filharmonie",
+              "Kultura"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Divadla_a_filharmonie/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.3581,50.1233,16.3318,50.631",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0",
@@ -15,7 +115,7 @@
         "Památky"
       ],
       "issued": "2021-10-08T22:10:42.000Z",
-      "modified": "2021-10-08T23:12:55.000Z",
+      "modified": "2021-10-21T22:25:25.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -294,6 +394,202 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
+      "title": "Zámky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Zámky",
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:31:03.000Z",
+      "modified": "2021-10-21T23:31:18.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 41300,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zamky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zamky\",\"uRI\":\"CIMPATH=mapa/zamky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zamky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zamky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Zámky",
+              "Památky"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1mky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1698,50.0824,16.4642,50.627",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
+      "title": "Infocentra",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Infocentra",
+        "Cestovní ruch"
+      ],
+      "issued": "2021-10-21T23:23:18.000Z",
+      "modified": "2021-10-21T23:23:34.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23555700,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/infocentra.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"infocentra\",\"uRI\":\"CIMPATH=mapa/infocentra.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"infocentra\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"infocentra\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211020,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Infocentra",
+              "Cestovní ruch"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Infocentra/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1768,50.0818,16.4728,50.7519",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1597c4b3e3414dbba5abf534f90f2dca_1",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/1597c4b3e3414dbba5abf534f90f2dca_1",
@@ -445,6 +741,294 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
+      "title": "Zábavní centra",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Kultura"
+      ],
+      "issued": "2021-10-21T23:30:06.000Z",
+      "modified": "2021-10-21T23:30:25.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 35200,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zabavni_centra.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zabavni_centra\",\"uRI\":\"CIMPATH=mapa/zabavni_centra.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zabavni_centra\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zabavni_centra\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Kultura"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1bavn%C3%AD_centra/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.3508,50.1561,16.3465,50.7468",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
+      "title": "Pevnosti a opevnění",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Pevnosti",
+        "Opevnění",
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:26:42.000Z",
+      "modified": "2021-10-21T23:26:55.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 20100,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/pevnosti_opevneni.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"pevnosti_opevneni\",\"uRI\":\"CIMPATH=mapa/pevnosti_opevneni.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"pevnosti_opevneni\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"pevnosti_opevneni\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Pevnosti",
+              "Opevnění",
+              "Památky"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pevnosti_a_opevn%C4%9Bn%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1299,50.1802,16.5156,50.6305",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0",
+      "title": "Ostatní historické památky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:25:54.000Z",
+      "modified": "2021-10-21T23:26:06.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 14000,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/ostatni_historicke_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"ostatni_historicke_pamatky\",\"uRI\":\"CIMPATH=mapa/ostatni_historicke_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"ostatni_historicke_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"ostatni_historicke_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ostatn%C3%AD_historick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1592,50.1501,16.4754,50.7524",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0",
@@ -583,6 +1167,100 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
+      "title": "Přírodní zajímavosti",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Příroda"
+      ],
+      "issued": "2021-10-21T23:27:35.000Z",
+      "modified": "2021-10-21T23:27:48.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23000,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/prirodni_zajimavosti.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"prirodni_zajimavosti\",\"uRI\":\"CIMPATH=mapa/prirodni_zajimavosti.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"prirodni_zajimavosti\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"prirodni_zajimavosti\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Příroda"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_zaj%C3%ADmavosti/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1199,50.0713,16.5794,50.779",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0",
@@ -592,7 +1270,7 @@
         "Památky"
       ],
       "issued": "2021-10-08T21:31:17.000Z",
-      "modified": "2021-10-08T23:02:57.000Z",
+      "modified": "2021-10-21T22:25:39.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -742,7 +1420,7 @@
         "Kultura"
       ],
       "issued": "2021-10-08T22:27:08.000Z",
-      "modified": "2021-10-08T23:20:52.000Z",
+      "modified": "2021-10-21T22:24:39.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -877,6 +1555,104 @@
         }
       ],
       "spatial": "15.1768,50.116,16.4647,50.6212",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
+      "title": "Architektura",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Architektura",
+        "Památky"
+      ],
+      "issued": "2021-10-21T22:34:16.000Z",
+      "modified": "2021-10-21T22:34:32.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23534900,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/architektura.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"architektura\",\"uRI\":\"CIMPATH=mapa/architektura.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"architektura\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"architektura\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211020,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Architektura",
+              "Památky"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Architektura/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1555,50.0974,16.4651,50.7359",
       "theme": [
         "geospatial"
       ]
@@ -1518,7 +2294,7 @@
         "Památky"
       ],
       "issued": "2021-10-08T21:41:32.000Z",
-      "modified": "2021-10-08T23:14:59.000Z",
+      "modified": "2021-10-21T22:25:15.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1653,6 +2429,196 @@
         }
       ],
       "spatial": "15.2724,50.2106,16.1912,50.5801",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0",
+      "title": "Kluby",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Kluby",
+        "Kultura"
+      ],
+      "issued": "2021-10-21T23:24:09.000Z",
+      "modified": "2021-10-21T23:24:25.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 4500,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/kluby.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"kluby\",\"uRI\":\"CIMPATH=mapa/kluby.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"kluby\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"kluby\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Kluby",
+              "Kultura"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Kluby/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.3585,50.116,16.2911,50.7258",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
+      "title": "Cyklovýlety",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Cyklovýlety"
+      ],
+      "issued": "2021-10-21T22:07:51.000Z",
+      "modified": "2021-10-21T22:24:01.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23185600,
+          "DataProperties": "",
+          "CreaDate": 20210914,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Cyklovýlety"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Cyklov%C3%BDlety/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.0831,50.0822,16.5137,50.7489",
       "theme": [
         "geospatial"
       ]
@@ -1850,6 +2816,104 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
+      "title": "Hrady",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Hrady",
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:21:46.000Z",
+      "modified": "2021-10-21T23:22:03.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23552500,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/hrady.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"hrady\",\"uRI\":\"CIMPATH=mapa/hrady.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"hrady\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"hrady\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211020,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Hrady",
+              "Památky"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hrady/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1353,50.078,16.3982,50.6679",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/8d377ec220f94c9f816c5ea7fce005ed_1",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/8d377ec220f94c9f816c5ea7fce005ed_1",
@@ -1994,6 +3058,100 @@
         }
       ],
       "spatial": "15.216,50.1169,16.3317,50.6959",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
+      "title": "Židovské památky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:31:49.000Z",
+      "modified": "2021-10-21T23:32:03.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 43700,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zidovske_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zidovske_pamatky\",\"uRI\":\"CIMPATH=mapa/zidovske_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zidovske_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zidovske_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C5%BDidovsk%C3%A9_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.3528,50.1215,16.4688,50.4424",
       "theme": [
         "geospatial"
       ]
@@ -2160,7 +3318,7 @@
         "Kultura"
       ],
       "issued": "2021-10-08T22:13:40.000Z",
-      "modified": "2021-10-08T23:18:40.000Z",
+      "modified": "2021-10-21T22:25:04.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2295,6 +3453,198 @@
         }
       ],
       "spatial": "15.1768,50.0951,16.339,50.631",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
+      "title": "Technické památky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:29:14.000Z",
+      "modified": "2021-10-21T23:29:26.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 33000,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/technicke_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"technicke_pamatky\",\"uRI\":\"CIMPATH=mapa/technicke_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"technicke_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"technicke_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Technick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.3405,50.1128,16.4663,50.7327",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0",
+      "title": "Lanovky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Lanovky",
+        "Cestovní ruch"
+      ],
+      "issued": "2021-10-21T23:25:07.000Z",
+      "modified": "2021-10-21T23:25:23.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11100,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/lanovky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"lanovky\",\"uRI\":\"CIMPATH=mapa/lanovky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"lanovky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"lanovky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Lanovky",
+              "Cestovní ruch"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Lanovky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.5808,50.2257,16.4606,50.7339",
       "theme": [
         "geospatial"
       ]
@@ -2501,7 +3851,7 @@
         "Kultura"
       ],
       "issued": "2021-10-08T22:20:47.000Z",
-      "modified": "2021-10-08T23:19:56.000Z",
+      "modified": "2021-10-21T22:24:53.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2636,6 +3986,104 @@
         }
       ],
       "spatial": "15.163,50.0483,16.5473,50.7251",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
+      "title": "Rozhledny a vyhlídky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Rozhledny",
+        "Cestovní ruch"
+      ],
+      "issued": "2021-10-21T23:28:25.000Z",
+      "modified": "2021-10-21T23:28:37.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 30800,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/rozhledny_vyhlidky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"rozhledny_vyhlidky\",\"uRI\":\"CIMPATH=mapa/rozhledny_vyhlidky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"rozhledny_vyhlidky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"rozhledny_vyhlidky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211021,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Rozhledny",
+              "Cestovní ruch"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Rozhledny_a_vyhl%C3%ADdky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1698,50.0923,16.5127,50.7443",
       "theme": [
         "geospatial"
       ]
@@ -3190,6 +4638,104 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
+      "title": "Církevní památky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Kostely",
+        "Památky"
+      ],
+      "issued": "2021-10-21T23:18:53.000Z",
+      "modified": "2021-10-21T23:19:09.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 23543300,
+          "DataProperties": {
+            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/cirkevni_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"cirkevni_pamatky\",\"uRI\":\"CIMPATH=mapa/cirkevni_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"cirkevni_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"cirkevni_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
+          },
+          "CreaDate": 20211020,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "...",
+          "searchKeys": {
+            "keyword": [
+              "Kostely",
+              "Památky"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/C%C3%ADrkevn%C3%AD_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1708,50.0529,16.5505,50.736",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0",
@@ -3199,7 +4745,7 @@
         "Kultura"
       ],
       "issued": "2021-10-08T22:32:31.000Z",
-      "modified": "2021-10-08T23:22:24.000Z",
+      "modified": "2021-10-21T22:24:27.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
