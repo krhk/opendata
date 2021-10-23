@@ -7,17 +7,17 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
       "title": "Divadla a filharmonie",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Divadla",
         "Filharmonie",
         "Kultura"
       ],
       "issued": "2021-10-21T23:19:48.000Z",
-      "modified": "2021-10-21T23:20:04.000Z",
+      "modified": "2021-10-22T11:57:23.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -27,19 +27,46 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634903697693r7584217647104771",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23550400,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/divadla_filharmonie.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"divadla_filharmonie\",\"uRI\":\"CIMPATH=mapa/divadla_filharmonie.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"divadla_filharmonie\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"divadla_filharmonie\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211020,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-20",
+          "ModTime": "13:55:36.14",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:54:56.46",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Divadla a filharmonie"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Divadla",
@@ -47,14 +74,43 @@
               "Kultura"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -395,16 +451,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
       "title": "Zámky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Zámky",
         "Památky"
       ],
       "issued": "2021-10-21T23:31:03.000Z",
-      "modified": "2021-10-21T23:31:18.000Z",
+      "modified": "2021-10-22T12:16:10.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -414,33 +470,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904944714r5029390014527854",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 41300,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zamky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zamky\",\"uRI\":\"CIMPATH=mapa/zamky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zamky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zamky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:15:53.63",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:15:43.56",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Zámky"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Zámky",
               "Památky"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -493,16 +605,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
       "title": "Infocentra",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Infocentra",
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:23:18.000Z",
-      "modified": "2021-10-21T23:23:34.000Z",
+      "modified": "2021-10-22T11:58:46.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -512,33 +624,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634903903276r28498894231863015",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23555700,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/infocentra.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"infocentra\",\"uRI\":\"CIMPATH=mapa/infocentra.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"infocentra\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"infocentra\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211020,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-20",
+          "ModTime": "13:58:34.18",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:58:22.14",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Infocentra"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Infocentra",
               "Cestovní ruch"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -742,15 +910,15 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
       "title": "Zábavní centra",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Kultura"
       ],
       "issued": "2021-10-21T23:30:06.000Z",
-      "modified": "2021-10-21T23:30:25.000Z",
+      "modified": "2021-10-22T12:15:14.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -760,30 +928,86 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904896645r8932710293101814",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 35200,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zabavni_centra.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zabavni_centra\",\"uRI\":\"CIMPATH=mapa/zabavni_centra.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zabavni_centra\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zabavni_centra\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:15:06.57",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:14:55.51",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Zábavní centra"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": "Kultura"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -836,17 +1060,17 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
       "title": "Pevnosti a opevnění",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Pevnosti",
         "Opevnění",
         "Památky"
       ],
       "issued": "2021-10-21T23:26:42.000Z",
-      "modified": "2021-10-21T23:26:55.000Z",
+      "modified": "2021-10-22T12:03:19.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -856,19 +1080,46 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904174474r7676856501248329",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 20100,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/pevnosti_opevneni.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"pevnosti_opevneni\",\"uRI\":\"CIMPATH=mapa/pevnosti_opevneni.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"pevnosti_opevneni\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"pevnosti_opevneni\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:03:10.42",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:02:53.55",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Pevnosti a opevnění"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Pevnosti",
@@ -876,14 +1127,43 @@
               "Památky"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1168,15 +1448,15 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
       "title": "Přírodní zajímavosti",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Příroda"
       ],
       "issued": "2021-10-21T23:27:35.000Z",
-      "modified": "2021-10-21T23:27:48.000Z",
+      "modified": "2021-10-22T12:05:29.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1186,30 +1466,87 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904300229r22952934524268243",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23000,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/prirodni_zajimavosti.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"prirodni_zajimavosti\",\"uRI\":\"CIMPATH=mapa/prirodni_zajimavosti.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"prirodni_zajimavosti\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"prirodni_zajimavosti\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:05:13.05",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:04:59.16",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Přírodní zajímavosti"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": "Příroda"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Životní prostředí",
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1562,16 +1899,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
       "title": "Architektura",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Architektura",
         "Památky"
       ],
       "issued": "2021-10-21T22:34:16.000Z",
-      "modified": "2021-10-21T22:34:32.000Z",
+      "modified": "2021-10-22T11:52:47.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1581,33 +1918,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634903524768r9662425525330312",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23534900,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/architektura.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"architektura\",\"uRI\":\"CIMPATH=mapa/architektura.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"architektura\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"architektura\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211020,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-20",
+          "ModTime": "13:52:26.59",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:52:03.84",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Architektura"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Architektura",
               "Památky"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2534,15 +2927,15 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
       "title": "Cyklovýlety",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Cyklovýlety"
       ],
       "issued": "2021-10-21T22:07:51.000Z",
-      "modified": "2021-10-21T22:24:01.000Z",
+      "modified": "2021-10-22T11:23:40.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2552,28 +2945,86 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634901265156r8200702373666332",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23185600,
-          "DataProperties": "",
-          "CreaDate": 20210914,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-09-14",
+          "ModTime": "13:15:35.10",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:14:24.11",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Cyklovýlety"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": "Cyklovýlety"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2817,16 +3268,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
       "title": "Hrady",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Hrady",
         "Památky"
       ],
       "issued": "2021-10-21T23:21:46.000Z",
-      "modified": "2021-10-21T23:22:03.000Z",
+      "modified": "2021-10-22T11:57:07.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2836,33 +3287,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634903790566r4336579804041598",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23552500,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/hrady.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"hrady\",\"uRI\":\"CIMPATH=mapa/hrady.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"hrady\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"hrady\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211020,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-20",
+          "ModTime": "13:56:46.34",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:56:29.61",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Hrady"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Hrady",
               "Památky"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3065,15 +3572,15 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
       "title": "Židovské památky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Památky"
       ],
       "issued": "2021-10-21T23:31:49.000Z",
-      "modified": "2021-10-21T23:32:03.000Z",
+      "modified": "2021-10-22T12:17:17.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3083,30 +3590,86 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634905018080r8238822128870934",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 43700,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/zidovske_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"zidovske_pamatky\",\"uRI\":\"CIMPATH=mapa/zidovske_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"zidovske_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"zidovske_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:17:09.34",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:16:56.99",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Židovské památky"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": "Památky"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3460,15 +4023,15 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
       "title": "Technické památky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Památky"
       ],
       "issued": "2021-10-21T23:29:14.000Z",
-      "modified": "2021-10-21T23:29:26.000Z",
+      "modified": "2021-10-22T12:11:55.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3478,30 +4041,86 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904697863r9235945110845505",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 33000,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/technicke_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"technicke_pamatky\",\"uRI\":\"CIMPATH=mapa/technicke_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"technicke_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"technicke_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:11:47.82",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:11:36.88",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Technické památky"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": "Památky"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3993,16 +4612,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
       "title": "Rozhledny a vyhlídky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Rozhledny",
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:28:25.000Z",
-      "modified": "2021-10-21T23:28:37.000Z",
+      "modified": "2021-10-22T12:10:25.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4012,33 +4631,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634904584175r15250100607617523",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 30800,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/rozhledny_vyhlidky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"rozhledny_vyhlidky\",\"uRI\":\"CIMPATH=mapa/rozhledny_vyhlidky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"rozhledny_vyhlidky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"rozhledny_vyhlidky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211021,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-21",
+          "ModTime": "14:10:01.43",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "14:09:43.09",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Rozhledny a vyhlídky"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Rozhledny",
               "Cestovní ruch"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4639,16 +5314,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
       "title": "Církevní památky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje.",
       "keyword": [
         "Kostely",
         "Památky"
       ],
       "issued": "2021-10-21T23:18:53.000Z",
-      "modified": "2021-10-21T23:19:09.000Z",
+      "modified": "2021-10-22T11:54:01.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4658,33 +5333,89 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1634903616784r04824836870938898",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-22",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 23543300,
-          "DataProperties": {
-            "LayerFile": "{\"type\":\"CIMLayerDocument\",\"version\":\"2.8.0\",\"build\":29751,\"layers\":[\"CIMPATH=mapa/cirkevni_pamatky.xml\"],\"layerDefinitions\":[{\"type\":\"CIMFeatureLayer\",\"name\":\"cirkevni_pamatky\",\"uRI\":\"CIMPATH=mapa/cirkevni_pamatky.xml\",\"sourceModifiedTime\":{\"type\":\"TimeInstant\"},\"useSourceMetadata\":true,\"description\":\"cirkevni_pamatky\",\"layerElevation\":{\"type\":\"CIMLayerElevationSurface\",\"mapElevationID\":\"{3202F502-B6A1-4687-9352-372CFA480B27}\"},\"expanded\":true,\"layerType\":\"Operational\",\"showLegends\":true,\"visibility\":true,\"displayCacheType\":\"Permanent\",\"maxDisplayCacheAge\":5,\"showPopups\":true,\"serviceLayerID\":-1,\"refreshRate\":-1,\"refreshRateUnit\":\"esriTimeUnitsSeconds\",\"blendingMode\":\"Alpha\",\"allowDrapingOnIntegratedMesh\":true,\"autoGenerateFeatureTemplates\":true,\"featureTable\":{\"type\":\"CIMFeatureTable\",\"displayField\":\"nazev\",\"editable\":true,\"dataConnection\":{\"type\":\"CIMStandardDataConnection\",\"workspaceConnectionString\":\"DATABASE=..GIS \n\t\t\t\ta grafikyNa \n\t\t\t\tdatový portálNa \n\t\t\t\tdatový portál.gdb\",\"workspaceFactory\":\"FileGDB\",\"dataset\":\"cirkevni_pamatky\",\"datasetType\":\"esriDTFeatureClass\"},\"studyAreaSpatialRel\":\"esriSpatialRelUndefined\",\"searchOrder\":\"esriSearchOrderSpatial\"},\"htmlPopupEnabled\":true,\"selectable\":true,\"featureCacheType\":\"Session\",\"displayFiltersType\":\"ByScale\",\"featureBlendingMode\":\"Alpha\",\"labelClasses\":[{\"type\":\"CIMLabelClass\",\"expression\":\"$feature.OBJECTID\",\"expressionEngine\":\"Arcade\",\"featuresToLabel\":\"AllVisibleFeatures\",\"maplexLabelPlacementProperties\":{\"type\":\"CIMMaplexLabelPlacementProperties\",\"featureType\":\"Point\",\"avoidPolygonHoles\":true,\"canOverrunFeature\":true,\"canPlaceLabelOutsidePolygon\":true,\"canRemoveOverlappingLabel\":true,\"canStackLabel\":true,\"connectionType\":\"Unambiguous\",\"constrainOffset\":\"NoConstraint\",\"contourAlignmentType\":\"Page\",\"contourLadderType\":\"Straight\",\"contourMaximumAngle\":90,\"enableConnection\":true,\"enablePointPlacementPriorities\":true,\"featureWeight\":0,\"fontHeightReductionLimit\":4,\"fontHeightReductionStep\":0.5,\"fontWidthReductionLimit\":90,\"fontWidthReductionStep\":5,\"graticuleAlignmentType\":\"Straight\",\"keyNumberGroupName\":\"Default\",\"labelBuffer\":15,\"labelLargestPolygon\":true,\"labelPriority\":-1,\"labelStackingProperties\":{\"type\":\"CIMMaplexLabelStackingProperties\",\"stackAlignment\":\"ChooseBest\",\"maximumNumberOfLines\":3,\"minimumNumberOfCharsPerLine\":3,\"maximumNumberOfCharsPerLine\":24,\"separators\":[{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\" \",\"splitAfter\":true},{\"type\":\"CIMMaplexStackingSeparator\",\"separator\":\",\",\"visible\":true,\"splitAfter\":true}],\"trimStackingSeparators\":true},\"lineFeatureType\":\"General\",\"linePlacementMethod\":\"OffsetCurvedFromLine\",\"maximumLabelOverrun\":36,\"maximumLabelOverrunUnit\":\"Point\",\"minimumFeatureSizeUnit\":\"Map\",\"multiPartOption\":\"OneLabelPerPart\",\"offsetAlongLineProperties\":{\"type\":\"CIMMaplexOffsetAlongLineProperties\",\"placementMethod\":\"BestPositionAlongLine\",\"labelAnchorPoint\":\"CenterOfLabel\",\"distanceUnit\":\"Percentage\",\"useLineDirection\":true},\"pointExternalZonePriorities\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"pointPlacementMethod\":\"AroundPoint\",\"polygonAnchorPointType\":\"GeometricCenter\",\"polygonBoundaryWeight\":0,\"polygonExternalZones\":{\"type\":\"CIMMaplexExternalZonePriorities\",\"aboveLeft\":4,\"aboveCenter\":2,\"aboveRight\":1,\"centerRight\":3,\"belowRight\":5,\"belowCenter\":7,\"belowLeft\":8,\"centerLeft\":6},\"polygonFeatureType\":\"General\",\"polygonInternalZones\":{\"type\":\"CIMMaplexInternalZonePriorities\",\"center\":1},\"polygonPlacementMethod\":\"CurvedInPolygon\",\"primaryOffset\":1,\"primaryOffsetUnit\":\"Point\",\"removeExtraWhiteSpace\":true,\"repetitionIntervalUnit\":\"Point\",\"rotationProperties\":{\"type\":\"CIMMaplexRotationProperties\",\"rotationType\":\"Arithmetic\",\"alignmentType\":\"Straight\"},\"secondaryOffset\":100,\"strategyPriorities\":{\"type\":\"CIMMaplexStrategyPriorities\",\"stacking\":1,\"overrun\":2,\"fontCompression\":3,\"fontReduction\":4,\"abbreviation\":5},\"thinningDistanceUnit\":\"Point\",\"truncationMarkerCharacter\":\".\",\"truncationMinimumLength\":1,\"truncationPreferredCharacters\":\"aeiou\",\"truncationExcludedCharacters\":\"0123456789\",\"polygonAnchorPointPerimeterInsetUnit\":\"Point\"},\"name\":\"Class 1\",\"priority\":-1,\"standardLabelPlacementProperties\":{\"type\":\"CIMStandardLabelPlacementProperties\",\"featureType\":\"Line\",\"featureWeight\":\"Low\",\"labelWeight\":\"High\",\"numLabelsOption\":\"OneLabelPerName\",\"lineLabelPosition\":{\"type\":\"CIMStandardLineLabelPosition\",\"above\":true,\"inLine\":true,\"parallel\":true},\"lineLabelPriorities\":{\"type\":\"CIMStandardLineLabelPriorities\",\"aboveStart\":3,\"aboveAlong\":3,\"aboveEnd\":3,\"centerStart\":3,\"centerAlong\":3,\"centerEnd\":3,\"belowStart\":3,\"belowAlong\":3,\"belowEnd\":3},\"pointPlacementMethod\":\"AroundPoint\",\"pointPlacementPriorities\":{\"type\":\"CIMStandardPointPlacementPriorities\",\"aboveLeft\":2,\"aboveCenter\":2,\"aboveRight\":1,\"centerLeft\":3,\"centerRight\":2,\"belowLeft\":3,\"belowCenter\":3,\"belowRight\":2},\"rotationType\":\"Arithmetic\",\"polygonPlacementMethod\":\"AlwaysHorizontal\"},\"textSymbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMTextSymbol\",\"blockProgression\":\"TTB\",\"depth3D\":1,\"extrapolateBaselines\":true,\"fontEffects\":\"Normal\",\"fontEncoding\":\"Unicode\",\"fontFamilyName\":\"Tahoma\",\"fontStyleName\":\"Regular\",\"fontType\":\"Unspecified\",\"haloSize\":1,\"height\":10,\"hinting\":\"Default\",\"horizontalAlignment\":\"Left\",\"kerning\":true,\"letterWidth\":100,\"ligatures\":true,\"lineGapType\":\"ExtraLeading\",\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,0,0,100]}}]},\"textCase\":\"Normal\",\"textDirection\":\"LTR\",\"verticalAlignment\":\"Bottom\",\"verticalGlyphOrientation\":\"Right\",\"wordSpacing\":100,\"billboardMode3D\":\"FaceNearPlane\"}},\"useCodedValue\":true,\"visibility\":true,\"iD\":-1}],\"renderer\":{\"type\":\"CIMSimpleRenderer\",\"patch\":\"Default\",\"symbol\":{\"type\":\"CIMSymbolReference\",\"symbol\":{\"type\":\"CIMPointSymbol\",\"symbolLayers\":[{\"type\":\"CIMVectorMarker\",\"enable\":true,\"anchorPoint\":{\"x\":0,\"y\":-0.5},\"anchorPointUnits\":\"Relative\",\"dominantSizeAxis3D\":\"Y\",\"size\":12,\"billboardMode3D\":\"FaceNearPlane\",\"frame\":{\"xmin\":0,\"ymin\":0,\"xmax\":21,\"ymax\":21},\"markerGraphics\":[{\"type\":\"CIMMarkerGraphic\",\"geometry\":{\"curveRings\":[[[17.170000000000002,14.33],{\"b\":[[10.5,0],[17.170000000000002,10.65],[12.380000000000001,6.1500000000000004]]},{\"b\":[[3.8300000000000001,14.33],[8.6500000000000004,6.1799999999999997],[3.8300000000000001,10.65]]},{\"b\":[[10.5,21],[3.8300000000000001,18.010000000000002],[6.8200000000000003,21]]},{\"b\":[[17.170000000000002,14.33],[14.19,21],[17.170000000000002,18.010000000000002]]}]]},\"symbol\":{\"type\":\"CIMPolygonSymbol\",\"symbolLayers\":[{\"type\":\"CIMSolidStroke\",\"enable\":true,\"capStyle\":\"Round\",\"joinStyle\":\"Round\",\"lineStyle3D\":\"Strip\",\"miterLimit\":10,\"width\":0,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[110,110,110,100]}},{\"type\":\"CIMSolidFill\",\"enable\":true,\"color\":{\"type\":\"CIMRGBColor\",\"values\":[0,122,194,80]}}]}}],\"scaleSymbolsProportionally\":true,\"respectFrame\":true}],\"haloSize\":1,\"scaleX\":1,\"angleAlignment\":\"Display\"}}},\"scaleSymbols\":true,\"snappable\":true}]}"
-          },
-          "CreaDate": 20211020,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-22",
+          "CreaDate": "2021-10-20",
+          "ModTime": "13:53:53.40",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "13:53:34.89",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Církevní památky"
+          },
           "idPurp": "...",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Kostely",
               "Památky"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",

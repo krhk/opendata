@@ -65,7 +65,7 @@
         "cs": "Divadla a filharmonie"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -74,8 +74,10 @@
           "Kultura"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -428,7 +430,7 @@
         "cs": "Zámky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -436,8 +438,10 @@
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -560,7 +564,7 @@
         "cs": "Infocentra"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -568,8 +572,10 @@
           "Cestovní ruch"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -825,15 +831,17 @@
         "cs": "Zábavní centra"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Kultura"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -956,7 +964,7 @@
         "cs": "Pevnosti a opevnění"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -965,8 +973,10 @@
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1317,15 +1327,18 @@
         "cs": "Přírodní zajímavosti"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Příroda"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1714,7 +1727,7 @@
         "cs": "Architektura"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1722,8 +1735,10 @@
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2512,15 +2527,17 @@
         "cs": "Cyklovýlety"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Cyklovýlety"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2776,7 +2793,7 @@
         "cs": "Hrady"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2784,8 +2801,10 @@
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3041,15 +3060,17 @@
         "cs": "Židovské památky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3438,15 +3459,17 @@
         "cs": "Technické památky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3967,7 +3990,7 @@
         "cs": "Rozhledny a vyhlídky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3975,8 +3998,10 @@
           "Cestovní ruch"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4633,7 +4658,7 @@
         "cs": "Církevní památky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4641,8 +4666,10 @@
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],

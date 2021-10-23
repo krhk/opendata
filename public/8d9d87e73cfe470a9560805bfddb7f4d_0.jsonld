@@ -6,15 +6,17 @@
     "cs": "Židovské památky"
   },
   "popis": {
-    "cs": "{{default.description}}"
+    "cs": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
       "Památky"
     ]
   },
-  "téma": [],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
