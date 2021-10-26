@@ -6,11 +6,13 @@
     "cs": "Seznam autobusových zastávek IREDO"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje."
+    "cs": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Oddělení informatiky Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Veřejná doprava"
+      "Autobusy",
+      "Zastávky",
+      "Doprava"
     ]
   },
   "téma": [

@@ -6,11 +6,13 @@
     "cs": "Lékařská pohotovostní služba"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji."
+    "cs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Zdravotnictví"
+      "Zdravotnictví",
+      "Lékaři",
+      "Pohotovost"
     ]
   },
   "téma": [

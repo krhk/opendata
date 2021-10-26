@@ -3,13 +3,15 @@
   "iri": "https://open.datakhk.cz/4d91eb9483524acca6d5b4022c20d82a_1.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Počty studentů krajských VOŠ"
+    "cs": "Počty studentů krajských vyšších odborných škol"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách."
+    "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
+      "Vyšší odborné školy",
+      "VOŠ",
       "Školy"
     ]
   },

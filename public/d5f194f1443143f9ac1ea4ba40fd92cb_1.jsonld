@@ -6,11 +6,12 @@
     "cs": "Seznam škol a školských zařízení"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele."
+    "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Školy"
+      "Školy",
+      "Školská zařízení"
     ]
   },
   "téma": [

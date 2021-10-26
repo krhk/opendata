@@ -3,14 +3,15 @@
   "iri": "https://open.datakhk.cz/1597c4b3e3414dbba5abf534f90f2dca_1.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Výjezdové základny ZZS"
+    "cs": "Výjezdové základny zdravotnické záchranné služby"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí."
+    "cs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "IZS"
+      "IZS",
+      "Zdravotnická záchranná služba"
     ]
   },
   "téma": [

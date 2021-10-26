@@ -3,13 +3,14 @@
   "iri": "https://open.datakhk.cz/e38c46d61bae46ed99bbc7c0445aeb17_1.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Počty žáků v oborech středních škol"
+    "cs": "Počty žáků v oborech středních škol zřizovaných krajem"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací oborů středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých oborech."
+    "cs": "Datová sada s prostorovou lokalizací oborů středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých oborech. Zdrojem dat je Datový sklad Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
+      "Střední školy",
       "Školy"
     ]
   },
@@ -17,7 +18,7 @@
     "http://publications.europa.eu/resource/authority/data-theme/EDUC",
     "http://publications.europa.eu/resource/authority/data-theme/TECH"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

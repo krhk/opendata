@@ -6,11 +6,12 @@
     "cs": "Služebny Policie ČR"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací <span>služeben a stanic Policie ČR v Královéhradeckém kraji.</span>"
+    "cs": "Datová sada s prostorovou lokalizací <span>služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.<br /></span>"
   },
   "klíčové_slovo": {
     "cs": [
-      "IZS"
+      "IZS",
+      "Policie"
     ]
   },
   "téma": [

@@ -6,11 +6,12 @@
     "cs": "Národní kulturní památky na indikativním seznamu"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji."
+    "cs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Památky"
+      "Památky",
+      "NKP"
     ]
   },
   "téma": [

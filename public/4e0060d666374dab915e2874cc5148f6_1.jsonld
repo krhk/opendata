@@ -6,11 +6,12 @@
     "cs": "Následná péče"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji."
+    "cs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Zdravotnictví"
+      "Zdravotnictví",
+      "Následná péče"
     ]
   },
   "téma": [

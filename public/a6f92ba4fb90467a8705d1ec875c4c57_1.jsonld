@@ -3,14 +3,15 @@
   "iri": "https://open.datakhk.cz/a6f92ba4fb90467a8705d1ec875c4c57_1.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Stanice a pracoviště HZS"
+    "cs": "Stanice a pracoviště hasičského záchranného sboru"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji."
+    "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je  Hasičský záchranný sbor Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "IZS"
+      "IZS",
+      "Hasiči"
     ]
   },
   "téma": [

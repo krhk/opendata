@@ -6,11 +6,12 @@
     "cs": "Kulturní domy"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Kultura"
+      "Kultura",
+      "Kulturní domy"
     ]
   },
   "téma": [

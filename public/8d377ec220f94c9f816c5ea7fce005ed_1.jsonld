@@ -6,11 +6,12 @@
     "cs": "Stomatologická lékařská pohotovostní služba"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací poskytovatelů stomatologické pohotovosti v Královéhradeckém kraji."
+    "cs": "Datová sada s prostorovou lokalizací poskytovatelů stomatologické pohotovosti v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Zdravotnictví"
+      "Zdravotnictví",
+      "Zubaři"
     ]
   },
   "téma": [

@@ -200,11 +200,12 @@
         "cs": "Národní kulturní památky na indikativním seznamu"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji."
+        "cs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "NKP"
         ]
       },
       "téma": [
@@ -695,14 +696,15 @@
       "iri": "https://open.datakhk.cz/1597c4b3e3414dbba5abf534f90f2dca_1.jsonld",
       "typ": "Datová sada",
       "název": {
-        "cs": "Výjezdové základny ZZS"
+        "cs": "Výjezdové základny zdravotnické záchranné služby"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí."
+        "cs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "IZS"
+          "IZS",
+          "Zdravotnická záchranná služba"
         ]
       },
       "téma": [
@@ -1461,11 +1463,12 @@
         "cs": "Válečné hroby"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací všech válečných hrobů na území Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací všech válečných hrobů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "Hroby"
         ]
       },
       "téma": [
@@ -1594,11 +1597,12 @@
         "cs": "Kulturní domy"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Kultura"
+          "Kultura",
+          "Kulturní domy"
         ]
       },
       "téma": [
@@ -1858,13 +1862,15 @@
       "iri": "https://open.datakhk.cz/4d91eb9483524acca6d5b4022c20d82a_1.jsonld",
       "typ": "Datová sada",
       "název": {
-        "cs": "Počty studentů krajských VOŠ"
+        "cs": "Počty studentů krajských vyšších odborných škol"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách."
+        "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
+          "Vyšší odborné školy",
+          "VOŠ",
           "Školy"
         ]
       },
@@ -1995,7 +2001,7 @@
         "cs": "Seznam organizací Královéhradeckého kraje"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací sídel právnických osob a organizačních složek založených nebo zřízených Královéhradeckým krajem."
+        "cs": "Datová sada s prostorovou lokalizací sídel právnických osob a organizačních složek založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Organizační řád Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2129,11 +2135,12 @@
         "cs": "Následná péče"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji."
+        "cs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Zdravotnictví"
+          "Zdravotnictví",
+          "Následná péče"
         ]
       },
       "téma": [
@@ -2262,11 +2269,12 @@
         "cs": "Válečné hroby ve vlastnictví kraje"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK."
+        "cs": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "Hroby"
         ]
       },
       "téma": [
@@ -2660,11 +2668,13 @@
         "cs": "Seznam autobusových zastávek IREDO"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje."
+        "cs": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Oddělení informatiky Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Veřejná doprava"
+          "Autobusy",
+          "Zastávky",
+          "Doprava"
         ]
       },
       "téma": [
@@ -2927,11 +2937,12 @@
         "cs": "Stomatologická lékařská pohotovostní služba"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací poskytovatelů stomatologické pohotovosti v Královéhradeckém kraji."
+        "cs": "Datová sada s prostorovou lokalizací poskytovatelů stomatologické pohotovosti v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Zdravotnictví"
+          "Zdravotnictví",
+          "Zubaři"
         ]
       },
       "téma": [
@@ -3193,11 +3204,12 @@
         "cs": "Služebny Policie ČR"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací <span>služeben a stanic Policie ČR v Královéhradeckém kraji.</span>"
+        "cs": "Datová sada s prostorovou lokalizací <span>služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.<br /></span>"
       },
       "klíčové_slovo": {
         "cs": [
-          "IZS"
+          "IZS",
+          "Policie"
         ]
       },
       "téma": [
@@ -3326,11 +3338,12 @@
         "cs": "Kina"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací kin na území Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací kin na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Kultura"
+          "Kultura",
+          "Kina"
         ]
       },
       "téma": [
@@ -3721,14 +3734,15 @@
       "iri": "https://open.datakhk.cz/a6f92ba4fb90467a8705d1ec875c4c57_1.jsonld",
       "typ": "Datová sada",
       "název": {
-        "cs": "Stanice a pracoviště HZS"
+        "cs": "Stanice a pracoviště hasičského záchranného sboru"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji."
+        "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je  Hasičský záchranný sbor Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "IZS"
+          "IZS",
+          "Hasiči"
         ]
       },
       "téma": [
@@ -3857,11 +3871,12 @@
         "cs": "Knihovny"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací knihoven na území Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací knihoven na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Kultura"
+          "Kultura",
+          "Knihovny"
         ]
       },
       "téma": [
@@ -4124,11 +4139,12 @@
         "cs": "Seznam škol a školských zařízení"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele."
+        "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Školy"
+          "Školy",
+          "Školská zařízení"
         ]
       },
       "téma": [
@@ -4391,11 +4407,13 @@
         "cs": "Lékařská pohotovostní služba"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji."
+        "cs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Zdravotnictví"
+          "Zdravotnictví",
+          "Lékaři",
+          "Pohotovost"
         ]
       },
       "téma": [
@@ -4521,13 +4539,14 @@
       "iri": "https://open.datakhk.cz/e38c46d61bae46ed99bbc7c0445aeb17_1.jsonld",
       "typ": "Datová sada",
       "název": {
-        "cs": "Počty žáků v oborech středních škol"
+        "cs": "Počty žáků v oborech středních škol zřizovaných krajem"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací oborů středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých oborech."
+        "cs": "Datová sada s prostorovou lokalizací oborů středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých oborech. Zdrojem dat je Datový sklad Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
+          "Střední školy",
           "Školy"
         ]
       },
@@ -4535,7 +4554,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
