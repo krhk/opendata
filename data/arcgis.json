@@ -505,6 +505,98 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
+      "title": "Národní kulturní památky – bodové objekty",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-28T23:18:16.000Z",
+      "modified": "2021-10-28T23:18:36.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 365100,
+          "DataProperties": "",
+          "CreaDate": 20211029,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "NKP",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_%E2%80%93_bodov%C3%A9_objekty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.889,50.2635,16.1497,50.4216",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
@@ -1413,6 +1505,98 @@
         }
       ],
       "spatial": "15.1592,50.1501,16.4754,50.7524",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
+      "title": "Národní kulturní památky – pozemky",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-28T23:21:37.000Z",
+      "modified": "2021-10-28T23:21:54.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 534600,
+          "DataProperties": "",
+          "CreaDate": 20211029,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "NKP",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_%E2%80%93_pozemky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1343,50.1991,16.3414,50.5893",
       "theme": [
         "geospatial"
       ]
@@ -6142,6 +6326,641 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
+      "title": "Národní kulturní památky – plošné objekty",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-28T23:20:37.000Z",
+      "modified": "2021-10-28T23:20:56.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "mdLang": {
+          "countryCode": {
+            "@_Sync": "TRUE",
+            "@_value": "CZE"
+          },
+          "languageCode": {
+            "@_Sync": "TRUE",
+            "@_value": "ces"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "transSize": {
+              "@_Sync": "TRUE",
+              "#value": 0.068
+            }
+          },
+          "distFormat": {
+            "formatName": {
+              "@_Sync": "TRUE",
+              "#value": "Shapefile"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": {
+                "@_Sync": "TRUE",
+                "#value": 122
+              },
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_Sync": "TRUE",
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_Sync": "TRUE",
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": {
+          "@_Sync": "TRUE",
+          "#value": 20150129
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 133700,
+          "SyncDate": 20150129,
+          "DataProperties": {
+            "itemProps": {
+              "itemName": {
+                "@_Sync": "TRUE",
+                "#value": "NKP - nadzemní objekty"
+              },
+              "imsContentType": {
+                "@_Sync": "TRUE",
+                "#value": 2
+              },
+              "nativeExtBox": {
+                "eastBL": {
+                  "@_Sync": "TRUE",
+                  "#value": -600796.720064
+                },
+                "southBL": {
+                  "@_Sync": "TRUE",
+                  "#value": -1047679.05
+                },
+                "exTypeCode": {
+                  "@_Sync": "TRUE",
+                  "#value": 1
+                },
+                "northBL": {
+                  "@_Sync": "TRUE",
+                  "#value": -1004460.370064
+                },
+                "westBL": {
+                  "@_Sync": "TRUE",
+                  "#value": -686536.370007
+                }
+              },
+              "itemSize": {
+                "@_Sync": "TRUE",
+                "#value": 0.068
+              }
+            },
+            "coordRef": {
+              "projcsn": {
+                "@_Sync": "TRUE",
+                "#value": "S-JTSK_Krovak_East_North"
+              },
+              "csUnits": {
+                "@_Sync": "TRUE",
+                "#value": "Linear Unit: Meter (1.000000)"
+              },
+              "peXml": {
+                "@_Sync": "TRUE",
+                "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+              },
+              "type": {
+                "@_Sync": "TRUE",
+                "#value": "Projected"
+              },
+              "geogcsn": {
+                "@_Sync": "TRUE",
+                "#value": "GCS_S_JTSK"
+              }
+            }
+          },
+          "SyncTime": 9513700,
+          "ModDate": 20150129,
+          "CreaDate": 20211029,
+          "SyncOnce": "FALSE",
+          "ModTime": 9513700
+        },
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": {
+                "@_Sync": "TRUE",
+                "#value": "TRUE"
+              },
+              "esritopo": {
+                "@_Sync": "TRUE",
+                "#value": "FALSE"
+              },
+              "linrefer": {
+                "@_Sync": "TRUE",
+                "#value": "FALSE"
+              },
+              "efeageom": {
+                "@_Sync": "TRUE",
+                "@_code": "4"
+              },
+              "efeacnt": {
+                "@_Sync": "TRUE",
+                "#value": 122
+              },
+              "efeatyp": {
+                "@_Sync": "TRUE",
+                "#value": "Simple"
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_Sync": "TRUE",
+            "@_value": "005"
+          }
+        },
+        "mdHrLvName": {
+          "@_Sync": "TRUE",
+          "#value": "dataset"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "TRUE",
+                  "#value": 16.402466
+                },
+                "exTypeCode": {
+                  "@_Sync": "TRUE",
+                  "#value": 1
+                },
+                "southBL": {
+                  "@_Sync": "TRUE",
+                  "#value": 50.11297
+                },
+                "northBL": {
+                  "@_Sync": "TRUE",
+                  "#value": 50.5901
+                },
+                "westBL": {
+                  "@_Sync": "TRUE",
+                  "#value": 15.134152
+                }
+              }
+            }
+          },
+          "envirDesc": {
+            "@_Sync": "FALSE",
+            "#value": "Esri ArcGIS 10.2.2.3552"
+          },
+          "idCitation": {
+            "resTitle": {
+              "@_Sync": "TRUE",
+              "#value": "NKP - nadzemní objekty"
+            },
+            "presForm": {
+              "PresFormCd": {
+                "@_Sync": "TRUE",
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_Sync": "TRUE",
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_Sync": "TRUE",
+              "@_value": "ces"
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "TRUE",
+              "@_value": "001"
+            }
+          },
+          "idPurp": "NKP",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "TRUE",
+                "@_code": "5514"
+              },
+              "idCodeSpace": {
+                "@_Sync": "TRUE",
+                "#value": "EPSG"
+              },
+              "idVersion": {
+                "@_Sync": "TRUE",
+                "#value": "8.2.6"
+              }
+            }
+          }
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "FID"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 4
+                },
+                "attrdef": {
+                  "@_Sync": "TRUE",
+                  "#value": "Internal feature number."
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attrdefs": {
+                  "@_Sync": "TRUE",
+                  "#value": "Esri"
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attrdomv": {
+                  "udom": {
+                    "@_Sync": "TRUE",
+                    "#value": "Sequential unique whole numbers that are automatically generated."
+                  }
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "FID"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "OID"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Shape"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attrdef": {
+                  "@_Sync": "TRUE",
+                  "#value": "Feature geometry."
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attrdefs": {
+                  "@_Sync": "TRUE",
+                  "#value": "Esri"
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attrdomv": {
+                  "udom": {
+                    "@_Sync": "TRUE",
+                    "#value": "Coordinates defining the features."
+                  }
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Shape"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "Geometry"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Id"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 6
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 6
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Id"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "Integer"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Název"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 150
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Název"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Části_NKP"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 254
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Části_NKP"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Číslo_USKP"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 20
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Číslo_USKP"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Autor"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 100
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Autor"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Účinnost"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 50
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Účinnost"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Nař_vlády"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 200
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Nař_vlády"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              },
+              {
+                "attrlabl": {
+                  "@_Sync": "TRUE",
+                  "#value": "Dokument"
+                },
+                "attwidth": {
+                  "@_Sync": "TRUE",
+                  "#value": 150
+                },
+                "attscale": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "atprecis": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "attalias": {
+                  "@_Sync": "TRUE",
+                  "#value": "Dokument"
+                },
+                "attrtype": {
+                  "@_Sync": "TRUE",
+                  "#value": "String"
+                }
+              }
+            ],
+            "enttyp": {
+              "enttypc": {
+                "@_Sync": "TRUE",
+                "#value": 122
+              },
+              "enttypt": {
+                "@_Sync": "TRUE",
+                "#value": "Feature Class"
+              },
+              "enttypl": {
+                "@_Sync": "TRUE",
+                "#value": "NKP - nadzemní objekty"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "TRUE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_%E2%80%93_plo%C5%A1n%C3%A9_objekty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1343,50.1989,16.3414,50.5893",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/e38c46d61bae46ed99bbc7c0445aeb17_1",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/e38c46d61bae46ed99bbc7c0445aeb17_1",
@@ -6476,6 +7295,98 @@
         }
       ],
       "spatial": "15.1708,50.0529,16.5505,50.736",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
+      "license": "{{item.licenseInfo}}",
+      "landingPage": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
+      "title": "Národní kulturní památky – liniové objekty",
+      "description": "{{default.description}}",
+      "keyword": [
+        "Památky"
+      ],
+      "issued": "2021-10-28T23:19:14.000Z",
+      "modified": "2021-10-28T23:19:29.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+      },
+      "accessLevel": "public",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 214800,
+          "DataProperties": "",
+          "CreaDate": 20211029,
+          "SyncOnce": "TRUE"
+        },
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idPurp": "NKP",
+          "searchKeys": {
+            "keyword": "Památky"
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_%E2%80%93_liniov%C3%A9_objekty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "spatial": "15.1344,50.2232,16.3336,50.586",
       "theme": [
         "geospatial"
       ]
