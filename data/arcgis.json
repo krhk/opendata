@@ -10,14 +10,14 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
       "title": "Divadla a filharmonie",
-      "description": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Divadla",
         "Filharmonie",
         "Kultura"
       ],
       "issued": "2021-10-21T23:19:48.000Z",
-      "modified": "2021-10-22T11:57:23.000Z",
+      "modified": "2021-10-30T23:17:41.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -27,7 +27,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -44,24 +50,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23550400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-20",
-          "ModTime": "13:55:36.14",
+          "ModTime": "01:16:24.60",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:54:56.46",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Divadla a filharmonie"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -99,8 +121,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -172,7 +223,7 @@
         "NKP"
       ],
       "issued": "2021-10-08T22:10:42.000Z",
-      "modified": "2021-10-25T21:40:57.000Z",
+      "modified": "2021-10-30T21:52:19.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -506,15 +557,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
       "title": "Národní kulturní památky – bodové objekty",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
-        "Památky"
+        "Památky",
+        "NKP"
       ],
       "issued": "2021-10-28T23:18:16.000Z",
-      "modified": "2021-10-28T23:18:36.000Z",
+      "modified": "2021-10-30T21:41:26.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -524,28 +576,120 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1635630015618r18960630543173607",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-30",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 365100,
-          "DataProperties": "",
-          "CreaDate": 20211029,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-30",
+          "CreaDate": "2021-10-29",
+          "ModTime": "23:41:17.41",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "23:40:15.12",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
-          "idPurp": "NKP",
-          "searchKeys": {
-            "keyword": "Památky"
+          "idAbs": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+          "idCitation": {
+            "date": {
+              "createDate": "2021-10-30"
+            },
+            "resTitle": "Národní kulturní památky – bodové objekty"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
             }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Památky",
+              "NKP"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -601,13 +745,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
       "title": "Zámky",
-      "description": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
-        "Zámky",
-        "Památky"
+        "Památky",
+        "Zámky"
       ],
       "issued": "2021-10-21T23:31:03.000Z",
-      "modified": "2021-10-22T12:16:10.000Z",
+      "modified": "2021-10-30T22:24:08.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -617,7 +761,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -634,24 +784,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 41300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:15:53.63",
+          "ModTime": "00:24:07.04",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:15:43.56",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2021-10-26"
+            },
             "resTitle": "Zámky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -659,8 +825,8 @@
           },
           "searchKeys": {
             "keyword": [
-              "Zámky",
-              "Památky"
+              "Památky",
+              "Zámky"
             ]
           },
           "resConst": [
@@ -688,8 +854,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -755,13 +950,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
       "title": "Infocentra",
-      "description": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Infocentra",
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:23:18.000Z",
-      "modified": "2021-10-22T11:58:46.000Z",
+      "modified": "2021-10-30T23:12:41.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -771,7 +966,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -788,24 +989,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23555700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-20",
-          "ModTime": "13:58:34.18",
+          "ModTime": "01:12:39.96",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:58:22.14",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Infocentra"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -842,8 +1059,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -1115,12 +1361,12 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
       "title": "Zábavní centra",
-      "description": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Kultura"
       ],
       "issued": "2021-10-21T23:30:06.000Z",
-      "modified": "2021-10-22T12:15:14.000Z",
+      "modified": "2021-10-30T22:41:21.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1130,7 +1376,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -1147,24 +1399,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 35200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:15:06.57",
+          "ModTime": "00:41:20.05",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:14:55.51",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Zábavní centra"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -1198,8 +1466,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -1265,14 +1562,14 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
       "title": "Pevnosti a opevnění",
-      "description": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Pevnosti",
         "Opevnění",
         "Památky"
       ],
       "issued": "2021-10-21T23:26:42.000Z",
-      "modified": "2021-10-22T12:03:19.000Z",
+      "modified": "2021-10-30T23:11:06.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1282,7 +1579,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -1299,24 +1602,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 20100,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:03:10.42",
+          "ModTime": "01:11:05.19",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:02:53.55",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Pevnosti a opevnění"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -1354,8 +1673,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -1512,15 +1860,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
       "title": "Národní kulturní památky – pozemky",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
-        "Památky"
+        "Památky",
+        "NKP"
       ],
       "issued": "2021-10-28T23:21:37.000Z",
-      "modified": "2021-10-28T23:21:54.000Z",
+      "modified": "2021-10-30T19:41:11.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1530,28 +1879,140 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1635621625334r08845525123291753",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-30",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 534600,
-          "DataProperties": "",
-          "CreaDate": 20211029,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-30",
+          "CreaDate": "2021-10-29",
+          "ModTime": "21:34:58.85",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "21:20:24.85",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
-          "idPurp": "NKP",
-          "searchKeys": {
-            "keyword": "Památky"
+          "idAbs": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+          "idCitation": {
+            "date": {
+              "createDate": "2021-10-30"
+            },
+            "resTitle": "Národní kulturní památky – pozemky"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
             }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Památky",
+              "NKP"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1745,12 +2206,12 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
       "title": "Přírodní zajímavosti",
-      "description": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Příroda"
       ],
       "issued": "2021-10-21T23:27:35.000Z",
-      "modified": "2021-10-22T12:05:29.000Z",
+      "modified": "2021-10-30T23:05:23.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1760,7 +2221,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -1777,24 +2244,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:05:13.05",
+          "ModTime": "01:05:22.59",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:04:59.16",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Přírodní zajímavosti"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -1828,8 +2311,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -1902,7 +2414,7 @@
         "Hroby"
       ],
       "issued": "2021-10-08T21:31:17.000Z",
-      "modified": "2021-10-25T21:41:14.000Z",
+      "modified": "2021-10-30T21:52:47.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2107,7 +2619,7 @@
         "Kulturní domy"
       ],
       "issued": "2021-10-08T22:27:08.000Z",
-      "modified": "2021-10-25T21:40:14.000Z",
+      "modified": "2021-10-30T21:53:10.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2302,14 +2814,14 @@
       "identifier": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
-      "title": "Architektura",
-      "description": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje.",
+      "title": "Architektonické památky",
+      "description": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Architektura",
         "Památky"
       ],
       "issued": "2021-10-21T22:34:16.000Z",
-      "modified": "2021-10-22T11:52:47.000Z",
+      "modified": "2021-10-30T23:34:43.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2319,7 +2831,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -2336,24 +2854,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23534900,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-20",
-          "ModTime": "13:52:26.59",
+          "ModTime": "01:34:41.58",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:52:03.84",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Architektura"
+            "date": {
+              "createDate": "2021-10-26"
+            },
+            "resTitle": "Architektonické památky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -2390,8 +2924,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -3310,7 +3873,7 @@
         "Hroby"
       ],
       "issued": "2021-10-08T21:41:32.000Z",
-      "modified": "2021-10-25T21:40:27.000Z",
+      "modified": "2021-10-30T21:52:56.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3604,12 +4167,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
       "title": "Cyklovýlety",
-      "description": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
-        "Cyklovýlety"
+        "Cyklovýlety",
+        "Cestovní ruch"
       ],
       "issued": "2021-10-21T22:07:51.000Z",
-      "modified": "2021-10-22T11:23:40.000Z",
+      "modified": "2021-10-30T23:38:14.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3619,7 +4183,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -3636,31 +4206,50 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23185600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-09-14",
-          "ModTime": "13:15:35.10",
+          "ModTime": "01:36:26.12",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:14:24.11",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Cyklovýlety"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
           "searchKeys": {
-            "keyword": "Cyklovýlety"
+            "keyword": [
+              "Cyklovýlety",
+              "Cestovní ruch"
+            ]
           },
           "resConst": [
             {
@@ -3687,8 +4276,37 @@
               "Consts": {
                 "useLimit": "CC0"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -3951,13 +4569,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
       "title": "Hrady",
-      "description": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Hrady",
         "Památky"
       ],
       "issued": "2021-10-21T23:21:46.000Z",
-      "modified": "2021-10-22T11:57:07.000Z",
+      "modified": "2021-10-30T23:28:13.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3967,7 +4585,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -3984,24 +4608,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23552500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-20",
-          "ModTime": "13:56:46.34",
+          "ModTime": "01:28:12.06",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:56:29.61",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Hrady"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -4038,8 +4678,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -4310,12 +4979,12 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
       "title": "Židovské památky",
-      "description": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Památky"
       ],
       "issued": "2021-10-21T23:31:49.000Z",
-      "modified": "2021-10-22T12:17:17.000Z",
+      "modified": "2021-10-30T22:28:47.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4325,7 +4994,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -4342,24 +5017,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 43700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:17:09.34",
+          "ModTime": "00:26:05.32",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:16:56.99",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Židovské památky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -4393,8 +5084,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -4672,7 +5392,7 @@
         "Kina"
       ],
       "issued": "2021-10-08T22:13:40.000Z",
-      "modified": "2021-10-25T21:39:36.000Z",
+      "modified": "2021-10-30T21:53:53.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4871,12 +5591,12 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
       "title": "Technické památky",
-      "description": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Památky"
       ],
       "issued": "2021-10-21T23:29:14.000Z",
-      "modified": "2021-10-22T12:11:55.000Z",
+      "modified": "2021-10-30T22:55:42.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4886,7 +5606,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -4903,24 +5629,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 33000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:11:47.82",
+          "ModTime": "00:47:45.63",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:11:36.88",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Technické památky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -4954,8 +5696,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -5371,7 +6142,7 @@
         "Knihovny"
       ],
       "issued": "2021-10-08T22:20:47.000Z",
-      "modified": "2021-10-25T21:40:00.000Z",
+      "modified": "2021-10-30T21:54:15.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -5561,13 +6332,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
       "title": "Rozhledny a vyhlídky",
-      "description": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Rozhledny",
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:28:25.000Z",
-      "modified": "2021-10-22T12:10:25.000Z",
+      "modified": "2021-10-30T22:59:19.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -5577,7 +6348,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -5594,24 +6371,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 30800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-21",
-          "ModTime": "14:10:01.43",
+          "ModTime": "00:57:47.50",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:09:43.09",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Rozhledny a vyhlídky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -5648,8 +6441,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -6327,15 +7149,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
       "title": "Národní kulturní památky – plošné objekty",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
-        "Památky"
+        "Památky",
+        "NKP"
       ],
       "issued": "2021-10-28T23:20:37.000Z",
-      "modified": "2021-10-28T23:20:56.000Z",
+      "modified": "2021-10-30T19:40:19.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -6346,570 +7169,204 @@
       "accessLevel": "public",
       "metadata": {
         "mdLang": {
-          "countryCode": {
-            "@_Sync": "TRUE",
-            "@_value": "CZE"
-          },
           "languageCode": {
-            "@_Sync": "TRUE",
-            "@_value": "ces"
+            "@_value": "cze"
           }
         },
-        "distInfo": {
-          "distTranOps": {
-            "transSize": {
-              "@_Sync": "TRUE",
-              "#value": 0.068
-            }
-          },
-          "distFormat": {
-            "formatName": {
-              "@_Sync": "TRUE",
-              "#value": "Shapefile"
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
             }
           }
         },
-        "spatRepInfo": {
-          "VectSpatRep": {
-            "geometObjs": {
-              "geoObjCnt": {
-                "@_Sync": "TRUE",
-                "#value": 122
-              },
-              "geoObjTyp": {
-                "GeoObjTypCd": {
-                  "@_Sync": "TRUE",
-                  "@_value": "002"
-                }
-              }
-            },
-            "topLvl": {
-              "TopoLevCd": {
-                "@_Sync": "TRUE",
-                "@_value": "001"
-              }
-            }
-          }
-        },
-        "mdDateSt": {
-          "@_Sync": "TRUE",
-          "#value": 20150129
-        },
+        "mdDateSt": "2015-01-29",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 133700,
-          "SyncDate": 20150129,
           "DataProperties": {
             "itemProps": {
-              "itemName": {
-                "@_Sync": "TRUE",
-                "#value": "NKP - nadzemní objekty"
-              },
-              "imsContentType": {
-                "@_Sync": "TRUE",
-                "#value": 2
-              },
+              "imsContentType": 2,
+              "itemName": "NKP - nadzemní objekty",
               "nativeExtBox": {
-                "eastBL": {
-                  "@_Sync": "TRUE",
-                  "#value": -600796.720064
-                },
-                "southBL": {
-                  "@_Sync": "TRUE",
-                  "#value": -1047679.05
-                },
-                "exTypeCode": {
-                  "@_Sync": "TRUE",
-                  "#value": 1
-                },
-                "northBL": {
-                  "@_Sync": "TRUE",
-                  "#value": -1004460.370064
-                },
-                "westBL": {
-                  "@_Sync": "TRUE",
-                  "#value": -686536.370007
-                }
+                "eastBL": -600796.720064,
+                "southBL": -1047679.05,
+                "exTypeCode": 1,
+                "northBL": -1004460.370064,
+                "westBL": -686536.370007
               },
-              "itemSize": {
-                "@_Sync": "TRUE",
-                "#value": 0.068
-              }
+              "itemSize": 0.068
             },
             "coordRef": {
-              "projcsn": {
-                "@_Sync": "TRUE",
-                "#value": "S-JTSK_Krovak_East_North"
-              },
-              "csUnits": {
-                "@_Sync": "TRUE",
-                "#value": "Linear Unit: Meter (1.000000)"
-              },
-              "peXml": {
-                "@_Sync": "TRUE",
-                "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
-              },
-              "type": {
-                "@_Sync": "TRUE",
-                "#value": "Projected"
-              },
-              "geogcsn": {
-                "@_Sync": "TRUE",
-                "#value": "GCS_S_JTSK"
-              }
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
             }
           },
           "SyncTime": 9513700,
-          "ModDate": 20150129,
-          "CreaDate": 20211029,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 133700,
+          "SyncDate": "2015-01-29",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-30",
+          "CreaDate": "2021-10-29",
+          "ModTime": "21:38:39.66",
           "SyncOnce": "FALSE",
-          "ModTime": 9513700
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "21:24:09.86",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
-              "spindex": {
-                "@_Sync": "TRUE",
-                "#value": "TRUE"
-              },
-              "esritopo": {
-                "@_Sync": "TRUE",
-                "#value": "FALSE"
-              },
-              "linrefer": {
-                "@_Sync": "TRUE",
-                "#value": "FALSE"
-              },
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
               "efeageom": {
-                "@_Sync": "TRUE",
                 "@_code": "4"
               },
-              "efeacnt": {
-                "@_Sync": "TRUE",
-                "#value": 122
-              },
-              "efeatyp": {
-                "@_Sync": "TRUE",
-                "#value": "Simple"
-              }
+              "efeacnt": 122,
+              "efeatyp": "Simple"
             }
           }
         },
         "mdHrLv": {
           "ScopeCd": {
-            "@_Sync": "TRUE",
             "@_value": "005"
           }
         },
-        "mdHrLvName": {
-          "@_Sync": "TRUE",
-          "#value": "dataset"
-        },
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": {
-                  "@_Sync": "TRUE",
-                  "#value": 16.402466
-                },
-                "exTypeCode": {
-                  "@_Sync": "TRUE",
-                  "#value": 1
-                },
-                "southBL": {
-                  "@_Sync": "TRUE",
-                  "#value": 50.11297
-                },
-                "northBL": {
-                  "@_Sync": "TRUE",
-                  "#value": 50.5901
-                },
-                "westBL": {
-                  "@_Sync": "TRUE",
-                  "#value": 15.134152
-                }
+                "eastBL": 16.402466,
+                "exTypeCode": 1,
+                "southBL": 50.11297,
+                "northBL": 50.5901,
+                "westBL": 15.134152
               }
             }
           },
-          "envirDesc": {
-            "@_Sync": "FALSE",
-            "#value": "Esri ArcGIS 10.2.2.3552"
-          },
+          "envirDesc": "Esri ArcGIS 10.2.2.3552",
           "idCitation": {
-            "resTitle": {
-              "@_Sync": "TRUE",
-              "#value": "NKP - nadzemní objekty"
+            "date": {
+              "createDate": "2021-10-30"
             },
+            "resTitle": "Národní kulturní památky – plošné objekty",
             "presForm": {
               "PresFormCd": {
-                "@_Sync": "TRUE",
                 "@_value": "005"
               }
             }
           },
           "dataLang": {
             "countryCode": {
-              "@_Sync": "TRUE",
-              "@_value": "CZE"
+              "@_value": "CZ"
             },
             "languageCode": {
-              "@_Sync": "TRUE",
-              "@_value": "ces"
+              "@_value": "cze"
             }
           },
           "spatRpType": {
             "SpatRepTypCd": {
-              "@_Sync": "TRUE",
               "@_value": "001"
             }
           },
-          "idPurp": "NKP",
-          "searchKeys": {
-            "keyword": "Památky"
-          },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
             }
-          }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Památky",
+              "NKP"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
         },
         "refSysInfo": {
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_Sync": "TRUE",
-                "@_code": "5514"
-              },
-              "idCodeSpace": {
-                "@_Sync": "TRUE",
-                "#value": "EPSG"
-              },
-              "idVersion": {
-                "@_Sync": "TRUE",
-                "#value": "8.2.6"
-              }
-            }
-          }
-        },
-        "eainfo": {
-          "detailed": {
-            "attr": [
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "FID"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 4
-                },
-                "attrdef": {
-                  "@_Sync": "TRUE",
-                  "#value": "Internal feature number."
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attrdefs": {
-                  "@_Sync": "TRUE",
-                  "#value": "Esri"
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attrdomv": {
-                  "udom": {
-                    "@_Sync": "TRUE",
-                    "#value": "Sequential unique whole numbers that are automatically generated."
-                  }
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "FID"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "OID"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Shape"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attrdef": {
-                  "@_Sync": "TRUE",
-                  "#value": "Feature geometry."
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attrdefs": {
-                  "@_Sync": "TRUE",
-                  "#value": "Esri"
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attrdomv": {
-                  "udom": {
-                    "@_Sync": "TRUE",
-                    "#value": "Coordinates defining the features."
-                  }
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Shape"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "Geometry"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Id"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 6
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 6
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Id"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "Integer"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Název"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 150
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Název"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Části_NKP"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 254
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Části_NKP"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Číslo_USKP"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 20
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Číslo_USKP"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Autor"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 100
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Autor"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Účinnost"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 50
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Účinnost"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Nař_vlády"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 200
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Nař_vlády"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              },
-              {
-                "attrlabl": {
-                  "@_Sync": "TRUE",
-                  "#value": "Dokument"
-                },
-                "attwidth": {
-                  "@_Sync": "TRUE",
-                  "#value": 150
-                },
-                "attscale": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "atprecis": {
-                  "@_Sync": "TRUE",
-                  "#value": 0
-                },
-                "attalias": {
-                  "@_Sync": "TRUE",
-                  "#value": "Dokument"
-                },
-                "attrtype": {
-                  "@_Sync": "TRUE",
-                  "#value": "String"
-                }
-              }
-            ],
-            "enttyp": {
-              "enttypc": {
-                "@_Sync": "TRUE",
-                "#value": 122
-              },
-              "enttypt": {
-                "@_Sync": "TRUE",
-                "#value": "Feature Class"
-              },
-              "enttypl": {
-                "@_Sync": "TRUE",
-                "#value": "NKP - nadzemní objekty"
+                "@_code": "4326"
               }
             }
           }
         },
         "mdChar": {
           "CharSetCd": {
-            "@_Sync": "TRUE",
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1635621850334r5390289942183206",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdHrLvName": "dataset"
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7151,13 +7608,13 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
       "title": "Církevní památky",
-      "description": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
       "keyword": [
         "Kostely",
         "Památky"
       ],
       "issued": "2021-10-21T23:18:53.000Z",
-      "modified": "2021-10-22T11:54:01.000Z",
+      "modified": "2021-10-30T23:32:23.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -7167,7 +7624,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -7184,24 +7647,40 @@
         },
         "mdDateSt": "2021-10-22",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 23543300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-22",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-20",
-          "ModTime": "13:53:53.40",
+          "ModTime": "01:29:39.50",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:53:34.89",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Církevní památky"
           },
-          "idPurp": "...",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -7238,8 +7717,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -7302,15 +7810,16 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
-      "license": "{{item.licenseInfo}}",
+      "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
       "title": "Národní kulturní památky – liniové objekty",
-      "description": "{{default.description}}",
+      "description": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
-        "Památky"
+        "Památky",
+        "NKP"
       ],
       "issued": "2021-10-28T23:19:14.000Z",
-      "modified": "2021-10-28T23:19:29.000Z",
+      "modified": "2021-10-30T19:59:20.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -7320,28 +7829,140 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1635622997752r12831474078798788",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2021-10-30",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 214800,
-          "DataProperties": "",
-          "CreaDate": 20211029,
-          "SyncOnce": "TRUE"
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-10-30",
+          "CreaDate": "2021-10-29",
+          "ModTime": "21:59:19.60",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
+        "mdTimeSt": "21:43:17.24",
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
-          "idPurp": "NKP",
-          "searchKeys": {
-            "keyword": "Památky"
+          "idAbs": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+          "idCitation": {
+            "date": {
+              "createDate": "2021-10-30"
+            },
+            "resTitle": "Národní kulturní památky –⁠ liniové objekty"
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
             }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Památky",
+              "NKP"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7397,12 +8018,14 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0",
       "title": "Muzea a galerie",
-      "description": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje.",
       "keyword": [
-        "Kultura"
+        "Kultura",
+        "Muzea",
+        "Galerie"
       ],
       "issued": "2021-10-08T22:32:31.000Z",
-      "modified": "2021-10-21T22:24:27.000Z",
+      "modified": "2021-10-30T22:15:15.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -7412,7 +8035,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -7423,37 +8052,57 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
         "mdDateSt": "2021-10-09",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 15050700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-09",
+          "ModDate": "2021-10-31",
           "CreaDate": "2021-10-08",
-          "ModTime": "01:22:01.74",
+          "ModTime": "00:15:14.26",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "01:21:48.93",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "createDate": "2021-10-26"
+            },
             "resTitle": "Muzea a galerie"
           },
-          "idPurp": "Muzea, galerie",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
           "searchKeys": {
-            "keyword": "Kultura"
+            "keyword": [
+              "Kultura",
+              "Muzea",
+              "Galerie"
+            ]
           },
           "resConst": [
             {
@@ -7480,8 +8129,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {

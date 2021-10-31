@@ -69,7 +69,7 @@
         "cs": "Divadla a filharmonie"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -435,15 +435,18 @@
         "cs": "Národní kulturní památky – bodové objekty"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "NKP"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -566,12 +569,12 @@
         "cs": "Zámky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací zámků z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Zámky",
-          "Památky"
+          "Památky",
+          "Zámky"
         ]
       },
       "téma": [
@@ -700,7 +703,7 @@
         "cs": "Infocentra"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací infocenter z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -968,7 +971,7 @@
         "cs": "Zábavní centra"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací zábavních center z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1101,7 +1104,7 @@
         "cs": "Pevnosti a opevnění"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací pevností a opevnění z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1367,15 +1370,18 @@
         "cs": "Národní kulturní památky – pozemky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "NKP"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1595,7 +1601,7 @@
         "cs": "Přírodní zajímavosti"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací přírodních zajímavostí z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1994,10 +2000,10 @@
       "iri": "https://open.datakhk.cz/49a85b5bb43b4692978190b2654e63e9_0.jsonld",
       "typ": "Datová sada",
       "název": {
-        "cs": "Architektura"
+        "cs": "Architektonické památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací architektonických památek z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2801,11 +2807,12 @@
         "cs": "Cyklovýlety"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací cyklovýletů z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Cyklovýlety"
+          "Cyklovýlety",
+          "Cestovní ruch"
         ]
       },
       "téma": [
@@ -3069,7 +3076,7 @@
         "cs": "Hrady"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací hradů z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3337,7 +3344,7 @@
         "cs": "Židovské památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací židovských památek z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3738,7 +3745,7 @@
         "cs": "Technické památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací technických památek z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4271,7 +4278,7 @@
         "cs": "Rozhledny a vyhlídky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4808,15 +4815,18 @@
         "cs": "Národní kulturní památky – plošné objekty"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "NKP"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5074,7 +5084,7 @@
         "cs": "Církevní památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací církevních památek z Turistického portálu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5208,15 +5218,18 @@
         "cs": "Národní kulturní památky – liniové objekty"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu."
       },
       "klíčové_slovo": {
         "cs": [
-          "Památky"
+          "Památky",
+          "NKP"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5339,17 +5352,19 @@
         "cs": "Muzea a galerie"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Kultura"
+          "Kultura",
+          "Muzea",
+          "Galerie"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
