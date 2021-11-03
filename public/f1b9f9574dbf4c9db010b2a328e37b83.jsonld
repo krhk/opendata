@@ -1,0 +1,62 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úřední deska"
+  },
+  "popis": {
+    "cs": "Export úřední desky královéhradeckého kraje bez příloh."
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "Úřední deska"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
+      "přístupové_url": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
+      "přístupové_url": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
