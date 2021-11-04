@@ -1262,7 +1262,8 @@
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
-        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
@@ -1387,15 +1388,17 @@
         "cs": "Ostatní historické památky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací vybraných historických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Památky"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1758,7 +1761,8 @@
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
-        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
@@ -2957,7 +2961,7 @@
         "cs": "Kluby"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2966,7 +2970,7 @@
         ]
       },
       "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3098,7 +3102,8 @@
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
-        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
@@ -3499,6 +3504,7 @@
         ]
       },
       "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
@@ -4892,7 +4898,7 @@
         "cs": "Lanovky"
       },
       "popis": {
-        "cs": "{{default.description}}"
+        "cs": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4900,8 +4906,10 @@
           "Cestovní ruch"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5434,6 +5442,7 @@
         ]
       },
       "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
@@ -5568,6 +5577,7 @@
         ]
       },
       "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
@@ -6104,6 +6114,7 @@
         ]
       },
       "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
