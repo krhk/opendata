@@ -2,6 +2,7 @@
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://open.datakhk.cz/d5f194f1443143f9ac1ea4ba40fd92cb_1.jsonld",
   "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
     "cs": "Seznam škol a školských zařízení"
   },

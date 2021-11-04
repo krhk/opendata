@@ -2,6 +2,7 @@
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://open.datakhk.cz/0e4a49eabdd94d71a78098ea1fe0267c_0.jsonld",
   "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
     "cs": "Národní kulturní památky – bodové objekty"
   },

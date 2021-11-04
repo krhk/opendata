@@ -2,6 +2,7 @@
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
   "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
     "cs": "Aktuality"
   },
