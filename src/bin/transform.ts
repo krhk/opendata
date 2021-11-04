@@ -44,6 +44,7 @@ import * as CONFIG from '../../config';
 		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld';
 		dataset['iri'] = generateUrl(`${id}.jsonld`);
 		dataset['typ'] = 'Datová sada';
+		dataset['poskytovatel'] = CONFIG.META_LKOD.provider;
 		dataset['název'] = {
 			cs: arcgisDataset.title
 		};

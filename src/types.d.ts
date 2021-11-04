@@ -71,6 +71,7 @@ declare module Lkod {
 		'@context': string,
 		iri: string,
 		typ: string,
+		poskytovatel: string,
 		název: MultilangText,
 		popis: MultilangText,
 		prvek_rúian: string[],
@@ -81,7 +82,6 @@ declare module Lkod {
 		téma: string[],
 		koncept_euroVoc: string[],
 		kontaktní_bod: DatasetContactPoint,
-		poskytovatel: string,
 		distribuce: DatasetDistribution[],
 	}
 
