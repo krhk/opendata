@@ -37,3 +37,7 @@ export function detectTheme(dataset: any): string[] {
 		});
 	}).flatMap(value => value);
 }
+
+export function detectDocumentation(dataset: any): string|undefined {
+	return _.get(dataset, 'metadata.dataIdInfo.idCitation.otherCitDet', undefined);
+}

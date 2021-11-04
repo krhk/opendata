@@ -1,7 +1,7 @@
 import _ from "lodash";
 import _url from 'url';
 import { readJson, parseIdentifier, writeJson } from '@/helpers';
-import { detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
+import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import { generateUrl } from '@/generator';
 import * as CONFIG from '../../config';
 
@@ -39,6 +39,8 @@ import * as CONFIG from '../../config';
 		const dataset: Partial<Lkod.Dataset> = {};
 
 		const id = parseIdentifier(arcgisDataset.identifier);
+		const documentation = detectDocumentation(arcgisDataset);
+
 		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld';
 		dataset['iri'] = generateUrl(`${id}.jsonld`);
 		dataset['typ'] = 'Datová sada';
@@ -79,6 +81,12 @@ import * as CONFIG from '../../config';
 				databáze_chráněná_zvláštními_právy: "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
 				osobní_údaje: "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
 			};
+
+			if (documentation) {
+				distribution['dokumentace'] = {
+					stránka: documentation
+				};
+			}
 
 			dataset['distribuce'].push(distribution as Lkod.DatasetDistribution);
 		}

@@ -106,6 +106,7 @@ declare module Lkod {
 		formát: string,
 		schéma: string,
 		podmínky_užití: DatasetConditions,
+		dokumentace: URL,
 	}
 
 	interface Contact {
@@ -122,6 +123,10 @@ declare module Lkod {
 	interface MultilangTexts {
 		cs: string[],
 		en?: string[],
+	}
+
+	interface URL {
+		stránka: string,
 	}
 
 }
