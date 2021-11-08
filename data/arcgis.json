@@ -427,7 +427,7 @@
         "Veřejná doprava"
       ],
       "issued": "2021-10-07T21:57:12.000Z",
-      "modified": "2021-10-08T11:29:49.000Z",
+      "modified": "2021-11-07T20:11:47.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -437,7 +437,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -461,13 +467,19 @@
         },
         "mdDateSt": "2021-10-08",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": "00:04:17.88",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-08",
+          "ModDate": "2021-11-07",
           "CreaDate": "2021-10-08",
-          "ModTime": "00:04:30.28",
+          "ModTime": "21:11:46.94",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -475,9 +487,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
           "idCitation": {
+            "date": {
+              "pubDate": "2021-10-21"
+            },
             "resTitle": "Návaznost autobusových linek IREDO"
           },
-          "idPurp": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -505,11 +527,6 @@
                   }
                 },
                 "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "Consts": {
-                "useLimit": "CC0"
               }
             }
           ]
@@ -2409,7 +2426,7 @@
         "Veřejná doprava"
       ],
       "issued": "2021-10-07T22:02:51.000Z",
-      "modified": "2021-10-08T11:28:13.000Z",
+      "modified": "2021-11-07T20:12:28.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2419,7 +2436,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -2443,13 +2466,19 @@
         },
         "mdDateSt": "2021-10-08",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": "00:03:49.62",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-08",
+          "ModDate": "2021-11-07",
           "CreaDate": "2021-10-08",
-          "ModTime": "00:04:07.23",
+          "ModTime": "21:12:27.09",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -2457,9 +2486,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
           "idCitation": {
+            "date": {
+              "pubDate": "2021-10-21"
+            },
             "resTitle": "Čekací doby autobusových linek IREDO"
           },
-          "idPurp": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -2487,11 +2526,6 @@
                   }
                 },
                 "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "Consts": {
-                "useLimit": "CC0"
               }
             }
           ]
