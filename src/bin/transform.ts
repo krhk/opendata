@@ -84,9 +84,7 @@ import * as CONFIG from '../../config';
 			};
 
 			if (documentation) {
-				distribution['dokumentace'] = {
-					stránka: documentation
-				};
+				distribution['dokumentace'] = documentation;
 			}
 
 			dataset['distribuce'].push(distribution as Lkod.DatasetDistribution);
