@@ -7032,7 +7032,7 @@
         "cs": "Úřední deska"
       },
       "popis": {
-        "cs": "Export úřední desky královéhradeckého kraje bez příloh."
+        "cs": "Export úřední desky Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7068,12 +7068,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
+          "iri": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
           "název": {
             "cs": "ArcGIS GeoService"
           },
-          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
-          "přístupové_url": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml",
+          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+          "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {

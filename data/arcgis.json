@@ -7382,7 +7382,7 @@
         "Aktuality"
       ],
       "issued": "2021-11-02T10:08:06.000Z",
-      "modified": "2021-11-02T13:04:35.000Z",
+      "modified": "2021-11-08T15:10:29.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -7439,9 +7439,9 @@
           "CreaTime": "11:11:02.78",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-02",
+          "ModDate": "2021-11-08",
           "CreaDate": "2021-11-02",
-          "ModTime": "14:04:34.09",
+          "ModTime": "16:10:28.59",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -7477,6 +7477,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
               }
             },
             {
@@ -11340,12 +11360,12 @@
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
       "title": "Úřední deska",
-      "description": "Export úřední desky královéhradeckého kraje bez příloh.",
+      "description": "Export úřední desky Královéhradeckého kraje.",
       "keyword": [
         "Úřední deska"
       ],
       "issued": "2021-11-02T10:06:52.000Z",
-      "modified": "2021-11-02T13:04:11.000Z",
+      "modified": "2021-11-08T15:25:09.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -11382,7 +11402,7 @@
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
-              "linkage": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml"
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
             }
           },
           "distFormat": {
@@ -11402,22 +11422,22 @@
           "CreaTime": "13:58:23.78",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-02",
+          "ModDate": "2021-11-08",
           "CreaDate": "2021-11-02",
-          "ModTime": "14:04:10.39",
+          "ModTime": "16:25:07.58",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:58:23.78",
         "dataIdInfo": {
-          "idAbs": "Export úřední desky královéhradeckého kraje bez příloh.",
+          "idAbs": "Export úřední desky Královéhradeckého kraje.",
           "idCitation": {
             "date": {
               "createDate": "2021-11-02"
             },
             "resTitle": "Úřední deska",
             "citOnlineRes": {
-              "linkage": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml"
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
             }
           },
           "dataLang": {
@@ -11440,6 +11460,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -11506,7 +11566,7 @@
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://www.kr-kralovehradecky.cz/xml/export/eldeska-zpravy.xml"
+          "accessURL": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
         }
       ]
     },
