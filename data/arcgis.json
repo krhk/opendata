@@ -424,10 +424,12 @@
       "title": "Návaznost autobusových linek IREDO",
       "description": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
       "keyword": [
-        "Veřejná doprava"
+        "Autobusy",
+        "Zastávky",
+        "IREDO"
       ],
       "issued": "2021-10-07T21:57:12.000Z",
-      "modified": "2021-11-07T20:11:47.000Z",
+      "modified": "2021-11-09T07:36:58.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -506,7 +508,11 @@
             }
           },
           "searchKeys": {
-            "keyword": "Veřejná doprava"
+            "keyword": [
+              "Autobusy",
+              "Zastávky",
+              "IREDO"
+            ]
           },
           "resConst": [
             {
@@ -2423,10 +2429,12 @@
       "title": "Čekací doby autobusových linek IREDO",
       "description": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
       "keyword": [
-        "Veřejná doprava"
+        "Autobusy",
+        "Zastávky",
+        "IREDO"
       ],
       "issued": "2021-10-07T22:02:51.000Z",
-      "modified": "2021-11-07T20:12:28.000Z",
+      "modified": "2021-11-09T07:36:42.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -2505,7 +2513,11 @@
             }
           },
           "searchKeys": {
-            "keyword": "Veřejná doprava"
+            "keyword": [
+              "Autobusy",
+              "Zastávky",
+              "IREDO"
+            ]
           },
           "resConst": [
             {
@@ -4714,7 +4726,7 @@
         "Kultura"
       ],
       "issued": "2021-10-21T23:24:09.000Z",
-      "modified": "2021-11-03T13:36:43.000Z",
+      "modified": "2021-11-09T07:45:05.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -4864,7 +4876,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -5849,10 +5863,10 @@
       "keyword": [
         "Autobusy",
         "Zastávky",
-        "Doprava"
+        "IREDO"
       ],
       "issued": "2021-10-07T21:09:57.000Z",
-      "modified": "2021-10-25T21:43:10.000Z",
+      "modified": "2021-11-09T07:38:36.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -5862,7 +5876,13 @@
       },
       "accessLevel": "public",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
               "@_value": "007"
@@ -5879,13 +5899,19 @@
         },
         "mdDateSt": "2021-10-08",
         "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
           "ArcGISFormat": 1,
           "CreaTime": 10370200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-08",
+          "ModDate": "2021-11-09",
           "CreaDate": "2021-10-07",
-          "ModTime": "01:25:01.31",
+          "ModTime": "08:38:15.97",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -5897,7 +5923,14 @@
           "idCitation": {
             "resTitle": "Seznam autobusových zastávek IREDO"
           },
-          "idPurp": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji.",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -5907,7 +5940,7 @@
             "keyword": [
               "Autobusy",
               "Zastávky",
-              "Doprava"
+              "IREDO"
             ]
           },
           "resConst": [
@@ -5975,8 +6008,37 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
