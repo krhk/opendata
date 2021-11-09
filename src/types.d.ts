@@ -83,6 +83,7 @@ declare module Lkod {
 		koncept_euroVoc: string[],
 		kontaktní_bod: DatasetContactPoint,
 		distribuce: DatasetDistribution[],
+		dokumentace: string,
 	}
 
 	interface DatasetContactPoint {
@@ -106,7 +107,6 @@ declare module Lkod {
 		formát: string,
 		schéma: string,
 		podmínky_užití: DatasetConditions,
-		dokumentace: string,
 	}
 
 	interface Contact {

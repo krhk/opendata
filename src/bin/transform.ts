@@ -39,7 +39,6 @@ import * as CONFIG from '../../config';
 		const dataset: Partial<Lkod.Dataset> = {};
 
 		const id = parseIdentifier(arcgisDataset.identifier);
-		const documentation = detectDocumentation(arcgisDataset);
 
 		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld';
 		dataset['iri'] = generateUrl(`${id}.jsonld`);
@@ -59,6 +58,12 @@ import * as CONFIG from '../../config';
 		dataset['prvek_rúian'] = [
 			"https://linked.cuzk.cz/resource/ruian/vusc/86"
 		];
+
+		const documentation = detectDocumentation(arcgisDataset);
+		if (documentation) {
+			dataset['dokumentace'] = documentation;
+		}
+
 		dataset['distribuce'] = [];
 
 		// Distributions
@@ -82,10 +87,6 @@ import * as CONFIG from '../../config';
 				databáze_chráněná_zvláštními_právy: "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
 				osobní_údaje: "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
 			};
-
-			if (documentation) {
-				distribution['dokumentace'] = documentation;
-			}
 
 			dataset['distribuce'].push(distribution as Lkod.DatasetDistribution);
 		}
