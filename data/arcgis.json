@@ -9200,7 +9200,7 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T22:45:23.000Z",
-      "modified": "2021-11-03T19:58:27.000Z",
+      "modified": "2021-11-09T11:37:44.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -9260,9 +9260,9 @@
           "SyncDate": "2021-10-21",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-03",
+          "ModDate": "2021-11-09",
           "CreaDate": "2021-10-21",
-          "ModTime": "20:50:37.90",
+          "ModTime": "12:35:54.50",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -9326,6 +9326,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
