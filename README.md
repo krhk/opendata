@@ -24,7 +24,7 @@
 - Install dependencies via `make install`
 - Build LKOD via `make build`
   - Download data from ArcGIS Hub via `make sync`
-  - Transfer ArcGIS Hub data to NKOD data via `make transoform`
+  - Transfer ArcGIS Hub data to NKOD data via `make transform`
   - Create LKOD via `make generata`
 
 ## Configuration
