@@ -9699,14 +9699,14 @@
       "identifier": "https://www.datakhk.cz/datasets/d5f194f1443143f9ac1ea4ba40fd92cb_1",
       "license": "CC0",
       "landingPage": "https://www.datakhk.cz/datasets/d5f194f1443143f9ac1ea4ba40fd92cb_1",
-      "title": "Školy a školská zařízení",
+      "title": "Seznam škol a školských zařízení",
       "description": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
       "keyword": [
         "Školy",
         "Školská zařízení"
       ],
       "issued": "2021-10-07T21:22:23.000Z",
-      "modified": "2021-11-14T22:38:46.000Z",
+      "modified": "2021-11-15T09:42:03.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -9749,9 +9749,9 @@
           "CreaTime": 14002300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-14",
+          "ModDate": "2021-11-15",
           "CreaDate": "2021-10-07",
-          "ModTime": "23:38:33.12",
+          "ModTime": "10:41:52.30",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9764,7 +9764,7 @@
             "date": {
               "pubDate": "2021-10-25"
             },
-            "resTitle": "Školy a školská zařízení"
+            "resTitle": "Seznam škol a školských zařízení"
           },
           "dataLang": {
             "countryCode": {
@@ -9809,6 +9809,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
