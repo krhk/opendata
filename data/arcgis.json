@@ -3904,7 +3904,7 @@
         "Organizace"
       ],
       "issued": "2021-10-08T08:58:43.000Z",
-      "modified": "2021-11-16T14:34:41.000Z",
+      "modified": "2021-11-18T09:54:18.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -3931,7 +3931,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
@@ -3956,9 +3956,9 @@
           "CreaTime": 9315400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-03",
+          "ModDate": "2021-11-18",
           "CreaDate": "2021-10-07",
-          "ModTime": "14:37:14.42",
+          "ModTime": "10:54:03.46",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -4016,6 +4016,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
