@@ -3,7 +3,8 @@ import _url from 'url';
 import { readJson, parseIdentifier, writeJson } from '@/helpers';
 import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import { generateUrl } from '@/generator';
-import * as CONFIG from '../../config';
+import { sanitizeText } from "@/sanitizer";
+import * as CONFIG from '@/../config';
 
 (async () => {
 	const arcgis: Arcgis.Catalogue = await readJson(CONFIG.ARCGIS_FILE);
@@ -45,10 +46,10 @@ import * as CONFIG from '../../config';
 		dataset['typ'] = 'Datová sada';
 		dataset['poskytovatel'] = CONFIG.META_LKOD.provider;
 		dataset['název'] = {
-			cs: arcgisDataset.title
+			cs: sanitizeText(arcgisDataset.title)
 		};
 		dataset['popis'] = {
-			cs: arcgisDataset.description
+			cs: sanitizeText(arcgisDataset.description)
 		};
 		dataset['klíčové_slovo'] = {
 			cs: arcgisDataset.keyword,
