@@ -99,6 +99,10 @@ LKOD file looks like this.
 }
 ```
 
+## Validation
+
+- https://www.jsonschemavalidator.net/
+
 ## Index
 
 - NKOD = `Národní katalog otevřených dat`
