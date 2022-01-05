@@ -9538,7 +9538,7 @@
         "Školská zařízení"
       ],
       "issued": "2021-10-07T21:22:23.000Z",
-      "modified": "2021-11-15T09:42:03.000Z",
+      "modified": "2022-01-04T22:59:09.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -9581,16 +9581,15 @@
           "CreaTime": 14002300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-15",
+          "ModDate": "2022-01-04",
           "CreaDate": "2021-10-07",
-          "ModTime": "10:41:52.30",
+          "ModTime": "23:58:52.48",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "00:23:38.75",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
           "idCredit": "Odbor školství",
           "idCitation": {
             "date": {
@@ -9606,6 +9605,7 @@
               "@_value": "cze"
             }
           },
+          "idPurp": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -9618,71 +9618,6 @@
             ]
           },
           "resConst": [
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
             {
               "LegConsts": {
                 "othConsts": "Jiná omezení",
