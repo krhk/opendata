@@ -51,7 +51,6 @@
     "https://open.datakhk.cz/8d9e15cc77b048f181c2d9ddba6fa8be_1.jsonld",
     "https://open.datakhk.cz/8ef82f961c984ecf8cb74be2aa091aa3_1.jsonld",
     "https://open.datakhk.cz/92282b7e4104451e8181b8f7db69dc6e_1.jsonld",
-    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
     "https://open.datakhk.cz/9c2c206691bc45178f5df0227d4df565_0.jsonld",
     "https://open.datakhk.cz/9d1b90ff179f4d62ba18f99b0219aa10_0.jsonld",
     "https://open.datakhk.cz/9d2748500e0b4548ae0b91bbeecdd202_0.jsonld",
@@ -69,9 +68,10 @@
     "https://open.datakhk.cz/e38c46d61bae46ed99bbc7c0445aeb17_1.jsonld",
     "https://open.datakhk.cz/e6d9dd5f24374db1be7d60a66856e5b2_0.jsonld",
     "https://open.datakhk.cz/edeabc66f4284335acd97f40480aeee5_0.jsonld",
-    "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld",
     "https://open.datakhk.cz/f2e4e8c2701d44e482ae33b243de3bc5_1.jsonld",
-    "https://open.datakhk.cz/f824f9639edb437386e36678e6827301_0.jsonld"
+    "https://open.datakhk.cz/f824f9639edb437386e36678e6827301_0.jsonld",
+    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
+    "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld"
   ],
   "_datasets": [
     {
@@ -4474,69 +4474,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-      "název": {
-        "cs": "Aktuality"
-      },
-      "popis": {
-        "cs": "RSS kanál pro přehled aktualit Královéhradeckého kraje."
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "Aktuality"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/REGI",
-        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/86"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614",
-          "přístupové_url": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        },
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
-          "název": {
-            "cs": "ArcGIS GeoService"
-          },
-          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
-          "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
-          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datakhk.cz/9c2c206691bc45178f5df0227d4df565_0.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
@@ -6840,69 +6777,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-      "název": {
-        "cs": "Úřední deska"
-      },
-      "popis": {
-        "cs": "Export úřední desky Královéhradeckého kraje."
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "Úřední deska"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/REGI",
-        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/86"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
-          "přístupové_url": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        },
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
-          "název": {
-            "cs": "ArcGIS GeoService"
-          },
-          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
-          "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
-          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datakhk.cz/f2e4e8c2701d44e482ae33b243de3bc5_1.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
@@ -7163,6 +7037,132 @@
           "přístupové_url": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
           "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
           "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Aktuality"
+      },
+      "popis": {
+        "cs": "RSS kanál pro přehled aktualit Královéhradeckého kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Aktuality"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+          "přístupové_url": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
+          "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Úřední deska"
+      },
+      "popis": {
+        "cs": "Export úřední desky Královéhradeckého kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Úřední deska"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+          "přístupové_url": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+          "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

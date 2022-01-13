@@ -7,7 +7,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0",
       "title": "Divadla a filharmonie",
       "description": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -17,15 +17,16 @@
         "Kultura"
       ],
       "issued": "2021-10-21T23:19:48.000Z",
-      "modified": "2021-10-30T23:17:41.000Z",
+      "modified": "2021-10-30T23:17:49.802Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3581,50.1233,16.3318,50.631",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -206,7 +207,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/0a04f3700465477081d94dbd358141d4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3581,50.1233,16.3318,50.631",
       "theme": [
         "geospatial"
       ]
@@ -214,7 +214,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0",
       "title": "Národní kulturní památky na indikativním seznamu",
       "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -223,15 +223,16 @@
         "NKP"
       ],
       "issued": "2021-10-08T22:10:42.000Z",
-      "modified": "2021-10-30T21:52:19.000Z",
+      "modified": "2021-10-30T21:52:17.243Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.4515,50.1085,16.397,50.6681",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -411,7 +412,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.4515,50.1085,16.397,50.6681",
       "theme": [
         "geospatial"
       ]
@@ -419,7 +419,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0",
       "title": "Návaznost autobusových linek IREDO",
       "description": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
@@ -429,15 +429,16 @@
         "IREDO"
       ],
       "issued": "2021-10-07T21:57:12.000Z",
-      "modified": "2021-11-09T07:36:58.000Z",
+      "modified": "2021-11-07T20:10:38.324Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "{{extent}}",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -580,7 +581,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0",
       "title": "Národní kulturní památky – bodové objekty",
       "description": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
@@ -589,15 +590,16 @@
         "NKP"
       ],
       "issued": "2021-10-28T23:18:16.000Z",
-      "modified": "2021-10-30T21:41:26.000Z",
+      "modified": "2021-10-30T21:40:06.289Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.889,50.2635,16.1497,50.4216",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -757,7 +759,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.889,50.2635,16.1497,50.4216",
       "theme": [
         "geospatial"
       ]
@@ -765,7 +766,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0",
       "title": "Zámky",
       "description": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -774,15 +775,16 @@
         "Zámky"
       ],
       "issued": "2021-10-21T23:31:03.000Z",
-      "modified": "2021-10-30T22:24:08.000Z",
+      "modified": "2021-10-30T22:22:54.621Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1698,50.0824,16.4642,50.627",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -962,7 +964,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/11944232a70041639f4a94d56f7e6c6a_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1698,50.0824,16.4642,50.627",
       "theme": [
         "geospatial"
       ]
@@ -970,7 +971,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0",
       "title": "Infocentra",
       "description": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -979,15 +980,16 @@
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:23:18.000Z",
-      "modified": "2021-10-30T23:12:41.000Z",
+      "modified": "2021-10-30T23:11:58.037Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1768,50.0818,16.4728,50.7519",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -1167,7 +1169,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/1201cb9883c041acb433ed0e2e5f5f39_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1768,50.0818,16.4728,50.7519",
       "theme": [
         "geospatial"
       ]
@@ -1175,7 +1176,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1597c4b3e3414dbba5abf534f90f2dca_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/1597c4b3e3414dbba5abf534f90f2dca_1",
       "title": "Výjezdové základny zdravotnické záchranné služby",
       "description": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje.",
@@ -1184,15 +1185,16 @@
         "Zdravotnická záchranná služba"
       ],
       "issued": "2021-10-07T20:57:21.000Z",
-      "modified": "2021-10-25T21:43:41.000Z",
+      "modified": "2021-10-26T22:46:48.668Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3574,50.168,16.3339,50.6196",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -1373,7 +1375,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/1597c4b3e3414dbba5abf534f90f2dca_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3574,50.168,16.3339,50.6196",
       "theme": [
         "geospatial"
       ]
@@ -1381,7 +1382,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0",
       "title": "Zábavní centra",
       "description": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -1389,15 +1390,16 @@
         "Kultura"
       ],
       "issued": "2021-10-21T23:30:06.000Z",
-      "modified": "2021-10-30T22:41:21.000Z",
+      "modified": "2021-10-30T22:40:07.587Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3508,50.1561,16.3465,50.7468",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -1574,7 +1576,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/17d829b5a02947639cea99e0389ff943_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3508,50.1561,16.3465,50.7468",
       "theme": [
         "geospatial"
       ]
@@ -1582,7 +1583,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0",
       "title": "Pevnosti a opevnění",
       "description": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -1592,15 +1593,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:26:42.000Z",
-      "modified": "2021-10-30T23:11:07.000Z",
+      "modified": "2021-10-30T23:06:47.255Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1299,50.1802,16.5156,50.6305",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -1781,7 +1783,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/1b529a3557af4e1d8419a164294ab49b_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1299,50.1802,16.5156,50.6305",
       "theme": [
         "geospatial"
       ]
@@ -1789,7 +1790,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1",
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – body",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -1797,15 +1798,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T22:49:11.000Z",
-      "modified": "2021-11-03T19:53:27.000Z",
+      "modified": "2021-11-02T23:31:34.664Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1731,50.1713,16.3895,50.6829",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2021,7 +2023,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1731,50.1713,16.3895,50.6829",
       "theme": [
         "geospatial"
       ]
@@ -2029,7 +2030,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0",
       "title": "Ostatní historické památky",
       "description": "Datová sada s prostorovou lokalizací vybraných historických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -2037,15 +2038,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:25:54.000Z",
-      "modified": "2021-11-03T13:25:21.000Z",
+      "modified": "2021-11-03T13:25:34.506Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1592,50.1501,16.4754,50.7524",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2211,7 +2213,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/2f877fe838f4447daa9e29ce2267eedf_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1592,50.1501,16.4754,50.7524",
       "theme": [
         "geospatial"
       ]
@@ -2219,7 +2220,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0",
       "title": "Národní kulturní památky – pozemky",
       "description": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
@@ -2228,15 +2229,16 @@
         "NKP"
       ],
       "issued": "2021-10-28T23:21:37.000Z",
-      "modified": "2021-11-03T21:36:54.000Z",
+      "modified": "2021-11-03T21:36:52.715Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1343,50.1991,16.3414,50.5893",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2416,7 +2418,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/354dffed3b204732a6ccb0b369168eff_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1343,50.1991,16.3414,50.5893",
       "theme": [
         "geospatial"
       ]
@@ -2424,7 +2425,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0",
       "title": "Čekací doby autobusových linek IREDO",
       "description": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
@@ -2434,15 +2435,16 @@
         "IREDO"
       ],
       "issued": "2021-10-07T22:02:51.000Z",
-      "modified": "2021-11-09T07:36:42.000Z",
+      "modified": "2021-11-07T20:10:09.714Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "{{extent}}",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2585,7 +2587,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/3d2f89fd21d0450686d8933fac9a556e_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/3d2f89fd21d0450686d8933fac9a556e_1",
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – polygony",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -2593,15 +2595,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:07:09.000Z",
-      "modified": "2021-11-03T21:26:04.000Z",
+      "modified": "2021-11-03T21:26:02.964Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.046,49.976,16.5978,50.8623",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2817,7 +2820,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/3d2f89fd21d0450686d8933fac9a556e_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.046,49.976,16.5978,50.8623",
       "theme": [
         "geospatial"
       ]
@@ -2825,7 +2827,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0",
       "title": "Přírodní zajímavosti",
       "description": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -2833,15 +2835,16 @@
         "Příroda"
       ],
       "issued": "2021-10-21T23:27:35.000Z",
-      "modified": "2021-10-30T23:05:23.000Z",
+      "modified": "2021-10-30T23:04:16.681Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1199,50.0713,16.5794,50.779",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3019,7 +3022,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/41eb32716c0f46838964468823408038_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1199,50.0713,16.5794,50.779",
       "theme": [
         "geospatial"
       ]
@@ -3027,7 +3029,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0",
       "title": "Válečné hroby",
       "description": "Datová sada s prostorovou lokalizací všech válečných hrobů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -3036,15 +3038,16 @@
         "Hroby"
       ],
       "issued": "2021-10-08T21:31:17.000Z",
-      "modified": "2021-11-14T22:37:03.000Z",
+      "modified": "2021-11-14T22:36:25.841Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1212,50.0515,16.5575,50.7468",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3224,7 +3227,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1212,50.0515,16.5575,50.7468",
       "theme": [
         "geospatial"
       ]
@@ -3232,7 +3234,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0",
       "title": "Kulturní domy",
       "description": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -3241,15 +3243,16 @@
         "Kulturní domy"
       ],
       "issued": "2021-10-08T22:27:08.000Z",
-      "modified": "2021-10-30T21:53:10.000Z",
+      "modified": "2021-10-30T21:53:08.421Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1768,50.116,16.4647,50.6212",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3426,7 +3429,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1768,50.116,16.4647,50.6212",
       "theme": [
         "geospatial"
       ]
@@ -3434,7 +3436,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0",
       "title": "Architektonické památky",
       "description": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -3443,15 +3445,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T22:34:16.000Z",
-      "modified": "2021-10-30T23:34:43.000Z",
+      "modified": "2021-10-30T23:33:52.383Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1555,50.0974,16.4651,50.7359",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3631,7 +3634,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/49a85b5bb43b4692978190b2654e63e9_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1555,50.0974,16.4651,50.7359",
       "theme": [
         "geospatial"
       ]
@@ -3639,7 +3641,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/4d91eb9483524acca6d5b4022c20d82a_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/4d91eb9483524acca6d5b4022c20d82a_1",
       "title": "Počty studentů krajských vyšších odborných škol",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
@@ -3649,15 +3651,16 @@
         "Školy"
       ],
       "issued": "2021-10-07T21:12:38.000Z",
-      "modified": "2021-10-25T21:44:20.000Z",
+      "modified": "2021-10-25T21:44:31.972Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3524,50.1648,16.2793,50.565",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3888,7 +3891,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/4d91eb9483524acca6d5b4022c20d82a_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3524,50.1648,16.2793,50.565",
       "theme": [
         "geospatial"
       ]
@@ -3896,7 +3898,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/4db28c8c9198474bb5afc72ae6819e91_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/4db28c8c9198474bb5afc72ae6819e91_1",
       "title": "Seznam organizací Královéhradeckého kraje",
       "description": "Datová sada s prostorovou lokalizací sídel právnických osob a organizačních složek založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Organizační řád Krajského úřadu Královéhradeckého kraje.",
@@ -3904,15 +3906,16 @@
         "Organizace"
       ],
       "issued": "2021-10-08T08:58:43.000Z",
-      "modified": "2021-11-19T08:37:31.000Z",
+      "modified": "2021-11-18T09:10:30.996Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.2719,50.0859,16.4684,50.6607",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -4339,7 +4342,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/4db28c8c9198474bb5afc72ae6819e91_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.2719,50.0859,16.4684,50.6607",
       "theme": [
         "geospatial"
       ]
@@ -4347,7 +4349,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/4e0060d666374dab915e2874cc5148f6_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/4e0060d666374dab915e2874cc5148f6_1",
       "title": "Následná péče",
       "description": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
@@ -4356,15 +4358,16 @@
         "Následná péče"
       ],
       "issued": "2021-10-07T21:05:16.000Z",
-      "modified": "2021-10-25T21:31:45.000Z",
+      "modified": "2021-10-25T21:30:53.354Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.4828,50.2121,16.3342,50.6507",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -4544,7 +4547,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/4e0060d666374dab915e2874cc5148f6_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.4828,50.2121,16.3342,50.6507",
       "theme": [
         "geospatial"
       ]
@@ -4552,7 +4554,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0",
       "title": "Válečné hroby ve vlastnictví kraje",
       "description": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -4561,15 +4563,16 @@
         "Hroby"
       ],
       "issued": "2021-10-08T21:41:32.000Z",
-      "modified": "2021-11-01T20:43:38.000Z",
+      "modified": "2021-11-01T20:43:41.887Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.2724,50.2106,16.1912,50.5801",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -4746,7 +4749,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.2724,50.2106,16.1912,50.5801",
       "theme": [
         "geospatial"
       ]
@@ -4754,7 +4756,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0",
       "title": "Kluby",
       "description": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -4763,15 +4765,16 @@
         "Kultura"
       ],
       "issued": "2021-10-21T23:24:09.000Z",
-      "modified": "2021-11-09T07:45:05.000Z",
+      "modified": "2021-11-03T13:34:16.039Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3585,50.116,16.2911,50.7258",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -4960,7 +4963,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/5dee86e5fed547a68f9ab18800bc63a4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3585,50.116,16.2911,50.7258",
       "theme": [
         "geospatial"
       ]
@@ -4968,7 +4970,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/61acbd8d632d4dae854cdf6ae7bf48fc_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/61acbd8d632d4dae854cdf6ae7bf48fc_1",
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -4976,15 +4978,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:04:06.000Z",
-      "modified": "2021-11-03T21:24:17.000Z",
+      "modified": "2021-11-03T19:15:50.528Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.8103,50.1814,16.4136,50.6085",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -5200,7 +5203,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/61acbd8d632d4dae854cdf6ae7bf48fc_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.8103,50.1814,16.4136,50.6085",
       "theme": [
         "geospatial"
       ]
@@ -5208,7 +5210,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0",
       "title": "Cyklovýlety",
       "description": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -5217,15 +5219,16 @@
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T22:07:51.000Z",
-      "modified": "2021-10-30T23:38:14.000Z",
+      "modified": "2021-10-30T23:35:46.924Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.0831,50.0822,16.5137,50.7489",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -5405,7 +5408,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/6672d9293f124659bc03f818a1b2577b_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.0831,50.0822,16.5137,50.7489",
       "theme": [
         "geospatial"
       ]
@@ -5413,7 +5415,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/6a883a213b934395a0b9eaff9698daa1_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/6a883a213b934395a0b9eaff9698daa1_1",
       "title": "Vymezení rozvojových os v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -5421,15 +5423,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:16:24.000Z",
-      "modified": "2021-11-03T21:28:59.000Z",
+      "modified": "2021-11-03T21:28:57.819Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.0947,49.9776,16.363,50.7129",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -5644,7 +5647,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/6a883a213b934395a0b9eaff9698daa1_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.0947,49.9776,16.363,50.7129",
       "theme": [
         "geospatial"
       ]
@@ -5652,7 +5654,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/769c0fb4f47c411c86f7780e3385b499_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/769c0fb4f47c411c86f7780e3385b499_1",
       "title": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech dle ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -5660,15 +5662,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:11:59.000Z",
-      "modified": "2021-11-03T21:28:00.000Z",
+      "modified": "2021-11-03T21:27:58.861Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "14.9603,49.9141,16.6073,50.9446",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -5885,7 +5888,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/769c0fb4f47c411c86f7780e3385b499_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "14.9603,49.9141,16.6073,50.9446",
       "theme": [
         "geospatial"
       ]
@@ -5893,7 +5895,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/83aac46e9b01496a940270a6aa147a01_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/83aac46e9b01496a940270a6aa147a01_1",
       "title": "Seznam autobusových zastávek IREDO",
       "description": "Datová sada s prostorovou lokalizací autobusových zastávek IREDO v Královéhradeckém kraji. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Oddělení informatiky Krajského úřadu Královéhradeckého kraje.",
@@ -5903,15 +5905,16 @@
         "IREDO"
       ],
       "issued": "2021-10-07T21:09:57.000Z",
-      "modified": "2021-11-09T07:38:36.000Z",
+      "modified": "2021-10-25T21:43:15.979Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "14.9765,49.9667,16.5967,50.7626",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -6130,7 +6133,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/83aac46e9b01496a940270a6aa147a01_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "14.9765,49.9667,16.5967,50.7626",
       "theme": [
         "geospatial"
       ]
@@ -6138,7 +6140,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0",
       "title": "Hrady",
       "description": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -6147,15 +6149,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:21:46.000Z",
-      "modified": "2021-10-30T23:28:14.000Z",
+      "modified": "2021-10-30T23:23:16.022Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1353,50.078,16.3982,50.6679",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -6335,7 +6338,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/85d3df3afb09433488d2efdfe702f788_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1353,50.078,16.3982,50.6679",
       "theme": [
         "geospatial"
       ]
@@ -6343,7 +6345,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0",
       "title": "Židovské památky",
       "description": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -6351,15 +6353,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:31:49.000Z",
-      "modified": "2021-10-30T22:28:47.000Z",
+      "modified": "2021-10-30T22:25:15.163Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3528,50.1215,16.4688,50.4424",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -6536,7 +6539,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/8d9d87e73cfe470a9560805bfddb7f4d_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3528,50.1215,16.4688,50.4424",
       "theme": [
         "geospatial"
       ]
@@ -6544,7 +6546,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/8d9e15cc77b048f181c2d9ddba6fa8be_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/8d9e15cc77b048f181c2d9ddba6fa8be_1",
       "title": "Vymezení specifických oblastí v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -6552,15 +6554,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:17:16.000Z",
-      "modified": "2021-11-03T21:29:26.000Z",
+      "modified": "2021-11-03T21:29:25.394Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.0307,50.0326,16.5876,50.8484",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -6775,7 +6778,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/8d9e15cc77b048f181c2d9ddba6fa8be_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.0307,50.0326,16.5876,50.8484",
       "theme": [
         "geospatial"
       ]
@@ -6783,7 +6785,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_1",
       "title": "Plochy zastavitelné v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -6791,15 +6793,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T21:57:36.000Z",
-      "modified": "2021-11-03T19:53:18.000Z",
+      "modified": "2021-11-02T23:31:52.446Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.622,50.1399,16.2638,50.6462",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -7054,7 +7057,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.622,50.1399,16.2638,50.6462",
       "theme": [
         "geospatial"
       ]
@@ -7062,7 +7064,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/92282b7e4104451e8181b8f7db69dc6e_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/92282b7e4104451e8181b8f7db69dc6e_1",
       "title": "Služebny Policie ČR",
       "description": "Datová sada s prostorovou lokalizací <span>služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.<br /></span>",
@@ -7071,15 +7073,16 @@
         "Policie"
       ],
       "issued": "2021-10-07T13:31:08.000Z",
-      "modified": "2021-10-25T21:35:54.000Z",
+      "modified": "2021-10-25T21:35:10.747Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1695,50.0402,16.4661,50.7254",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -7260,230 +7263,14 @@
           "accessURL": "https://www.datakhk.cz/datasets/92282b7e4104451e8181b8f7db69dc6e_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1695,50.0402,16.4661,50.7254",
       "theme": [
         "geospatial"
       ]
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614",
-      "license": "CC0",
-      "landingPage": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614",
-      "title": "Aktuality",
-      "description": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
-      "keyword": [
-        "Aktuality"
-      ],
-      "issued": "2021-11-02T10:08:06.000Z",
-      "modified": "2021-11-08T15:10:29.000Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
-      },
-      "accessLevel": "public",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "98b4e322ef1e4bbc8a0dad30d0c14614",
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": "Každých 30 minut"
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "001"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-            }
-          },
-          "distFormat": {
-            "formatVer": 1,
-            "formatName": "XML"
-          }
-        },
-        "mdDateSt": "2021-11-02",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "11:11:02.78",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-08",
-          "CreaDate": "2021-11-02",
-          "ModTime": "16:10:28.59",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "11:11:02.78",
-        "dataIdInfo": {
-          "idAbs": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-11-02"
-            },
-            "resTitle": "Aktuality",
-            "citOnlineRes": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": "Aktuality"
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "appSchInfo": {
-          "asName": {
-            "date": {
-              "pubDate": "2021-11-02"
-            },
-            "resTitle": "test 3"
-          },
-          "asSchLang": "XML"
-        }
-      },
-      "category": [
-        "Kraj a dotace"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/98b4e322ef1e4bbc8a0dad30d0c14614"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-        }
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/9c2c206691bc45178f5df0227d4df565_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/9c2c206691bc45178f5df0227d4df565_0",
       "title": "Kina",
       "description": "Datová sada s prostorovou lokalizací kin na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -7492,15 +7279,16 @@
         "Kina"
       ],
       "issued": "2021-10-08T22:13:40.000Z",
-      "modified": "2021-10-30T21:53:53.000Z",
+      "modified": "2021-10-30T21:53:51.808Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1768,50.0951,16.339,50.631",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -7680,7 +7468,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/9c2c206691bc45178f5df0227d4df565_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1768,50.0951,16.339,50.631",
       "theme": [
         "geospatial"
       ]
@@ -7688,7 +7475,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0",
       "title": "Technické památky",
       "description": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -7696,15 +7483,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:29:14.000Z",
-      "modified": "2021-10-30T22:55:42.000Z",
+      "modified": "2021-10-30T22:47:03.687Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3405,50.1128,16.4663,50.7327",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -7881,7 +7669,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/9d1b90ff179f4d62ba18f99b0219aa10_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3405,50.1128,16.4663,50.7327",
       "theme": [
         "geospatial"
       ]
@@ -7889,7 +7676,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0",
       "title": "Lanovky",
       "description": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -7898,15 +7685,16 @@
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:25:07.000Z",
-      "modified": "2021-11-03T13:32:37.000Z",
+      "modified": "2021-11-03T13:30:36.408Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.5808,50.2257,16.4606,50.7339",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -8075,7 +7863,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/9d2748500e0b4548ae0b91bbeecdd202_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.5808,50.2257,16.4606,50.7339",
       "theme": [
         "geospatial"
       ]
@@ -8083,7 +7870,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/a2d0970a92b6452899730e90a1ce5e29_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/a2d0970a92b6452899730e90a1ce5e29_1",
       "title": "Územní rezervy dle ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -8091,15 +7878,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T22:47:48.000Z",
-      "modified": "2021-11-03T20:02:09.000Z",
+      "modified": "2021-11-03T20:02:08.164Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.5021,50.0692,16.4781,50.6532",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -8314,7 +8102,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/a2d0970a92b6452899730e90a1ce5e29_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.5021,50.0692,16.4781,50.6532",
       "theme": [
         "geospatial"
       ]
@@ -8322,7 +8109,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/a6f92ba4fb90467a8705d1ec875c4c57_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/a6f92ba4fb90467a8705d1ec875c4c57_1",
       "title": "Stanice a pracoviště hasičského záchranného sboru",
       "description": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je  Hasičský záchranný sbor Královéhradeckého kraje.",
@@ -8331,15 +8118,16 @@
         "Hasiči"
       ],
       "issued": "2021-10-07T13:21:33.000Z",
-      "modified": "2021-10-25T21:29:29.000Z",
+      "modified": "2021-10-25T21:28:37.303Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.36,50.1727,16.3355,50.6196",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -8560,7 +8348,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/a6f92ba4fb90467a8705d1ec875c4c57_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.36,50.1727,16.3355,50.6196",
       "theme": [
         "geospatial"
       ]
@@ -8568,7 +8355,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/a79540ef05304c0fb3501290cfffbdbb_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/a79540ef05304c0fb3501290cfffbdbb_0",
       "title": "Knihovny",
       "description": "Datová sada s prostorovou lokalizací knihoven na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
@@ -8577,15 +8364,16 @@
         "Knihovny"
       ],
       "issued": "2021-10-08T22:20:47.000Z",
-      "modified": "2021-10-30T21:54:15.000Z",
+      "modified": "2021-10-30T21:54:13.284Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.163,50.0483,16.5473,50.7251",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -8756,7 +8544,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/a79540ef05304c0fb3501290cfffbdbb_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.163,50.0483,16.5473,50.7251",
       "theme": [
         "geospatial"
       ]
@@ -8764,7 +8551,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_1",
       "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – body",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -8772,15 +8559,16 @@
         "ZÚR KHK"
       ],
       "issued": "2021-11-02T22:21:54.000Z",
-      "modified": "2021-11-03T20:01:38.000Z",
+      "modified": "2021-11-02T23:30:55.881Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1263,49.972,16.4982,50.6978",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -9016,7 +8804,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1263,49.972,16.4982,50.6978",
       "theme": [
         "geospatial"
       ]
@@ -9024,7 +8811,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/b71c244457d944e68be39910dfc10335_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/b71c244457d944e68be39910dfc10335_1",
       "title": "Nadregionální a regionální ÚSES vymezený v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -9032,15 +8819,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T22:45:23.000Z",
-      "modified": "2021-11-09T11:37:44.000Z",
+      "modified": "2021-11-03T19:58:26.305Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.046,49.976,16.5978,50.8623",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -9316,7 +9104,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/b71c244457d944e68be39910dfc10335_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.046,49.976,16.5978,50.8623",
       "theme": [
         "geospatial"
       ]
@@ -9324,7 +9111,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0",
       "title": "Rozhledny a vyhlídky",
       "description": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -9333,15 +9120,16 @@
         "Cestovní ruch"
       ],
       "issued": "2021-10-21T23:28:25.000Z",
-      "modified": "2021-10-30T22:59:19.000Z",
+      "modified": "2021-10-30T22:57:00.342Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1698,50.0923,16.5127,50.7443",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -9521,7 +9309,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/d389f71c4e6646308425235d2391a1e4_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1698,50.0923,16.5127,50.7443",
       "theme": [
         "geospatial"
       ]
@@ -9529,7 +9316,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/d5f194f1443143f9ac1ea4ba40fd92cb_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/d5f194f1443143f9ac1ea4ba40fd92cb_1",
       "title": "Seznam škol a školských zařízení",
       "description": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
@@ -9538,15 +9325,16 @@
         "Školská zařízení"
       ],
       "issued": "2021-10-07T21:22:23.000Z",
-      "modified": "2022-01-04T22:59:09.000Z",
+      "modified": "2022-01-04T18:57:45.877Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1632,50.0564,16.5516,50.727",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -9702,7 +9490,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/d5f194f1443143f9ac1ea4ba40fd92cb_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1632,50.0564,16.5516,50.727",
       "theme": [
         "geospatial"
       ]
@@ -9710,7 +9497,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/d7c6cced8b7b4d7c9578fe1b3db67ed3_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/d7c6cced8b7b4d7c9578fe1b3db67ed3_0",
       "title": "Poskytovatelé sociálních služeb",
       "description": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
@@ -9718,15 +9505,16 @@
         "Sociální služby"
       ],
       "issued": "2021-10-20T23:17:05.000Z",
-      "modified": "2021-10-25T21:09:12.000Z",
+      "modified": "2021-10-25T21:08:06.491Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.163,50.0804,16.5521,50.6607",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -9904,7 +9692,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/d7c6cced8b7b4d7c9578fe1b3db67ed3_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.163,50.0804,16.5521,50.6607",
       "theme": [
         "geospatial"
       ]
@@ -9912,7 +9699,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/d9f3ee622a1247bd92249127371b6ee5_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/d9f3ee622a1247bd92249127371b6ee5_1",
       "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – polygony",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -9920,15 +9707,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T22:34:53.000Z",
-      "modified": "2021-11-03T19:56:56.000Z",
+      "modified": "2021-11-03T19:56:19.888Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.0309,49.9522,16.6012,50.8483",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -10165,7 +9953,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/d9f3ee622a1247bd92249127371b6ee5_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.0309,49.9522,16.6012,50.8483",
       "theme": [
         "geospatial"
       ]
@@ -10173,7 +9960,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/dd91753e861b4d72bf72d62ce2f906c8_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/dd91753e861b4d72bf72d62ce2f906c8_1",
       "title": "Lékařská pohotovostní služba",
       "description": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
@@ -10183,15 +9970,16 @@
         "Pohotovost"
       ],
       "issued": "2021-10-07T21:04:02.000Z",
-      "modified": "2021-10-25T21:33:52.000Z",
+      "modified": "2021-10-25T21:32:56.664Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.3574,50.1701,16.2704,50.5604",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -10372,7 +10160,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/dd91753e861b4d72bf72d62ce2f906c8_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.3574,50.1701,16.2704,50.5604",
       "theme": [
         "geospatial"
       ]
@@ -10380,7 +10167,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0",
       "title": "Národní kulturní památky – plošné objekty",
       "description": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
@@ -10389,15 +10176,16 @@
         "NKP"
       ],
       "issued": "2021-10-28T23:20:37.000Z",
-      "modified": "2021-11-03T21:33:25.000Z",
+      "modified": "2021-11-03T21:33:23.888Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1343,50.1989,16.3414,50.5893",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -10642,7 +10430,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/ddd3b5150e0249cfb4bef6e1a815e181_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1343,50.1989,16.3414,50.5893",
       "theme": [
         "geospatial"
       ]
@@ -10650,7 +10437,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/e38c46d61bae46ed99bbc7c0445aeb17_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/e38c46d61bae46ed99bbc7c0445aeb17_1",
       "title": "Počty žáků v oborech středních škol zřizovaných krajem",
       "description": "Datová sada s prostorovou lokalizací oborů středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých oborech. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
@@ -10659,15 +10446,16 @@
         "Školy"
       ],
       "issued": "2021-10-07T21:13:31.000Z",
-      "modified": "2021-10-25T21:27:03.000Z",
+      "modified": "2021-10-25T21:25:18.735Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.2719,50.1244,16.3416,50.6316",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -10828,7 +10616,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/e38c46d61bae46ed99bbc7c0445aeb17_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.2719,50.1244,16.3416,50.6316",
       "theme": [
         "geospatial"
       ]
@@ -10836,7 +10623,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0",
       "title": "Církevní památky",
       "description": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
@@ -10845,15 +10632,16 @@
         "Památky"
       ],
       "issued": "2021-10-21T23:18:53.000Z",
-      "modified": "2021-10-30T23:32:23.000Z",
+      "modified": "2021-10-30T23:29:00.906Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1708,50.0529,16.5505,50.736",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -11033,7 +10821,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/e6d9dd5f24374db1be7d60a66856e5b2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1708,50.0529,16.5505,50.736",
       "theme": [
         "geospatial"
       ]
@@ -11041,7 +10828,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0",
       "title": "Národní kulturní památky – liniové objekty",
       "description": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
@@ -11050,15 +10837,16 @@
         "NKP"
       ],
       "issued": "2021-10-28T23:19:14.000Z",
-      "modified": "2021-10-30T19:59:20.000Z",
+      "modified": "2021-10-30T19:43:10.258Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1344,50.2232,16.3336,50.586",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -11238,231 +11026,14 @@
           "accessURL": "https://www.datakhk.cz/datasets/edeabc66f4284335acd97f40480aeee5_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1344,50.2232,16.3336,50.586",
       "theme": [
         "geospatial"
       ]
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
-      "license": "CC0",
-      "landingPage": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83",
-      "title": "Úřední deska",
-      "description": "Export úřední desky Královéhradeckého kraje.",
-      "keyword": [
-        "Úřední deska"
-      ],
-      "issued": "2021-11-02T10:06:52.000Z",
-      "modified": "2021-11-08T15:25:09.000Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
-      },
-      "accessLevel": "public",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "f1b9f9574dbf4c9db010b2a328e37b83",
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": "Každých 5 minut"
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "002"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
-            }
-          },
-          "distFormat": {
-            "formatVer": 1,
-            "formatName": "XML"
-          }
-        },
-        "mdDateSt": "2021-11-02",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "13:58:23.78",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-08",
-          "CreaDate": "2021-11-02",
-          "ModTime": "16:25:07.58",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "13:58:23.78",
-        "dataIdInfo": {
-          "idAbs": "Export úřední desky Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-11-02"
-            },
-            "resTitle": "Úřední deska",
-            "citOnlineRes": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": "Úřední deska"
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Kraj a dotace"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/f1b9f9574dbf4c9db010b2a328e37b83"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
-        }
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/f2e4e8c2701d44e482ae33b243de3bc5_1",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/f2e4e8c2701d44e482ae33b243de3bc5_1",
       "title": "Vymezení rozvojových oblastí v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
@@ -11470,15 +11041,16 @@
         "ZÚR"
       ],
       "issued": "2021-11-02T23:14:59.000Z",
-      "modified": "2021-11-03T21:28:31.000Z",
+      "modified": "2021-11-03T21:28:30.074Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.465,50.089,16.2688,50.7313",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -11693,7 +11265,6 @@
           "accessURL": "https://www.datakhk.cz/datasets/f2e4e8c2701d44e482ae33b243de3bc5_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.465,50.089,16.2688,50.7313",
       "theme": [
         "geospatial"
       ]
@@ -11701,7 +11272,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0",
-      "license": "CC0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0",
       "title": "Muzea a galerie",
       "description": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje.",
@@ -11711,15 +11282,16 @@
         "Galerie"
       ],
       "issued": "2021-10-08T22:32:31.000Z",
-      "modified": "2021-10-30T22:15:15.000Z",
+      "modified": "2021-10-30T22:00:41.223Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
       "contactPoint": {
         "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{org.portalProperties.links.contactUs.url}}"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
+      "spatial": "15.1592,50.1087,16.5096,50.7261",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -11900,9 +11472,441 @@
           "accessURL": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
-      "spatial": "15.1592,50.1087,16.5096,50.7261",
       "theme": [
         "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "landingPage": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+      "title": "Aktuality",
+      "description": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
+      "keyword": [
+        "Aktuality"
+      ],
+      "issued": "2021-11-02T10:08:06.000Z",
+      "modified": "2021-11-08T15:10:29.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "98b4e322ef1e4bbc8a0dad30d0c14614",
+        "mdMaint": {
+          "usrDefFreq": {
+            "duration": "Každých 30 minut"
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "001"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
+            }
+          },
+          "distFormat": {
+            "formatVer": 1,
+            "formatName": "XML"
+          }
+        },
+        "mdDateSt": "2021-11-02",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "11:11:02.78",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-11-08",
+          "CreaDate": "2021-11-02",
+          "ModTime": "16:10:28.59",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "11:11:02.78",
+        "dataIdInfo": {
+          "idAbs": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
+          "idCitation": {
+            "date": {
+              "createDate": "2021-11-02"
+            },
+            "resTitle": "Aktuality",
+            "citOnlineRes": {
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": "Aktuality"
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "appSchInfo": {
+          "asName": {
+            "date": {
+              "pubDate": "2021-11-02"
+            },
+            "resTitle": "test 3"
+          },
+          "asSchLang": "XML"
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "landingPage": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+      "title": "Úřední deska",
+      "description": "Export úřední desky Královéhradeckého kraje.",
+      "keyword": [
+        "Úřední deska"
+      ],
+      "issued": "2021-11-02T10:06:52.000Z",
+      "modified": "2021-11-08T15:25:09.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "f1b9f9574dbf4c9db010b2a328e37b83",
+        "mdMaint": {
+          "usrDefFreq": {
+            "duration": "Každých 5 minut"
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "002"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
+            }
+          },
+          "distFormat": {
+            "formatVer": 1,
+            "formatName": "XML"
+          }
+        },
+        "mdDateSt": "2021-11-02",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "13:58:23.78",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2021-11-08",
+          "CreaDate": "2021-11-02",
+          "ModTime": "16:25:07.58",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:58:23.78",
+        "dataIdInfo": {
+          "idAbs": "Export úřední desky Královéhradeckého kraje.",
+          "idCitation": {
+            "date": {
+              "createDate": "2021-11-02"
+            },
+            "resTitle": "Úřední deska",
+            "citOnlineRes": {
+              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": "Úřední deska"
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
+        }
       ]
     }
   ]
