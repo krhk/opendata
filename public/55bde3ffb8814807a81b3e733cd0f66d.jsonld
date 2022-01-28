@@ -1,13 +1,13 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/f1b9f9574dbf4c9db010b2a328e37b83.jsonld",
+  "iri": "https://open.datakhk.cz/55bde3ffb8814807a81b3e733cd0f66d.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Úřední deska"
+    "cs": "Úřední deska Královéhradeckého kraje"
   },
   "popis": {
-    "cs": "Export úřední desky Královéhradeckého kraje."
+    "cs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy https://ofn.gov.cz/úřední-desky/2021-07-20/. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld."
   },
   "klíčové_slovo": {
     "cs": [
@@ -25,12 +25,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+      "iri": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
-      "přístupové_url": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
+      "soubor_ke_stažení": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
+      "přístupové_url": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -43,12 +43,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+      "iri": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
-      "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml",
+      "soubor_ke_stažení": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld",
+      "přístupové_url": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

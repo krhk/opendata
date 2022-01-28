@@ -11478,6 +11478,260 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "landingPage": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
+      "title": "Úřední deska Královéhradeckého kraje",
+      "description": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
+      "keyword": [
+        "Úřední deska"
+      ],
+      "issued": "2022-01-27T13:34:36.000Z",
+      "modified": "2022-01-27T20:47:33.000Z",
+      "publisher": {
+        "source": "Tomas_Merta_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Merta_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "55bde3ffb8814807a81b3e733cd0f66d",
+        "mdMaint": {
+          "maintCont": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "ihejnysova@kr-kralovehradecky.cz"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "002"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld"
+            }
+          },
+          "distFormat": {
+            "formatVer": 1.1,
+            "formatName": "JSON-LD",
+            "formatSpec": "https://ofn.gov.cz/úřední-desky/2021-07-20/"
+          }
+        },
+        "mdDateSt": "2022-01-27",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "14:36:42.34",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-01-27",
+          "CreaDate": "2022-01-27",
+          "ModTime": "15:55:12.33",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "14:36:42.34",
+        "dataIdInfo": {
+          "idStatus": {
+            "ProgCd": {
+              "@_value": "001"
+            }
+          },
+          "idAbs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
+          "idCitation": {
+            "date": {
+              "pubDate": "2022-01-27"
+            },
+            "resTitle": "Úřední deska Královéhradeckého kraje",
+            "citOnlineRes": {
+              "linkage": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld"
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy https://ofn.gov.cz/úřední-desky/2021-07-20/. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld.",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": "Úřední deska"
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
       "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
@@ -11689,223 +11943,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-        }
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
-      "landingPage": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83",
-      "title": "Úřední deska",
-      "description": "Export úřední desky Královéhradeckého kraje.",
-      "keyword": [
-        "Úřední deska"
-      ],
-      "issued": "2021-11-02T10:06:52.000Z",
-      "modified": "2021-11-08T15:25:09.000Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent}}",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "f1b9f9574dbf4c9db010b2a328e37b83",
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": "Každých 5 minut"
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "002"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
-            }
-          },
-          "distFormat": {
-            "formatVer": 1,
-            "formatName": "XML"
-          }
-        },
-        "mdDateSt": "2021-11-02",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "13:58:23.78",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-08",
-          "CreaDate": "2021-11-02",
-          "ModTime": "16:25:07.58",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "13:58:23.78",
-        "dataIdInfo": {
-          "idAbs": "Export úřední desky Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-11-02"
-            },
-            "resTitle": "Úřední deska",
-            "citOnlineRes": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": "Úřední deska"
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Kraj a dotace"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/documents/f1b9f9574dbf4c9db010b2a328e37b83"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.kr-kralovehradecky.cz/rss/uredni_deska.xml"
         }
       ]
     }
