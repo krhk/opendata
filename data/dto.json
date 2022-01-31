@@ -7056,7 +7056,7 @@
         "cs": "Úřední deska Královéhradeckého kraje"
       },
       "popis": {
-        "cs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy https://ofn.gov.cz/úřední-desky/2021-07-20/. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld."
+        "cs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy https://ofn.gov.cz/úřední-desky/2021-07-20/. Data se generují 2x denně v 8:00 a ve 13:00. Export úřední desky je dostupný na adrese https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7071,6 +7071,7 @@
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
+      "dokumentace": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld",
       "distribuce": [
         {
           "typ": "Distribuce",

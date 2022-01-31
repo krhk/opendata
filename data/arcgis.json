@@ -3908,10 +3908,10 @@
       "issued": "2021-10-08T08:58:43.000Z",
       "modified": "2021-11-18T09:10:30.996Z",
       "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
+        "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
+        "fn": "Tomas_Slezak_DATAKHK",
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
@@ -11482,12 +11482,12 @@
       "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "landingPage": "https://www.datakhk.cz/documents/55bde3ffb8814807a81b3e733cd0f66d",
       "title": "Úřední deska Královéhradeckého kraje",
-      "description": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
+      "description": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Data se generují 2x denně v 8:00 a ve 13:00. Export úřední desky je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
       "keyword": [
         "Úřední deska"
       ],
       "issued": "2022-01-27T13:34:36.000Z",
-      "modified": "2022-01-27T20:47:33.000Z",
+      "modified": "2022-01-30T18:44:21.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -11556,9 +11556,9 @@
           "CreaTime": "14:36:42.34",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-01-27",
+          "ModDate": "2022-01-30",
           "CreaDate": "2022-01-27",
-          "ModTime": "15:55:12.33",
+          "ModTime": "19:37:15.13",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -11569,12 +11569,13 @@
               "@_value": "001"
             }
           },
-          "idAbs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Aktualizace úřední desky je prováděna 2x denně. Export je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
+          "idAbs": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Data se generují 2x denně v 8:00 a ve 13:00. Export úřední desky je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
           "idCitation": {
             "date": {
               "pubDate": "2022-01-27"
             },
             "resTitle": "Úřední deska Královéhradeckého kraje",
+            "otherCitDet": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld",
             "citOnlineRes": {
               "linkage": "https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld"
             }
@@ -11600,6 +11601,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
