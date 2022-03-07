@@ -11752,6 +11752,46 @@
           "accessURL": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
         }
       ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.datakhk.cz/pages/lide-demografie",
+      "landingPage": "https://www.datakhk.cz/pages/lide-demografie",
+      "title": "Demografie",
+      "description": "{{description}}",
+      "keyword": [
+        "ArcGIS Hub page"
+      ],
+      "issued": "2022-03-06T18:19:05.000Z",
+      "modified": "2022-03-06T20:16:02.000Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "",
+      "license": "",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/lide-demografie"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json"
+        }
+      ]
     }
   ]
 }
