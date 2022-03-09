@@ -71,8 +71,7 @@
     "https://open.datakhk.cz/f2e4e8c2701d44e482ae33b243de3bc5_1.jsonld",
     "https://open.datakhk.cz/f824f9639edb437386e36678e6827301_0.jsonld",
     "https://open.datakhk.cz/55bde3ffb8814807a81b3e733cd0f66d.jsonld",
-    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
-    "https://open.datakhk.cz/lide-demografie.jsonld"
+    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld"
   ],
   "_datasets": [
     {
@@ -7163,63 +7162,6 @@
           },
           "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
           "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
-          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datakhk.cz/lide-demografie.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-      "název": {
-        "cs": "Demografie"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "ArcGIS Hub page"
-        ]
-      },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/86"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datakhk.cz/pages/lide-demografie",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datakhk.cz/pages/lide-demografie",
-          "přístupové_url": "https://www.datakhk.cz/pages/lide-demografie",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        },
-        {
-          "typ": "Distribuce",
-          "název": {
-            "cs": "ArcGIS GeoService"
-          },
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
