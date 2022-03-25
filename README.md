@@ -5,6 +5,10 @@
 - NKOD: https://data.gov.cz/datov%C3%A9-sady
 - NKOD (Královéhradecký kraj): https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F70889546
 
+## Overview
+
+![](./docs/lifecycle1.png)
+
 ## Development
 
 **Tech stack**
@@ -98,6 +102,10 @@ LKOD file looks like this.
   ]
 }
 ```
+
+### Lifecycle
+
+![](./docs/lifecycle2.png)
 
 ## Validation
 
