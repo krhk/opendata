@@ -9279,12 +9279,12 @@
         "Sociální služby"
       ],
       "issued": "2021-10-20T23:17:05.000Z",
-      "modified": "2022-02-01T21:43:31.434Z",
+      "modified": "2022-03-30T21:26:21.279Z",
       "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
+        "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
+        "fn": "Tomas_Slezak_DATAKHK",
         "hasEmail": "{{orgContactEmail}}",
         "@type": "vcard:Contact"
       },
