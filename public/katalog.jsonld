@@ -18,6 +18,8 @@
     "e-mail": "mailto:datakhk@kr-kralovehradecky.cz"
   },
   "datová_sada": [
+    "https://open.datakhk.cz/55bde3ffb8814807a81b3e733cd0f66d.jsonld",
+    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
     "https://open.datakhk.cz/0a04f3700465477081d94dbd358141d4_0.jsonld",
     "https://open.datakhk.cz/0cabb88f46bf484f81e4cd9a7299d8dc_0.jsonld",
     "https://open.datakhk.cz/0e02429fd8744cb59ae6804ed5738517_0.jsonld",
@@ -69,8 +71,6 @@
     "https://open.datakhk.cz/e6d9dd5f24374db1be7d60a66856e5b2_0.jsonld",
     "https://open.datakhk.cz/edeabc66f4284335acd97f40480aeee5_0.jsonld",
     "https://open.datakhk.cz/f2e4e8c2701d44e482ae33b243de3bc5_1.jsonld",
-    "https://open.datakhk.cz/f824f9639edb437386e36678e6827301_0.jsonld",
-    "https://open.datakhk.cz/55bde3ffb8814807a81b3e733cd0f66d.jsonld",
-    "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld"
+    "https://open.datakhk.cz/f824f9639edb437386e36678e6827301_0.jsonld"
   ]
 }
