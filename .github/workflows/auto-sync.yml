@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{secrets.DATAKHK_GITHUB_TOKEN}}
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
@@ -18,8 +20,8 @@ jobs:
       - run: npm ci
       - run: make build
       - run: |
-          git config user.name f3l1x
-          git config user.email get@f3l1x.io
+          git config user.name datakhk
+          git config user.email opendatakhk@gmail.com
           git add .
           git commit -m "Data: sync $NOW" || true
           git push
