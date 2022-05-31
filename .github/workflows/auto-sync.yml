@@ -16,12 +16,11 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
-      - run: echo "NOW::$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
       - run: npm ci
       - run: make build
       - run: |
           git config user.name datakhk
           git config user.email opendatakhk@gmail.com
           git add .
-          git commit -m "Data: sync $NOW" || true
+          git commit -m "Data: sync $(date +'%Y-%m-%dT%H:%M:%S')" || true
           git push
