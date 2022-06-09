@@ -29,7 +29,13 @@ export function detectPeriodicity(dataset: any): string {
 }
 
 export function detectTheme(dataset: any): string[] {
-	const values: string[] = Array.from(dataset.category ?? []);
+	let values: string[] = [];
+
+	if (typeof dataset.category === 'string') {
+		values = [];
+	} else {
+		values = Array.from(dataset.category ?? []);
+	}
 
 	return values.map((value: string) => {
 		return CONFIG.META_LKOD.themes[value].map(theme => {
