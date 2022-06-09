@@ -5575,9 +5575,7 @@
         },
         "mdHrLvName": "dataset"
       },
-      "category": [
-        "Kraj a dotace"
-      ],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -8350,7 +8348,7 @@
         "Knihovny"
       ],
       "issued": "2021-10-08T22:20:47.000Z",
-      "modified": "2022-05-13T19:51:44.203Z",
+      "modified": "2022-06-08T21:55:51.577Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
