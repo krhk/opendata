@@ -1,0 +1,100 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datakhk.cz/item.html?id=36c1829c77d04e6bb60e6ade221887a2&sublayer=0.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Čekací doby autobusových linek IREDO"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji."
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "Autobusy",
+      "Zastávky",
+      "IREDO"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/maps/36c1829c77d04e6bb60e6ade221887a2_0",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/maps/36c1829c77d04e6bb60e6ade221887a2_0",
+      "přístupové_url": "https://www.datakhk.cz/maps/36c1829c77d04e6bb60e6ade221887a2_0",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C4%8Cekac%C3%AD_doby_autobusov%C3%BDch_linek_IREDO/FeatureServer/0",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C4%8Cekac%C3%AD_doby_autobusov%C3%BDch_linek_IREDO/FeatureServer/0",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C4%8Cekac%C3%AD_doby_autobusov%C3%BDch_linek_IREDO/FeatureServer/0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.geojson",
+      "název": {
+        "cs": "GeoJSON"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.geojson",
+      "přístupové_url": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.geojson",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.csv",
+      "název": {
+        "cs": "CSV"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.csv",
+      "přístupové_url": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
