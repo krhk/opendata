@@ -1,6 +1,6 @@
 import _ from "lodash";
 import _url from 'url';
-import { readJson, parseIdentifier, writeJson } from '@/helpers';
+import { readJson, writeJson, parseArcgisIdentifier } from '@/helpers';
 import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import { generateUrl } from '@/generator';
 import { sanitizeText } from "@/sanitizer";
@@ -39,7 +39,7 @@ import * as CONFIG from '@/../config';
 	for await (const arcgisDataset of arcgisDatasets) {
 		const dataset: Partial<Lkod.Dataset> = {};
 
-		const id = parseIdentifier(arcgisDataset.identifier);
+		const id = parseArcgisIdentifier(arcgisDataset.identifier);
 
 		dataset['@context'] = 'https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld';
 		dataset['iri'] = generateUrl(`${id}.jsonld`);

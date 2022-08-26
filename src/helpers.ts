@@ -27,6 +27,11 @@ export function slugify(text: string): string {
 		.replace(/--+/g, '-');
 }
 
+export function parseArcgisIdentifier(str: string): string {
+	const url = new URL(str);
+	return url.searchParams.get('id') || str;
+}
+
 export function parseIdentifier(str: string): string {
 	return str.split('/').pop()!;
 }
