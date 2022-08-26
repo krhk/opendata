@@ -5926,16 +5926,16 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=7700ebc615954706bc0fbf1e60e9bf1c&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/7700ebc615954706bc0fbf1e60e9bf1c_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=81f62d1c0ab24cd88ace4a85e53094c8&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/81f62d1c0ab24cd88ace4a85e53094c8_0",
       "title": "Autobusové zastávky IREDO",
       "description": "Datová sada s prostorovou lokalizací autobusových zastávek v systému IREDO. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Autobusové zastávky IREDO",
         "Královéhradecký kraj"
       ],
-      "issued": "2022-08-22T14:23:50.000Z",
-      "modified": "2022-08-24T06:13:32.295Z",
+      "issued": "2022-08-25T10:07:58.000Z",
+      "modified": "2022-08-25T10:07:59.776Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -5961,7 +5961,7 @@
             }
           }
         },
-        "mdFileID": "1661178841210r1923917988695829",
+        "mdFileID": "1661422231885r8159216361111221",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -5969,7 +5969,7 @@
             }
           }
         },
-        "mdDateSt": "2022-08-22",
+        "mdDateSt": "2022-08-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -5981,14 +5981,14 @@
           "CreaTime": 15510800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-08-22",
+          "ModDate": "2022-08-25",
           "CreaDate": "2022-08-22",
-          "ModTime": "16:36:39.04",
+          "ModTime": "12:12:09.86",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "16:34:00.63",
+        "mdTimeSt": "12:10:31.33",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací autobusových zastávek v systému IREDO. Nejsou zde obsaženy zastávky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -6061,7 +6061,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/7700ebc615954706bc0fbf1e60e9bf1c_0"
+          "accessURL": "https://www.datakhk.cz/maps/81f62d1c0ab24cd88ace4a85e53094c8_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -6075,28 +6075,28 @@
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/7700ebc615954706bc0fbf1e60e9bf1c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/81f62d1c0ab24cd88ace4a85e53094c8_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/7700ebc615954706bc0fbf1e60e9bf1c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/81f62d1c0ab24cd88ace4a85e53094c8_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/7700ebc615954706bc0fbf1e60e9bf1c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/81f62d1c0ab24cd88ace4a85e53094c8_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/7700ebc615954706bc0fbf1e60e9bf1c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/81f62d1c0ab24cd88ace4a85e53094c8_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
