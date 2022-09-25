@@ -2759,8 +2759,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=2b0f3f72f6b64df5bc8327169c0b9844&sublayer=110",
-      "landingPage": "https://www.datakhk.cz/maps/2b0f3f72f6b64df5bc8327169c0b9844_110",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2b0f3f72f6b64df5bc8327169c0b9844&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/2b0f3f72f6b64df5bc8327169c0b9844_0",
       "title": "Seznam organizací Královéhradeckého kraje",
       "description": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
@@ -2768,7 +2768,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-23T07:35:52.000Z",
-      "modified": "2022-05-13T19:03:16.337Z",
+      "modified": "2022-09-23T07:37:43.318Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2882,49 +2882,49 @@
           }
         }
       },
-      "category": [],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/2b0f3f72f6b64df5bc8327169c0b9844_110"
+          "accessURL": "https://www.datakhk.cz/maps/2b0f3f72f6b64df5bc8327169c0b9844_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/110"
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_110.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_110.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_110.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_110.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datakhk.cz/datasets/2b0f3f72f6b64df5bc8327169c0b9844_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
