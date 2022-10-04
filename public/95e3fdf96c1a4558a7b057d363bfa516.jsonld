@@ -15,8 +15,12 @@
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "http://publications.europa.eu/resource/authority/data-theme/TECH"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

@@ -4,19 +4,24 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Plánované opravy silniční infrastruktury na rok 2022 bodové"
+    "cs": "Plánované opravy silniční infrastruktury na rok 2022 – body"
   },
   "popis": {
     "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Plánované opravy silniční infrastruktury na rok 2022 bodové",
-      "Královéhradecký kraj"
+      "Královéhradecký kraj",
+      "Silnice",
+      "Opravy"
     ]
   },
-  "téma": [],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

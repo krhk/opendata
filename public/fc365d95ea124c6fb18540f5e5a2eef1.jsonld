@@ -4,7 +4,7 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Seznam škol a školských zařízení"
+    "cs": "Školy a školská zařízení"
   },
   "popis": {
     "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje."
@@ -15,7 +15,10 @@
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "http://publications.europa.eu/resource/authority/data-theme/TECH"
+  ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"

@@ -7,7 +7,7 @@
     "cs": "Průmyslové zóny"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
+    "cs": "Datová sada s prostorovou lokalizací průmyslových zón na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
   },
   "klíčové_slovo": {
     "cs": [
@@ -15,8 +15,10 @@
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ECON"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

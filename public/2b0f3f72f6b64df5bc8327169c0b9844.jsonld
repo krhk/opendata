@@ -4,19 +4,22 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Seznam organizací Královéhradeckého kraje"
+    "cs": "Organizace Královéhradeckého kraje"
   },
   "popis": {
     "cs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Seznam organizací Královéhradeckého kraje",
+      "Organizace",
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

@@ -4,18 +4,21 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Počty studentů krajských vyšších odborných škol"
+    "cs": "Počty studentů vyšších odborných škol zřizovaných krajem"
   },
   "popis": {
     "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Počty studentů krajských vyšších odborných škol",
+      "VOŠ",
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "http://publications.europa.eu/resource/authority/data-theme/TECH"
+  ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"

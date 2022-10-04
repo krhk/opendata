@@ -7,15 +7,18 @@
     "cs": "Počty žáků v oborech středních škol zřizovaných krajem"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Počty žáků v oborech středních škol zřizovaných krajem",
+      "Střední školy",
       "Královéhradecký kraj"
     ]
   },
-  "téma": [],
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "http://publications.europa.eu/resource/authority/data-theme/TECH"
+  ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"

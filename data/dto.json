@@ -107,8 +107,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/JUST"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -240,8 +242,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -370,13 +374,14 @@
       "klíčové_slovo": {
         "cs": [
           "Památky",
-          "NKP"
+          "NKP",
+          "Královéhradecký kraj"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -508,8 +513,11 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -738,13 +746,14 @@
       "klíčové_slovo": {
         "cs": [
           "Památky",
-          "NKP"
+          "NKP",
+          "Královéhradecký kraj"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -876,8 +885,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -998,19 +1009,24 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Plánované opravy silniční infrastruktury na rok 2022 liniové"
+        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – linie"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Plánované opravy silniční infrastruktury na rok 2022 liniové",
-          "Královéhradecký kraj"
+          "Královéhradecký kraj",
+          "Silnice",
+          "Opravy"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1142,8 +1158,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/JUST"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1404,7 +1422,7 @@
         "cs": "Investiční pobídky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací investičních pobídek. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
+        "cs": "Datová sada s prostorovou lokalizací investičních pobídek na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1412,8 +1430,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1545,8 +1565,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1667,19 +1689,22 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Seznam organizací Královéhradeckého kraje"
+        "cs": "Organizace Královéhradeckého kraje"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Seznam organizací Královéhradeckého kraje",
+          "Organizace",
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -1803,7 +1828,7 @@
         "cs": "Průmyslové zóny"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
+        "cs": "Datová sada s prostorovou lokalizací průmyslových zón na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1811,8 +1836,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2079,8 +2106,12 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2312,8 +2343,12 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2582,8 +2617,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/JUST"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2715,8 +2752,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2848,8 +2887,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3113,13 +3154,14 @@
       "klíčové_slovo": {
         "cs": [
           "Kultura",
-          "Kulturní domy"
+          "Kulturní domy",
+          "Královéhradecký kraj"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3251,8 +3293,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3384,8 +3428,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3584,7 +3630,7 @@
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3853,8 +3899,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -3987,8 +4035,10 @@
           "Veřejná doprava Královéhradeckého kraje"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4393,8 +4443,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4526,8 +4578,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4655,13 +4709,15 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Informační centra autobusových dopravců IREDO",
           "Královéhradecký kraj",
-          "Veřejná doprava Královéhradeckého kraje"
+          "Veřejná doprava Královéhradeckého kraje",
+          "IREDO"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4793,8 +4849,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -4926,8 +4984,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5051,15 +5111,18 @@
         "cs": "Počty žáků v oborech středních škol zřizovaných krajem"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Počty žáků v oborech středních škol zřizovaných krajem",
+          "Střední školy",
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
@@ -5464,8 +5527,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5597,8 +5662,12 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5793,8 +5862,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -6051,18 +6122,21 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Počty studentů krajských vyšších odborných škol"
+        "cs": "Počty studentů vyšších odborných škol zřizovaných krajem"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Počty studentů krajských vyšších odborných škol",
+          "VOŠ",
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
@@ -6196,8 +6270,10 @@
           "Veřejná doprava Královéhradeckého kraje"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -6330,8 +6406,10 @@
           "Veřejná doprava Královéhradeckého kraje"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -6452,19 +6530,24 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Plánované opravy silniční infrastruktury na rok 2022 bodové"
+        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – body"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Plánované opravy silniční infrastruktury na rok 2022 bodové",
-          "Královéhradecký kraj"
+          "Královéhradecký kraj",
+          "Silnice",
+          "Opravy"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -6596,8 +6679,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -6992,19 +7077,24 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Opravy silniční infrastruktury v letech 2016 až 2021 bodové"
+        "cs": "Opravy silniční infrastruktury v letech 2016 až 2021 – body"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Opravy silniční infrastruktury v letech 2016 až 2021 bodové",
-          "Královéhradecký kraj"
+          "Královéhradecký kraj",
+          "Silnice",
+          "Opravy"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7125,19 +7215,24 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Opravy silniční infrastruktury v letech 2016 až 2021 liniové"
+        "cs": "Opravy silniční infrastruktury v letech 2016 až 2021 – linie"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřené liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
-          "Opravy silniční infrastruktury v letech 2016 až 2021 liniové",
-          "Královéhradecký kraj"
+          "Královéhradecký kraj",
+          "Silnice",
+          "Opravy"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7269,8 +7364,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7402,8 +7499,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7535,8 +7634,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7806,8 +7907,10 @@
           "Veřejná doprava Královéhradeckého kraje"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -7939,8 +8042,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -8210,7 +8315,7 @@
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -8342,8 +8447,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -8611,8 +8718,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -8880,8 +8989,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -9002,7 +9113,7 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Seznam škol a školských zařízení"
+        "cs": "Školy a školská zařízení"
       },
       "popis": {
         "cs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje."
@@ -9013,7 +9124,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
@@ -9146,8 +9260,10 @@
           "Královéhradecký kraj"
         ]
       },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],

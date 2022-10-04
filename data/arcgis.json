@@ -15,7 +15,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T08:57:30.000Z",
-      "modified": "2022-09-25T09:48:07.802Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -45,7 +45,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -61,9 +61,9 @@
           "CreaTime": 10512300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-25",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-25",
-          "ModTime": "11:01:28.27",
+          "ModTime": "23:04:53.04",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -72,7 +72,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Služebny Policie ČR"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Služebny Policie ČR",
           "dataChar": {
@@ -90,6 +103,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -129,7 +162,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "IZS a bezpečnost"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -189,7 +224,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-22T13:24:12.000Z",
-      "modified": "2022-09-22T13:25:46.876Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -219,7 +254,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -235,9 +270,9 @@
           "CreaTime": 15175100,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-22",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-22",
-          "ModTime": "15:27:17.74",
+          "ModTime": "23:09:33.69",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -246,9 +281,21 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Poskytovatelé sociálních služeb"
           },
-          "idPurp": "Poskytovatelé sociálních služeb",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -264,6 +311,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -303,7 +370,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Lidé a sociální služby"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -360,7 +429,8 @@
       "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Památky",
-        "NKP"
+        "NKP",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T22:10:42.000Z",
       "modified": "2022-05-13T20:04:33.256Z",
@@ -393,7 +463,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -409,9 +479,9 @@
           "CreaTime": 15033000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-25",
+          "ModDate": "2022-10-04",
           "CreaDate": "2021-10-08",
-          "ModTime": "22:59:37.21",
+          "ModTime": "00:04:20.21",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -441,13 +511,34 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "NKP"
+              "NKP",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -569,7 +660,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T13:46:57.000Z",
-      "modified": "2022-09-29T13:51:19.458Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -599,7 +690,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -615,9 +706,9 @@
           "CreaTime": 12264800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "15:53:17.68",
+          "ModTime": "15:23:28.76",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -626,7 +717,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Přírodní zajímavosti"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Přírodní zajímavosti",
           "dataChar": {
@@ -644,6 +748,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -683,7 +807,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Životní prostředí",
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -902,7 +1029,8 @@
       "description": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
         "Památky",
-        "NKP"
+        "NKP",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-28T23:18:16.000Z",
       "modified": "2021-10-30T21:40:06.289Z",
@@ -935,7 +1063,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -951,9 +1079,9 @@
           "CreaTime": 365100,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-30",
+          "ModDate": "2022-10-04",
           "CreaDate": "2021-10-29",
-          "ModTime": "23:41:17.41",
+          "ModTime": "00:07:53.90",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -983,13 +1111,34 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "NKP"
+              "NKP",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1091,7 +1240,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T08:50:19.000Z",
-      "modified": "2022-09-28T08:52:16.912Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1121,7 +1270,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -1137,9 +1286,9 @@
           "CreaTime": 10461800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "10:55:42.88",
+          "ModTime": "15:39:41.05",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -1148,7 +1297,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Cyklovýlety"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Cyklovýlety",
           "dataChar": {
@@ -1166,6 +1328,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1205,7 +1387,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1258,11 +1442,12 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1915aa2911d74672a6ab58d5b615055b&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/1915aa2911d74672a6ab58d5b615055b_0",
-      "title": "Plánované opravy silniční infrastruktury na rok 2022 liniové",
+      "title": "Plánované opravy silniční infrastruktury na rok 2022 – linie",
       "description": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Plánované opravy silniční infrastruktury na rok 2022 liniové",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Silnice",
+        "Opravy"
       ],
       "issued": "2022-09-07T10:34:37.000Z",
       "modified": "2022-09-07T10:56:15.799Z",
@@ -1295,7 +1480,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -1311,9 +1496,9 @@
           "CreaTime": 12343000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-07",
-          "ModTime": "12:56:01.50",
+          "ModTime": "23:44:12.34",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -1322,7 +1507,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Plánované opravy silniční infrastruktury na rok 2022 liniové"
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
+            "resTitle": "Plánované opravy silniční infrastruktury na rok 2022 –⁠ linie"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Plánované opravy silniční infrastruktury na rok 2022 liniové",
           "dataChar": {
@@ -1337,14 +1534,55 @@
           },
           "searchKeys": {
             "keyword": [
-              "Plánované opravy silniční infrastruktury na rok 2022 liniové",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Silnice",
+              "Opravy"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1404,7 +1642,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Investice kraje",
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1464,7 +1705,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T10:53:45.000Z",
-      "modified": "2022-09-25T10:54:45.166Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1494,7 +1735,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -1510,9 +1751,9 @@
           "CreaTime": 12495200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-25",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-25",
-          "ModTime": "12:56:18.90",
+          "ModTime": "23:01:38.72",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -1521,7 +1762,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Výjezdové základny zdravotnické záchranné služby"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Výjezdové základny zdravotnické záchranné služby",
           "dataChar": {
@@ -1539,6 +1793,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1578,7 +1852,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "IZS a bezpečnost"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -1873,7 +2149,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=23c57d448bba413e83de92965528ab2c&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/23c57d448bba413e83de92965528ab2c_0",
       "title": "Investiční pobídky",
-      "description": "Datová sada s prostorovou lokalizací investičních pobídek. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+      "description": "Datová sada s prostorovou lokalizací investičních pobídek na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
       "keyword": [
         "Investiční pobídky",
         "Královéhradecký kraj"
@@ -1890,7 +2166,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.3592,50.1198,16.4657,50.6109",
-      "license": "CC0",
+      "license": "CC BY 4.0",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -1909,7 +2185,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -1925,18 +2201,30 @@
           "CreaTime": 11523300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-21",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-21",
-          "ModTime": "12:32:06.78",
+          "ModTime": "22:14:28.31",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:28:47.61",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací investičních pobídek. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+          "idAbs": "Datová sada s prostorovou lokalizací investičních pobídek na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Investiční pobídky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Investiční pobídky",
           "dataChar": {
@@ -1953,7 +2241,27 @@
           "resConst": [
             {
               "Consts": {
-                "useLimit": "CC0"
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1993,7 +2301,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Ekonomika a trh práce"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2053,7 +2363,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T14:38:52.000Z",
-      "modified": "2022-09-25T18:11:15.015Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2083,7 +2393,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -2099,9 +2409,9 @@
           "CreaTime": 16355500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-21",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-21",
-          "ModTime": "16:42:12.50",
+          "ModTime": "22:45:30.27",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -2110,7 +2420,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Lékařská pohotovostní služba"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Lékařská pohotovostní služba",
           "dataChar": {
@@ -2128,6 +2451,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -2167,7 +2510,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Zdravotnictví a zdraví"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2220,14 +2565,14 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2b0f3f72f6b64df5bc8327169c0b9844&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/2b0f3f72f6b64df5bc8327169c0b9844_0",
-      "title": "Seznam organizací Královéhradeckého kraje",
+      "title": "Organizace Královéhradeckého kraje",
       "description": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Seznam organizací Královéhradeckého kraje",
+        "Organizace",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-23T07:35:52.000Z",
-      "modified": "2022-09-25T18:08:18.685Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2257,7 +2602,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -2273,9 +2618,9 @@
           "CreaTime": 9331800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-23",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-23",
-          "ModTime": "09:39:25.47",
+          "ModTime": "22:59:10.24",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -2284,7 +2629,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Seznam organizací Královéhradeckého kraje"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Seznam organizací Královéhradeckého kraje",
           "dataChar": {
@@ -2294,7 +2652,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Seznam organizací Královéhradeckého kraje",
+              "Organizace",
               "Královéhradecký kraj"
             ]
           },
@@ -2302,6 +2660,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -2341,7 +2719,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kraj a dotace"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2395,7 +2775,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=3415a8ff2f9641afb01116af87373e51&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/3415a8ff2f9641afb01116af87373e51_0",
       "title": "Průmyslové zóny",
-      "description": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+      "description": "Datová sada s prostorovou lokalizací průmyslových zón na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
       "keyword": [
         "Průmyslové zóny",
         "Královéhradecký kraj"
@@ -2412,7 +2792,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.3711,50.1820,16.2638,50.6121",
-      "license": "CC0",
+      "license": "CC BY 4.0",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2431,7 +2811,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -2447,18 +2827,30 @@
           "CreaTime": 15554900,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-01",
-          "ModTime": "16:53:34.95",
+          "ModTime": "23:59:15.61",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:51:42.26",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+          "idAbs": "Datová sada s prostorovou lokalizací průmyslových zón na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Průmyslové zóny"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Průmyslové zóny",
           "dataChar": {
@@ -2475,7 +2867,27 @@
           "resConst": [
             {
               "Consts": {
-                "useLimit": "CC0"
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -2515,7 +2927,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Ekonomika a trh práce"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2792,7 +3206,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.8029,50.2042,15.9104,50.5640",
-      "license": "CC0",
+      "license": "CC BY 4.0",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -2811,7 +3225,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -2827,9 +3241,9 @@
           "CreaTime": 7324300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-02",
-          "ModTime": "16:12:18.01",
+          "ModTime": "21:53:33.98",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -2838,7 +3252,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací inovačních infrastruktur. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Inovační infrastruktury"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Inovační infrastruktury",
           "dataChar": {
@@ -2855,7 +3281,27 @@
           "resConst": [
             {
               "Consts": {
-                "useLimit": "CC0"
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -2895,7 +3341,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Ekonomika a trh práce",
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3117,7 +3566,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:32:02.000Z",
-      "modified": "2022-09-25T18:17:08.413Z",
+      "modified": "2022-10-03T19:54:55.884Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3128,7 +3577,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.3475,50.1859,16.2019,50.4797",
-      "license": "CC0",
+      "license": "CC BY 4.0",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -3147,7 +3596,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -3163,9 +3612,9 @@
           "CreaTime": 8110500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-02",
-          "ModTime": "16:39:22.59",
+          "ModTime": "22:09:24.86",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -3174,7 +3623,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací právnických osob v klastrech. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Právnické osoby v klastrech"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Právnické osoby v klastrech",
           "dataChar": {
@@ -3191,7 +3652,27 @@
           "resConst": [
             {
               "Consts": {
-                "useLimit": "CC0"
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3231,7 +3712,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Ekonomika a trh práce",
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3532,7 +4016,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T09:58:47.000Z",
-      "modified": "2022-09-25T10:02:45.300Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3562,7 +4046,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -3578,9 +4062,9 @@
           "CreaTime": 11533600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-25",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-25",
-          "ModTime": "12:07:35.76",
+          "ModTime": "23:03:04.60",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -3589,7 +4073,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Hasičský záchranný sbor Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Stanice a pracoviště hasičského záchranného systému"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Stanice a pracoviště hasičského záchranného systému",
           "dataChar": {
@@ -3607,6 +4104,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3646,7 +4163,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "IZS a bezpečnost"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3706,7 +4225,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T12:12:02.000Z",
-      "modified": "2022-09-28T12:13:17.299Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3736,7 +4255,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -3752,9 +4271,9 @@
           "CreaTime": 14030000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "14:14:58.23",
+          "ModTime": "15:37:01.84",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -3763,7 +4282,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Hrady"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Hrady",
           "dataChar": {
@@ -3781,6 +4313,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3820,7 +4372,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -3880,7 +4434,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T14:47:13.000Z",
-      "modified": "2022-09-29T14:48:25.127Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3910,7 +4464,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -3926,9 +4480,9 @@
           "CreaTime": 14322400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:50:11.43",
+          "ModTime": "15:18:31.31",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -3937,9 +4491,21 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Židovské památky"
           },
-          "idPurp": "Židovské památky",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -3955,6 +4521,66 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3994,7 +4620,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4257,7 +4885,8 @@
       "description": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Kultura",
-        "Kulturní domy"
+        "Kulturní domy",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T22:27:08.000Z",
       "modified": "2022-05-13T19:56:35.220Z",
@@ -4290,7 +4919,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -4306,9 +4935,9 @@
           "CreaTime": 15042500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-25",
+          "ModDate": "2022-10-04",
           "CreaDate": "2021-10-08",
-          "ModTime": "23:06:03.43",
+          "ModTime": "00:05:23.66",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -4317,6 +4946,10 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Kulturní domy"
           },
           "dataLang": {
@@ -4335,13 +4968,34 @@
           "searchKeys": {
             "keyword": [
               "Kultura",
-              "Kulturní domy"
+              "Kulturní domy",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -4463,7 +5117,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T13:36:17.000Z",
-      "modified": "2022-09-28T13:38:08.312Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -4493,7 +5147,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -4509,9 +5163,9 @@
           "CreaTime": 15344400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "15:39:58.33",
+          "ModTime": "15:28:50.39",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -4520,7 +5174,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Kluby"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Kluby",
           "dataChar": {
@@ -4538,6 +5205,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -4577,7 +5264,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4637,7 +5326,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T13:36:43.000Z",
-      "modified": "2022-09-29T13:37:47.795Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -4667,7 +5356,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -4683,9 +5372,9 @@
           "CreaTime": 11125300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "15:40:34.08",
+          "ModTime": "15:24:29.98",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -4694,7 +5383,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Pevnosti a opevnění"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Pevnosti a opevnění",
           "dataChar": {
@@ -4712,6 +5414,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -4751,7 +5473,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -5116,7 +5840,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -5132,9 +5856,9 @@
           "CreaTime": 15053500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-25",
+          "ModDate": "2022-10-04",
           "CreaDate": "2021-10-08",
-          "ModTime": "23:01:29.73",
+          "ModTime": "00:10:27.54",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -5143,6 +5867,10 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Válečné hroby ve vlastnictví kraje"
           },
           "dataLang": {
@@ -5168,6 +5896,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -5560,7 +6308,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -5576,9 +6324,9 @@
           "CreaTime": 13364300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-07",
-          "ModTime": "13:51:56.51",
+          "ModTime": "23:58:03.97",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -5587,7 +6335,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Stav povrchu silnic"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Stav povrchu silnic",
           "dataChar": {
@@ -5631,6 +6391,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -5649,7 +6429,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -5740,7 +6522,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -5756,9 +6538,9 @@
           "CreaTime": 14393500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-02",
-          "ModTime": "12:48:20.56",
+          "ModTime": "23:16:40.67",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -5767,7 +6549,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek v systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Železniční stanice a zastávky IREDO"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Železniční stanice a zastávky IREDO",
           "dataChar": {
@@ -5832,6 +6626,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -5850,7 +6664,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -6392,7 +7208,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T18:14:51.000Z",
-      "modified": "2022-09-28T18:17:08.206Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6422,7 +7238,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -6438,9 +7254,9 @@
           "CreaTime": 20005900,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "20:18:46.84",
+          "ModTime": "15:26:04.98",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -6449,7 +7265,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Lanovky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Lanovky",
           "dataChar": {
@@ -6467,6 +7296,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -6506,7 +7355,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -6566,7 +7417,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T12:36:57.000Z",
-      "modified": "2022-09-28T12:38:50.713Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6596,7 +7447,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -6612,9 +7463,9 @@
           "CreaTime": 14343700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "14:40:13.42",
+          "ModTime": "15:29:57.60",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -6623,7 +7474,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Infocentra"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Infocentra",
           "dataChar": {
@@ -6641,6 +7505,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -6680,7 +7564,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -6736,12 +7622,12 @@
       "title": "Informační centra autobusových dopravců IREDO",
       "description": "Datová sada s prostorovou lokalizací informačních center autobusových dopravců, kteří jsou zapojeni do systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Informační centra autobusových dopravců IREDO",
         "Královéhradecký kraj",
-        "Veřejná doprava Královéhradeckého kraje"
+        "Veřejná doprava Královéhradeckého kraje",
+        "IREDO"
       ],
       "issued": "2022-09-07T06:57:50.000Z",
-      "modified": "2022-09-25T18:15:46.933Z",
+      "modified": "2022-10-03T20:10:47.561Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6771,7 +7657,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -6787,9 +7673,9 @@
           "CreaTime": 12442800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-02",
-          "ModTime": "12:46:52.76",
+          "ModTime": "22:11:42.51",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -6798,7 +7684,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací informačních center autobusových dopravců, kteří jsou zapojeni do systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Informační centra autobusových dopravců IREDO"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Informační centra autobusových dopravců IREDO",
           "dataChar": {
@@ -6813,15 +7711,35 @@
           },
           "searchKeys": {
             "keyword": [
-              "Informační centra autobusových dopravců IREDO",
               "Královéhradecký kraj",
-              "Veřejná doprava Královéhradeckého kraje"
+              "Veřejná doprava Královéhradeckého kraje",
+              "IREDO"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -6881,7 +7799,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -6941,7 +7861,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T15:12:33.000Z",
-      "modified": "2022-09-25T18:10:22.383Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6971,7 +7891,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -6987,9 +7907,9 @@
           "CreaTime": 17095200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-21",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-21",
-          "ModTime": "17:16:07.08",
+          "ModTime": "22:46:24.41",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -6998,7 +7918,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Následná péče"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Následná péče",
           "dataChar": {
@@ -7016,6 +7949,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -7055,7 +8008,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Zdravotnictví a zdraví"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7115,7 +8070,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T14:06:50.000Z",
-      "modified": "2022-09-29T14:08:07.548Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -7145,7 +8100,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -7161,9 +8116,9 @@
           "CreaTime": 12502200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:10:10.73",
+          "ModTime": "15:16:12.97",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -7172,7 +8127,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Technické památky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Technické památky",
           "dataChar": {
@@ -7190,6 +8158,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -7229,7 +8237,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7283,13 +8293,13 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=8ab911643fa14dbbafeb1d49f25d9bbf&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/8ab911643fa14dbbafeb1d49f25d9bbf_0",
       "title": "Počty žáků v oborech středních škol zřizovaných krajem",
-      "description": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Počty žáků v oborech středních škol zřizovaných krajem",
+        "Střední školy",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-22T07:27:00.000Z",
-      "modified": "2022-09-25T18:09:44.148Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -7335,18 +8345,31 @@
           "CreaTime": 9081000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-22",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-22",
-          "ModTime": "09:30:58.22",
+          "ModTime": "22:57:23.72",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:28:39.91",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Počty žáků v oborech středních škol zřizovaných krajem"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
           "dataChar": {
@@ -7356,7 +8379,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Počty žáků v oborech středních škol zřizovaných krajem",
+              "Střední školy",
               "Královéhradecký kraj"
             ]
           },
@@ -7364,6 +8387,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -7403,7 +8446,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7983,7 +9028,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T07:24:13.000Z",
-      "modified": "2022-09-28T07:27:39.600Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -8013,7 +9058,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -8029,9 +9074,9 @@
           "CreaTime": 9190000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "09:36:51.36",
+          "ModTime": "21:36:25.36",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -8040,7 +9085,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Architektonické památky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Architektonické památky",
           "dataChar": {
@@ -8058,6 +9116,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -8117,7 +9195,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -8188,7 +9268,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.5798,50.2127,15.9139,50.4523",
-      "license": "CC0",
+      "license": "CC BY 4.0",
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -8207,7 +9287,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -8223,9 +9303,9 @@
           "CreaTime": 16251500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-01",
-          "ModTime": "16:28:22.86",
+          "ModTime": "21:52:15.25",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -8234,7 +9314,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací klastrů v evidenci Národní klastrové asociace. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Klastry Národní klastrové asociace"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Klastry Národní klastrové asociace",
           "dataChar": {
@@ -8251,7 +9343,27 @@
           "resConst": [
             {
               "Consts": {
-                "useLimit": "CC0"
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -8291,7 +9403,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Ekonomika a trh práce",
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -8567,7 +9682,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T08:08:49.000Z",
-      "modified": "2022-09-28T08:10:22.064Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -8597,7 +9712,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -8613,9 +9728,9 @@
           "CreaTime": 10052400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "10:13:18.57",
+          "ModTime": "21:29:13.98",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -8624,7 +9739,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Církevní památky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Církevní památky",
           "dataChar": {
@@ -8642,6 +9770,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -8681,7 +9829,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -8974,14 +10124,14 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a6aa224ed53b417693179830b6e1e7b2&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/a6aa224ed53b417693179830b6e1e7b2_0",
-      "title": "Počty studentů krajských vyšších odborných škol",
+      "title": "Počty studentů vyšších odborných škol zřizovaných krajem",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
       "keyword": [
-        "Počty studentů krajských vyšších odborných škol",
+        "VOŠ",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-26T10:13:54.000Z",
-      "modified": "2022-09-26T10:15:13.143Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9027,9 +10177,9 @@
           "CreaTime": 11135800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-26",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-26",
-          "ModTime": "12:16:51.17",
+          "ModTime": "22:48:43.86",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9038,7 +10188,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Počty studentů krajských vyšších odborných škol"
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
+            "resTitle": "Počty studentů vyšších odborných škol zřizovaných krajem"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Počty studentů krajských vyšších odborných škol",
           "dataChar": {
@@ -9048,7 +10211,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Počty studentů krajských vyšších odborných škol",
+              "VOŠ",
               "Královéhradecký kraj"
             ]
           },
@@ -9056,6 +10219,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -9095,7 +10298,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -9156,7 +10361,7 @@
         "Veřejná doprava Královéhradeckého kraje"
       ],
       "issued": "2022-09-07T07:58:04.000Z",
-      "modified": "2022-09-07T10:50:35.160Z",
+      "modified": "2022-10-03T21:54:56.196Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9186,7 +10391,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -9202,9 +10407,9 @@
           "CreaTime": 9442100,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-07",
-          "ModTime": "12:50:18.98",
+          "ModTime": "23:55:21.61",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9213,7 +10418,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vlakových linek v systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Vlakové linky IREDO"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Vlakové linky IREDO",
           "dataChar": {
@@ -9278,6 +10495,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -9296,7 +10533,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -9357,7 +10596,7 @@
         "Veřejná doprava Královéhradeckého kraje"
       ],
       "issued": "2022-09-07T06:11:22.000Z",
-      "modified": "2022-09-07T07:20:37.895Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9387,7 +10626,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -9403,9 +10642,9 @@
           "CreaTime": 15510800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-22",
-          "ModTime": "12:45:48.15",
+          "ModTime": "23:56:46.17",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9414,7 +10653,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací autobusových zastávek v systému IREDO. Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Autobusové zastávky IREDO"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Autobusové zastávky IREDO",
           "dataChar": {
@@ -9479,6 +10731,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -9497,7 +10769,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -9550,14 +10824,15 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=acd646469e604e12a99a1a0c409e180b&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/acd646469e604e12a99a1a0c409e180b_0",
-      "title": "Plánované opravy silniční infrastruktury na rok 2022 bodové",
+      "title": "Plánované opravy silniční infrastruktury na rok 2022 – body",
       "description": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Plánované opravy silniční infrastruktury na rok 2022 bodové",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Silnice",
+        "Opravy"
       ],
       "issued": "2022-09-07T10:17:42.000Z",
-      "modified": "2022-09-07T10:55:25.928Z",
+      "modified": "2022-10-03T21:49:49.561Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9587,7 +10862,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -9603,9 +10878,9 @@
           "CreaTime": 11063300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-04",
-          "ModTime": "12:55:12.07",
+          "ModTime": "23:54:01.77",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9614,7 +10889,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Plánované opravy silniční infrastruktury na rok 2022 bodové"
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
+            "resTitle": "Plánované opravy silniční infrastruktury na rok 2022 – body"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Plánované opravy silniční infrastruktury na rok 2022 bodové",
           "dataChar": {
@@ -9629,14 +10916,55 @@
           },
           "searchKeys": {
             "keyword": [
-              "Plánované opravy silniční infrastruktury na rok 2022 bodové",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Silnice",
+              "Opravy"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -9696,7 +11024,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Investice kraje",
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -9756,7 +11087,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T14:31:24.000Z",
-      "modified": "2022-09-29T14:32:41.573Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9786,7 +11117,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -9802,9 +11133,9 @@
           "CreaTime": 14103200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:34:29.18",
+          "ModTime": "15:19:10.60",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -9813,7 +11144,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Zámky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Zámky",
           "dataChar": {
@@ -9831,6 +11175,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -9870,7 +11254,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -10485,14 +11871,15 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ba90757b2a274275aa7f7a61285c429e&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/ba90757b2a274275aa7f7a61285c429e_0",
-      "title": "Opravy silniční infrastruktury v letech 2016 až 2021 bodové",
+      "title": "Opravy silniční infrastruktury v letech 2016 až 2021 – body",
       "description": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Opravy silniční infrastruktury v letech 2016 až 2021 bodové",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Silnice",
+        "Opravy"
       ],
       "issued": "2022-09-07T08:26:45.000Z",
-      "modified": "2022-09-07T19:10:01.010Z",
+      "modified": "2022-10-03T21:46:56.875Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10522,7 +11909,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "011"
+              "@_value": "008"
             }
           }
         },
@@ -10538,9 +11925,9 @@
           "CreaTime": 8415300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-04",
-          "ModTime": "12:53:45.34",
+          "ModTime": "23:48:27.02",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -10549,7 +11936,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Opravy silniční infrastruktury v letech 2016 až 2021 bodové"
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
+            "resTitle": "Opravy silniční infrastruktury v letech 2016 až 2021 – body"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Opravy silniční infrastruktury v letech 2016 až 2021 bodové",
           "dataChar": {
@@ -10564,14 +11963,55 @@
           },
           "searchKeys": {
             "keyword": [
-              "Opravy silniční infrastruktury v letech 2016 až 2021 bodové",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Silnice",
+              "Opravy"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -10631,7 +12071,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Investice kraje",
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -10684,14 +12127,15 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ce90ca4f51b04525b620a8ad41317086&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/ce90ca4f51b04525b620a8ad41317086_0",
-      "title": "Opravy silniční infrastruktury v letech 2016 až 2021 liniové",
+      "title": "Opravy silniční infrastruktury v letech 2016 až 2021 – linie",
       "description": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřené liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Opravy silniční infrastruktury v letech 2016 až 2021 liniové",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Silnice",
+        "Opravy"
       ],
       "issued": "2022-09-07T08:52:11.000Z",
-      "modified": "2022-09-07T19:18:44.215Z",
+      "modified": "2022-10-03T21:49:37.875Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10721,7 +12165,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -10737,9 +12181,9 @@
           "CreaTime": 10314200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-04",
-          "ModTime": "12:52:14.70",
+          "ModTime": "23:45:52.24",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -10748,7 +12192,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2021 vyjádřené liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Opravy silniční infrastruktury v letech 2016 až 2021 liniové"
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
+            "resTitle": "Opravy silniční infrastruktury v letech 2016 až 2021 –⁠ linie"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Opravy silniční infrastruktury v letech 2016 až 2021 liniové",
           "dataChar": {
@@ -10763,14 +12219,55 @@
           },
           "searchKeys": {
             "keyword": [
-              "Opravy silniční infrastruktury v letech 2016 až 2021 liniové",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Silnice",
+              "Opravy"
             ]
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -10830,7 +12327,10 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Investice kraje",
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -10890,7 +12390,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T13:58:31.000Z",
-      "modified": "2022-09-29T13:59:37.644Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10920,7 +12420,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -10936,9 +12436,9 @@
           "CreaTime": 12382400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:01:40.90",
+          "ModTime": "15:21:32.64",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -10947,7 +12447,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Rozhledny a vyhlídky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Rozhledny a vyhlídky",
           "dataChar": {
@@ -10965,6 +12478,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -11004,7 +12537,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -11064,7 +12599,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T13:34:03.000Z",
-      "modified": "2022-09-25T18:12:06.879Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11094,7 +12629,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -11110,9 +12645,9 @@
           "CreaTime": 15283900,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-21",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-21",
-          "ModTime": "15:37:25.05",
+          "ModTime": "22:42:39.14",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -11121,7 +12656,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací knihoven na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Knihovny"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Knihovny",
           "dataChar": {
@@ -11139,6 +12687,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -11178,7 +12746,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -11268,7 +12838,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -11284,9 +12854,9 @@
           "CreaTime": 9063600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-02",
-          "ModTime": "14:39:04.66",
+          "ModTime": "21:49:33.43",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -11295,7 +12865,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací veřejných sbírek. Zdrojem dat je Odbor majetkoprávní Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Veřejné sbírky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Veřejné sbírky",
           "dataChar": {
@@ -11339,6 +12921,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -11357,7 +12959,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -11710,7 +13314,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -11726,9 +13330,9 @@
           "CreaTime": 14534600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-08",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-03",
-          "ModTime": "14:40:38.09",
+          "ModTime": "23:13:46.06",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -11737,7 +13341,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací autobusových linek v systému IREDO. Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Autobusové linky IREDO"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Autobusové linky IREDO",
           "dataChar": {
@@ -11782,6 +13398,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -11800,7 +13436,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -11860,7 +13498,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T17:27:11.000Z",
-      "modified": "2022-09-28T17:28:40.759Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11890,7 +13528,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -11906,9 +13544,9 @@
           "CreaTime": 16492000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "19:30:43.41",
+          "ModTime": "15:27:33.20",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -11917,7 +13555,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací ostatních historických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Ostatní historické památky"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Ostatní historické památky",
           "dataChar": {
@@ -11935,6 +13586,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -11974,7 +13645,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -12335,7 +14008,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -12351,9 +14024,9 @@
           "CreaTime": 214800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-10-30",
+          "ModDate": "2022-10-04",
           "CreaDate": "2021-10-29",
-          "ModTime": "21:59:19.60",
+          "ModTime": "00:02:14.73",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -12390,6 +14063,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -12511,7 +14204,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T14:22:35.000Z",
-      "modified": "2022-09-29T14:23:39.036Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12541,7 +14234,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -12557,9 +14250,9 @@
           "CreaTime": 13434000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-29",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:25:18.73",
+          "ModTime": "15:17:48.96",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -12568,7 +14261,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Zábavní centra"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Zábavní centra",
           "dataChar": {
@@ -12586,6 +14292,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -12625,7 +14371,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -12955,7 +14703,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -12971,9 +14719,9 @@
           "CreaTime": 16570200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-07",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-08-03",
-          "ModTime": "14:07:38.64",
+          "ModTime": "23:11:07.93",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -12982,7 +14730,19 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plánu zimní údržby silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2022-09-29",
+              "createDate": "2022-09-29"
+            },
             "resTitle": "Plán zimní údržby"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Plán zimní údržby",
           "dataChar": {
@@ -13026,6 +14786,26 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
         },
@@ -13044,7 +14824,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -13312,7 +15094,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T12:50:13.000Z",
-      "modified": "2022-09-25T18:13:06.777Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13342,7 +15124,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -13358,9 +15140,9 @@
           "CreaTime": 14324000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-21",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-21",
-          "ModTime": "14:56:47.36",
+          "ModTime": "22:31:32.16",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -13369,7 +15151,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací kin na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Kina"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Kina",
           "dataChar": {
@@ -13387,6 +15182,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -13426,7 +15241,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -13479,14 +15296,14 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=fc365d95ea124c6fb18540f5e5a2eef1&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/fc365d95ea124c6fb18540f5e5a2eef1_0",
-      "title": "Seznam škol a školských zařízení",
+      "title": "Školy a školská zařízení",
       "description": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
       "keyword": [
         "Seznam škol a školských zařízení",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T08:07:56.000Z",
-      "modified": "2022-09-25T08:11:30.800Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13532,9 +15349,9 @@
           "CreaTime": 10000700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-25",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-25",
-          "ModTime": "10:13:27.14",
+          "ModTime": "23:06:34.02",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -13543,7 +15360,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Seznam škol a školských zařízení"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Seznam škol a školských zařízení",
           "dataChar": {
@@ -13561,6 +15391,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -13600,7 +15450,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Školství a výzkum"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -13660,7 +15512,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T09:24:01.000Z",
-      "modified": "2022-09-28T09:25:02.057Z",
+      "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13690,7 +15542,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
@@ -13706,9 +15558,9 @@
           "CreaTime": 11194500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-09-28",
+          "ModDate": "2022-10-03",
           "CreaDate": "2022-09-28",
-          "ModTime": "11:26:58.52",
+          "ModTime": "15:38:37.08",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -13717,7 +15569,20 @@
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "reviseDate": "2022-09-29",
+              "pubDate": "2021-11-01",
+              "createDate": "2021-11-01"
+            },
             "resTitle": "Divadla a filharmonie"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "idPurp": "Divadla a filharmonie",
           "dataChar": {
@@ -13735,6 +15600,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -13774,7 +15659,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
