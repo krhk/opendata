@@ -425,7 +425,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0cabb88f46bf484f81e4cd9a7299d8dc&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/0cabb88f46bf484f81e4cd9a7299d8dc_0",
-      "title": "Národní kulturní památky na indikativním seznamu",
+      "title": "Kulturní památky na indikativním seznamu",
       "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Památky",
@@ -433,7 +433,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T22:10:42.000Z",
-      "modified": "2022-05-13T20:04:33.256Z",
+      "modified": "2022-10-04T21:07:19.031Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1033,7 +1033,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-10-28T23:18:16.000Z",
-      "modified": "2021-10-30T21:40:06.289Z",
+      "modified": "2022-10-03T22:11:06.910Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -1450,7 +1450,7 @@
         "Opravy"
       ],
       "issued": "2022-09-07T10:34:37.000Z",
-      "modified": "2022-09-07T10:56:15.799Z",
+      "modified": "2022-10-04T06:46:38.564Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2155,7 +2155,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T10:25:59.000Z",
-      "modified": "2022-09-25T18:14:02.321Z",
+      "modified": "2022-10-04T07:33:15.755Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2781,7 +2781,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:49:03.000Z",
-      "modified": "2022-09-07T14:49:03.644Z",
+      "modified": "2022-10-04T06:55:51.923Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3566,7 +3566,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:32:02.000Z",
-      "modified": "2022-10-03T19:54:55.884Z",
+      "modified": "2022-10-04T07:31:09.027Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -4889,7 +4889,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T22:27:08.000Z",
-      "modified": "2022-05-13T19:56:35.220Z",
+      "modified": "2022-10-03T22:11:22.269Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -6278,7 +6278,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T11:42:50.000Z",
-      "modified": "2022-09-07T18:56:51.869Z",
+      "modified": "2022-10-04T06:55:10.098Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6492,7 +6492,7 @@
         "Veřejná doprava Královéhradeckého kraje"
       ],
       "issued": "2022-09-07T07:26:01.000Z",
-      "modified": "2022-09-07T10:48:58.461Z",
+      "modified": "2022-10-04T06:49:39.762Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -7627,7 +7627,7 @@
         "IREDO"
       ],
       "issued": "2022-09-07T06:57:50.000Z",
-      "modified": "2022-10-03T20:10:47.561Z",
+      "modified": "2022-10-04T07:38:06.082Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9257,7 +9257,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:23:49.000Z",
-      "modified": "2022-09-25T18:18:44.380Z",
+      "modified": "2022-10-04T07:28:18.359Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10361,7 +10361,7 @@
         "Veřejná doprava Královéhradeckého kraje"
       ],
       "issued": "2022-09-07T07:58:04.000Z",
-      "modified": "2022-10-03T21:54:56.196Z",
+      "modified": "2022-10-04T06:50:08.942Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10832,7 +10832,7 @@
         "Opravy"
       ],
       "issued": "2022-09-07T10:17:42.000Z",
-      "modified": "2022-10-03T21:49:49.561Z",
+      "modified": "2022-10-04T06:41:44.301Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11879,7 +11879,7 @@
         "Opravy"
       ],
       "issued": "2022-09-07T08:26:45.000Z",
-      "modified": "2022-10-03T21:46:56.875Z",
+      "modified": "2022-10-04T06:44:59.407Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12135,7 +12135,7 @@
         "Opravy"
       ],
       "issued": "2022-09-07T08:52:11.000Z",
-      "modified": "2022-10-03T21:49:37.875Z",
+      "modified": "2022-10-04T06:43:01.393Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12808,7 +12808,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T12:34:14.000Z",
-      "modified": "2022-09-25T18:19:26.230Z",
+      "modified": "2022-10-04T07:34:13.635Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13284,7 +13284,7 @@
         "Veřejná doprava Královéhradeckého kraje"
       ],
       "issued": "2022-09-08T12:34:08.000Z",
-      "modified": "2022-09-08T12:36:33.996Z",
+      "modified": "2022-10-04T06:56:55.304Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -14673,7 +14673,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T12:00:23.000Z",
-      "modified": "2022-09-07T19:33:44.608Z",
+      "modified": "2022-10-04T06:57:39.454Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
