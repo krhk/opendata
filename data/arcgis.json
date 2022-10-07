@@ -868,7 +868,8 @@
       "keyword": [
         "Autobusy",
         "Zastávky",
-        "IREDO"
+        "IREDO",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-07T21:57:12.000Z",
       "modified": "2021-11-07T20:10:38.324Z",
@@ -955,7 +956,8 @@
             "keyword": [
               "Autobusy",
               "Zastávky",
-              "IREDO"
+              "IREDO",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -1450,7 +1452,7 @@
         "Opravy"
       ],
       "issued": "2022-09-07T10:34:37.000Z",
-      "modified": "2022-10-04T06:46:38.564Z",
+      "modified": "2022-10-05T06:02:19.390Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1910,7 +1912,8 @@
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – body",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:49:11.000Z",
       "modified": "2022-05-13T19:33:26.706Z",
@@ -2036,7 +2039,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -2986,7 +2992,8 @@
       "description": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
         "Památky",
-        "NKP"
+        "NKP",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-28T23:21:37.000Z",
       "modified": "2021-11-03T21:36:52.715Z",
@@ -3067,7 +3074,8 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "NKP"
+              "NKP",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -3402,7 +3410,8 @@
       "keyword": [
         "Autobusy",
         "Zastávky",
-        "IREDO"
+        "IREDO",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-07T22:02:51.000Z",
       "modified": "2021-11-07T20:10:09.714Z",
@@ -3489,7 +3498,8 @@
             "keyword": [
               "Autobusy",
               "Zastávky",
-              "IREDO"
+              "IREDO",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -3771,7 +3781,8 @@
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – polygony",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:07:09.000Z",
       "modified": "2022-05-13T19:31:08.235Z",
@@ -3897,7 +3908,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -4679,7 +4693,8 @@
       "description": "Datová sada s prostorovou lokalizací všech válečných hrobů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Památky",
-        "Hroby"
+        "Hroby",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T21:31:17.000Z",
       "modified": "2022-05-13T19:08:07.961Z",
@@ -4760,7 +4775,8 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "Hroby"
+              "Hroby",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -5531,10 +5547,11 @@
       "title": "Úřední deska Královéhradeckého kraje",
       "description": "Tato datová sada obsahuje data z úřední desky Královéhradeckého kraje dle Otevřené formální normy <a href='https://ofn.gov.cz/úřední-desky/2021-07-20/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://ofn.gov.cz/úřední-desky/2021-07-20/</a>. Data se generují 2x denně v 8:00 a ve 13:00. Export úřední desky je dostupný na adrese <a href='https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld' target='_blank' rel='nofollow ugc noopener noreferrer'>https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/uredni_deska.jsonld</a>.",
       "keyword": [
-        "Úřední deska"
+        "Úřední deska",
+        "Královéhradecký kraj"
       ],
       "issued": "2022-01-27T13:34:36.000Z",
-      "modified": "2022-01-30T18:44:21.000Z",
+      "modified": "2022-10-06T07:10:48.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -5643,7 +5660,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "Úřední deska"
+            "keyword": [
+              "Úřední deska",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -5807,7 +5827,8 @@
       "description": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Památky",
-        "Hroby"
+        "Hroby",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T21:41:32.000Z",
       "modified": "2022-05-13T19:40:10.268Z",
@@ -5889,7 +5910,8 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "Hroby"
+              "Hroby",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -6033,7 +6055,8 @@
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:04:06.000Z",
       "modified": "2022-05-13T19:31:43.780Z",
@@ -6159,7 +6182,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -6722,7 +6748,8 @@
       "title": "Vymezení rozvojových os v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:16:24.000Z",
       "modified": "2021-11-03T21:28:57.819Z",
@@ -6848,7 +6875,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -6962,7 +6992,8 @@
       "title": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech dle ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:11:59.000Z",
       "modified": "2021-11-03T21:27:58.861Z",
@@ -7089,7 +7120,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -8504,7 +8538,8 @@
       "title": "Vymezení specifických oblastí v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:17:16.000Z",
       "modified": "2021-11-03T21:29:25.394Z",
@@ -8630,7 +8665,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -8744,7 +8782,8 @@
       "title": "Plochy zastavitelné v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T21:57:36.000Z",
       "modified": "2022-05-13T19:33:51.474Z",
@@ -8870,7 +8909,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -9462,10 +9504,11 @@
       "title": "Aktuality",
       "description": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
       "keyword": [
-        "Aktuality"
+        "Aktuality",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T10:08:06.000Z",
-      "modified": "2021-11-08T15:10:29.000Z",
+      "modified": "2022-10-06T07:11:23.000Z",
       "publisher": {
         "source": "Tomas_Merta_DATAKHK"
       },
@@ -9556,7 +9599,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "Aktuality"
+            "keyword": [
+              "Aktuality",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -9887,7 +9933,8 @@
       "title": "Územní rezervy dle ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:47:48.000Z",
       "modified": "2022-05-13T19:32:21.043Z",
@@ -10013,7 +10060,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -11312,7 +11362,8 @@
       "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – body",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR KHK"
+        "ZÚR KHK",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:21:54.000Z",
       "modified": "2022-05-13T19:32:45.226Z",
@@ -11438,7 +11489,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR KHK"
+            "keyword": [
+              "ZÚR KHK",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -11573,7 +11627,8 @@
       "title": "Nadregionální a regionální ÚSES vymezený v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:45:23.000Z",
       "modified": "2022-05-13T19:11:52.286Z",
@@ -11699,7 +11754,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -13018,7 +13076,8 @@
       "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – polygony",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:34:53.000Z",
       "modified": "2022-05-13T19:33:06.543Z",
@@ -13145,7 +13204,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -13705,7 +13767,8 @@
       "description": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
         "Památky",
-        "NKP"
+        "NKP",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-28T23:20:37.000Z",
       "modified": "2021-11-03T21:33:23.888Z",
@@ -13842,7 +13905,8 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "NKP"
+              "NKP",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -13976,7 +14040,8 @@
       "description": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
       "keyword": [
         "Památky",
-        "NKP"
+        "NKP",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-28T23:19:14.000Z",
       "modified": "2021-10-30T19:43:10.258Z",
@@ -14057,7 +14122,8 @@
           "searchKeys": {
             "keyword": [
               "Památky",
-              "NKP"
+              "NKP",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
@@ -14430,7 +14496,8 @@
       "title": "Vymezení rozvojových oblastí v ZÚR",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "ZÚR"
+        "ZÚR",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:14:59.000Z",
       "modified": "2021-11-03T21:28:30.074Z",
@@ -14556,7 +14623,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "ZÚR"
+            "keyword": [
+              "ZÚR",
+              "Královéhradecký kraj"
+            ]
           },
           "resConst": [
             {
@@ -14885,7 +14955,8 @@
       "keyword": [
         "Kultura",
         "Muzea",
-        "Galerie"
+        "Galerie",
+        "Královéhradecký kraj"
       ],
       "issued": "2021-10-08T22:32:31.000Z",
       "modified": "2022-05-13T19:07:07.660Z",
@@ -14967,7 +15038,8 @@
             "keyword": [
               "Kultura",
               "Muzea",
-              "Galerie"
+              "Galerie",
+              "Královéhradecký kraj"
             ]
           },
           "resConst": [
