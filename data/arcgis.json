@@ -8084,215 +8084,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=8ab911643fa14dbbafeb1d49f25d9bbf&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/8ab911643fa14dbbafeb1d49f25d9bbf_0",
-      "title": "Počty žáků v oborech středních škol zřizovaných krajem",
-      "description": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
-      "keyword": [
-        "Střední školy",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2022-09-22T07:27:00.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
-      "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.2719,50.1244,16.3416,50.6316",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1663831720442r7106028874168442",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2022-09-22",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": 9081000,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
-          "CreaDate": "2022-09-22",
-          "ModTime": "22:57:23.72",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "09:28:39.91",
-        "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací počtů žáků v oborech středních škol zřizovaných Královéhradeckým krajem. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
-            "resTitle": "Počty žáků v oborech středních škol zřizovaných krajem"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Střední školy",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Školství a výzkum"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/8ab911643fa14dbbafeb1d49f25d9bbf_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_%C5%BE%C3%A1k%C5%AF_v_oborech_st%C5%99edn%C3%ADch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/8ab911643fa14dbbafeb1d49f25d9bbf_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/8ab911643fa14dbbafeb1d49f25d9bbf_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/8ab911643fa14dbbafeb1d49f25d9bbf_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/8ab911643fa14dbbafeb1d49f25d9bbf_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8d9e15cc77b048f181c2d9ddba6fa8be&sublayer=1",
       "landingPage": "https://www.datakhk.cz/maps/8d9e15cc77b048f181c2d9ddba6fa8be_1",
       "title": "Vymezení specifických oblastí v ZÚR",
@@ -9050,6 +8841,182 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=94641d33f4fb475e82c4736f975c7c65&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/94641d33f4fb475e82c4736f975c7c65_0",
+      "title": "Počty žáků v oborech středních škol zřizovaných krajem",
+      "description": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
+      "keyword": [
+        "Počty žáků v oborech středních škol zřizovaných krajem",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-10-23T10:54:13.000Z",
+      "modified": "2022-10-23T10:56:54.788Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2719,50.1244,16.3416,50.6316",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1666522658434r1299139869440249",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2022-10-23",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 9081000,
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-10-23",
+          "CreaDate": "2022-09-22",
+          "ModTime": "13:00:24.48",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "12:57:37.89",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Počty žáků v oborech středních škol zřizovaných krajem"
+          },
+          "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Počty žáků v oborech středních škol zřizovaných krajem",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/94641d33f4fb475e82c4736f975c7c65_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_%C5%BE%C3%A1k%C5%AF_v_oborech_st%C5%99edn%C3%ADch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/94641d33f4fb475e82c4736f975c7c65_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/94641d33f4fb475e82c4736f975c7c65_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/94641d33f4fb475e82c4736f975c7c65_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/94641d33f4fb475e82c4736f975c7c65_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=95055055d7744702b33706846e513628&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/95055055d7744702b33706846e513628_0",
       "title": "Klastry Národní klastrové asociace",
@@ -9059,7 +9026,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T19:47:15.000Z",
-      "modified": "2022-10-22T19:48:18.927Z",
+      "modified": "2022-10-22T19:50:48.990Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9891,235 +9858,6 @@
           "format": "ZIP",
           "mediaType": "application/zip",
           "accessURL": "https://www.datakhk.cz/datasets/a2d0970a92b6452899730e90a1ce5e29_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=a6aa224ed53b417693179830b6e1e7b2&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/a6aa224ed53b417693179830b6e1e7b2_0",
-      "title": "Počty studentů vyšších odborných škol zřizovaných krajem",
-      "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
-      "keyword": [
-        "VOŠ",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2022-09-26T10:13:54.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
-      "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.3524,50.1648,16.2793,50.5650",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1664187323850r6519076987757928",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2022-09-26",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": 11135800,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
-          "CreaDate": "2022-09-26",
-          "ModTime": "22:48:43.86",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "12:15:23.25",
-        "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
-            "resTitle": "Počty studentů vyšších odborných škol zřizovaných krajem"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Počty studentů krajských vyšších odborných škol",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "VOŠ",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Školství a výzkum"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/a6aa224ed53b417693179830b6e1e7b2_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_student%C5%AF_krajsk%C3%BDch_vy%C5%A1%C5%A1%C3%ADch_odborn%C3%BDch_%C5%A1kol/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/a6aa224ed53b417693179830b6e1e7b2_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/a6aa224ed53b417693179830b6e1e7b2_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/a6aa224ed53b417693179830b6e1e7b2_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/a6aa224ed53b417693179830b6e1e7b2_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
@@ -12895,6 +12633,202 @@
           "format": "ZIP",
           "mediaType": "application/zip",
           "accessURL": "https://www.datakhk.cz/datasets/d537a3ae646e4819b47cb37cbbec60a7_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d9927ed9c7884f239d5e98e22775458f&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/d9927ed9c7884f239d5e98e22775458f_0",
+      "title": "Počty studentů v oborech vyšších odborných škol zřizovaných krajem",
+      "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
+      "keyword": [
+        "Počty studentů v oborech vyšších odborných škol zřizovaných krajem",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-10-23T10:01:50.000Z",
+      "modified": "2022-10-23T10:05:48.156Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3524,50.1648,16.2793,50.5650",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1666519612554r39411038305738577",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2022-10-23",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 11135800,
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-10-23",
+          "CreaDate": "2022-09-26",
+          "ModTime": "12:12:10.85",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "12:06:51.85",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Zdrojem dat je Datový sklad Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Počty studentů v oborech vyšších odborných škol zřizovaných krajem"
+          },
+          "idPurp": "Počty studentů v oborech vyšších odborných škol zřizovaných krajem",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Počty studentů v oborech vyšších odborných škol zřizovaných krajem",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/d9927ed9c7884f239d5e98e22775458f_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_student%C5%AF_v_oborech_vy%C5%A1%C5%A1%C3%ADch_odborn%C3%BDch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/d9927ed9c7884f239d5e98e22775458f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/d9927ed9c7884f239d5e98e22775458f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/d9927ed9c7884f239d5e98e22775458f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/d9927ed9c7884f239d5e98e22775458f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
