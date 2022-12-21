@@ -1,10 +1,10 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/98b4e322ef1e4bbc8a0dad30d0c14614.jsonld",
+  "iri": "https://open.datakhk.cz/9cef37eacc0541d89acb3f21481c4809.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Aktuality"
+    "cs": "Aktuality Královéhradeckého kraje"
   },
   "popis": {
     "cs": "RSS kanál pro přehled aktualit Královéhradeckého kraje."
@@ -19,19 +19,19 @@
     "http://publications.europa.eu/resource/authority/data-theme/REGI",
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+      "iri": "https://www.datakhk.cz/documents/9cef37eacc0541d89acb3f21481c4809",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
-      "přístupové_url": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
+      "soubor_ke_stažení": "https://www.datakhk.cz/documents/9cef37eacc0541d89acb3f21481c4809",
+      "přístupové_url": "https://www.datakhk.cz/documents/9cef37eacc0541d89acb3f21481c4809",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -44,12 +44,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
+      "iri": "https://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/tiskove-centrum/aktuality1/aktuality.jsonld",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
-      "přístupové_url": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml",
+      "soubor_ke_stažení": "https://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/tiskove-centrum/aktuality1/aktuality.jsonld",
+      "přístupové_url": "https://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/tiskove-centrum/aktuality1/aktuality.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

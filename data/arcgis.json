@@ -423,234 +423,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0cabb88f46bf484f81e4cd9a7299d8dc&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/0cabb88f46bf484f81e4cd9a7299d8dc_0",
-      "title": "Kulturní památky na indikativním seznamu",
-      "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
-      "keyword": [
-        "Památky",
-        "NKP",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-10-08T22:10:42.000Z",
-      "modified": "2022-10-04T21:11:05.914Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.4515,50.1085,16.3970,50.6681",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1633734625713r9423839606366864",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2021-10-09",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": 15033000,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-04",
-          "CreaDate": "2021-10-08",
-          "ModTime": "00:04:20.21",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "01:10:25.29",
-        "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-10-25"
-            },
-            "resTitle": "Národní kulturní památky na indikativním seznamu"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Památky",
-              "NKP",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Kultura a cestovní ruch"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/0cabb88f46bf484f81e4cd9a7299d8dc_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_na_indikativn%C3%ADm_seznamu/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/0cabb88f46bf484f81e4cd9a7299d8dc_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0d629b7fd2c34af8a3e2ba2196aa03cc&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/0d629b7fd2c34af8a3e2ba2196aa03cc_0",
       "title": "Přírodní zajímavosti",
@@ -1021,214 +793,6 @@
           "mediaType": "text/csv",
           "accessURL": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv"
         }
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0e4a49eabdd94d71a78098ea1fe0267c&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/0e4a49eabdd94d71a78098ea1fe0267c_0",
-      "title": "Národní kulturní památky – bodové objekty",
-      "description": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
-      "keyword": [
-        "Památky",
-        "NKP",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-10-28T23:18:16.000Z",
-      "modified": "2022-10-03T22:11:06.910Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.8890,50.2635,16.1497,50.4216",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1635630015618r18960630543173607",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2021-10-30",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": 365100,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-04",
-          "CreaDate": "2021-10-29",
-          "ModTime": "00:07:53.90",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "23:40:15.12",
-        "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-10-30"
-            },
-            "resTitle": "Národní kulturní památky – bodové objekty"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Památky",
-              "NKP",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Kultura a cestovní ruch"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/0e4a49eabdd94d71a78098ea1fe0267c_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_%E2%80%93_bodov%C3%A9_objekty/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/0e4a49eabdd94d71a78098ea1fe0267c_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        }
-      ],
-      "theme": [
-        "geospatial"
       ]
     },
     {
@@ -5854,6 +5418,206 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=60df95fa7034480c80bc41628834bd04&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/60df95fa7034480c80bc41628834bd04_0",
+      "title": "Kulturní památky na indikativním seznamu",
+      "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Jedná se o seznam kulturních památek, které mají potenciál být prohlášeny národními kulturními památkami. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Kulturní památky na indikativním seznamu",
+        "Kulturní památky",
+        "Indikativní seznam národních kulturních památek",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-12-20T09:49:32.000Z",
+      "modified": "2022-12-20T09:57:17.544Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.4515,50.1085,16.2757,50.6681",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1671529867492r23391637748711802",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2022-12-20",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 10453600,
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-12-20",
+          "CreaDate": "2022-12-20",
+          "ModTime": "10:56:05.27",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:51:06.85",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Jedná se o seznam kulturních památek, které mají potenciál být prohlášeny národními kulturními památkami. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Kulturní památky na indikativním seznamu"
+          },
+          "idPurp": "Kulturní památky na indikativním seznamu",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Kulturní památky na indikativním seznamu",
+              "Kulturní památky",
+              "Indikativní seznam národních kulturních památek",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/60df95fa7034480c80bc41628834bd04_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Kulturn%C3%AD_pam%C3%A1tky_na_indikativn%C3%ADm_seznamu/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/60df95fa7034480c80bc41628834bd04_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/60df95fa7034480c80bc41628834bd04_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/60df95fa7034480c80bc41628834bd04_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/60df95fa7034480c80bc41628834bd04_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=61acbd8d632d4dae854cdf6ae7bf48fc&sublayer=1",
       "landingPage": "https://www.datakhk.cz/maps/61acbd8d632d4dae854cdf6ae7bf48fc_1",
       "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
@@ -7207,6 +6971,184 @@
           "format": "ZIP",
           "mediaType": "application/zip",
           "accessURL": "https://www.datakhk.cz/datasets/769c0fb4f47c411c86f7780e3385b499_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7ab0396a1eb944d0bbf36344c5604a04&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/7ab0396a1eb944d0bbf36344c5604a04_0",
+      "title": "Národní kulturní památky - bodové objekty",
+      "description": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+      "keyword": [
+        "Národní kulturní památky bodové objekty",
+        "Národní kulturní památky",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-12-20T09:07:05.000Z",
+      "modified": "2022-12-20T09:38:42.171Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.8890,50.2635,16.3970,50.6448",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1671527550865r18350490361637584",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2022-12-20",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 13003900,
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-12-20",
+          "CreaDate": "2022-12-19",
+          "ModTime": "10:13:53.22",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:12:30.23",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+          "idCitation": {
+            "resTitle": "Národní kulturní památky - bodové objekty"
+          },
+          "idPurp": "Národní kulturní památky bodové objekty",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Národní kulturní památky bodové objekty",
+              "Národní kulturní památky",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/7ab0396a1eb944d0bbf36344c5604a04_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_bodov%C3%A9_objekty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/7ab0396a1eb944d0bbf36344c5604a04_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/7ab0396a1eb944d0bbf36344c5604a04_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/7ab0396a1eb944d0bbf36344c5604a04_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/7ab0396a1eb944d0bbf36344c5604a04_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
@@ -9239,226 +9181,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=98b4e322ef1e4bbc8a0dad30d0c14614",
-      "landingPage": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614",
-      "title": "Aktuality",
-      "description": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
-      "keyword": [
-        "Aktuality",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-11-02T10:08:06.000Z",
-      "modified": "2022-10-06T07:11:23.000Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "98b4e322ef1e4bbc8a0dad30d0c14614",
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": "Každých 30 minut"
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "001"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-            }
-          },
-          "distFormat": {
-            "formatVer": 1,
-            "formatName": "XML"
-          }
-        },
-        "mdDateSt": "2021-11-02",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "11:11:02.78",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-08",
-          "CreaDate": "2021-11-02",
-          "ModTime": "16:10:28.59",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "11:11:02.78",
-        "dataIdInfo": {
-          "idAbs": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "createDate": "2021-11-02"
-            },
-            "resTitle": "Aktuality",
-            "citOnlineRes": {
-              "linkage": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Aktuality",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "appSchInfo": {
-          "asName": {
-            "date": {
-              "pubDate": "2021-11-02"
-            },
-            "resTitle": "test 3"
-          },
-          "asSchLang": "XML"
-        }
-      },
-      "category": [
-        "Kraj a dotace"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/documents/98b4e322ef1e4bbc8a0dad30d0c14614"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.kr-kralovehradecky.cz/rss/aktuality.xml"
-        }
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9b6e39773a3e4a05a67edf39005562b7&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/9b6e39773a3e4a05a67edf39005562b7_0",
       "title": "Církevní památky",
@@ -9664,6 +9386,158 @@
       ],
       "theme": [
         "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=9cef37eacc0541d89acb3f21481c4809",
+      "landingPage": "https://www.datakhk.cz/documents/9cef37eacc0541d89acb3f21481c4809",
+      "title": "Aktuality Královéhradeckého kraje",
+      "description": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
+      "keyword": [
+        "Aktuality",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-12-20T12:26:41.000Z",
+      "modified": "2022-12-20T12:28:48.000Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "9cef37eacc0541d89acb3f21481c4809",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "002"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/tiskove-centrum/aktuality1/aktuality.jsonld"
+            }
+          }
+        },
+        "mdDateSt": "2022-12-20",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "13:27:24.57",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2022-12-20",
+          "CreaDate": "2022-12-20",
+          "ModTime": "13:28:45.91",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:27:24.57",
+        "dataIdInfo": {
+          "idAbs": "RSS kanál pro přehled aktualit Královéhradeckého kraje.",
+          "idCitation": {
+            "date": {
+              "pubDate": "2022-12-20",
+              "createDate": "2022-12-20"
+            },
+            "resTitle": "Aktuality Královéhradeckého kraje"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Aktuality",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/9cef37eacc0541d89acb3f21481c4809"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.kr-kralovehradecky.cz/cz/kraj-volene-organy/tiskove-centrum/aktuality1/aktuality.jsonld"
+        }
       ]
     },
     {
