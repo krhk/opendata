@@ -45,6 +45,7 @@ export const META_LKOD = {
 		'012': 'UNKNOWN',
 	} as Record<string, string>,
 	excludedDatasets: [
-		'55bde3ffb8814807a81b3e733cd0f66d' // Úřední deska Královéhradeckého kraje
+		'55bde3ffb8814807a81b3e733cd0f66d', // Úřední deska Královéhradeckého kraje
+		'9cef37eacc0541d89acb3f21481c4809', // Aktuality Královéhradeckého kraje
 	]
 }
