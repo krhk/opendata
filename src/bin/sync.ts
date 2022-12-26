@@ -1,7 +1,7 @@
 import _url from 'url';
 import _ from "lodash";
 import { httpGet } from '@/http';
-import { parseIdentifier, writeJson } from '@/helpers';
+import { parseArcgisIdentifier, writeJson } from '@/helpers';
 import * as CONFIG from '@/../config';
 
 async function downloadArcgis(): Promise<any> {
@@ -15,7 +15,7 @@ async function syncArcgis(): Promise<any> {
 	// Format datasets
 	arcgis.dataset = _(arcgis.dataset)
 		// Filter out excluded datasets
-		.filter((dataset: any) => !CONFIG.META_LKOD.excludedDatasets.includes(parseIdentifier(dataset.identifier)))
+		.filter((dataset: any) => !CONFIG.META_LKOD.excludedDatasets.includes(parseArcgisIdentifier(dataset.identifier)))
 		// Order by ID (to prevent git changes)
 		.orderBy('identifier')
 		.value();
