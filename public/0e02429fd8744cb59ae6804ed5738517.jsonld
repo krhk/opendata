@@ -63,14 +63,14 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
+      "iri": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
       "název": {
-        "cs": "GeoJSON"
+        "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
-      "přístupové_url": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
+      "přístupové_url": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -81,14 +81,14 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
+      "iri": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
       "název": {
-        "cs": "CSV"
+        "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
-      "přístupové_url": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
+      "přístupové_url": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
