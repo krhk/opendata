@@ -12184,7 +12184,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.2720,50.1245,16.3416,50.6322",
-      "license": "",
+      "license": "CC0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -12332,6 +12332,11 @@
                   }
                 },
                 "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "CC0"
               }
             }
           ]
@@ -12740,7 +12745,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.3524,50.1856,15.9155,50.5651",
-      "license": "",
+      "license": "CC0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -12885,6 +12890,11 @@
                   }
                 },
                 "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "CC0"
               }
             }
           ]
