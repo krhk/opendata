@@ -1010,7 +1010,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T20:58:55.000Z",
-      "modified": "2022-10-22T21:01:56.746Z",
+      "modified": "2023-05-22T07:42:49.078Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1080,7 +1080,7 @@
             }
           }
         },
-        "mdFileID": "1666472524038r6018428267814715",
+        "mdFileID": "1684741197394r8408575260981925",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -1088,7 +1088,7 @@
             }
           }
         },
-        "mdDateSt": "2022-10-22",
+        "mdDateSt": "2023-05-22",
         "Esri": {
           "locales": {
             "locale": {
@@ -1097,17 +1097,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 15554900,
+          "CreaTime": 22500700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-22",
-          "CreaDate": "2022-08-01",
-          "ModTime": "23:03:15.52",
+          "ModDate": "2023-05-22",
+          "CreaDate": "2022-10-22",
+          "ModTime": "09:41:20.56",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "23:02:03.46",
+        "mdTimeSt": "09:39:56.75",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -1186,7 +1186,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-28T08:50:19.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
+      "modified": "2023-05-22T08:30:29.995Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1256,53 +1256,102 @@
             }
           }
         },
-        "mdFileID": "1664355176212r440307844826225",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
             }
           }
         },
         "mdDateSt": "2022-09-28",
         "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "cyklovylety"
+            },
+            "coordRef": {
+              "projcsn": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;WGS_1984_Web_Mercator_Auxiliary_Sphere&quot;,GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Mercator_Auxiliary_Sphere&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,0.0],PARAMETER[&quot;Standard_Parallel_1&quot;,0.0],PARAMETER[&quot;Auxiliary_Sphere_Type&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,3857]]</WKT><XOrigin>-20037700</XOrigin><YOrigin>-30241100</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102100</WKID><LatestWKID>3857</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_WGS_1984"
+            }
+          },
+          "SyncTime": 10390300,
+          "MapLyrSync": "false",
           "locales": {
             "locale": {
               "@_language": "cze",
               "@_country": "CZ"
             }
           },
-          "ArcGISFormat": 1,
-          "CreaTime": 10461800,
+          "CreaTime": 8245600,
+          "SyncDate": "2022-09-28",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-05-22",
           "CreaDate": "2022-09-28",
-          "ModTime": "15:39:41.05",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "ModTime": "10:29:46.63",
+          "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:52:55.63",
+        "mdTimeSt": "10:27:18.23",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "TRUE",
+              "efeageom": {
+                "@_code": "3"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
-            "resTitle": "Cyklovýlety"
+            "resTitle": "Cyklovýlety",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
           },
           "dataLang": {
             "countryCode": {
-              "@_value": "CZ"
+              "@_value": "CZE"
             },
             "languageCode": {
-              "@_value": "cze"
+              "@_value": "ces"
             }
           },
           "idPurp": "Cyklovýlety",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -1339,28 +1388,130 @@
                 },
                 "othConsts": "Jiná omezení"
               }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
             }
           ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "nazev",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "popis",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "popis",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "telefon",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "telefon",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "www",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "www",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Delka_metr",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "delka_metr",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "dp_id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ds_id",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ds_id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "cyklovylety"
+            }
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -1375,7 +1526,21 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1684744038895r06436724383307912",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
       },
       "category": [
         "Kultura a cestovní ruch"
