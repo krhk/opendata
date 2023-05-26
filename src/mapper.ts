@@ -38,7 +38,7 @@ export function detectTheme(dataset: any): string[] {
 	}
 
 	return values.map((value: string) => {
-		return CONFIG.META_LKOD.themes[value].map(theme => {
+		return (CONFIG.META_LKOD.themes[value] ?? []).map(theme => {
 			return `http://publications.europa.eu/resource/authority/data-theme/${theme.toUpperCase()}`;
 		});
 	}).flatMap(value => value);
