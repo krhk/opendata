@@ -2127,7 +2127,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -2365,7 +2365,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -5763,9 +5763,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Životní prostředí",
-          "Územní systém ekologické stability",
           "Zásady územního rozvoje Královéhradeckého kraje",
+          "Územní systém ekologické stability",
+          "Životní prostředí",
           "Královéhradecký kraj"
         ]
       },
@@ -8511,7 +8511,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -9725,7 +9725,7 @@
         "cs": "Železniční stanice a zastávky VDKHK"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [

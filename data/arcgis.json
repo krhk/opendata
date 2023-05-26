@@ -434,7 +434,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-16T13:02:26.000Z",
-      "modified": "2023-03-30T11:17:37.758Z",
+      "modified": "2023-05-25T12:31:56.131Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -504,7 +504,7 @@
             }
           }
         },
-        "mdFileID": "1678971943047r07772403958107121",
+        "mdFileID": "1685017730510r6227601304913517",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -512,7 +512,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-16",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -521,17 +521,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 16502700,
+          "CreaTime": 16501800,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-03-16",
+          "ModDate": "2023-05-25",
           "CreaDate": "2023-03-15",
-          "ModTime": "14:09:14.42",
+          "ModTime": "14:30:55.18",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "14:05:42.43",
+        "mdTimeSt": "14:28:49.94",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací informačních center autobusové dopravy Veřejné dopravy Královéhradeckého kraje (VDKHK) včetně kontaktů na danou provozovnu. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -555,26 +555,6 @@
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3193,7 +3173,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:02:02.000Z",
-      "modified": "2022-10-04T07:29:48.988Z",
+      "modified": "2023-05-25T13:15:30.071Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3263,15 +3243,15 @@
             }
           }
         },
-        "mdFileID": "1662559462239r08283388536373715",
+        "mdFileID": "1685018538371r0744283537465773",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-07",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -3280,33 +3260,21 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 7324300,
+          "CreaTime": 7310000,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-05-25",
           "CreaDate": "2022-08-02",
-          "ModTime": "21:53:33.98",
+          "ModTime": "14:43:40.68",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "16:04:21.68",
+        "mdTimeSt": "14:42:17.79",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací inovačních infrastruktur. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
-            "date": {
-              "pubDate": "2022-09-29",
-              "createDate": "2022-09-29"
-            },
             "resTitle": "Inovační infrastruktury"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
           },
           "idPurp": "Inovační infrastruktury",
           "dataChar": {
@@ -3324,26 +3292,6 @@
             {
               "Consts": {
                 "useLimit": "CC BY 4.0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -3570,7 +3518,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:32:02.000Z",
-      "modified": "2022-10-04T07:31:09.027Z",
+      "modified": "2023-05-25T13:23:36.684Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3640,15 +3588,15 @@
             }
           }
         },
-        "mdFileID": "1662561363202r30912930250205495",
+        "mdFileID": "1685020914669r10060940755771264",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-07",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -3657,33 +3605,21 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 8110500,
+          "CreaTime": 8105700,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-05-25",
           "CreaDate": "2022-08-02",
-          "ModTime": "22:09:24.86",
+          "ModTime": "15:22:52.19",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "16:36:02.67",
+        "mdTimeSt": "15:21:54.10",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací právnických osob v klastrech. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
-            "date": {
-              "pubDate": "2022-09-29",
-              "createDate": "2022-09-29"
-            },
             "resTitle": "Právnické osoby v klastrech"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
           },
           "idPurp": "Právnické osoby v klastrech",
           "dataChar": {
@@ -3701,26 +3637,6 @@
             {
               "Consts": {
                 "useLimit": "CC BY 4.0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -8787,13 +8703,13 @@
       "title": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
-        "Životní prostředí",
-        "Územní systém ekologické stability",
         "Zásady územního rozvoje Královéhradeckého kraje",
+        "Územní systém ekologické stability",
+        "Životní prostředí",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-29T06:19:23.000Z",
-      "modified": "2023-03-29T06:27:58.615Z",
+      "modified": "2023-05-25T08:35:40.429Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -8863,40 +8779,101 @@
             }
           }
         },
-        "mdFileID": "1680070933704r3570484760763615",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
             }
           }
         },
         "mdDateSt": "2023-03-29",
         "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "USES_ZUR_KHK"
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 7400700,
+          "MapLyrSync": "false",
           "locales": {
             "locale": {
               "@_language": "cze",
               "@_country": "CZ"
             }
           },
-          "ArcGISFormat": 1,
-          "CreaTime": 8052400,
+          "CreaTime": 514900,
+          "SyncDate": "2023-03-29",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-03-29",
-          "CreaDate": "2023-03-29",
-          "ModTime": "08:25:29.27",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "ModDate": "2023-05-25",
+          "CreaDate": "2021-10-21",
+          "ModTime": "10:36:01.49",
+          "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "08:22:13.19",
+        "mdTimeSt": "10:33:23.44",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "TRUE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
           "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK"
+            "resTitle": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
           },
-          "idPurp": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -8904,9 +8881,9 @@
           },
           "searchKeys": {
             "keyword": [
-              "Životní prostředí",
-              "Územní systém ekologické stability",
               "Zásady územního rozvoje Královéhradeckého kraje",
+              "Územní systém ekologické stability",
+              "Životní prostředí",
               "Královéhradecký kraj"
             ]
           },
@@ -8935,8 +8912,203 @@
                 },
                 "othConsts": "Jiná omezení"
               }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
             }
           ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "Kraj",
+                "attwidth": 30,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název kraje",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Plati_od",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attrtype": "Date"
+              },
+              {
+                "attrlabl": "Kod_kraje",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kód kraje dle RÚIAN",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "RC_ZUR",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "CasH",
+                "attwidth": 2,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Časový horizont prvku (12 = nerozlišeno, 1 = funkční, 2 = k založení)",
+                "attrtype": "SmallInteger"
+              },
+              {
+                "attrlabl": "Typ",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Typ prvku ÚSES",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Vloz_BC",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Vyznačení RBC vloženého do NRBK",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Oznaceni",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Označení prvku ÚSES včetně případného názvu",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Jev",
+                "attwidth": 18,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jev",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Pasport_Id",
+                "attwidth": 15,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Zdroj",
+                "attwidth": 52,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název nebo popis zdroje informace",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Dat_Aktual",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Datum aktualizace údaje",
+                "attrtype": "Date"
+              },
+              {
+                "attrlabl": "Poznamka",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Poznámka",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 255,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "Shape_Area",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "USES_ZUR_KHK"
+            }
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -8951,7 +9123,21 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1685003604012r9858708098171176",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
       },
       "category": [
         "Životní prostředí",
@@ -9729,7 +9915,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T19:47:15.000Z",
-      "modified": "2022-10-22T19:50:48.990Z",
+      "modified": "2023-05-25T13:13:44.927Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9799,7 +9985,7 @@
             }
           }
         },
-        "mdFileID": "1666468120229r8145494800325221",
+        "mdFileID": "1685020245003r8932020139778973",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -9807,7 +9993,7 @@
             }
           }
         },
-        "mdDateSt": "2022-10-22",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -9816,17 +10002,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 16251500,
+          "CreaTime": 21252200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-22",
-          "CreaDate": "2022-08-01",
-          "ModTime": "21:49:58.96",
+          "ModDate": "2023-05-25",
+          "CreaDate": "2022-10-22",
+          "ModTime": "15:13:03.64",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "21:48:39.66",
+        "mdTimeSt": "15:10:44.36",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací klastrů v evidenci Národní klastrové asociace. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -13064,7 +13250,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-29T16:25:52.000Z",
-      "modified": "2022-11-30T08:01:55.252Z",
+      "modified": "2023-05-25T13:33:15.752Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13134,15 +13320,15 @@
             }
           }
         },
-        "mdFileID": "1669739915901r1043296782917309",
+        "mdFileID": "1685021505459r8689452520439105",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-11-29",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -13151,21 +13337,21 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 13454700,
+          "CreaTime": 13191400,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-11-29",
+          "ModDate": "2023-05-25",
           "CreaDate": "2022-11-29",
-          "ModTime": "17:42:30.39",
+          "ModTime": "15:32:39.26",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "17:38:35.37",
+        "mdTimeSt": "15:31:44.71",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Přijímaci řízení na střední školy"
+            "resTitle": "Přijímací řízení na střední školy"
           },
           "idPurp": "Přijímací řízení na střední školy",
           "dataChar": {
@@ -13922,7 +14108,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T19:04:24.000Z",
-      "modified": "2022-10-22T19:11:18.097Z",
+      "modified": "2023-05-25T13:14:33.402Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13992,7 +14178,7 @@
             }
           }
         },
-        "mdFileID": "1666465668541r4619826250501271",
+        "mdFileID": "1685019123466r5762842477016792",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -14000,7 +14186,7 @@
             }
           }
         },
-        "mdDateSt": "2022-10-22",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -14009,17 +14195,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 11523300,
+          "CreaTime": 20354600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-22",
-          "CreaDate": "2022-09-21",
-          "ModTime": "21:10:09.01",
+          "ModDate": "2023-05-25",
+          "CreaDate": "2022-10-22",
+          "ModTime": "14:53:04.73",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "21:07:47.90",
+        "mdTimeSt": "14:52:02.84",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací investičních pobídek na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -14746,7 +14932,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=e64c92bd463e442593e695137e061a35&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/e64c92bd463e442593e695137e061a35_0",
       "title": "Železniční stanice a zastávky VDKHK",
-      "description": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Železniční stanice a zastávky",
         "Doprava",
@@ -14754,7 +14940,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T05:38:38.000Z",
-      "modified": "2023-03-31T05:53:10.845Z",
+      "modified": "2023-05-25T13:51:21.193Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -14824,7 +15010,7 @@
             }
           }
         },
-        "mdFileID": "1680241259596r1685397300971907",
+        "mdFileID": "1685022549008r13251728329168855",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -14832,7 +15018,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-31",
+        "mdDateSt": "2023-05-25",
         "Esri": {
           "locales": {
             "locale": {
@@ -14841,19 +15027,19 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 14393500,
+          "CreaTime": 14392200,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-03-31",
+          "ModDate": "2023-05-25",
           "CreaDate": "2022-08-02",
-          "ModTime": "07:44:30.57",
+          "ModTime": "15:50:21.80",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "07:40:58.97",
+        "mdTimeSt": "15:49:08.33",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Železniční stanice a zastávky VDKHK"
           },
