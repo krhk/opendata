@@ -2430,7 +2430,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-29T16:29:02.000Z",
-      "modified": "2022-11-30T08:03:25.546Z",
+      "modified": "2023-05-26T07:11:33.480Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2500,15 +2500,15 @@
             }
           }
         },
-        "mdFileID": "1669740265784r6173899135989063",
+        "mdFileID": "1685084818902r5262876442239122",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-11-29",
+        "mdDateSt": "2023-05-26",
         "Esri": {
           "locales": {
             "locale": {
@@ -2517,17 +2517,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 14160500,
+          "CreaTime": 14141900,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-11-29",
+          "ModDate": "2023-05-26",
           "CreaDate": "2022-11-29",
-          "ModTime": "17:46:33.38",
+          "ModTime": "09:10:23.50",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "17:44:25.21",
+        "mdTimeSt": "09:06:58.26",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -2786,7 +2786,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T14:38:52.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
+      "modified": "2023-05-26T06:38:43.769Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2856,15 +2856,15 @@
             }
           }
         },
-        "mdFileID": "1663771259655r6900515515360006",
+        "mdFileID": "1685082995209r9747701994782254",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-21",
+        "mdDateSt": "2023-05-26",
         "Esri": {
           "locales": {
             "locale": {
@@ -2873,34 +2873,21 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 16355500,
+          "CreaTime": 16290600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-05-26",
           "CreaDate": "2022-09-21",
-          "ModTime": "22:45:30.27",
+          "ModTime": "08:37:37.20",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "16:40:59.11",
+        "mdTimeSt": "08:36:34.65",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
             "resTitle": "Lékařská pohotovostní služba"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
           },
           "idPurp": "Lékařská pohotovostní služba",
           "dataChar": {
@@ -2918,26 +2905,6 @@
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
