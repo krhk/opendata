@@ -7,18 +7,20 @@
     "cs": "Divadla a filharmonie"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Divadla a filharmonie",
+      "Divadla",
+      "Filharmonie",
+      "Kultura",
       "Královéhradecký kraj"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/EDUC"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
