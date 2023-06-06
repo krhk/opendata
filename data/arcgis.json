@@ -14721,7 +14721,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-29T16:25:52.000Z",
-      "modified": "2023-05-25T13:33:15.752Z",
+      "modified": "2023-06-05T07:17:33.890Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -14791,7 +14791,7 @@
             }
           }
         },
-        "mdFileID": "1685021505459r8689452520439105",
+        "mdFileID": "1685949328302r23724328977837184",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -14799,7 +14799,7 @@
             }
           }
         },
-        "mdDateSt": "2023-05-25",
+        "mdDateSt": "2023-06-05",
         "Esri": {
           "locales": {
             "locale": {
@@ -14808,17 +14808,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 13191400,
+          "CreaTime": 8400500,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-25",
-          "CreaDate": "2022-11-29",
-          "ModTime": "15:32:39.26",
+          "ModDate": "2023-06-05",
+          "CreaDate": "2023-06-05",
+          "ModTime": "09:16:38.85",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "15:31:44.71",
+        "mdTimeSt": "09:15:27.74",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
