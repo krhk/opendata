@@ -515,7 +515,7 @@
         "cs": "Přírodní zajímavosti"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -887,7 +887,7 @@
         "cs": "Cyklovýlety"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací vybraných cyklovýletů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1155,10 +1155,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – linie"
+        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – liniové"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1709,7 +1709,7 @@
         "cs": "Opravy silniční infrastruktury od roku 2016 - liniové"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -1980,7 +1980,7 @@
         "cs": "Stav povrchu silnic"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2762,7 +2762,7 @@
         "cs": "Hrady"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2897,7 +2897,7 @@
         "cs": "Židovské památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3168,7 +3168,7 @@
         "cs": "Plán zimní údržby silnic"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací plánu zimní údržby silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací plánu zimní údržby silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3305,7 +3305,7 @@
         "cs": "Kluby"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -3577,7 +3577,7 @@
         "cs": "Pevnosti a opevnění"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4949,7 +4949,7 @@
         "cs": "Lanovky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5084,7 +5084,7 @@
         "cs": "Infocentra"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5492,7 +5492,7 @@
         "cs": "Technické památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -6175,7 +6175,7 @@
         "cs": "Architektonické památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -6584,7 +6584,7 @@
         "cs": "Církevní památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7262,10 +7262,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – body"
+        "cs": "Plánované opravy silniční infrastruktury na rok 2022 – bodové"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených bodově. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7403,7 +7403,7 @@
         "cs": "Zámky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -8911,7 +8911,7 @@
         "cs": "Rozhledny a vyhlídky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -9455,7 +9455,7 @@
         "cs": "Ostatní historické památky"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací ostatních historických památek na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací ostatních historických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -9590,7 +9590,7 @@
         "cs": "Opravy silniční infrastruktury od roku 2016 - bodové"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených bodově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených bodově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s."
       },
       "klíčové_slovo": {
         "cs": [
@@ -10138,7 +10138,7 @@
         "cs": "Zábavní centra"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Turistický portál Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -10682,7 +10682,7 @@
         "cs": "Divadla a filharmonie"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
