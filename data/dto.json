@@ -108,7 +108,7 @@
         "cs": "Služebny Policie ČR"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR."
+        "cs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2624,10 +2624,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Stanice a pracoviště hasičského záchranného systému"
+        "cs": "Stanice a pracoviště hasičského záchranného sboru"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Hasičský záchranný sbor Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [

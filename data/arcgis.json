@@ -9,7 +9,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=042d4ed225654f6b9c1f2b5036887e1e&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/042d4ed225654f6b9c1f2b5036887e1e_0",
       "title": "Služebny Policie ČR",
-      "description": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.",
+      "description": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Služebny Policie ČR",
         "Královéhradecký kraj"
@@ -105,16 +105,16 @@
           "CreaTime": 10512300,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-06-08",
           "CreaDate": "2022-09-25",
-          "ModTime": "23:04:53.04",
+          "ModTime": "09:10:20.05",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:00:05.37",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Policie ČR.",
+          "idAbs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "date": {
               "reviseDate": "2022-09-29",
@@ -147,6 +147,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -4376,8 +4396,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3ff2f49c7f454870baf51628403ace6e&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/3ff2f49c7f454870baf51628403ace6e_0",
-      "title": "Stanice a pracoviště hasičského záchranného systému",
-      "description": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Hasičský záchranný sbor Královéhradeckého kraje.",
+      "title": "Stanice a pracoviště hasičského záchranného sboru",
+      "description": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Stanice a pracoviště hasičského záchranného systému",
         "Královéhradecký kraj"
@@ -4473,16 +4493,16 @@
           "CreaTime": 11533600,
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ModDate": "2023-06-08",
           "CreaDate": "2022-09-25",
-          "ModTime": "23:03:04.60",
+          "ModTime": "09:14:25.03",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:03:16.85",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Hasičský záchranný sbor Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "date": {
               "reviseDate": "2022-09-29",
@@ -4499,7 +4519,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Stanice a pracoviště hasičského záchranného systému",
+          "idPurp": "Stanice a pracoviště hasičského záchranného sboru",
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -4515,6 +4535,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
