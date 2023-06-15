@@ -2256,8 +2256,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1c47f9e8b72e48a98c379e9a2b82871b&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/1c47f9e8b72e48a98c379e9a2b82871b_0",
-      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – body",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – bodové",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Veřejně prospěšné stavby",
@@ -2266,7 +2266,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:49:11.000Z",
-      "modified": "2023-05-30T08:37:10.861Z",
+      "modified": "2023-06-14T13:20:53.661Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2353,7 +2353,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -2364,12 +2364,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12445700,
+          "SyncTime": 9051900,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -2377,17 +2377,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 16132800,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14355900,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-21",
-          "ModTime": "10:36:30.58",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "15:20:15.93",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:35:41.72",
+        "mdTimeSt": "15:18:17.22",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -2408,10 +2408,10 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – body",
+            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR - bodové",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -2426,7 +2426,7 @@
               "@_value": "ces"
             }
           },
-          "idPurp": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – body",
+          "idPurp": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – bodové",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -2505,90 +2505,90 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
+              },
+              {
+                "attrlabl": "Kraj_kod",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kraj_kod",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Plati_od",
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "Integer"
               },
               {
                 "attrlabl": "RC_ZUR",
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ plochy z hlediska možnosti vyvlastnění",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Ucel",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Účel možného vyvlastnění",
+                "attalias": "Ucel",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Popis",
-                "attwidth": 150,
+                "attwidth": 93,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Popis záměru",
+                "attalias": "Popis",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -2596,47 +2596,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 100,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "wkt",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zápis vektorové geometrie",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "x",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná délka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "y",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná šířka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               }
             ],
@@ -2663,7 +2631,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685435742340r6871274442045354",
+        "mdFileID": "1686748697896r7168915711835482",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -3235,6 +3203,367 @@
       },
       "category": [
         "Zdravotnictví a zdraví"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=28e8746d8e1c4049a8140092bd7f4d8d&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/28e8746d8e1c4049a8140092bd7f4d8d_0",
+      "title": "Plochy jejichž využití je podmíněno zpracováním regulačního plánu nebo územní studie v ZÚR",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR). Jedná se o nově vytvořenou vrstvu, jejíž přesná definice bude upřesněna v aktualizované verzi datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK.",
+      "keyword": [
+        "Zásady územního rozvoje Královéhradeckého kraje",
+        "Územní studie",
+        "Regulační plány",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-06-14T15:26:03.000Z",
+      "modified": "2023-06-14T15:28:37.207Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "16.0661,50.3027,16.1683,50.3799",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/28e8746d8e1c4049a8140092bd7f4d8d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_jejich%C5%BE_vyu%C5%BEit%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/28e8746d8e1c4049a8140092bd7f4d8d_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/28e8746d8e1c4049a8140092bd7f4d8d_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/28e8746d8e1c4049a8140092bd7f4d8d_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/28e8746d8e1c4049a8140092bd7f4d8d_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-06-14",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "US_RP_p"
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 9115600,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 14384400,
+          "SyncDate": "2023-06-14",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "17:32:21.63",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "17:28:57.93",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR). Jedná se o nově vytvořenou vrstvu, jejíž přesná definice bude upřesněna v aktualizované verzi datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Plochy jejichž využití je podmíněno zpracováním regulačního plánu nebo územní studie v ZÚR",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "idPurp": "Plochy jejichž využití je podmíněno zpracováním regulačního plánu nebo územní studie v ZÚR",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Zásady územního rozvoje Královéhradeckého kraje",
+              "Územní studie",
+              "Regulační plány",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "Id",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Id",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "CISLO",
+                "attwidth": 20,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "CISLO",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "TYP",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "TYP",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "NAZEV_JEVU",
+                "attwidth": 50,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "NAZEV_JEVU",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "POPIS",
+                "attwidth": 100,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "POPIS",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "Shape_Area",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "US_RP_p"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "5514"
+              },
+              "idCodeSpace": "EPSG",
+              "idVersion": "7.7(10.1.0)"
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "1686756538546r033863124608377815",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
+      },
+      "category": [
+        "Kraj a dotace"
       ],
       "theme": [
         "geospatial"
@@ -3964,8 +4293,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3d2f89fd21d0450686d8933fac9a556e&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/3d2f89fd21d0450686d8933fac9a556e_0",
-      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – polygony",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – plošné",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Veřejně prospěšné stavby",
@@ -3974,7 +4303,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:07:09.000Z",
-      "modified": "2023-05-30T08:12:20.735Z",
+      "modified": "2023-06-14T14:13:30.310Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -3984,7 +4313,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.2019,49.9760,16.4644,50.8623",
+      "spatial": "15.2019,49.9760,16.4606,50.8847",
       "license": "CC0",
       "distribution": [
         {
@@ -4061,7 +4390,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -4072,12 +4401,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12453200,
+          "SyncTime": 9063300,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -4085,17 +4414,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 17395700,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14355700,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-06-13",
-          "CreaDate": "2021-06-21",
-          "ModTime": "15:52:20.22",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "16:15:33.76",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:10:31.10",
+        "mdTimeSt": "16:13:46.48",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -4116,10 +4445,10 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – polygony",
+            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR - plošné",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -4128,12 +4457,13 @@
           },
           "dataLang": {
             "countryCode": {
-              "@_value": "CZ"
+              "@_value": "CZE"
             },
             "languageCode": {
-              "@_value": "cze"
+              "@_value": "ces"
             }
           },
+          "idPurp": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – plošné",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -4157,26 +4487,6 @@
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -4232,58 +4542,58 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
+              },
+              {
+                "attrlabl": "Kraj_kod",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kraj_kod",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Plati_od",
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "Integer"
               },
               {
                 "attrlabl": "RC_ZUR",
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ plochy z hlediska možnosti vyvlastnění",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Ucel",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Účel možného vyvlastnění",
+                "attalias": "Ucel",
                 "attrtype": "String"
               },
               {
@@ -4291,31 +4601,31 @@
                 "attwidth": 237,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Popis záměru",
+                "attalias": "Popis",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -4323,7 +4633,7 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
@@ -4331,15 +4641,7 @@
                 "attwidth": 127,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -4392,7 +4694,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685434231805r11031804350217356",
+        "mdFileID": "1686752027275r5163182705121923",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -6721,7 +7023,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=61acbd8d632d4dae854cdf6ae7bf48fc&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/61acbd8d632d4dae854cdf6ae7bf48fc_0",
-      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
+      "title": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – liniové",
       "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
@@ -6731,7 +7033,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:04:06.000Z",
-      "modified": "2023-05-30T08:20:59.401Z",
+      "modified": "2023-06-14T13:50:17.653Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -6741,7 +7043,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.8820,50.1814,16.3462,50.6085",
+      "spatial": "15.8820,50.1814,16.3492,50.5913",
       "license": "CC0",
       "distribution": [
         {
@@ -6818,7 +7120,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -6829,12 +7131,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12451500,
+          "SyncTime": 9055600,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -6842,17 +7144,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 9385400,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14355800,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-22",
-          "ModTime": "10:20:10.58",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "15:49:33.96",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:19:22.99",
+        "mdTimeSt": "15:41:01.18",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -6874,9 +7176,9 @@
         },
         "dataIdInfo": {
           "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
+            "resTitle": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR - liniové",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -6891,7 +7193,7 @@
               "@_value": "ces"
             }
           },
-          "idPurp": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – linie",
+          "idPurp": "Plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření a asanace dle ZÚR – liniové",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -6970,90 +7272,90 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
+              },
+              {
+                "attrlabl": "Kraj_kod",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kraj_kod",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Plati_od",
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "Integer"
               },
               {
                 "attrlabl": "RC_ZUR",
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ plochy z hlediska možnosti vyvlastnění",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Ucel",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Účel možného vyvlastnění",
+                "attalias": "Ucel",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Popis",
-                "attwidth": 150,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Popis záměru",
+                "attalias": "Popis",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -7061,23 +7363,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 100,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -7117,7 +7411,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685434763551r13352244314926764",
+        "mdFileID": "1686750061894r5724595018183227",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -7503,14 +7797,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=6a883a213b934395a0b9eaff9698daa1&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/6a883a213b934395a0b9eaff9698daa1_0",
       "title": "Vymezení rozvojových os v ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Rozvojové osy",
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:16:24.000Z",
-      "modified": "2023-05-30T10:59:36.693Z",
+      "modified": "2023-06-14T11:14:28.770Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -7597,7 +7891,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -7608,12 +7902,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12461500,
+          "SyncTime": 9103200,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -7621,17 +7915,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 13440200,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14331700,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-21",
-          "ModTime": "09:35:52.68",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "13:13:40.51",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:34:42.77",
+        "mdTimeSt": "13:12:27.52",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -7652,8 +7946,8 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
             "resTitle": "Vymezení rozvojových os v ZÚR",
             "presForm": {
@@ -7747,10 +8041,10 @@
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor osy",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
@@ -7758,39 +8052,39 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název osy",
+                "attalias": "Nazev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Vyznam",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Význam osy",
+                "attalias": "Vyznam",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -7798,23 +8092,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 157,
+                "attwidth": 147,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -7867,7 +8153,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685432083431r648053806596254",
+        "mdFileID": "1686741148184r5602288444523533",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -8073,8 +8359,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=769c0fb4f47c411c86f7780e3385b499&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/769c0fb4f47c411c86f7780e3385b499_0",
-      "title": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech dle ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "title": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech v ZÚR",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Územní systém ekologické stability",
@@ -8082,7 +8368,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:11:59.000Z",
-      "modified": "2023-05-30T07:28:48.472Z",
+      "modified": "2023-06-14T11:56:00.012Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -8169,24 +8455,23 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
             "itemProps": {
               "imsContentType": 2,
-              "itemName": "USES_koncepce",
-              "itemSize": 0
+              "itemName": "USES_koncepce_p"
             },
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12454400,
+          "SyncTime": 9090800,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -8194,17 +8479,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 17011300,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14373800,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-03-15",
-          "ModTime": "09:03:22.73",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "13:53:24.31",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:02:37.56",
+        "mdTimeSt": "13:51:43.21",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -8225,10 +8510,10 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech dle ZÚR",
+            "resTitle": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech v ZÚR",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -8243,7 +8528,7 @@
               "@_value": "ces"
             }
           },
-          "idPurp": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech dle ZÚR",
+          "idPurp": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech v ZÚR",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -8324,7 +8609,7 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název dokumentace",
+                "attalias": "Dokument",
                 "attrtype": "String"
               },
               {
@@ -8332,7 +8617,7 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název zpracovatele",
+                "attalias": "Zprac_kdo",
                 "attrtype": "String"
               },
               {
@@ -8340,39 +8625,39 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum zpracování",
+                "attalias": "Zprac_kdy",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Typ_dok",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ dokumentace",
+                "attalias": "Typ_dok",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "CasH",
-                "attwidth": 2,
+                "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Časový horizont prvku (1 = funkční, 2 = k založení, 12 = nerozlišeno)",
-                "attrtype": "SmallInteger"
+                "attalias": "CasH",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ prvku ÚSES",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Vloz_BC",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Vyznačení biocentra vloženého do biokoridoru vyšší úrovně",
+                "attalias": "Vloz_BC",
                 "attrtype": "String"
               },
               {
@@ -8380,39 +8665,39 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Označení prvku ÚSES včetně případného názvu",
+                "attalias": "Oznaceni",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Varianta",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Označení případné varianty",
+                "attalias": "Varianta",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -8420,7 +8705,7 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
@@ -8428,15 +8713,7 @@
                 "attwidth": 254,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -8469,7 +8746,7 @@
             "enttyp": {
               "enttypc": 0,
               "enttypt": "Feature Class",
-              "enttypl": "USES_koncepce"
+              "enttypl": "USES_koncepce_p"
             }
           }
         },
@@ -8489,7 +8766,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685430158226r03119973893616801",
+        "mdFileID": "1686743503844r16165269489019995",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -8498,9 +8775,6 @@
           }
         },
         "distInfo": {
-          "distTranOps": {
-            "transSize": 0
-          },
           "distFormat": {
             "formatName": "Třída prvků souborové geodatabáze"
           }
@@ -9891,8 +10165,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=89646c784a05469eb7afda20b42c44d3&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/89646c784a05469eb7afda20b42c44d3_0",
-      "title": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "title": "Nadregionální a regionální ÚSES vymezený v ZÚR",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Územní systém ekologické stability",
@@ -9900,7 +10174,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-29T06:19:23.000Z",
-      "modified": "2023-05-30T07:28:09.654Z",
+      "modified": "2023-06-14T12:47:26.694Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9910,7 +10184,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.2019,49.9760,16.4644,50.8623",
+      "spatial": "15.2019,49.9760,16.4606,50.8847",
       "license": "CC0",
       "distribution": [
         {
@@ -9987,13 +10261,13 @@
             }
           }
         },
-        "mdDateSt": "2023-03-29",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
             "itemProps": {
               "imsContentType": 2,
-              "itemName": "USES_ZUR_KHK"
+              "itemName": "USES_ZUR_p"
             },
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
@@ -10003,7 +10277,7 @@
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 7400700,
+          "SyncTime": 9031500,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -10011,17 +10285,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 514900,
-          "SyncDate": "2023-03-29",
+          "CreaTime": 14371400,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-10-21",
-          "ModTime": "08:42:26.79",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "14:46:19.69",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "08:41:27.94",
+        "mdTimeSt": "14:44:31.95",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -10042,10 +10316,10 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
           "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
+            "resTitle": "Nadregionální a regionální ÚSES vymezený v ZÚR",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -10060,7 +10334,7 @@
               "@_value": "ces"
             }
           },
-          "idPurp": "Nadregionální a regionální ÚSES vymezený v ZÚR KHK",
+          "idPurp": "Nadregionální a regionální ÚSES vymezený v ZÚR",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -10138,58 +10412,58 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
+              },
+              {
+                "attrlabl": "Kraj_kod",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kraj_kod",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Plati_od",
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "Integer"
               },
               {
                 "attrlabl": "RC_ZUR",
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "CasH",
-                "attwidth": 2,
+                "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Časový horizont prvku (12 = nerozlišeno, 1 = funkční, 2 = k založení)",
-                "attrtype": "SmallInteger"
+                "attalias": "CasH",
+                "attrtype": "Integer"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ prvku ÚSES",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Vloz_BC",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Vyznačení RBC vloženého do NRBK",
+                "attalias": "Vloz_BC",
                 "attrtype": "String"
               },
               {
@@ -10197,12 +10471,12 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Označení prvku ÚSES včetně případného názvu",
+                "attalias": "Oznaceni",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 18,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
                 "attalias": "Jev",
@@ -10210,18 +10484,18 @@
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 52,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -10229,23 +10503,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 254,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -10278,7 +10544,7 @@
             "enttyp": {
               "enttypc": 0,
               "enttypt": "Feature Class",
-              "enttypl": "USES_ZUR_KHK"
+              "enttypl": "USES_ZUR_p"
             }
           }
         },
@@ -10298,7 +10564,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685428888600r9276645976286433",
+        "mdFileID": "1686746672556r3740161861707423",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -10326,14 +10592,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=8d9e15cc77b048f181c2d9ddba6fa8be&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/8d9e15cc77b048f181c2d9ddba6fa8be_0",
       "title": "Vymezení specifických oblastí v ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Specifické oblasti",
         "Královéhradecký kraje"
       ],
       "issued": "2021-11-02T23:17:16.000Z",
-      "modified": "2023-05-30T07:57:27.846Z",
+      "modified": "2023-06-14T11:31:40.396Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -10343,7 +10609,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.1726,50.0326,16.4665,50.8484",
+      "spatial": "15.1885,49.9521,16.4665,50.8484",
       "license": "CC0",
       "distribution": [
         {
@@ -10420,7 +10686,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -10431,12 +10697,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12463100,
+          "SyncTime": 9110600,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -10444,17 +10710,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 13440200,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14331600,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-21",
-          "ModTime": "09:56:33.38",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "13:30:31.65",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:54:52.09",
+        "mdTimeSt": "13:29:13.78",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -10475,8 +10741,8 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
             "resTitle": "Vymezení specifických oblastí v ZÚR",
             "presForm": {
@@ -10570,10 +10836,10 @@
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor oblasti",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
@@ -10581,47 +10847,55 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název oblasti",
+                "attalias": "Nazev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Typ",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Typ oblasti",
+                "attalias": "Typ",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Vyznam",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Význam oblasti",
+                "attalias": "Vyznam",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Popis",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Popis",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -10629,23 +10903,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 100,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -10698,420 +10964,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685433292752r6342970255674554",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
-            }
-          }
-        },
-        "distInfo": {
-          "distFormat": {
-            "formatName": "Třída prvků souborové geodatabáze"
-          }
-        },
-        "mdHrLvName": "dataset"
-      },
-      "category": [
-        "Kraj a dotace"
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=8ef82f961c984ecf8cb74be2aa091aa3&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/8ef82f961c984ecf8cb74be2aa091aa3_0",
-      "title": "Plochy zastavitelné v ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-      "keyword": [
-        "Zásady územního rozvoje Královéhradeckého kraje",
-        "Zastavitelné plochy",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-11-02T21:57:36.000Z",
-      "modified": "2023-05-30T10:49:26.377Z",
-      "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.7097,50.1399,16.1815,50.6462",
-      "license": "CC0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/8ef82f961c984ecf8cb74be2aa091aa3_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_zastaviteln%C3%A9_v_Z%C3%9AR/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/8ef82f961c984ecf8cb74be2aa091aa3_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        }
-      ],
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "spatRepInfo": {
-          "VectSpatRep": {
-            "geometObjs": {
-              "geoObjCnt": 0,
-              "geoObjTyp": {
-                "GeoObjTypCd": {
-                  "@_value": "004"
-                }
-              }
-            },
-            "topLvl": {
-              "TopoLevCd": {
-                "@_value": "001"
-              }
-            }
-          }
-        },
-        "mdDateSt": "2023-03-28",
-        "Esri": {
-          "ArcGISFormat": 1,
-          "DataProperties": {
-            "itemProps": {
-              "imsContentType": 2,
-              "itemName": "PlZastZUR_b"
-            },
-            "coordRef": {
-              "projcsn": "S-JTSK_Krovak_East_North",
-              "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
-              "type": "Projected",
-              "geogcsn": "GCS_S_JTSK"
-            }
-          },
-          "SyncTime": 12313300,
-          "MapLyrSync": "false",
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "CreaTime": 514600,
-          "SyncDate": "2023-03-28",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-10-21",
-          "ModTime": "12:48:08.02",
-          "SyncOnce": "FALSE",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "12:47:29.54",
-        "spdoinfo": {
-          "ptvctinf": {
-            "esriterm": {
-              "spindex": "TRUE",
-              "esritopo": "FALSE",
-              "linrefer": "FALSE",
-              "efeageom": {
-                "@_code": "1"
-              },
-              "efeacnt": 0,
-              "efeatyp": "Simple"
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
-        "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
-          "idCitation": {
-            "resTitle": "Plochy zastavitelné v ZÚR",
-            "presForm": {
-              "PresFormCd": {
-                "@_value": "005"
-              }
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZE"
-            },
-            "languageCode": {
-              "@_value": "ces"
-            }
-          },
-          "idPurp": "Plochy zastavitelné v ZÚR",
-          "spatRpType": {
-            "SpatRepTypCd": {
-              "@_value": "001"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Zásady územního rozvoje Královéhradeckého kraje",
-              "Zastavitelné plochy",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "eainfo": {
-          "detailed": {
-            "attr": [
-              {
-                "attrlabl": "OBJECTID",
-                "attwidth": 4,
-                "attrdef": "Internal feature number.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Sequential unique whole numbers that are automatically generated."
-                },
-                "attalias": "OBJECTID",
-                "attrtype": "OID"
-              },
-              {
-                "attrlabl": "Shape",
-                "attwidth": 0,
-                "attrdef": "Feature geometry.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Coordinates defining the features."
-                },
-                "attalias": "Shape",
-                "attrtype": "Geometry"
-              },
-              {
-                "attrlabl": "Kraj",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Název kraje",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Plati_od",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
-                "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "RC_ZUR",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
-                "attrtype": "Integer"
-              },
-              {
-                "attrlabl": "Ident",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Popis",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Popis",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Jev",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Pasport_id",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Zdroj",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Dat_aktual",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
-                "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Poznamka",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "wkt",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zápis vektorové geometrie",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "x",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná délka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "y",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná šířka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
-                "attrtype": "String"
-              }
-            ],
-            "enttyp": {
-              "enttypc": 0,
-              "enttypt": "Feature Class",
-              "enttypl": "PlZastZUR_b"
-            }
-          }
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "5514"
-              },
-              "idCodeSpace": "EPSG",
-              "idVersion": "7.7(10.1.0)"
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "1685443650150r3098773465042599",
+        "mdFileID": "1686742154401r7882695331420118",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -11974,14 +11827,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=a2d0970a92b6452899730e90a1ce5e29&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/a2d0970a92b6452899730e90a1ce5e29_0",
       "title": "Územní rezervy dle ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Územní rezervy",
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T22:47:48.000Z",
-      "modified": "2023-05-30T11:15:20.853Z",
+      "modified": "2023-06-14T13:01:05.246Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11991,7 +11844,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.6010,50.0692,16.3885,50.6532",
+      "spatial": "15.7796,50.0831,16.3885,50.6532",
       "license": "CC0",
       "distribution": [
         {
@@ -12068,23 +11921,23 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
             "itemProps": {
               "imsContentType": 2,
-              "itemName": "UzemniRezervy"
+              "itemName": "Uzemni_Rezervy_ZUR_p"
             },
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12444400,
+          "SyncTime": 9043900,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -12092,17 +11945,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 17200800,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14355700,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-21",
-          "ModTime": "12:32:28.49",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "15:00:09.73",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "12:31:37.35",
+        "mdTimeSt": "14:58:59.78",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -12123,8 +11976,8 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
             "resTitle": "Územní rezervy dle ZÚR",
             "presForm": {
@@ -12218,10 +12071,10 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
               },
               {
@@ -12229,7 +12082,7 @@
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
+                "attalias": "Kraj_kod",
                 "attrtype": "Integer"
               },
               {
@@ -12237,7 +12090,7 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
               },
               {
@@ -12245,55 +12098,55 @@
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Typ_skup",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Základní skupina typu budoucího využití dle vyhlášky č. 501/2006 Sb.",
+                "attalias": "Typ_skup",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Popis",
-                "attwidth": 150,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Popis záměru",
+                "attalias": "Popis",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -12301,23 +12154,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 100,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -12350,7 +12195,7 @@
             "enttyp": {
               "enttypc": 0,
               "enttypt": "Feature Class",
-              "enttypl": "UzemniRezervy"
+              "enttypl": "Uzemni_Rezervy_ZUR_p"
             }
           }
         },
@@ -12370,7 +12215,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685442697929r1041038697924157",
+        "mdFileID": "1686747540468r9570877639752573",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -13563,428 +13408,6 @@
       },
       "category": [
         "Kultura a cestovní ruch"
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=b062be5ef6114d32ae10fbc6daa86d7b&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/b062be5ef6114d32ae10fbc6daa86d7b_0",
-      "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – body",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-      "keyword": [
-        "Zásady územního rozvoje Královéhradeckého kraje",
-        "Krajiny",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-11-02T22:21:54.000Z",
-      "modified": "2023-05-30T08:55:10.091Z",
-      "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.2513,49.9720,16.3895,50.6978",
-      "license": "CC0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/b062be5ef6114d32ae10fbc6daa86d7b_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Vymezen%C3%AD_krajin_se_stanoven%C3%BDmi_c%C3%ADlov%C3%BDmi_kvalitami_v_Z%C3%9AR/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/datasets/b062be5ef6114d32ae10fbc6daa86d7b_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-        }
-      ],
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "spatRepInfo": {
-          "VectSpatRep": {
-            "geometObjs": {
-              "geoObjCnt": 0,
-              "geoObjTyp": {
-                "GeoObjTypCd": {
-                  "@_value": "004"
-                }
-              }
-            },
-            "topLvl": {
-              "TopoLevCd": {
-                "@_value": "001"
-              }
-            }
-          }
-        },
-        "mdDateSt": "2023-03-28",
-        "Esri": {
-          "ArcGISFormat": 1,
-          "DataProperties": {
-            "itemProps": {
-              "imsContentType": 2,
-              "itemName": "Krajiny_b"
-            },
-            "coordRef": {
-              "projcsn": "S-JTSK_Krovak_East_North",
-              "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
-              "type": "Projected",
-              "geogcsn": "GCS_S_JTSK"
-            }
-          },
-          "SyncTime": 12435600,
-          "MapLyrSync": "false",
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "CreaTime": 14300600,
-          "SyncDate": "2023-03-28",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-23",
-          "ModTime": "10:54:13.27",
-          "SyncOnce": "FALSE",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "10:53:15.65",
-        "spdoinfo": {
-          "ptvctinf": {
-            "esriterm": {
-              "spindex": "TRUE",
-              "esritopo": "FALSE",
-              "linrefer": "FALSE",
-              "efeageom": {
-                "@_code": "1"
-              },
-              "efeacnt": 0,
-              "efeatyp": "Simple"
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
-        "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
-          "idCitation": {
-            "resTitle": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – body",
-            "presForm": {
-              "PresFormCd": {
-                "@_value": "005"
-              }
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZE"
-            },
-            "languageCode": {
-              "@_value": "ces"
-            }
-          },
-          "idPurp": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – body",
-          "spatRpType": {
-            "SpatRepTypCd": {
-              "@_value": "001"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Zásady územního rozvoje Královéhradeckého kraje",
-              "Krajiny",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "eainfo": {
-          "detailed": {
-            "attr": [
-              {
-                "attrlabl": "OBJECTID",
-                "attwidth": 4,
-                "attrdef": "Internal feature number.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Sequential unique whole numbers that are automatically generated."
-                },
-                "attalias": "OBJECTID",
-                "attrtype": "OID"
-              },
-              {
-                "attrlabl": "Shape",
-                "attwidth": 0,
-                "attrdef": "Feature geometry.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Coordinates defining the features."
-                },
-                "attalias": "Shape",
-                "attrtype": "Geometry"
-              },
-              {
-                "attrlabl": "Popis",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Popis",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Kraj",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Název kraje",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Kod_kraje",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
-                "attrtype": "Integer"
-              },
-              {
-                "attrlabl": "Plati_od",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
-                "attrtype": "Date"
-              },
-              {
-                "attrlabl": "RC_ZUR",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
-                "attrtype": "Integer"
-              },
-              {
-                "attrlabl": "Ident",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Cil_kvality",
-                "attwidth": 150,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Stručný popis cílových kvalit krajiny v daném území",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Odkazy",
-                "attwidth": 150,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "WWW odkazy na materiál (ZÚR) s podrobnějším popisem",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Jev",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Pasport_id",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
-                "attrtype": "Date"
-              },
-              {
-                "attrlabl": "Zdroj",
-                "attwidth": 50,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "Dat_aktual",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
-                "attrtype": "Date"
-              },
-              {
-                "attrlabl": "wkt",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zápis vektorové geometrie",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "x",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná délka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "y",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Zeměpisná šířka v souřadnicovém systému WGS84",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
-                "attrtype": "String"
-              }
-            ],
-            "enttyp": {
-              "enttypc": 0,
-              "enttypt": "Feature Class",
-              "enttypl": "Krajiny_b"
-            }
-          }
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "5514"
-              },
-              "idCodeSpace": "EPSG",
-              "idVersion": "7.7(10.1.0)"
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "1685436796346r31650322490162686",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
-            }
-          }
-        },
-        "distInfo": {
-          "distFormat": {
-            "formatName": "Třída prvků souborové geodatabáze"
-          }
-        },
-        "mdHrLvName": "dataset"
-      },
-      "category": [
-        "Životní prostředí",
-        "Kraj a dotace"
       ],
       "theme": [
         "geospatial"
@@ -16171,15 +15594,15 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d9f3ee622a1247bd92249127371b6ee5&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/d9f3ee622a1247bd92249127371b6ee5_0",
-      "title": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – polygony",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "title": "Vymezení krajin, ke kterým jsou stanoveny cílové kvality v ZÚR",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Krajiny",
         "Královéhradecký kraje"
       ],
       "issued": "2021-11-02T22:34:53.000Z",
-      "modified": "2023-05-30T11:13:54.022Z",
+      "modified": "2023-06-14T10:39:24.952Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -16266,23 +15689,23 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
             "itemProps": {
               "imsContentType": 2,
-              "itemName": "Krajiny_p"
+              "itemName": "Krajiny_ZUR_p"
             },
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12441400,
+          "SyncTime": 9020600,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -16290,17 +15713,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 13382000,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14381500,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-23",
-          "ModTime": "11:06:49.81",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "12:37:29.09",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "11:06:11.67",
+        "mdTimeSt": "12:35:49.91",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -16321,10 +15744,10 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – polygony",
+            "resTitle": "Vymezení krajin, ke kterým jsou stanoveny cílové kvality v ZÚR",
             "presForm": {
               "PresFormCd": {
                 "@_value": "005"
@@ -16339,7 +15762,7 @@
               "@_value": "ces"
             }
           },
-          "idPurp": "Vymezení krajin v ZÚR, ke kterým jsou stanoveny cílové kvality – polygony",
+          "idPurp": "Vymezení krajin, ke kterým jsou stanoveny cílové kvality v ZÚR",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_value": "001"
@@ -16416,18 +15839,18 @@
               },
               {
                 "attrlabl": "Kraj",
-                "attwidth": 30,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název kraje",
+                "attalias": "Kraj",
                 "attrtype": "String"
               },
               {
-                "attrlabl": "Kod_kraje",
+                "attrlabl": "Kraj_kod",
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Kód kraje dle RÚIAN",
+                "attalias": "Kraj_kod",
                 "attrtype": "Integer"
               },
               {
@@ -16435,7 +15858,7 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum nabytí účinnosti příslušné verze ZÚR",
+                "attalias": "Plati_od",
                 "attrtype": "Date"
               },
               {
@@ -16443,55 +15866,55 @@
                 "attwidth": 4,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Registrační číslo příslušné verze ZÚR v systému iKAS",
+                "attalias": "RC_ZUR",
                 "attrtype": "Integer"
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor (označení) plochy v daných ZÚR",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
-                "attrlabl": "Cil_kvality",
-                "attwidth": 150,
+                "attrlabl": "CilKvality",
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Stručný popis cílových kvalit krajiny v daném území",
+                "attalias": "CilKvality",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Odkazy",
-                "attwidth": 150,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "WWW odkazy na materiál (ZÚR) s podrobnějším popisem",
+                "attalias": "Odkazy",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -16499,23 +15922,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
-                "attrlabl": "Popis",
-                "attwidth": 100,
+                "attrlabl": "Poznamka",
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Popis",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -16548,7 +15963,7 @@
             "enttyp": {
               "enttypc": 0,
               "enttypt": "Feature Class",
-              "enttypl": "Krajiny_p"
+              "enttypl": "Krajiny_ZUR_p"
             }
           }
         },
@@ -16568,7 +15983,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685437572300r019432846422887895",
+        "mdFileID": "1686738950493r4749627529281981",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -16585,6 +16000,363 @@
       },
       "category": [
         "Životní prostředí",
+        "Kraj a dotace"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=dd836a48467c42bdb23303b4c590daa5&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/dd836a48467c42bdb23303b4c590daa5_0",
+      "title": "Významné oborové záměry ekonomického rozvoje v ZÚR",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "keyword": [
+        "Zásady územního rozvoje Královéhradeckého kraje",
+        "Významné oborové záměry ekonomického rozvoje",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-06-14T14:46:03.000Z",
+      "modified": "2023-06-14T14:48:04.982Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.7097,50.1399,16.1815,50.6462",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/dd836a48467c42bdb23303b4c590daa5_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDznamn%C3%A9_oborov%C3%A9_z%C3%A1m%C4%9Bry_ekonomick%C3%A9ho_rozvoje_v_Z%C3%9AR/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/dd836a48467c42bdb23303b4c590daa5_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/dd836a48467c42bdb23303b4c590daa5_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/dd836a48467c42bdb23303b4c590daa5_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/dd836a48467c42bdb23303b4c590daa5_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "004"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-06-14",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "ZamOB_EK_b"
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 9082100,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 14355900,
+          "SyncDate": "2023-06-14",
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "17:01:06.00",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "16:49:33.97",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "TRUE",
+              "efeageom": {
+                "@_code": "1"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Významné oborové záměry ekonomického rozvoje v ZÚR",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "idPurp": "Významné oborové záměry ekonomického rozvoje v ZÚR",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Zásady územního rozvoje Královéhradeckého kraje",
+              "Významné oborové záměry ekonomického rozvoje",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "Ident",
+                "attwidth": 15,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Ident",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Typ",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Typ",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Popis",
+                "attwidth": 150,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Popis",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Jev",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jev",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Pasport_Id",
+                "attwidth": 15,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Pasport_Id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Zdroj",
+                "attwidth": 50,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Zdroj",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Dat_Aktual",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Dat_Aktual",
+                "attrtype": "Date"
+              },
+              {
+                "attrlabl": "Poznamka",
+                "attwidth": 100,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Poznamka",
+                "attrtype": "String"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "ZamOB_EK_b"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "5514"
+              },
+              "idCodeSpace": "EPSG",
+              "idVersion": "7.7(10.1.0)"
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "1686754174616r8223434685327908",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
+      },
+      "category": [
         "Kraj a dotace"
       ],
       "theme": [
@@ -17809,14 +17581,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=f2e4e8c2701d44e482ae33b243de3bc5&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/f2e4e8c2701d44e482ae33b243de3bc5_0",
       "title": "Vymezení rozvojových oblastí v ZÚR",
-      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+      "description": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
       "keyword": [
         "Zásady územního rozvoje Královéhradeckého kraje",
         "Rozvojové oblasti",
         "Královéhradecký kraj"
       ],
       "issued": "2021-11-02T23:14:59.000Z",
-      "modified": "2023-05-30T07:27:21.046Z",
+      "modified": "2023-06-14T11:02:25.799Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -17903,7 +17675,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-28",
+        "mdDateSt": "2023-06-14",
         "Esri": {
           "ArcGISFormat": 1,
           "DataProperties": {
@@ -17914,12 +17686,12 @@
             "coordRef": {
               "projcsn": "S-JTSK_Krovak_East_North",
               "csUnits": "Linear Unit: Meter (1.000000)",
-              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
               "type": "Projected",
               "geogcsn": "GCS_S_JTSK"
             }
           },
-          "SyncTime": 12460000,
+          "SyncTime": 9095900,
           "MapLyrSync": "false",
           "locales": {
             "locale": {
@@ -17927,17 +17699,17 @@
               "@_country": "CZ"
             }
           },
-          "CreaTime": 13440200,
-          "SyncDate": "2023-03-28",
+          "CreaTime": 14331800,
+          "SyncDate": "2023-06-14",
           "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
           "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-30",
-          "CreaDate": "2021-06-21",
-          "ModTime": "09:25:43.06",
+          "ModDate": "2023-06-14",
+          "CreaDate": "2023-05-31",
+          "ModTime": "12:57:50.84",
           "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:24:57.41",
+        "mdTimeSt": "12:55:05.75",
         "spdoinfo": {
           "ptvctinf": {
             "esriterm": {
@@ -17958,8 +17730,8 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://docs.google.com/document/d/1nAIvVtlZbZobFjF4OAoiH1f3MSaXx7y8/edit?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
-          "envirDesc": "Esri ArcGIS 13.0.4.36057",
+          "idAbs": "Vrstva ze Zásad územního rozvoje Královéhradeckého kraje (ZÚR) z datového modelu DMG ÚAP. Zpracovatelem datového modelu je Hydrosoft Veleslavín s.r.o. Zdrojem dat je Odbor územního plánování a stavebního řádu Krajského úřadu Královéhradeckého kraje. Datová sada byla vytvořena v souřadnicovém systému S-JTSK. Dokumentace k datové sadě je ke stažení <a href='https://drive.google.com/file/d/14Lp5OVwaH0Z6FhvquTIAnJQMFWC7nit7/view?usp=sharing&amp;ouid=106507610889832028247&amp;rtpof=true&amp;sd=true' target='_blank' rel='nofollow ugc noopener noreferrer'>zde</a>.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
             "resTitle": "Vymezení rozvojových oblastí v ZÚR",
             "presForm": {
@@ -18053,10 +17825,10 @@
               },
               {
                 "attrlabl": "Ident",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor oblasti",
+                "attalias": "Ident",
                 "attrtype": "String"
               },
               {
@@ -18064,39 +17836,39 @@
                 "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název oblasti",
+                "attalias": "Nazev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Vyznam",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Význam oblasti",
+                "attalias": "Vyznam",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Jev",
-                "attwidth": 10,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Číslo jevu dle vyhlášky, ke kterému se vztahuje daný údaj",
+                "attalias": "Jev",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Pasport_Id",
-                "attwidth": 15,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Identifikátor pasportu surových dat, která jsou podkladem pro daný údaj",
+                "attalias": "Pasport_Id",
                 "attrtype": "String"
               },
               {
                 "attrlabl": "Zdroj",
-                "attwidth": 50,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Název nebo popis zdroje informace",
+                "attalias": "Zdroj",
                 "attrtype": "String"
               },
               {
@@ -18104,23 +17876,15 @@
                 "attwidth": 8,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Datum aktualizace údaje",
+                "attalias": "Dat_Aktual",
                 "attrtype": "Date"
               },
               {
                 "attrlabl": "Poznamka",
-                "attwidth": 100,
+                "attwidth": 80,
                 "attscale": 0,
                 "atprecis": 0,
-                "attalias": "Poznámka",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 255,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attalias": "Poznamka",
                 "attrtype": "String"
               },
               {
@@ -18173,7 +17937,7 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1685431498016r3643091238084615",
+        "mdFileID": "1686740106350r30236128815830576",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
