@@ -7,19 +7,19 @@
     "cs": "Vlakové linky VDKHK"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací vlakových linek v systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací vlakových linek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Vlakové linky IREDO",
-      "Královéhradecký kraj",
-      "Veřejná doprava Královéhradeckého kraje"
+      "Vlakové linky",
+      "Veřejná doprava Královéhradeckého kraje",
+      "Královéhradecký kraj"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/TRAN"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],

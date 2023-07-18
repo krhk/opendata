@@ -7,12 +7,11 @@
     "cs": "Autobusové linky VDKHK"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Autobusové linky",
-      "Doprava",
+      "Autobusové linky VDKHK",
       "Veřejná doprava Královéhradeckého kraje",
       "Královéhradecký kraj"
     ]

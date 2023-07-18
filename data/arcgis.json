@@ -244,7 +244,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-22T13:24:12.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
+      "modified": "2023-07-17T08:08:46.004Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -314,15 +314,15 @@
             }
           }
         },
-        "mdFileID": "1663853159668r03431960972274983",
+        "mdFileID": "1689581220359r39398432251105464",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-22",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -331,35 +331,31 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 15175100,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "CreaTime": 15065100,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-09-22",
-          "ModTime": "23:09:33.69",
+          "ModTime": "10:08:01.74",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "15:25:59.10",
+        "mdTimeSt": "10:06:59.78",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
           "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
             "resTitle": "Poskytovatelé sociálních služeb"
           },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
+          "idPurp": "Poskytovatelé sociálních služeb",
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -371,30 +367,17 @@
               "Královéhradecký kraj"
             ]
           },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -449,7 +432,7 @@
       "description": "Datová sada s prostorovou lokalizací informačních center autobusové dopravy Veřejné dopravy Královéhradeckého kraje (VDKHK) včetně kontaktů na danou provozovnu. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Informační centra",
-        "Autobusová doprava",
+        "Autobusová doprava VDKHK",
         "Veřejná doprava Královéhradeckého kraje",
         "Královéhradecký kraj"
       ],
@@ -574,7 +557,7 @@
           "searchKeys": {
             "keyword": [
               "Informační centra",
-              "Autobusová doprava",
+              "Autobusová doprava VDKHK",
               "Veřejná doprava Královéhradeckého kraje",
               "Královéhradecký kraj"
             ]
@@ -647,7 +630,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T13:46:57.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
+      "modified": "2023-07-17T10:08:19.782Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -717,15 +700,15 @@
             }
           }
         },
-        "mdFileID": "1664459504636r2788267877990507",
+        "mdFileID": "1689588401186r5564888390984983",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-29",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -735,32 +718,27 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 12264800,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-06-07",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-09-29",
-          "ModTime": "16:21:05.33",
+          "ModTime": "12:07:33.78",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "15:51:43.98",
+        "mdTimeSt": "12:06:40.33",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
             "resTitle": "Přírodní zajímavosti"
           },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
           "idPurp": "Přírodní zajímavosti",
@@ -775,50 +753,17 @@
               "Královéhradecký kraj"
             ]
           },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -1045,7 +990,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T20:58:55.000Z",
-      "modified": "2023-07-13T11:58:20.189Z",
+      "modified": "2023-07-17T10:19:49.288Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -1115,7 +1060,7 @@
             }
           }
         },
-        "mdFileID": "1689249323027r9713442688902221",
+        "mdFileID": "1689589096865r9296058727477559",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -1123,7 +1068,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-13",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -1135,14 +1080,14 @@
           "CreaTime": 22500700,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-13",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-10-22",
-          "ModTime": "13:57:34.59",
+          "ModTime": "12:19:09.63",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "13:55:22.49",
+        "mdTimeSt": "12:18:16.32",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -2079,7 +2024,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T10:53:45.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
+      "modified": "2023-07-17T11:35:51.064Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2149,15 +2094,15 @@
             }
           }
         },
-        "mdFileID": "1664103300065r24303385260939758",
+        "mdFileID": "1689593585982r12634249033001854",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2022-09-25",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -2166,33 +2111,35 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 12495200,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "CreaTime": 12222500,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-09-25",
-          "ModTime": "23:01:38.72",
+          "ModTime": "13:34:31.77",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "12:54:59.52",
+        "mdTimeSt": "13:33:05.42",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje.",
           "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
             "resTitle": "Výjezdové základny zdravotnické záchranné služby"
           },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
             }
           },
           "idPurp": "Výjezdové základny zdravotnické záchranné služby",
@@ -2207,30 +2154,17 @@
               "Královéhradecký kraj"
             ]
           },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -2692,7 +2626,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-29T16:29:02.000Z",
-      "modified": "2023-05-26T07:11:33.480Z",
+      "modified": "2023-07-17T08:42:14.134Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2762,15 +2696,15 @@
             }
           }
         },
-        "mdFileID": "1685084818902r5262876442239122",
+        "mdFileID": "1689583227647r17372780408872113",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
-        "mdDateSt": "2023-05-26",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -2780,20 +2714,28 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 14141900,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-26",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-11-29",
-          "ModTime": "09:10:23.50",
+          "ModTime": "10:41:28.04",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:06:58.26",
+        "mdTimeSt": "10:40:27.11",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Přijímací řízení na vyšší odborné školy"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Přijímací řízení na vyšší odborné školy",
           "dataChar": {
@@ -2808,6 +2750,13 @@
               "Vyšší odborné školy",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -2871,7 +2820,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-29T14:40:11.000Z",
-      "modified": "2023-07-13T12:06:16.410Z",
+      "modified": "2023-07-17T12:43:56.379Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -2941,40 +2890,110 @@
             }
           }
         },
-        "mdFileID": "1680100920174r5265177360928261",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
             }
           }
         },
-        "mdDateSt": "2023-03-29",
+        "mdDateSt": "2023-07-17",
         "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "opravy_silnic_2016_2022_liniove",
+              "itemSize": 0
+            },
+            "coordRef": {
+              "csUnits": "Angular Unit: Degree (0.017453)",
+              "peXml": "<GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433],AUTHORITY[&quot;EPSG&quot;,4326]]</WKT><XOrigin>-399.99999999999989</XOrigin><YOrigin>-399.99999999999989</YOrigin><XYScale>1111948722.2222221</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>8.9831528411952133e-09</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><LeftLongitude>-180</LeftLongitude><WKID>4326</WKID><LatestWKID>4326</LatestWKID></GeographicCoordinateSystem>",
+              "type": "Geographic",
+              "geogcsn": "GCS_WGS_1984"
+            }
+          },
+          "SyncTime": 14330600,
+          "MapLyrSync": "false",
           "locales": {
             "locale": {
               "@_language": "cze",
               "@_country": "CZ"
             }
           },
-          "ArcGISFormat": 1,
-          "CreaTime": 10314200,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-06-07",
-          "CreaDate": "2022-08-04",
-          "ModTime": "16:40:52.14",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "CreaTime": 9112000,
+          "SyncDate": "2023-07-17",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
+          "CreaDate": "2023-02-14",
+          "ModTime": "14:42:50.49",
+          "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "16:41:59.61",
+        "mdTimeSt": "14:41:26.45",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "3"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Opravy silniční infrastruktury od roku 2016 - liniové"
+            "resTitle": "Opravy silniční infrastruktury od roku 2016 - liniové",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Opravy silniční infrastruktury od roku 2016 - liniové",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -2986,6 +3005,13 @@
               "Opravy",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -3012,28 +3038,162 @@
                 },
                 "othConsts": "Jiná omezení"
               }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
             }
           ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "nazev",
+                "attwidth": 149,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "st_id",
+                "attwidth": 6,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Identifikátor stavby",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "rok_real",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Rok realizace",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "oznaceni_silnice",
+                "attwidth": 20,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Označení silnice",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "oznaceni_staniceni",
+                "attwidth": 49,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Označení staničení",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "zdroj_financi",
+                "attwidth": 15,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Zdroj financí",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_vusc",
+                "attwidth": 23,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název vyššího územního samosprávného celku",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_vusc",
+                "attwidth": 5,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kód vyššího územního samosprávného celku dle číselníku ČSÚ",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_okresu",
+                "attwidth": 21,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název okresu",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_okresu",
+                "attwidth": 6,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kód okresu dle číselníku ČSÚ",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_orp",
+                "attwidth": 25,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Název správního obvodu obce s rozšířenou působností",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_orp",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Kód správního obvodu obce s rozšířenou působností dle číselníku ČSÚ",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jedinečný identifikátor v katalogu otevřených dat Data KHK",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "opravy_silnic_2016_2022_liniove"
+            }
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -3048,7 +3208,24 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1689597687052r6669443550010248",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "transSize": 0
+          },
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
       },
       "category": [
         "Veřejná doprava a silnice"
@@ -6692,7 +6869,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:18:05.000Z",
-      "modified": "2023-02-09T07:37:49.391Z",
+      "modified": "2023-07-17T08:16:19.754Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -7675,7 +7852,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:11:14.000Z",
-      "modified": "2023-02-09T07:27:50.909Z",
+      "modified": "2023-07-17T08:15:06.515Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -9674,7 +9851,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-29T14:06:50.000Z",
-      "modified": "2023-07-13T12:52:41.689Z",
+      "modified": "2023-07-17T10:45:08.451Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11277,7 +11454,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-03T12:56:13.000Z",
-      "modified": "2023-01-03T13:07:30.032Z",
+      "modified": "2023-07-17T07:50:43.038Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11347,7 +11524,7 @@
             }
           }
         },
-        "mdFileID": "1672750780372r6294141560739999",
+        "mdFileID": "1689580112127r10846516337984502",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -11355,7 +11532,7 @@
             }
           }
         },
-        "mdDateSt": "2023-01-03",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -11364,21 +11541,29 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 15125200,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-01-03",
+          "CreaTime": 15033900,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-11-29",
-          "ModTime": "14:01:06.54",
+          "ModTime": "09:49:38.15",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "13:59:39.83",
+        "mdTimeSt": "09:48:31.34",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací domů dětí a mládeže a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Počet ubytovaných v DDM a internátech"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Počet ubytovaných v DDM a internátech",
           "dataChar": {
@@ -11394,6 +11579,13 @@
               "Internáty",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -12063,7 +12255,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:14:55.000Z",
-      "modified": "2023-02-09T07:33:57.728Z",
+      "modified": "2023-07-17T08:14:03.433Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12235,14 +12427,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=a7f461928f5f49fcaa7d129b6f5ebb71&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/a7f461928f5f49fcaa7d129b6f5ebb71_0",
       "title": "Vlakové linky VDKHK",
-      "description": "Datová sada s prostorovou lokalizací vlakových linek v systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací vlakových linek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Vlakové linky IREDO",
-        "Královéhradecký kraj",
-        "Veřejná doprava Královéhradeckého kraje"
+        "Vlakové linky",
+        "Veřejná doprava Královéhradeckého kraje",
+        "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T07:58:04.000Z",
-      "modified": "2023-07-13T12:08:46.422Z",
+      "modified": "2023-07-17T11:00:15.640Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12312,68 +12504,129 @@
             }
           }
         },
-        "mdFileID": "1662537631023r2872425691879861",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
             }
           }
         },
-        "mdDateSt": "2022-09-07",
+        "mdDateSt": "2022-08-03",
         "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "vlakove_linky",
+              "itemSize": 0
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 15504700,
+          "MapLyrSync": "false",
           "locales": {
             "locale": {
               "@_language": "cze",
               "@_country": "CZ"
             }
           },
-          "ArcGISFormat": 1,
-          "CreaTime": 9442100,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
-          "CreaDate": "2022-09-07",
-          "ModTime": "23:55:21.61",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "CreaTime": 10271500,
+          "SyncDate": "2022-08-03",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
+          "CreaDate": "2022-06-07",
+          "ModTime": "12:59:08.96",
+          "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:00:30.42",
+        "mdTimeSt": "12:57:37.05",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "3"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací vlakových linek v systému IREDO. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací vlakových linek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "date": {
-              "pubDate": "2022-09-29",
-              "createDate": "2022-09-29"
-            },
-            "resTitle": "Vlakové linky IREDO"
+            "resTitle": "Vlakové linky VDKHK",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
           },
           "dataLang": {
             "countryCode": {
-              "@_value": "CZ"
+              "@_value": "CZE"
             },
             "languageCode": {
-              "@_value": "cze"
+              "@_value": "ces"
             }
           },
-          "idPurp": "Vlakové linky IREDO",
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Vlakové linky VDKHK",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "018"
-            }
-          },
           "searchKeys": {
             "keyword": [
-              "Vlakové linky IREDO",
-              "Královéhradecký kraj",
-              "Veřejná doprava Královéhradeckého kraje"
+              "Vlakové linky",
+              "Veřejná doprava Královéhradeckého kraje",
+              "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -12400,48 +12653,114 @@
                 },
                 "othConsts": "Jiná omezení"
               }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
             }
           ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "ESRI",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "Id",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Id",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "Linka",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Linka",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Popis",
+                "attwidth": 100,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Popis",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Jizdni_rad",
+                "attwidth": 100,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jizdni_rad",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kraj",
+                "attwidth": 50,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kraj",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kraj_kod",
+                "attwidth": 25,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kraj_kod",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 10,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "dp_id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "vlakove_linky"
+            }
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -12456,7 +12775,36 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1689591457604r2984363355566857",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "transSize": 0
+          },
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          },
+          "distributor": {
+            "distorTran": {
+              "onLineSrc": {
+                "protocol": "Local Area Network",
+                "orDesc": 2,
+                "linkage": "withheld"
+              }
+            },
+            "distorFormat": {
+              "formatName": "File Geodatabase Feature Class"
+            }
+          }
+        },
+        "mdHrLvName": "dataset"
       },
       "category": [
         "Veřejná doprava a silnice"
@@ -12470,11 +12818,11 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=ab928607832141f8bebb36261593107a&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/ab928607832141f8bebb36261593107a_0",
       "title": "Autobusové zastávky VDKHK",
-      "description": "Datová sada s prostorovou lokalizací autobusových zastávek v systému IREDO. Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací autobusových zastávek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Autobusové zastávky IREDO",
-        "Královéhradecký kraj",
-        "Veřejná doprava Královéhradeckého kraje"
+        "Autobusové zastávky VDKHK",
+        "Veřejná doprava Královéhradeckého kraje",
+        "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T06:11:22.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
@@ -12565,25 +12913,25 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 15510800,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-10-03",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-08-22",
-          "ModTime": "23:56:46.17",
+          "ModTime": "13:38:56.72",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:13:16.56",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací autobusových zastávek v systému IREDO. Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací autobusových zastávek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "date": {
               "reviseDate": "2022-09-29",
               "pubDate": "2021-11-01",
               "createDate": "2021-11-01"
             },
-            "resTitle": "Autobusové zastávky IREDO"
+            "resTitle": "Autobusové zastávky VDKHK"
           },
           "dataLang": {
             "countryCode": {
@@ -12591,6 +12939,14 @@
             },
             "languageCode": {
               "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
           "idPurp": "Autobusové zastávky IREDO",
@@ -12606,15 +12962,42 @@
           },
           "searchKeys": {
             "keyword": [
-              "Autobusové zastávky IREDO",
-              "Královéhradecký kraj",
-              "Veřejná doprava Královéhradeckého kraje"
+              "Autobusové zastávky VDKHK",
+              "Veřejná doprava Královéhradeckého kraje",
+              "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -13442,7 +13825,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:22:39.000Z",
-      "modified": "2023-02-09T07:41:48.302Z",
+      "modified": "2023-07-17T12:09:32.021Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13512,7 +13895,7 @@
             }
           }
         },
-        "mdFileID": "1675928386512r1934112433027071",
+        "mdFileID": "1689595576601r21044821763180122",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -13520,7 +13903,7 @@
             }
           }
         },
-        "mdDateSt": "2023-02-09",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -13529,21 +13912,29 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 13420800,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-02-09",
-          "CreaDate": "2023-01-04",
-          "ModTime": "08:41:02.40",
+          "CreaTime": 14023600,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
+          "CreaDate": "2023-01-30",
+          "ModTime": "14:07:29.51",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "08:39:45.69",
+        "mdTimeSt": "14:06:16.00",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zubních lékařů. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Zubní lékaři"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Zubní lékaři",
           "dataChar": {
@@ -13558,6 +13949,13 @@
               "Primární péče",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -13815,7 +14213,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=cc4993a5a0294c3f948481ded8c23673&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/cc4993a5a0294c3f948481ded8c23673_0",
-      "title": "Počty žáků v oborech středních škol zřizovaných krajem",
+      "title": "Počet žáků v oborech středních škol zřizovaných krajem",
       "description": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2022/2023. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Počet žáků",
@@ -13824,7 +14222,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-13T11:26:19.000Z",
-      "modified": "2023-02-20T13:23:41.206Z",
+      "modified": "2023-07-17T07:45:44.184Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13894,7 +14292,7 @@
             }
           }
         },
-        "mdFileID": "1676287710658r4260450334619865",
+        "mdFileID": "1689579274176r8206189599374476",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -13902,7 +14300,7 @@
             }
           }
         },
-        "mdDateSt": "2023-02-13",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -13911,24 +14309,29 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 9081000,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-02-20",
-          "CreaDate": "2022-09-22",
-          "ModTime": "14:23:16.57",
+          "CreaTime": 11062800,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
+          "CreaDate": "2023-02-13",
+          "ModTime": "09:35:46.14",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "12:28:30.08",
+        "mdTimeSt": "09:34:33.62",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2022/2023. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
-          "otherKeys": {
-            "keyword": "CC0"
-          },
           "idCitation": {
-            "resTitle": "Počtý žáků v oborech středních škol zřizovaných krajem"
+            "resTitle": "Počty žáků v oborech středních škol zřizovaných krajem"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
           "dataChar": {
@@ -13944,50 +14347,37 @@
               "Královéhradecký kraj"
             ]
           },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
           "resConst": [
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             }
           ]
@@ -14406,7 +14796,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=cd2794dd2d334fe5bb360db8956507ae&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/cd2794dd2d334fe5bb360db8956507ae_0",
-      "title": "Počty studentů v oborech vyšších odborných škol zřizovaných krajem",
+      "title": "Počet studentů v oborech vyšších odborných škol zřizovaných krajem",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu studentů v jednotlivých školách. Data jsou za školní rok 2022/2023. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Počet studentů",
@@ -14415,7 +14805,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-20T13:10:51.000Z",
-      "modified": "2023-02-20T13:21:08.947Z",
+      "modified": "2023-07-17T07:46:53.991Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -14794,7 +15184,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-11T14:50:03.000Z",
-      "modified": "2023-01-16T09:45:28.276Z",
+      "modified": "2023-07-17T07:09:44.344Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -14864,40 +15254,110 @@
             }
           }
         },
-        "mdFileID": "1673448944272r7715010758776568",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
             }
           }
         },
         "mdDateSt": "2023-01-11",
         "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "pamatkove_rezervace"
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 15213000,
+          "MapLyrSync": "false",
           "locales": {
             "locale": {
               "@_language": "cze",
               "@_country": "CZ"
             }
           },
-          "ArcGISFormat": 1,
-          "CreaTime": 10462900,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-01-12",
+          "CreaTime": 10451800,
+          "SyncDate": "2023-01-11",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-12-22",
-          "ModTime": "15:39:58.63",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "ModTime": "08:59:12.39",
+          "SyncOnce": "FALSE",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "15:55:43.75",
+        "mdTimeSt": "08:58:11.94",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací památkových rezervací na území Královéhradeckého kraje. Jsou zde obsaženy městské a vesnické památkové zóny. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
           "idCitation": {
-            "resTitle": "Památkové rezervace"
+            "resTitle": "Památkové rezervace",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Památkové rezervace",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -14909,6 +15369,13 @@
               "Památky",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -14935,28 +15402,207 @@
                 },
                 "othConsts": "Jiná omezení"
               }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
             }
           ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "NÁZEV",
+                "attwidth": 200,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "NÁZEV",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "AUTOR",
+                "attwidth": 150,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "AUTOR",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ČÍSLO_JEDN",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ČÍSLO_JEDN",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "DATUM",
+                "attwidth": 50,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "DATUM",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ÚČINNOST",
+                "attwidth": 50,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ÚČINNOST",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "uskp",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "uskp",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_okre",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_okre",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_okresu",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_okresu",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_orp",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_orp",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_orp",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_orp",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_obce",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_obce",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_obce",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_obce",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "psc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "psc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "www",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "www",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "dp_id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "Shape_Area",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "pamatkove_rezervace"
+            }
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -14971,7 +15617,21 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1689577092445r7618806712071784",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
       },
       "category": [
         "Kultura a cestovní ruch"
@@ -15416,7 +16076,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-12T14:24:03.000Z",
-      "modified": "2023-01-16T09:50:49.351Z",
+      "modified": "2023-07-17T07:08:25.896Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -16879,13 +17539,12 @@
       "title": "Železniční stanice a zastávky VDKHK",
       "description": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Železniční stanice a zastávky",
-        "Doprava",
+        "Železniční stanice a zastávky VDKHK",
         "Veřejná doprava Královéhradeckého kraje",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T05:38:38.000Z",
-      "modified": "2023-05-25T13:51:21.193Z",
+      "modified": "2023-07-17T11:58:18.123Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -16955,7 +17614,7 @@
             }
           }
         },
-        "mdFileID": "1685022549008r13251728329168855",
+        "mdFileID": "1689594846270r01550874420029369",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -16963,7 +17622,7 @@
             }
           }
         },
-        "mdDateSt": "2023-05-25",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -16973,20 +17632,28 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 14392200,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-05-25",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-08-02",
-          "ModTime": "15:50:21.80",
+          "ModTime": "13:57:01.43",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "15:49:08.33",
+        "mdTimeSt": "13:54:05.72",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Železniční stanice a zastávky VDKHK"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Železniční stanice a zastávky VDKHK",
           "dataChar": {
@@ -16996,11 +17663,17 @@
           },
           "searchKeys": {
             "keyword": [
-              "Železniční stanice a zastávky",
-              "Doprava",
+              "Železniční stanice a zastávky VDKHK",
               "Veřejná doprava Královéhradeckého kraje",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
@@ -17057,15 +17730,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=ebc0da36c2bd4fdb9505ddab8b789007&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/ebc0da36c2bd4fdb9505ddab8b789007_0",
       "title": "Autobusové linky VDKHK",
-      "description": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "description": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Autobusové linky",
-        "Doprava",
+        "Autobusové linky VDKHK",
         "Veřejná doprava Královéhradeckého kraje",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T07:22:33.000Z",
-      "modified": "2023-07-13T12:07:32.578Z",
+      "modified": "2023-07-17T11:03:08.304Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -17153,20 +17825,28 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 14534600,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-03-31",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
           "CreaDate": "2022-08-03",
-          "ModTime": "09:25:31.05",
+          "ModTime": "13:02:32.35",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:24:15.33",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje. Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Autobusové linky VDKHK"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Autobusové linky VDKHK",
           "dataChar": {
@@ -17176,16 +17856,42 @@
           },
           "searchKeys": {
             "keyword": [
-              "Autobusové linky",
-              "Doprava",
+              "Autobusové linky VDKHK",
               "Veřejná doprava Královéhradeckého kraje",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -17243,7 +17949,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-04T08:04:18.000Z",
-      "modified": "2023-01-04T08:09:25.070Z",
+      "modified": "2023-07-17T06:50:01.205Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -17313,7 +18019,7 @@
             }
           }
         },
-        "mdFileID": "1672819577720r9290666986373621",
+        "mdFileID": "1689576480870r24939147533592143",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -17321,7 +18027,7 @@
             }
           }
         },
-        "mdDateSt": "2023-01-04",
+        "mdDateSt": "2023-07-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -17330,21 +18036,29 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 9331800,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-01-04",
-          "CreaDate": "2022-09-23",
-          "ModTime": "09:08:25.27",
+          "CreaTime": 7595100,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-07-17",
+          "CreaDate": "2023-01-04",
+          "ModTime": "08:49:00.64",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:06:17.05",
+        "mdTimeSt": "08:48:00.37",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Organizace Královéhradeckého kraje"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Organizace Královéhradeckého kraje",
           "dataChar": {
@@ -17357,6 +18071,13 @@
               "Organizace",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
