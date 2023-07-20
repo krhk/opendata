@@ -17949,7 +17949,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-04T08:04:18.000Z",
-      "modified": "2023-07-17T06:50:01.205Z",
+      "modified": "2023-07-19T11:31:41.324Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -18946,7 +18946,9 @@
       "title": "Školy a školská zařízení",
       "description": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
       "keyword": [
-        "Seznam škol a školských zařízení",
+        "Školy",
+        "Školská zařízení",
+        "Školství",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T08:07:56.000Z",
@@ -19074,7 +19076,9 @@
           },
           "searchKeys": {
             "keyword": [
-              "Seznam škol a školských zařízení",
+              "Školy",
+              "Školská zařízení",
+              "Školství",
               "Královéhradecký kraj"
             ]
           },
