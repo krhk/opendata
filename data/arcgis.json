@@ -813,174 +813,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0e02429fd8744cb59ae6804ed5738517&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/0e02429fd8744cb59ae6804ed5738517_0",
-      "title": "Návaznost autobusových linek IREDO",
-      "description": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
-      "keyword": [
-        "Autobusy",
-        "Zastávky",
-        "IREDO",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-10-07T21:57:12.000Z",
-      "modified": "2021-11-07T20:10:38.324Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "CC0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/0e02429fd8744cb59ae6804ed5738517_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1vaznost_autobusov%C3%BDch_linek_IREDO/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.csv"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/0e02429fd8744cb59ae6804ed5738517_0.geojson"
-        }
-      ],
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "0e02429fd8744cb59ae6804ed5738517",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Návaznost_autobusových_linek_IREDO/FeatureServer"
-            }
-          }
-        },
-        "mdDateSt": "2021-10-08",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "00:04:17.88",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-07",
-          "CreaDate": "2021-10-08",
-          "ModTime": "21:11:46.94",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "00:04:17.88",
-        "dataIdInfo": {
-          "idAbs": "Datová sada obsahuje výpis návaznosti autobusových linek IREDO v Královéhradeckém kraji.",
-          "idCitation": {
-            "date": {
-              "pubDate": "2021-10-21"
-            },
-            "resTitle": "Návaznost autobusových linek IREDO"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Autobusy",
-              "Zastávky",
-              "IREDO",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Veřejná doprava a silnice"
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=10547be46d01470186fe5d8d1a8ca758&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/10547be46d01470186fe5d8d1a8ca758_0",
       "title": "Průmyslové zóny",
@@ -4148,174 +3980,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=36c1829c77d04e6bb60e6ade221887a2&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/36c1829c77d04e6bb60e6ade221887a2_0",
-      "title": "Čekací doby autobusových linek IREDO",
-      "description": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
-      "keyword": [
-        "Autobusy",
-        "Zastávky",
-        "IREDO",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2021-10-07T22:02:51.000Z",
-      "modified": "2021-11-07T20:10:09.714Z",
-      "publisher": {
-        "source": "Tomas_Merta_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Merta_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "CC0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/36c1829c77d04e6bb60e6ade221887a2_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C4%8Cekac%C3%AD_doby_autobusov%C3%BDch_linek_IREDO/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.csv"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/datasets/36c1829c77d04e6bb60e6ade221887a2_0.geojson"
-        }
-      ],
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "36c1829c77d04e6bb60e6ade221887a2",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Čekací_doby_autobusových_linek_IREDO/FeatureServer"
-            }
-          }
-        },
-        "mdDateSt": "2021-10-08",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "00:03:49.62",
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2021-11-07",
-          "CreaDate": "2021-10-08",
-          "ModTime": "21:12:27.09",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "00:03:49.62",
-        "dataIdInfo": {
-          "idAbs": "Datová sada obsahuje výpis čekacích dob autobusových linek IREDO v Královéhradeckém kraji.",
-          "idCitation": {
-            "date": {
-              "pubDate": "2021-10-21"
-            },
-            "resTitle": "Čekací doby autobusových linek IREDO"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Autobusy",
-              "Zastávky",
-              "IREDO",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Veřejná doprava a silnice"
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=38402dfafbf4467cbb6fa29c546ad501&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/38402dfafbf4467cbb6fa29c546ad501_0",
       "title": "Právnické osoby v klastrech",
@@ -6024,6 +5688,191 @@
               }
             }
           }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4c52403a43a5400085823930c55ab4ca&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/4c52403a43a5400085823930c55ab4ca_0",
+      "title": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)",
+      "description": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [],
+      "issued": "2023-09-06T10:21:55.000Z",
+      "modified": "2023-09-06T10:32:38.733Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/4c52403a43a5400085823930c55ab4ca_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaru%C4%8Den%C3%BDch_p%C5%99%C3%ADpoj%C5%AF_(vy%C4%8Dk%C3%A1v%C3%A1n%C3%AD_autobus%C5%AF_na_autobusy_a_vlaky)/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "4c52403a43a5400085823930c55ab4ca",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaručených_přípojů_(vyčkávání_autobusů_na_autobusy_a_vlaky)/FeatureServer"
+            }
+          }
+        },
+        "mdDateSt": "2023-09-06",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "12:28:31.97",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-09-06",
+          "CreaDate": "2023-09-06",
+          "ModTime": "12:41:27.54",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "12:28:31.97",
+        "dataIdInfo": {
+          "idAbs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
         },
         "mdChar": {
           "CharSetCd": {
