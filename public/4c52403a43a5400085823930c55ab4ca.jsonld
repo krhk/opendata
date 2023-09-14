@@ -58,12 +58,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv",
+      "iri": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv?where=1=1",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv",
-      "přístupové_url": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv?where=1=1",
+      "přístupové_url": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.csv?where=1=1",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -76,12 +76,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson",
+      "iri": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson?where=1=1",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson",
-      "přístupové_url": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson?where=1=1",
+      "přístupové_url": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0.geojson?where=1=1",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
