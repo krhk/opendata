@@ -5708,7 +5708,11 @@
       "landingPage": "https://www.datakhk.cz/maps/4c52403a43a5400085823930c55ab4ca_0",
       "title": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)",
       "description": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
-      "keyword": [],
+      "keyword": [
+        "Zaručené přípoje",
+        "Veřejná doprava Královéhradeckého kraje",
+        "Královéhradecký kraj"
+      ],
       "issued": "2023-09-06T10:21:55.000Z",
       "modified": "2023-09-06T10:41:54.927Z",
       "publisher": {
@@ -5793,9 +5797,9 @@
           "CreaTime": "12:28:31.97",
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-09-06",
+          "ModDate": "2023-09-18",
           "CreaDate": "2023-09-06",
-          "ModTime": "12:41:27.54",
+          "ModTime": "10:17:51.97",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
@@ -5803,7 +5807,18 @@
         "dataIdInfo": {
           "idAbs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
+            "date": {
+              "pubDate": "2023-09-06"
+            },
             "resTitle": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)"
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "themeKeys": {
             "thesaName": {
@@ -5818,6 +5833,13 @@
               "@_value": "004"
             }
           },
+          "searchKeys": {
+            "keyword": [
+              "Zaručené přípoje",
+              "Veřejná doprava Královéhradeckého kraje",
+              "Královéhradecký kraj"
+            ]
+          },
           "idPoC": {
             "rpOrgName": "Královéhradecký kraj",
             "role": {
@@ -5830,6 +5852,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {

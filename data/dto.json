@@ -3247,7 +3247,11 @@
         "cs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
-        "cs": []
+        "cs": [
+          "Zaručené přípoje",
+          "Veřejná doprava Královéhradeckého kraje",
+          "Královéhradecký kraj"
+        ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/TRAN"
