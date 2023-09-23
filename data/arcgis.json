@@ -1847,6 +1847,448 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1adad0a9ee684b23a84c8613f8e5156e&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/1adad0a9ee684b23a84c8613f8e5156e_0",
+      "title": "Přírodní parky",
+      "description": "Datová sada s prostorovou lokalizací přírodních parků na území Královéhradeckého kraje. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Přírodní parky",
+        "Životní prostředí",
+        "Ochrana životního prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-03-31T10:57:01.000Z",
+      "modified": "2023-08-17T12:37:34.153Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.6321,50.0091,16.4314,50.6422",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/1adad0a9ee684b23a84c8613f8e5156e_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_parky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/1adad0a9ee684b23a84c8613f8e5156e_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/1adad0a9ee684b23a84c8613f8e5156e_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/1adad0a9ee684b23a84c8613f8e5156e_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/1adad0a9ee684b23a84c8613f8e5156e_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-03-31",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "přírodní_parky"
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 11010400,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 7540100,
+          "SyncDate": "2023-03-31",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-08-09",
+          "CreaDate": "2022-05-31",
+          "ModTime": "08:13:22.28",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "08:33:15.37",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "TRUE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací přírodních parků na území Královéhradeckého kraje. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Přírodní parky",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Přírodní parky",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Přírodní parky",
+              "Životní prostředí",
+              "Ochrana životního prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "Ident",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Ident",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Nazev",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Nazev",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "CasH",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "CasH",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "Dokument",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Dokument",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Vydal_kdo",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Vydal_kdo",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Vydal_kdy",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Vydal_kdy",
+                "attrtype": "Date"
+              },
+              {
+                "attrlabl": "Jev",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Jev",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Pasport_Id",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Pasport_Id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Zdroj",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Zdroj",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Dat_Aktual",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Dat_Aktual",
+                "attrtype": "Date"
+              },
+              {
+                "attrlabl": "Poznamka",
+                "attwidth": 80,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "Poznamka",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "Shape_Area",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "přírodní_parky"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "1689748395931r09072824332182594",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1c28da5d644445d3a5f4b578ce22ed40&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/1c28da5d644445d3a5f4b578ce22ed40_0",
       "title": "Výjezdové základny zdravotnické záchranné služby",
@@ -4578,6 +5020,567 @@
       "category": [
         "Kraj a dotace",
         "Veřejná doprava a silnice"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3ec5df3a89d7470ea40330baadca74f4&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/3ec5df3a89d7470ea40330baadca74f4_0",
+      "title": "Adresář obcí",
+      "description": "Datová sada s prostorovou lokalizací adresářů na jednotlivé obecní/městské úřady obcí v Královéhradeckém kraji. Zdrojem dat je Odbor kancelář ředitele Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Adresář obcí",
+        "Obecní úřady",
+        "Městské úřady",
+        "Kontakty",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-08-09T08:47:27.000Z",
+      "modified": "2023-08-17T10:48:10.840Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1042,50.0384,16.5855,50.7805",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/3ec5df3a89d7470ea40330baadca74f4_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/3ec5df3a89d7470ea40330baadca74f4_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/3ec5df3a89d7470ea40330baadca74f4_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/3ec5df3a89d7470ea40330baadca74f4_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/3ec5df3a89d7470ea40330baadca74f4_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-08-09",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "a_o"
+            },
+            "coordRef": {
+              "csUnits": "Angular Unit: Degree (0.017453)",
+              "peXml": "<GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433],AUTHORITY[&quot;EPSG&quot;,4326]]</WKT><XOrigin>-399.99999999999989</XOrigin><YOrigin>-399.99999999999989</YOrigin><XYScale>1111948722.2222221</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>8.9831528411952133e-09</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><LeftLongitude>-180</LeftLongitude><WKID>4326</WKID><LatestWKID>4326</LatestWKID></GeographicCoordinateSystem>",
+              "type": "Geographic",
+              "geogcsn": "GCS_WGS_1984"
+            }
+          },
+          "SyncTime": 10180300,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 9241300,
+          "SyncDate": "2023-08-09",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-08-09",
+          "CreaDate": "2023-08-09",
+          "ModTime": "10:51:30.31",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:50:07.72",
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací adresářů na jednotlivé obecní/městské úřady obcí v Královéhradeckém kraji. Zdrojem dat je Odbor kancelář ředitele Krajského úřadu Královéhradeckého kraje.",
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Adresář obcí",
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "ces"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Adresář obcí",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Adresář obcí",
+              "Obecní úřady",
+              "Městské úřady",
+              "Kontakty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "Shape",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "nazev_obce",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_obce",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_obce",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_obce",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ds",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ds",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_vusc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_vusc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_okre",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_okre",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_okresu",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_okresu",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_orp",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_orp",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "kod_orp",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "kod_orp",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "nazev_ulic",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "nazev_ulic",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "cislo_domo",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "cislo_domo",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "typ_cisla_",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "typ_cisla_",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "cislo_orie",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "cislo_orie",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "psc",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "psc",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "posta",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "posta",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "www",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "www",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "telefon_mo",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "telefon_mo",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "telefon__1",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "telefon__1",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "telefon__2",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "telefon__2",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "telefon__3",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "telefon__3",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "email_1",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "email_1",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "email_2",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "email_2",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "email_3",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "email_3",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "email_4",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "email_4",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "wkt",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "wkt",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "x",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "x",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "y",
+                "attwidth": 8,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "y",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "dp_id",
+                "attwidth": 254,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "dp_id",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ObjectID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "Shape_Area",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "a_o"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              },
+              "idCodeSpace": "EPSG",
+              "idVersion": "6.2(3.0.1)"
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "1691571008211r8491075250585287",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distFormat": {
+            "formatName": "Třída prvků souborové geodatabáze"
+          }
+        },
+        "mdHrLvName": "dataset"
+      },
+      "category": [
+        "Kraj a dotace"
       ],
       "theme": [
         "geospatial"
@@ -7912,6 +8915,242 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6a862a5ec40241ef87e2f824b64aceeb&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/6a862a5ec40241ef87e2f824b64aceeb_0",
+      "title": "Studenti vysokých škol podle oborů",
+      "description": "Datová sada s prostorovou lokalizací studentů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+      "keyword": [
+        "Studenti",
+        "Vysoké školy",
+        "Školství",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-09-05T08:09:45.000Z",
+      "modified": "2023-09-05T10:18:24.233Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.8148,50.1856,15.8379,50.2138",
+      "license": "CC BY 4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/6a862a5ec40241ef87e2f824b64aceeb_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Studenti_vysok%C3%BDch_%C5%A1kol/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/6a862a5ec40241ef87e2f824b64aceeb_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/6a862a5ec40241ef87e2f824b64aceeb_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/6a862a5ec40241ef87e2f824b64aceeb_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/6a862a5ec40241ef87e2f824b64aceeb_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1693901516693r6885314315530087",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2023-09-05",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 10001500,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-09-05",
+          "CreaDate": "2023-09-05",
+          "ModTime": "12:36:11.65",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:11:56.10",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací studentů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+          "idCitation": {
+            "resTitle": "Studenti vysokých škol podle oborů"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Studenti vysokých škol podle oborů",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Studenti",
+              "Vysoké školy",
+              "Školství",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6a883a213b934395a0b9eaff9698daa1&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/6a883a213b934395a0b9eaff9698daa1_0",
       "title": "Vymezení rozvojových os v ZÚR",
@@ -8475,6 +9714,713 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=75143118a8a14213b51fcf9f5f27fc14&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/75143118a8a14213b51fcf9f5f27fc14_0",
+      "title": "Přírodní rezervace včetně ochranných pásem",
+      "description": "Datová sada s prostorovou lokalizací přírodních rezervací včetně ochranných pásem v Královéhradeckém kraji. Zdrojem dat je Odbor životního prostřední a zemědělství Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Přírodní rezervace",
+        "Ochranná pásma",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-08-17T07:21:36.000Z",
+      "modified": "2023-08-17T07:32:39.731Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2264,49.9846,16.4935,50.6509",
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/75143118a8a14213b51fcf9f5f27fc14_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_rezervace_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/75143118a8a14213b51fcf9f5f27fc14_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/75143118a8a14213b51fcf9f5f27fc14_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/75143118a8a14213b51fcf9f5f27fc14_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/75143118a8a14213b51fcf9f5f27fc14_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "country": "Česká republika"
+            },
+            "cntOnlineRes": {
+              "orFunct": {
+                "OnFunctCd": {
+                  "@_value": "002"
+                }
+              }
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-08-17",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "prirodni_rezervace_khk",
+              "nativeExtBox": {
+                "eastBL": -431733.828,
+                "southBL": -1215643.72,
+                "exTypeCode": 1,
+                "northBL": -948033.25,
+                "westBL": -902650.77125
+              },
+              "itemSize": 0
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 7562300,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 9244800,
+          "SyncDate": "2023-08-17",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-08-17",
+          "CreaDate": "2018-10-19",
+          "ModTime": "09:29:48.11",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "09:26:17.36",
+        "dqInfo": {
+          "dataLineage": {
+            "dataSource": {
+              "srcDesc": "Různá měřítka mapových podkladů, kvalita písemné dokumentace"
+            }
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "009"
+              }
+            }
+          }
+        },
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací přírodních rezervací včetně ochranných pásem v Královéhradeckém kraji. Zdrojem dat je Odbor životního prostřední a zemědělství Krajského úřadu Královéhradeckého kraje.",
+          "idCredit": "Copyright",
+          "dataScale": {
+            "scaleDist": {
+              "value": 15
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "cs"
+            }
+          },
+          "idPurp": "Přírodní rezervace včetně ochranných pásem",
+          "idStatus": {
+            "ProgCd": {
+              "@_value": "004"
+            }
+          },
+          "dataExt": {
+            "exDesc": "publication date",
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 18.944732,
+                "southBL": 48.339895,
+                "northBL": 51.240249,
+                "westBL": 11.996206
+              }
+            },
+            "tempEle": {
+              "TempExtent": {
+                "exTemp": {
+                  "TM_Instant": {
+                    "tmPosition": "28.01.2010"
+                  }
+                }
+              }
+            }
+          },
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Přírodní rezervace včetně ochranných pásem",
+            "citRespParty": {
+              "role": {
+                "RoleCd": {
+                  "@_value": "006"
+                }
+              }
+            },
+            "resEd": "revize",
+            "citId": {
+              "identCode": "jupiters"
+            }
+          },
+          "placeKeys": {
+            "keyword": "Česká republika"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Narodní přírodní rezervace",
+              "Území chráněné",
+              "Ochrana zvláštní"
+            ]
+          },
+          "resMaint": {
+            "maintScp": {
+              "ScopeCd": {
+                "@_value": "009"
+              }
+            },
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "011"
+              }
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "4"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Přírodní rezervace",
+              "Ochranná pásma",
+              "Královéhradecký kraj"
+            ]
+          },
+          "discKeys": {
+            "keyword": "Ochrana přírody"
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntPhone": {
+                "voiceNum": 283069271
+              },
+              "cntAddress": {
+                "country": "Česká republika"
+              },
+              "cntOnlineRes": {
+                "orFunct": {
+                  "OnFunctCd": {
+                    "@_value": "002"
+                  }
+                },
+                "protocol": "WWW",
+                "linkage": "http://drusop.nature.cz",
+                "orName": "Digitální registr ÚSOP"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "001"
+                  }
+                },
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "M_ZCHU_",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "M_ZCHU_",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "M_ZCHU_ID",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "M_ZCHU_ID",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "KOD",
+                "attwidth": 4,
+                "attrdef": "Evidenční kód ÚSOP",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KOD",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "KAT",
+                "attwidth": 5,
+                "attrdef": "Název kategorie",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KAT",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "NAZEV",
+                "attwidth": 120,
+                "attrdef": "Název MZCHÚ",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "NAZEV",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ROZL",
+                "attwidth": 8,
+                "attrdef": "Rozloha dle vyhlášky",
+                "attrdefs": "Vyhlašovací dokumentace, vyhlašovatel",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ROZL",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "OP_TYP",
+                "attwidth": 3,
+                "attrdef": "Typ ochranného pásma",
+                "attrdefs": "Vyhlašovací dokumentace, vyhlašovatel",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "OP_TYP",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "TYP_UZ",
+                "attwidth": 2,
+                "attrdef": "Informace, zda je území vyjmuto z ochrany",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "TYP_UZ",
+                "attrtype": "SmallInteger"
+              },
+              {
+                "attrlabl": "IUCN",
+                "attwidth": 3,
+                "attrdef": "Kategorie IUCN",
+                "attrdefs": "Protected Area Management Categories, IUCN",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "IUCN",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "PODKLAD",
+                "attwidth": 10,
+                "attrdef": "Podklad digitalizace",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "PODKLAD",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ROZL_PUV",
+                "attwidth": 10,
+                "attrdef": "Původ hodnoty rozlohy",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ROZL_PUV",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ZPRACOVAL",
+                "attwidth": 40,
+                "attrdef": "Zpracovatel zákresu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZPRACOVAL",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "VZNIK",
+                "attwidth": 4,
+                "attrdef": "Datum vzniku grafického objektu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "VZNIK",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "ZMENA_G",
+                "attwidth": 4,
+                "attrdef": "Datum poslední změny provedené v grafice",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZMENA_G",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "ZMENA_T",
+                "attwidth": 4,
+                "attrdef": "Datum poslední změny provedené v atributové tabulce",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZMENA_T",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "CHYBA",
+                "attwidth": 2,
+                "attrdef": "Indikace chyby ve vynesení nebo vyhlášení ZCHÚ",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "CHYBA",
+                "attrtype": "SmallInteger"
+              },
+              {
+                "attrlabl": "POZNAMKA",
+                "attwidth": 150,
+                "attrdef": "Poznámka",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "POZNAMKA",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "KAT_OP",
+                "attwidth": 10,
+                "attrdef": "Pomocné členění kategorií",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KAT_OP",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "SHAPE",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "ESRI",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "DAT_PKD",
+                "attwidth": 4,
+                "attrdef": "Datum vytvoření podkladu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "DAT_PKD",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "SHAPE_AREA",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "prirodni_rezervace_khk"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "4"
+          }
+        },
+        "mdFileID": "1692257178042r5421859274815357",
+        "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "009"
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": [
+            {
+              "onLineSrc": {
+                "linkage": "http://mapmaker.nature.cz/wmsconnector/com.esri.wms.Esrimap/aopk_chu"
+              },
+              "transSize": 0,
+              "offLineMed": {
+                "medName": {
+                  "MedNameCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "onLineSrc": {
+                "linkage": "http://drusop.nature.cz; http://mapmaker.nature.cz/wmsconnector/ com.esri.wms.Esrimap/aopk_chu"
+              },
+              "transSize": 0
+            }
+          ],
+          "distFormat": {
+            "fileDecmTech": "no compression applied",
+            "formatVer": 9.3,
+            "formatName": "Třída prvků souborové geodatabáze"
+          },
+          "distributor": {
+            "distorTran": {
+              "onLineSrc": {
+                "protocol": "Local Area Network",
+                "orDesc": "http://mapmaker.nature.cz/wmsconnector/com.esri.wms.Esrimap/aopk_chu (WMS) http://mapy.nature.cz (mapový server) http://metadata.nature.cz (metadata)",
+                "linkage": "withheld"
+              },
+              "transSize": "0,000"
+            },
+            "distorCont": {
+              "rpCntInfo": {
+                "cntPhone": {
+                  "voiceNum": 283069271
+                },
+                "cntAddress": {
+                  "country": "Česká republika",
+                  "eMailAdd": "jan.votrubec@nature.cz",
+                  "delPoint": "Kaplanova 193/1",
+                  "city": "Praha 11 - Chodov",
+                  "adminArea": "Praha",
+                  "postCode": "148 00"
+                },
+                "cntOnlineRes": {
+                  "orFunct": {
+                    "OnFunctCd": {
+                      "@_value": "001"
+                    }
+                  },
+                  "protocol": "WWW",
+                  "linkage": "http://uap.nature.cz",
+                  "orName": "Údaje o území ochrany přírody a krajiny"
+                }
+              },
+              "rpIndName": "Jan Votrubec",
+              "rpOrgName": "AOPK ČR",
+              "rpPosName": "správce",
+              "role": {
+                "RoleCd": {
+                  "@_value": "005"
+                }
+              }
+            },
+            "distorFormat": {
+              "formatName": "Shapefile"
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=769c0fb4f47c411c86f7780e3385b499&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/769c0fb4f47c411c86f7780e3385b499_0",
       "title": "ÚSES vymezený jako nezávazný koncepční podklad v plánech ÚSES a jiných oborových dokumentech v ZÚR",
@@ -8902,6 +10848,221 @@
       "category": [
         "Životní prostředí",
         "Kraj a dotace"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=76c3943243574f89aded2f36fff851de&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/76c3943243574f89aded2f36fff851de_0",
+      "title": "Absolventi vysokých škol podle oborů",
+      "description": "Datová sada s prostorovou lokalizací absolventů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+      "keyword": [
+        "Vysoké školy",
+        "Absolventi",
+        "Školství",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-09-05T07:15:15.000Z",
+      "modified": "2023-09-05T10:33:48.502Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.8148,50.2015,15.8358,50.2138",
+      "license": "CC BY 4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/76c3943243574f89aded2f36fff851de_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Absolventi_vysok%C3%BDch_%C5%A1kol/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/76c3943243574f89aded2f36fff851de_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/76c3943243574f89aded2f36fff851de_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/76c3943243574f89aded2f36fff851de_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/76c3943243574f89aded2f36fff851de_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1693898356742r31019382367770665",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2023-09-05",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 8060200,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-09-05",
+          "CreaDate": "2023-09-05",
+          "ModTime": "12:35:09.66",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "09:19:16.08",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací absolventů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
+          "idCitation": {
+            "resTitle": "Absolventi vysokých škol podle oborů"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Absolventi vysokých škol podle oborů",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Vysoké školy",
+              "Absolventi",
+              "Školství",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
       ],
       "theme": [
         "geospatial"
@@ -17378,6 +19539,222 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e3f61ebe1c354fe5996a00159c1bbea5&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/e3f61ebe1c354fe5996a00159c1bbea5_0",
+      "title": "Inovativní firmy",
+      "description": "Datová sada s prostorovou lokalizací inovativních firem na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest. Vysvětlivky k datové sadě jsou k dispozici <a href='https://ik.imagekit.io/vapjygx9s2x/Ilustracni_fotky/Metodika.pdf?updatedAt=1685534258331' rel='nofollow ugc'>zde</a>",
+      "keyword": [
+        "Inovativní firmy",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-05-31T11:56:06.000Z",
+      "modified": "2023-05-31T12:07:20.503Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2529,50.0969,16.3405,50.6489",
+      "license": "CC BY 4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/e3f61ebe1c354fe5996a00159c1bbea5_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Inovativn%C3%AD_firmy/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/e3f61ebe1c354fe5996a00159c1bbea5_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/e3f61ebe1c354fe5996a00159c1bbea5_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/e3f61ebe1c354fe5996a00159c1bbea5_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/e3f61ebe1c354fe5996a00159c1bbea5_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1685534372261r5933217195852403",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-05-31",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 13362300,
+          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+          "ArcGISProfile": "ISO19139",
+          "ModDate": "2023-05-31",
+          "CreaDate": "2023-05-31",
+          "ModTime": "14:06:05.39",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": "false",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:59:31.62",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací inovativních firem na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest. Vysvětlivky k datové sadě jsou k dispozici <a href='https://ik.imagekit.io/vapjygx9s2x/Ilustracni_fotky/Metodika.pdf?updatedAt=1685534258331' rel='nofollow ugc'>zde</a>",
+          "idCitation": {
+            "resTitle": "Inovativní firmy"
+          },
+          "idPurp": "Inovativní firmy",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Inovativní firmy",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC BY 4.0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Ekonomika a trh práce"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=e60773d598b14909b749f5e0be403ef1&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/e60773d598b14909b749f5e0be403ef1_0",
       "title": "Opravy silniční infrastruktury od roku 2016 - bodové",
@@ -18977,6 +21354,693 @@
       },
       "category": [
         "Kultura a cestovní ruch"
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fa46ed246ad9405ab093e74ff580ea78&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/fa46ed246ad9405ab093e74ff580ea78_0",
+      "title": "Přírodní památky včetně ochranných pásem",
+      "description": "Datová sada s prostorovou lokalizací přírodních památek včetně ochranných pásem v Královéhradeckém kraji. Zdrojem dat je Odbor životního prostřední a zemědělství Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Přírodní památky",
+        "Ochranná pásma",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-08-17T08:20:15.000Z",
+      "modified": "2023-08-17T08:45:55.219Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2010,49.9873,16.4394,50.7414",
+      "license": "CC0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/fa46ed246ad9405ab093e74ff580ea78_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pam%C3%A1tky_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/datasets/fa46ed246ad9405ab093e74ff580ea78_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/datasets/fa46ed246ad9405ab093e74ff580ea78_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/datasets/fa46ed246ad9405ab093e74ff580ea78_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/datasets/fa46ed246ad9405ab093e74ff580ea78_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+        }
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "country": "Česká republika"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "spatRepInfo": {
+          "VectSpatRep": {
+            "geometObjs": {
+              "geoObjCnt": 0,
+              "geoObjTyp": {
+                "GeoObjTypCd": {
+                  "@_value": "002"
+                }
+              }
+            },
+            "topLvl": {
+              "TopoLevCd": {
+                "@_value": "001"
+              }
+            }
+          }
+        },
+        "mdDateSt": "2023-08-17",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2,
+              "itemName": "prirodni_pamatky_khk",
+              "nativeExtBox": {
+                "eastBL": -436507.66725,
+                "southBL": -1211581.84275,
+                "exTypeCode": 1,
+                "northBL": -950443.278875,
+                "westBL": -894755.82775
+              },
+              "itemSize": 0
+            },
+            "coordRef": {
+              "projcsn": "S-JTSK_Krovak_East_North",
+              "csUnits": "Linear Unit: Meter (1.000000)",
+              "peXml": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>10000</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>",
+              "type": "Projected",
+              "geogcsn": "GCS_S_JTSK"
+            }
+          },
+          "SyncTime": 7504000,
+          "MapLyrSync": "false",
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "CreaTime": 8530800,
+          "SyncDate": "2023-08-17",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2023-08-17",
+          "CreaDate": "2018-10-19",
+          "ModTime": "10:43:39.80",
+          "SyncOnce": "FALSE",
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:38:49.53",
+        "dqInfo": {
+          "dataLineage": {
+            "dataSource": {
+              "srcDesc": "Různá měřítka mapových podkladů, kvalita písemné dokumentace"
+            }
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "009"
+              }
+            }
+          }
+        },
+        "spdoinfo": {
+          "ptvctinf": {
+            "esriterm": {
+              "spindex": "TRUE",
+              "esritopo": "FALSE",
+              "linrefer": "FALSE",
+              "efeageom": {
+                "@_code": "4"
+              },
+              "efeacnt": 0,
+              "efeatyp": "Simple"
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací přírodních památek včetně ochranných pásem v Královéhradeckém kraji. Zdrojem dat je Odbor životního prostřední a zemědělství Krajského úřadu Královéhradeckého kraje.",
+          "dataScale": {
+            "scaleDist": {
+              "value": 15
+            }
+          },
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "cs"
+            }
+          },
+          "idStatus": {
+            "ProgCd": {
+              "@_value": "004"
+            }
+          },
+          "dataExt": {
+            "exDesc": "publication date",
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 18.875577,
+                "exTypeCode": 1,
+                "southBL": 48.387264,
+                "northBL": 51.215206,
+                "westBL": 12.11214
+              }
+            },
+            "tempEle": {
+              "TempExtent": {
+                "exTemp": {
+                  "TM_Instant": {
+                    "tmPosition": "28.01.2010"
+                  }
+                }
+              }
+            }
+          },
+          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idCitation": {
+            "resTitle": "Přírodní památky včetně ochranných pásem",
+            "resEd": "revize",
+            "citId": {
+              "identCode": "jupiters"
+            },
+            "presForm": {
+              "PresFormCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "placeKeys": {
+            "keyword": "Česká republika"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Narodní přírodní rezervace",
+              "Území chráněné",
+              "Ochrana zvláštní"
+            ]
+          },
+          "resMaint": {
+            "maintScp": {
+              "ScopeCd": {
+                "@_value": "009"
+              }
+            },
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "4"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Přírodní památky",
+              "Ochranná pásma",
+              "Královéhradecký kraj"
+            ]
+          },
+          "discKeys": {
+            "keyword": "Ochrana přírody"
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntPhone": {
+                "voiceNum": 283069271
+              },
+              "cntAddress": {
+                "country": "Česká republika",
+                "eMailAdd": "alena.zelenkova@nature.cz",
+                "delPoint": "Kaplanova 193/1",
+                "city": "Praha 11 - Chodov",
+                "adminArea": "Praha",
+                "postCode": "148 00"
+              },
+              "cntOnlineRes": {
+                "orFunct": {
+                  "OnFunctCd": {
+                    "@_value": "002"
+                  }
+                },
+                "protocol": "WWW",
+                "linkage": "http://drusop.nature.cz",
+                "orName": "Digitální registr ÚSOP"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "eainfo": {
+          "detailed": {
+            "attr": [
+              {
+                "attrlabl": "OBJECTID",
+                "attwidth": 4,
+                "attrdef": "Internal feature number.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Sequential unique whole numbers that are automatically generated."
+                },
+                "attalias": "OBJECTID",
+                "attrtype": "OID"
+              },
+              {
+                "attrlabl": "M_ZCHU_",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "M_ZCHU_",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "M_ZCHU_ID",
+                "attwidth": 4,
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "M_ZCHU_ID",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "KOD",
+                "attwidth": 4,
+                "attrdef": "Evidenční kód ÚSOP",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KOD",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "KAT",
+                "attwidth": 5,
+                "attrdef": "Název kategorie",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KAT",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "NAZEV",
+                "attwidth": 120,
+                "attrdef": "Název MZCHÚ",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "NAZEV",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ROZL",
+                "attwidth": 8,
+                "attrdef": "Rozloha dle vyhlášky",
+                "attrdefs": "Vyhlašovací dokumentace, vyhlašovatel",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ROZL",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "OP_TYP",
+                "attwidth": 3,
+                "attrdef": "Typ ochranného pásma",
+                "attrdefs": "Vyhlašovací dokumentace, vyhlašovatel",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "OP_TYP",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "TYP_UZ",
+                "attwidth": 2,
+                "attrdef": "Informace, zda je území vyjmuto z ochrany",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "TYP_UZ",
+                "attrtype": "SmallInteger"
+              },
+              {
+                "attrlabl": "IUCN",
+                "attwidth": 3,
+                "attrdef": "Kategorie IUCN",
+                "attrdefs": "Protected Area Management Categories, IUCN",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "IUCN",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "PODKLAD",
+                "attwidth": 10,
+                "attrdef": "Podklad digitalizace",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "PODKLAD",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ROZL_PUV",
+                "attwidth": 10,
+                "attrdef": "Původ hodnoty rozlohy",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ROZL_PUV",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "ZPRACOVAL",
+                "attwidth": 40,
+                "attrdef": "Zpracovatel zákresu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZPRACOVAL",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "VZNIK",
+                "attwidth": 4,
+                "attrdef": "Datum vzniku grafického objektu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "VZNIK",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "ZMENA_G",
+                "attwidth": 4,
+                "attrdef": "Datum poslední změny provedené v grafice",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZMENA_G",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "ZMENA_T",
+                "attwidth": 4,
+                "attrdef": "Datum poslední změny provedené v atributové tabulce",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "ZMENA_T",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "CHYBA",
+                "attwidth": 2,
+                "attrdef": "Indikace chyby ve vynesení nebo vyhlášení ZCHÚ",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "CHYBA",
+                "attrtype": "SmallInteger"
+              },
+              {
+                "attrlabl": "POZNAMKA",
+                "attwidth": 150,
+                "attrdef": "Poznámka",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "POZNAMKA",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "KAT_OP",
+                "attwidth": 10,
+                "attrdef": "Pomocné členění kategorií",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "KAT_OP",
+                "attrtype": "String"
+              },
+              {
+                "attrlabl": "SHAPE",
+                "attwidth": 0,
+                "attrdef": "Feature geometry.",
+                "attrdefs": "ESRI",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Coordinates defining the features."
+                },
+                "attalias": "Shape",
+                "attrtype": "Geometry"
+              },
+              {
+                "attrlabl": "DAT_PKD",
+                "attwidth": 4,
+                "attrdef": "Datum vytvoření podkladu",
+                "attrdefs": "ÚSOP, AOPK ČR",
+                "attscale": 0,
+                "atprecis": 0,
+                "attalias": "DAT_PKD",
+                "attrtype": "Integer"
+              },
+              {
+                "attrlabl": "Shape_Length",
+                "attwidth": 8,
+                "attrdef": "Length of feature in internal units.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Length",
+                "attrtype": "Double"
+              },
+              {
+                "attrlabl": "SHAPE_AREA",
+                "attwidth": 8,
+                "attrdef": "Area of feature in internal units squared.",
+                "attrdefs": "Esri",
+                "attscale": 0,
+                "atprecis": 0,
+                "attrdomv": {
+                  "udom": "Positive real numbers that are automatically generated."
+                },
+                "attalias": "Shape_Area",
+                "attrtype": "Double"
+              }
+            ],
+            "enttyp": {
+              "enttypc": 0,
+              "enttypt": "Feature Class",
+              "enttypl": "prirodni_pamatky_khk"
+            }
+          }
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "4"
+          }
+        },
+        "mdFileID": "1692261530387r9961444559009329",
+        "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "009"
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": [
+            {
+              "onLineSrc": {
+                "linkage": "http://mapmaker.nature.cz/wmsconnector/com.esri.wms.Esrimap/aopk_chu"
+              },
+              "transSize": 0,
+              "offLineMed": {
+                "medName": {
+                  "MedNameCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "onLineSrc": {
+                "linkage": "http://drusop.nature.cz; http://mapmaker.nature.cz/wmsconnector/ com.esri.wms.Esrimap/aopk_chu"
+              },
+              "transSize": 0
+            }
+          ],
+          "distFormat": {
+            "fileDecmTech": "no compression applied",
+            "formatVer": 9.3,
+            "formatName": "Třída prvků souborové geodatabáze"
+          },
+          "distributor": {
+            "distorTran": {
+              "onLineSrc": {
+                "protocol": "Local Area Network",
+                "orDesc": "http://mapmaker.nature.cz/wmsconnector/com.esri.wms.Esrimap/aopk_chu (WMS) http://mapy.nature.cz (mapový server) http://metadata.nature.cz (metadata)",
+                "linkage": "withheld"
+              },
+              "transSize": "0,000"
+            },
+            "distorCont": {
+              "rpCntInfo": {
+                "cntPhone": {
+                  "voiceNum": 283069271
+                },
+                "cntAddress": {
+                  "country": "Česká republika",
+                  "eMailAdd": "jan.votrubec@nature.cz",
+                  "delPoint": "Kaplanova 193/1",
+                  "city": "Praha 11 - Chodov",
+                  "adminArea": "Praha",
+                  "postCode": "148 00"
+                },
+                "cntOnlineRes": {
+                  "orFunct": {
+                    "OnFunctCd": {
+                      "@_value": "001"
+                    }
+                  },
+                  "protocol": "WWW",
+                  "linkage": "http://uap.nature.cz",
+                  "orName": "Údaje o území ochrany přírody a krajiny"
+                }
+              },
+              "rpIndName": "Jan Votrubec",
+              "rpOrgName": "AOPK ČR",
+              "rpPosName": "správce",
+              "role": {
+                "RoleCd": {
+                  "@_value": "005"
+                }
+              }
+            },
+            "distorFormat": {
+              "formatName": "Shapefile"
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
       ],
       "theme": [
         "geospatial"
