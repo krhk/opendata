@@ -118,7 +118,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Služebny Policie ČR",
+          "Policie ČR",
           "Královéhradecký kraj"
         ]
       },
@@ -1342,7 +1342,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Výjezdové základny zdravotnické záchranné služby",
+          "Zdravotnická záchranná služba",
           "Královéhradecký kraj"
         ]
       },
@@ -1617,8 +1617,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Přijímací řízení na vyšší odborné školy",
-          "Školství",
+          "Přijímací řízení",
           "Vyšší odborné školy",
           "Královéhradecký kraj"
         ]
@@ -2437,7 +2436,8 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Právnické osoby v klastrech",
+          "Klastry",
+          "Právnické osoby",
           "Královéhradecký kraj"
         ]
       },
@@ -2853,7 +2853,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Stanice a pracoviště hasičského záchranného systému",
+          "Hasičský záchranný systém",
           "Královéhradecký kraj"
         ]
       },
@@ -3394,7 +3394,6 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Plán zimní údržby silnic",
           "Zimní údržba",
           "Silnice",
           "Královéhradecký kraj"
@@ -4175,9 +4174,8 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Praktičtí lékaři pro dospělé",
-          "Zdravotnictví",
-          "Primární péče",
+          "Praktičtí lékaři",
+          "Dospělí",
           "Královéhradecký kraj"
         ]
       },
@@ -4312,9 +4310,8 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Kulturní památky na indikativním seznamu",
           "Kulturní památky",
-          "Indikativní seznam národních kulturních památek",
+          "Indikativní seznam",
           "Královéhradecký kraj"
         ]
       },
@@ -6092,8 +6089,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Dojížďka do vyšších odborných škol",
-          "Školství",
+          "Dojížďka",
           "Vyšší odborné školy",
           "Královéhradecký kraj"
         ]
@@ -6911,7 +6907,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Klastry Národní klastrové asociace",
+          "Klastry",
           "Královéhradecký kraj"
         ]
       },
@@ -7039,10 +7035,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
       "název": {
-        "cs": "Počet ubytovaných v DDM a internátech"
+        "cs": "Počet ubytovaných v domovech mládeže a internátech"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací domů dětí a mládeže a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7457,9 +7453,8 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Praktičtí lékaři pro děti a dorost",
-          "Zdravotnictví",
-          "Primární péče",
+          "Praktičtí lékaři",
+          "Děti a dorost",
           "Královéhradecký kraj"
         ]
       },
@@ -7594,8 +7589,10 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Vlakové linky",
-          "Veřejná doprava Královéhradeckého kraje",
+          "Linky",
+          "Vlak",
+          "Železnice",
+          "VDKHK",
           "Královéhradecký kraj"
         ]
       },
@@ -7730,8 +7727,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Autobusové zastávky VDKHK",
-          "Veřejná doprava Královéhradeckého kraje",
+          "Zastávky",
+          "Autobus",
+          "VDKHK",
           "Královéhradecký kraj"
         ]
       },
@@ -8276,8 +8274,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Dojížďka do středních škol",
-          "Školství",
+          "Dojížďka",
           "Střední školy",
           "Královéhradecký kraj"
         ]
@@ -8963,8 +8960,7 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Přijímací řízení na střední školy",
-          "Školství",
+          "Přijímací řízení",
           "Střední školy",
           "Královéhradecký kraj"
         ]
@@ -10463,8 +10459,10 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Železniční stanice a zastávky VDKHK",
-          "Veřejná doprava Královéhradeckého kraje",
+          "Stanice",
+          "Zastávky",
+          "Železnice",
+          "VDKHK",
           "Královéhradecký kraj"
         ]
       },
@@ -10599,8 +10597,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Autobusové linky VDKHK",
-          "Veřejná doprava Královéhradeckého kraje",
+          "Linky",
+          "Autobus",
+          "VDKHK",
           "Královéhradecký kraj"
         ]
       },

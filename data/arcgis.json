@@ -11,7 +11,7 @@
       "title": "Služebny Policie ČR",
       "description": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Služebny Policie ČR",
+        "Policie ČR",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T08:57:30.000Z",
@@ -139,7 +139,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Služebny Policie ČR",
+              "Policie ČR",
               "Královéhradecký kraj"
             ]
           },
@@ -2294,7 +2294,7 @@
       "title": "Výjezdové základny zdravotnické záchranné služby",
       "description": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje.",
       "keyword": [
-        "Výjezdové základny zdravotnické záchranné služby",
+        "Zdravotnická záchranná služba",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T10:53:45.000Z",
@@ -2424,7 +2424,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Výjezdové základny zdravotnické záchranné služby",
+              "Zdravotnická záchranná služba",
               "Královéhradecký kraj"
             ]
           },
@@ -2894,8 +2894,7 @@
       "title": "Přijímací řízení na vyšší odborné školy",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Přijímací řízení na vyšší odborné školy",
-        "Školství",
+        "Přijímací řízení",
         "Vyšší odborné školy",
         "Královéhradecký kraj"
       ],
@@ -3019,8 +3018,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Přijímací řízení na vyšší odborné školy",
-              "Školství",
+              "Přijímací řízení",
               "Vyšší odborné školy",
               "Královéhradecký kraj"
             ]
@@ -4427,7 +4425,8 @@
       "title": "Právnické osoby v klastrech",
       "description": "Datová sada s prostorovou lokalizací právnických osob v klastrech. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
       "keyword": [
-        "Právnické osoby v klastrech",
+        "Klastry",
+        "Právnické osoby",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T14:32:02.000Z",
@@ -4542,7 +4541,8 @@
           },
           "searchKeys": {
             "keyword": [
-              "Právnické osoby v klastrech",
+              "Klastry",
+              "Právnické osoby",
               "Královéhradecký kraj"
             ]
           },
@@ -5593,7 +5593,7 @@
       "title": "Stanice a pracoviště hasičského záchranného sboru",
       "description": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Stanice a pracoviště hasičského záchranného systému",
+        "Hasičský záchranný systém",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-25T09:58:47.000Z",
@@ -5721,7 +5721,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Stanice a pracoviště hasičského záchranného systému",
+              "Hasičský záchranný systém",
               "Královéhradecký kraj"
             ]
           },
@@ -6512,7 +6512,6 @@
       "title": "Plán zimní údržby silnic",
       "description": "Datová sada s prostorovou lokalizací plánu zimní údržby silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
       "keyword": [
-        "Plán zimní údržby silnic",
         "Zimní údržba",
         "Silnice",
         "Královéhradecký kraj"
@@ -6629,7 +6628,6 @@
           },
           "searchKeys": {
             "keyword": [
-              "Plán zimní údržby silnic",
               "Zimní údržba",
               "Silnice",
               "Královéhradecký kraj"
@@ -7757,9 +7755,8 @@
       "title": "Praktičtí lékaři pro dospělé",
       "description": "Datová sada s prostorovou lokalizací praktických lékařů pro dospělé. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Praktičtí lékaři pro dospělé",
-        "Zdravotnictví",
-        "Primární péče",
+        "Praktičtí lékaři",
+        "Dospělí",
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:18:05.000Z",
@@ -7874,9 +7871,8 @@
           },
           "searchKeys": {
             "keyword": [
-              "Praktičtí lékaři pro dospělé",
-              "Zdravotnictví",
-              "Primární péče",
+              "Praktičtí lékaři",
+              "Dospělí",
               "Královéhradecký kraj"
             ]
           },
@@ -7937,9 +7933,8 @@
       "title": "Kulturní památky na indikativním seznamu",
       "description": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Jedná se o seznam kulturních památek, které mají potenciál být prohlášeny národními kulturními památkami. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Kulturní památky na indikativním seznamu",
         "Kulturní památky",
-        "Indikativní seznam národních kulturních památek",
+        "Indikativní seznam",
         "Královéhradecký kraj"
       ],
       "issued": "2022-12-20T09:49:32.000Z",
@@ -8062,9 +8057,8 @@
           },
           "searchKeys": {
             "keyword": [
-              "Kulturní památky na indikativním seznamu",
               "Kulturní památky",
-              "Indikativní seznam národních kulturních památek",
+              "Indikativní seznam",
               "Královéhradecký kraj"
             ]
           },
@@ -11704,8 +11698,7 @@
       "title": "Dojížďka do vyšších odborných škol",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do vyšších odborných škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Dojížďka do vyšších odborných škol",
-        "Školství",
+        "Dojížďka",
         "Vyšší odborné školy",
         "Královéhradecký kraj"
       ],
@@ -11829,8 +11822,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Dojížďka do vyšších odborných škol",
-              "Školství",
+              "Dojížďka",
               "Vyšší odborné školy",
               "Královéhradecký kraj"
             ]
@@ -13308,7 +13300,7 @@
       "title": "Klastry Národní klastrové asociace",
       "description": "Datová sada s prostorovou lokalizací klastrů v evidenci Národní klastrové asociace. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
       "keyword": [
-        "Klastry Národní klastrové asociace",
+        "Klastry",
         "Královéhradecký kraj"
       ],
       "issued": "2022-10-22T19:47:15.000Z",
@@ -13431,7 +13423,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Klastry Národní klastrové asociace",
+              "Klastry",
               "Královéhradecký kraj"
             ]
           },
@@ -13496,8 +13488,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=97b02c71262b4d31971d2af702d12892&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/97b02c71262b4d31971d2af702d12892_0",
-      "title": "Počet ubytovaných v DDM a internátech",
-      "description": "Datová sada s prostorovou lokalizací domů dětí a mládeže a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
+      "title": "Počet ubytovaných v domovech mládeže a internátech",
+      "description": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Školství",
         "Školy",
@@ -13506,7 +13498,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-03T12:56:13.000Z",
-      "modified": "2023-07-17T07:50:43.038Z",
+      "modified": "2023-10-17T07:06:37.194Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13596,16 +13588,16 @@
           "CreaTime": 15033900,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-17",
+          "ModDate": "2023-10-17",
           "CreaDate": "2022-11-29",
-          "ModTime": "09:49:38.15",
+          "ModTime": "09:05:16.57",
           "SyncOnce": "TRUE",
           "MapLyrSync": "false",
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:48:31.34",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací domů dětí a mládeže a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Počet ubytovaných v DDM a internátech"
           },
@@ -13617,7 +13609,7 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
-          "idPurp": "Počet ubytovaných v DDM a internátech",
+          "idPurp": "Počet ubytovaných v domovech mládeže a internátech",
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -13643,6 +13635,26 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -14301,9 +14313,8 @@
       "title": "Praktičtí lékaři pro děti a dorost",
       "description": "Datová sada s prostorovou lokalizací praktických lékařů pro děti a dorost. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Praktičtí lékaři pro děti a dorost",
-        "Zdravotnictví",
-        "Primární péče",
+        "Praktičtí lékaři",
+        "Děti a dorost",
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-09T07:14:55.000Z",
@@ -14418,9 +14429,8 @@
           },
           "searchKeys": {
             "keyword": [
-              "Praktičtí lékaři pro děti a dorost",
-              "Zdravotnictví",
-              "Primární péče",
+              "Praktičtí lékaři",
+              "Děti a dorost",
               "Královéhradecký kraj"
             ]
           },
@@ -14481,8 +14491,10 @@
       "title": "Vlakové linky VDKHK",
       "description": "Datová sada s prostorovou lokalizací vlakových linek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Vlakové linky",
-        "Veřejná doprava Královéhradeckého kraje",
+        "Linky",
+        "Vlak",
+        "Železnice",
+        "VDKHK",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T07:58:04.000Z",
@@ -14668,8 +14680,10 @@
           },
           "searchKeys": {
             "keyword": [
-              "Vlakové linky",
-              "Veřejná doprava Královéhradeckého kraje",
+              "Linky",
+              "Vlak",
+              "Železnice",
+              "VDKHK",
               "Královéhradecký kraj"
             ]
           },
@@ -14872,8 +14886,9 @@
       "title": "Autobusové zastávky VDKHK",
       "description": "Datová sada s prostorovou lokalizací autobusových zastávek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Autobusové zastávky VDKHK",
-        "Veřejná doprava Královéhradeckého kraje",
+        "Zastávky",
+        "Autobus",
+        "VDKHK",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T06:11:22.000Z",
@@ -15058,8 +15073,9 @@
           },
           "searchKeys": {
             "keyword": [
-              "Autobusové zastávky VDKHK",
-              "Veřejná doprava Královéhradeckého kraje",
+              "Zastávky",
+              "Autobus",
+              "VDKHK",
               "Královéhradecký kraj"
             ]
           },
@@ -16218,8 +16234,7 @@
       "title": "Dojížďka do středních škol",
       "description": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do středních škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Dojížďka do středních škol",
-        "Školství",
+        "Dojížďka",
         "Střední školy",
         "Královéhradecký kraj"
       ],
@@ -16350,8 +16365,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Dojížďka do středních škol",
-              "Školství",
+              "Dojížďka",
               "Střední školy",
               "Královéhradecký kraj"
             ]
@@ -17203,8 +17217,7 @@
       "title": "Přijímací řízení na střední školy",
       "description": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Přijímací řízení na střední školy",
-        "Školství",
+        "Přijímací řízení",
         "Střední školy",
         "Královéhradecký kraj"
       ],
@@ -17320,8 +17333,7 @@
           },
           "searchKeys": {
             "keyword": [
-              "Přijímací řízení na střední školy",
-              "Školství",
+              "Přijímací řízení",
               "Střední školy",
               "Královéhradecký kraj"
             ]
@@ -19959,8 +19971,10 @@
       "title": "Železniční stanice a zastávky VDKHK",
       "description": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Železniční stanice a zastávky VDKHK",
-        "Veřejná doprava Královéhradeckého kraje",
+        "Stanice",
+        "Zastávky",
+        "Železnice",
+        "VDKHK",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T05:38:38.000Z",
@@ -20083,8 +20097,10 @@
           },
           "searchKeys": {
             "keyword": [
-              "Železniční stanice a zastávky VDKHK",
-              "Veřejná doprava Královéhradeckého kraje",
+              "Stanice",
+              "Zastávky",
+              "Železnice",
+              "VDKHK",
               "Královéhradecký kraj"
             ]
           },
@@ -20152,8 +20168,9 @@
       "title": "Autobusové linky VDKHK",
       "description": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Autobusové linky VDKHK",
-        "Veřejná doprava Královéhradeckého kraje",
+        "Linky",
+        "Autobus",
+        "VDKHK",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T07:22:33.000Z",
@@ -20276,8 +20293,9 @@
           },
           "searchKeys": {
             "keyword": [
-              "Autobusové linky VDKHK",
-              "Veřejná doprava Královéhradeckého kraje",
+              "Linky",
+              "Autobus",
+              "VDKHK",
               "Královéhradecký kraj"
             ]
           },
