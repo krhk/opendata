@@ -9729,7 +9729,7 @@
       },
       "accessLevel": "public",
       "spatial": "15.2264,49.9846,16.4935,50.6509",
-      "license": "",
+      "license": "CC0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -9808,7 +9808,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "prirodni_rezervace_khk"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -9842,7 +9843,7 @@
             }
           },
           "SyncTime": 7562300,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -9884,7 +9885,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "prirodni_rezervace_khk"
             }
           }
         },
@@ -10051,6 +10053,11 @@
                   }
                 },
                 "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "CC0"
               }
             }
           ]
@@ -10301,7 +10308,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "prirodni_rezervace_khk"
-            }
+            },
+            "@_Name": "prirodni_rezervace_khk"
           }
         },
         "refSysInfo": {
@@ -10404,7 +10412,8 @@
               "formatName": "Shapefile"
             }
           }
-        }
+        },
+        "@_xml:lang": "cs"
       },
       "category": [
         "Životní prostředí"
