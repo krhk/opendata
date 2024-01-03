@@ -13498,16 +13498,15 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=97b02c71262b4d31971d2af702d12892&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/97b02c71262b4d31971d2af702d12892_0",
       "title": "Počet ubytovaných v domovech mládeže a internátech",
-      "description": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
+      "description": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Školství",
-        "Školy",
-        "Domovy dětí a mládeže",
+        "Domovy mládeže",
         "Internáty",
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-03T12:56:13.000Z",
-      "modified": "2023-10-17T07:06:37.194Z",
+      "modified": "2024-01-02T12:57:53.990Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -13518,131 +13517,68 @@
       },
       "accessLevel": "public",
       "spatial": "15.2727,50.1242,16.2799,50.6322",
-      "license": "CC0",
+      "license": "<p>CC0</p>",
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1689580112127r10846516337984502",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2023-07-17",
         "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
           "ArcGISFormat": 1,
-          "CreaTime": 15033900,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "CreaTime": 15125200,
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-10-17",
-          "CreaDate": "2022-11-29",
-          "ModTime": "09:05:16.57",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "CreaDate": 20221129,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "09:48:31.34",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+          "idCredit": "Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje",
           "idCitation": {
-            "resTitle": "Počet ubytovaných v DDM a internátech"
+            "resTitle": "Počet ubytovaných v domovech mládeže a internátech"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "zun"
+            }
           },
           "themeKeys": {
             "thesaName": {
               "date": {
-                "pubDate": "2008-06-01"
+                "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
           "idPurp": "Počet ubytovaných v domovech mládeže a internátech",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
             }
           },
           "searchKeys": {
             "keyword": [
               "Školství",
-              "Školy",
-              "Domovy dětí a mládeže",
+              "Domovy mládeže",
               "Internáty",
               "Královéhradecký kraj"
             ]
           },
-          "idPoC": {
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
+          "resConst": {
+            "Consts": {
+              "useLimit": "<p>CC0</p>"
             }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
+          }
         },
         "refSysInfo": {
           "RefSystem": {
@@ -13651,11 +13587,6 @@
                 "@_code": "4326"
               }
             }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
           }
         }
       },

@@ -7038,13 +7038,12 @@
         "cs": "Počet ubytovaných v domovech mládeže a internátech"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací domů a internátů v Královéhradeckém kraji, která obsahuje údaje týkající se počtu ubytovaných studentů a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje."
+        "cs": "Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje."
       },
       "klíčové_slovo": {
         "cs": [
           "Školství",
-          "Školy",
-          "Domovy dětí a mládeže",
+          "Domovy mládeže",
           "Internáty",
           "Královéhradecký kraj"
         ]
@@ -7053,7 +7052,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
