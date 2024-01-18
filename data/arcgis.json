@@ -11707,12 +11707,13 @@
       "title": "Dojížďka do vyšších odborných škol",
       "description": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do vyšších odborných škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
+        "VOŠ",
         "Dojížďka",
-        "Vyšší odborné školy",
+        "Školství",
         "Královéhradecký kraj"
       ],
       "issued": "2022-12-19T08:03:44.000Z",
-      "modified": "2023-07-14T09:31:41.486Z",
+      "modified": "2024-01-17T12:04:06.397Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -11722,7 +11723,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.3524,50.1856,15.9155,50.5651",
+      "spatial": "15.3524,50.2038,15.9155,50.5651",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -11738,7 +11739,7 @@
             }
           }
         },
-        "mdFileID": "1689326971102r1997130504382869",
+        "mdFileID": "1705492550602r6845387774740816",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -11746,7 +11747,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-14",
+        "mdDateSt": "2024-01-17",
         "Esri": {
           "locales": {
             "locale": {
@@ -11755,17 +11756,18 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 8294600,
+          "CreaTime": 8490100,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-14",
+          "ModDate": "2024-01-17",
           "CreaDate": "2022-12-19",
-          "ModTime": "11:30:32.91",
+          "ModTime": "13:04:57.45",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "11:29:30.58",
+        "mdTimeSt": "12:55:50.06",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do vyšších odborných škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -11787,8 +11789,9 @@
           },
           "searchKeys": {
             "keyword": [
+              "VOŠ",
               "Dojížďka",
-              "Vyšší odborné školy",
+              "Školství",
               "Královéhradecký kraj"
             ]
           },
@@ -11803,6 +11806,46 @@
             {
               "Consts": {
                 "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
               }
             },
             {
