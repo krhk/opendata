@@ -11495,7 +11495,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=85d3fd9342ae4f53aeeb383c14fd1cf8&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/85d3fd9342ae4f53aeeb383c14fd1cf8_0",
-      "title": "Následná péče",
+      "title": "Následná lůžková péče",
       "description": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
         "Následná péče",
@@ -11552,10 +11552,11 @@
           "CreaDate": "2022-09-21",
           "ModTime": "22:46:24.41",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "17:14:31.33",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací poskytovatelů následné péče v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
