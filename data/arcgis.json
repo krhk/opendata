@@ -4055,9 +4055,9 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-04-17T08:35:17.000Z",
-      "modified": "2023-07-18T10:39:18.972Z",
+      "modified": "2024-03-18T13:15:56.989Z",
       "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "fn": "Tomas_Slezak_DATAKHK",
@@ -4065,7 +4065,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.1986,49.9632,16.4748,50.7892",
+      "spatial": "-6.1280,-9.7447,-5.3511,-8.5604",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -4081,15 +4081,15 @@
             }
           }
         },
-        "mdFileID": "1681720672833r4229638207453572",
+        "mdFileID": "1710767592917r3557091420784051",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "010"
             }
           }
         },
-        "mdDateSt": "2023-04-17",
+        "mdDateSt": "2024-03-18",
         "Esri": {
           "locales": {
             "locale": {
@@ -4099,20 +4099,29 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 13364300,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-06-07",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-03-18",
           "CreaDate": "2022-09-07",
-          "ModTime": "16:53:17.07",
+          "ModTime": "14:14:15.95",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:37:52.19",
+        "mdTimeSt": "14:13:12.40",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
           "idCitation": {
             "resTitle": "Stav povrchu silnic"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Stav povrchu silnic",
           "dataChar": {
@@ -4127,30 +4136,18 @@
               "Královéhradecký kraj"
             ]
           },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
           "resConst": [
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
@@ -20281,9 +20278,9 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T07:22:33.000Z",
-      "modified": "2023-07-17T11:03:08.304Z",
+      "modified": "2024-03-18T11:57:52.014Z",
       "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "fn": "Tomas_Slezak_DATAKHK",
@@ -20291,7 +20288,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.0847,49.8622,16.4830,50.8436",
+      "spatial": "15.0847,49.8622,16.4515,50.8414",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -20307,7 +20304,7 @@
             }
           }
         },
-        "mdFileID": "1680247455899r17432080422950147",
+        "mdFileID": "1710762568605r36567680804914016",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -20315,7 +20312,7 @@
             }
           }
         },
-        "mdDateSt": "2023-03-31",
+        "mdDateSt": "2024-03-18",
         "Esri": {
           "locales": {
             "locale": {
@@ -20327,14 +20324,15 @@
           "CreaTime": 14534600,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-17",
+          "ModDate": "2024-03-18",
           "CreaDate": "2022-08-03",
-          "ModTime": "13:02:32.35",
+          "ModTime": "12:57:28.48",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "09:24:15.33",
+        "mdTimeSt": "12:49:28.08",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -20354,6 +20352,11 @@
               "@_value": "004"
             }
           },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "018"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Linky",
@@ -20363,6 +20366,7 @@
             ]
           },
           "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -20373,26 +20377,6 @@
             {
               "Consts": {
                 "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             },
             {
