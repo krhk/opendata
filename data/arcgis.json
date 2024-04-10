@@ -3286,7 +3286,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-21T14:38:52.000Z",
-      "modified": "2023-05-26T06:38:43.769Z",
+      "modified": "2024-04-09T10:29:14.757Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -12085,7 +12085,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "USES_ZUR_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -12111,7 +12112,7 @@
             }
           },
           "SyncTime": 9031500,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -12139,7 +12140,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "USES_ZUR_p"
             }
           }
         },
@@ -12378,7 +12380,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "USES_ZUR_p"
-            }
+            },
+            "@_Name": "USES_ZUR_p"
           }
         },
         "refSysInfo": {
@@ -12410,6 +12413,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -15986,7 +15990,8 @@
       "keyword": [
         "Dojížďka",
         "Střední školy",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Školství"
       ],
       "issued": "2023-01-04T09:28:31.000Z",
       "modified": "2023-07-14T09:25:32.965Z",
@@ -16039,10 +16044,11 @@
           "CreaDate": "2023-01-04",
           "ModTime": "11:24:37.24",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:23:11.13",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do středních škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -16073,7 +16079,8 @@
             "keyword": [
               "Dojížďka",
               "Střední školy",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Školství"
             ]
           },
           "idPoC": {
