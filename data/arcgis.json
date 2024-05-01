@@ -3277,6 +3277,447 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=24f82d8f89e54a6898377df6a4cbc831&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/24f82d8f89e54a6898377df6a4cbc831_0",
+      "title": "Odborné léčebné ústavy",
+      "description": "Datová sada s prostorovou lokalizací odborných léčebných ústavů na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Léčba",
+        "Ústavy",
+        "Zdravotnictví",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2024-03-13T13:37:54.000Z",
+      "modified": "2024-03-13T13:43:43.588Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.5912,50.4303,15.7821,50.6312",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1710337274842r2975603418591135",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2024-03-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14354800,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-03-13",
+          "CreaDate": "2024-03-13",
+          "ModTime": "14:42:44.95",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "14:41:14.28",
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací odborných léčebných ústavů na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Odborné léčebné ústavy"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Odborné léčebné ústavy",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Léčba",
+              "Ústavy",
+              "Zdravotnictví",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Zdravotnictví a zdraví"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/24f82d8f89e54a6898377df6a4cbc831_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborn%C3%A9_l%C3%A9%C4%8Debn%C3%A9_%C3%BAstavy/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/24f82d8f89e54a6898377df6a4cbc831/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/24f82d8f89e54a6898377df6a4cbc831/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/24f82d8f89e54a6898377df6a4cbc831/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/24f82d8f89e54a6898377df6a4cbc831/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=270d30d318204f3ebbc73cc3adb5ca30&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/270d30d318204f3ebbc73cc3adb5ca30_0",
+      "title": "Letecké sporty",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro letecký sport na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Letecké sporty",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T12:56:33.000Z",
+      "modified": "2023-12-14T13:54:43.259Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3331,50.2134,16.3428,50.7251",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 9303700,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:37:57.19",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:37:23.13",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro letecký sport na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCredit": "Královéhradecký kraj",
+          "idCitation": {
+            "resTitle": "Letecké sporty"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Letecké sporty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Letecké sporty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení",
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": 1,
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/270d30d318204f3ebbc73cc3adb5ca30_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Leteck%C3%A9_sporty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/270d30d318204f3ebbc73cc3adb5ca30/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/270d30d318204f3ebbc73cc3adb5ca30/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/270d30d318204f3ebbc73cc3adb5ca30/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/270d30d318204f3ebbc73cc3adb5ca30/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=285bc3ecf55b4c718069f05a4471815b&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/285bc3ecf55b4c718069f05a4471815b_0",
       "title": "Lékařská pohotovostní služba",
@@ -3806,6 +4247,234 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/28e8746d8e1c4049a8140092bd7f4d8d/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2dfef5cd6dab461d8eb5596de9dfc2e2&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/2dfef5cd6dab461d8eb5596de9dfc2e2_0",
+      "title": "Rybaření",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů pro rybaření na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Rybaření",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:32:31.000Z",
+      "modified": "2023-12-14T14:51:35.449Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1932,50.1157,16.3377,50.7123",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1704455425152r5255287378979547",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14315800,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "12:51:45.33",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "12:50:24.62",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů pro rybaření na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Rybaření"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Rybaření",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Rybaření",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/2dfef5cd6dab461d8eb5596de9dfc2e2_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ryba%C5%99en%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/2dfef5cd6dab461d8eb5596de9dfc2e2/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/2dfef5cd6dab461d8eb5596de9dfc2e2/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/2dfef5cd6dab461d8eb5596de9dfc2e2/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/2dfef5cd6dab461d8eb5596de9dfc2e2/kml?layers=0"
         }
       ],
       "theme": [
@@ -4357,6 +5026,259 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/38402dfafbf4467cbb6fa29c546ad501/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3b31adc233464ff3ad482313a4010377&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/3b31adc233464ff3ad482313a4010377_0",
+      "title": "Solné jeskyně",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací solných jeskyní na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Solné jeskyně",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:35:07.000Z",
+      "modified": "2023-12-14T14:55:28.605Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3632,50.1621,16.2763,50.7341",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14343200,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "12:52:49.15",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "12:47:33.61",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací solných jeskyní na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Solné jeskyně"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Solné jeskyně",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Solné jeskyně",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "1704455254098r6178500151191615",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/3b31adc233464ff3ad482313a4010377_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Soln%C3%A9_jeskyn%C4%9B/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3b31adc233464ff3ad482313a4010377/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3b31adc233464ff3ad482313a4010377/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3b31adc233464ff3ad482313a4010377/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3b31adc233464ff3ad482313a4010377/kml?layers=0"
         }
       ],
       "theme": [
@@ -6698,235 +7620,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=4e0d8df8694a4e5981c4bc0e4c87f377&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/maps/4e0d8df8694a4e5981c4bc0e4c87f377_0",
-      "title": "Kluby",
-      "description": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
-      "keyword": [
-        "Kluby",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2022-09-28T13:36:17.000Z",
-      "modified": "2022-09-29T00:00:00.000Z",
-      "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "15.3585,50.1160,16.4119,50.7258",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1664372305603r007100982165749059",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2022-09-28",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": 15344400,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2023-06-07",
-          "CreaDate": "2022-09-28",
-          "ModTime": "16:06:45.80",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "15:38:25.06",
-        "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací klubů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "reviseDate": "2022-09-29",
-              "pubDate": "2021-11-01",
-              "createDate": "2021-11-01"
-            },
-            "resTitle": "Kluby"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Kluby",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Kluby",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Kultura a cestovní ruch"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/maps/4e0d8df8694a4e5981c4bc0e4c87f377_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Kluby/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4e0d8df8694a4e5981c4bc0e4c87f377/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4e0d8df8694a4e5981c4bc0e4c87f377/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4e0d8df8694a4e5981c4bc0e4c87f377/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4e0d8df8694a4e5981c4bc0e4c87f377/kml?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=50bbfec8c7ec43a69448c6d6132282de&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/50bbfec8c7ec43a69448c6d6132282de_0",
       "title": "Národní kulturní památky - liniové objekty",
@@ -7508,6 +8201,233 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/57b023b1110340c7b539701c532d81b6/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5c0304dbcdfd432fb6a7363b75a00ed1&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/5c0304dbcdfd432fb6a7363b75a00ed1_0",
+      "title": "Regionální potraviny",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací sídel regionálních potravin na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Regionální potraviny",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:26:18.000Z",
+      "modified": "2023-12-14T14:41:37.967Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1725,50.0779,16.3949,50.7345",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1704456565611r5217265421410553",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14254600,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:10:45.80",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:09:25.02",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací sídel regionálních potravin na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Regionální potraviny"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Regionální potraviny",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Regionální potraviny",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/5c0304dbcdfd432fb6a7363b75a00ed1_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Region%C3%A1ln%C3%AD_potraviny/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5c0304dbcdfd432fb6a7363b75a00ed1/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5c0304dbcdfd432fb6a7363b75a00ed1/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5c0304dbcdfd432fb6a7363b75a00ed1/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5c0304dbcdfd432fb6a7363b75a00ed1/kml?layers=0"
         }
       ],
       "theme": [
@@ -13647,6 +14567,233 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a22dfb6709864e6984f01527491ae70b&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/a22dfb6709864e6984f01527491ae70b_0",
+      "title": "Pivovary",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací pivovarů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Pivovary",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:22:46.000Z",
+      "modified": "2023-12-14T14:36:25.662Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1715,50.0823,16.5528,50.7455",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1704456765323r5592653614421763",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14221400,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:14:29.96",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:12:44.76",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací pivovarů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Pivovary"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Pivovary",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Pivovary",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/a22dfb6709864e6984f01527491ae70b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pivovary/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a22dfb6709864e6984f01527491ae70b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a22dfb6709864e6984f01527491ae70b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a22dfb6709864e6984f01527491ae70b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a22dfb6709864e6984f01527491ae70b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a2d0970a92b6452899730e90a1ce5e29&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/a2d0970a92b6452899730e90a1ce5e29_0",
       "title": "Územní rezervy dle ZÚR",
@@ -14232,6 +15379,234 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/a3e7a755cf8840eeb377cb650609c2ac/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a58cd530e36e418d8be4857c01912fe1&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/a58cd530e36e418d8be4857c01912fe1_0",
+      "title": "Řemeslné výrobky",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací sídel řemeslných výrobků na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Řemeslné výrobky",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:29:22.000Z",
+      "modified": "2023-12-14T14:46:12.743Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3459,50.1087,16.5540,50.7276",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1704456262533r5359172280219917",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14284800,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:07:15.40",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:04:22.03",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací sídel řemeslných výrobků na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Řemeslné výrobky"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Řemeslné výrobky",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Řemeslné výrobky",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/a58cd530e36e418d8be4857c01912fe1_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C5%98emesln%C3%A9_v%C3%BDrobky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a58cd530e36e418d8be4857c01912fe1/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a58cd530e36e418d8be4857c01912fe1/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a58cd530e36e418d8be4857c01912fe1/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/a58cd530e36e418d8be4857c01912fe1/kml?layers=0"
         }
       ],
       "theme": [
@@ -15780,6 +17155,234 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/b03f47566c9a4ce4aa6ed8db765ae824/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=baf74cda7f4f49dd99686d8ba1f0a8d8&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/baf74cda7f4f49dd99686d8ba1f0a8d8_0",
+      "title": "Ostatní letní sporty",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro ostatní letní sporty na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Ostatní letní sporty",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:20:18.000Z",
+      "modified": "2023-12-14T14:26:32.091Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1795,50.1069,16.4203,50.7453",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1704457012344r5194171286047957",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14121000,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:21:29.95",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:16:51.82",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro ostatní letní sporty na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Ostatní letní sporty"
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Ostatní letní sporty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Ostatní letní sporty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/baf74cda7f4f49dd99686d8ba1f0a8d8_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ostatn%C3%AD_letn%C3%AD_sporty/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/baf74cda7f4f49dd99686d8ba1f0a8d8/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/baf74cda7f4f49dd99686d8ba1f0a8d8/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/baf74cda7f4f49dd99686d8ba1f0a8d8/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/baf74cda7f4f49dd99686d8ba1f0a8d8/kml?layers=0"
         }
       ],
       "theme": [
@@ -18429,6 +20032,257 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d69b0c15eaf44e46a5918a4d6f95877a&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/d69b0c15eaf44e46a5918a4d6f95877a_0",
+      "title": "Jezdectví",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro jezdectví na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Jezdectví",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:01:37.000Z",
+      "modified": "2023-12-14T14:05:55.620Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1629,50.0781,16.4792,50.6946",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14010200,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:26:53.45",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:26:18.54",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro jezdectví na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Jezdectví",
+            "citRespParty": {
+              "rpOrgName": "Královéhradecký kraj",
+              "role": {
+                "RoleCd": {
+                  "@_value": "002"
+                }
+              }
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "Jezdectví",
+              "Královéhradecký kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Jezdectví",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení",
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": 2,
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/d69b0c15eaf44e46a5918a4d6f95877a_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Jezdectv%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/d69b0c15eaf44e46a5918a4d6f95877a/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/d69b0c15eaf44e46a5918a4d6f95877a/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/d69b0c15eaf44e46a5918a4d6f95877a/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/d69b0c15eaf44e46a5918a4d6f95877a/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d9f3ee622a1247bd92249127371b6ee5&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/d9f3ee622a1247bd92249127371b6ee5_0",
       "title": "Vymezení krajin, ke kterým jsou stanoveny cílové kvality v ZÚR",
@@ -20436,6 +22290,228 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f16bb2cb44c64ee9882eefaa3c263dd6&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/f16bb2cb44c64ee9882eefaa3c263dd6_0",
+      "title": "Hudební kluby a festival parky",
+      "description": "Datová sada s prostorovou lokalizací hudebních klubů a festival parků na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Hudební kluby",
+        "Festival parky",
+        "Kultura",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2024-03-13T08:46:19.000Z",
+      "modified": "2024-03-13T08:55:26.297Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3639,50.1160,16.3359,50.7258",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1710319788883r8618458468895489",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2024-03-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 9434300,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-03-13",
+          "CreaDate": "2024-03-13",
+          "ModTime": "14:39:17.52",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "09:49:48.35",
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací hudebních klubů a festival parků na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Hudební kluby a festival parky"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Hudební kluby a festival parky",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Hudební kluby",
+              "Festival parky",
+              "Kultura",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/f16bb2cb44c64ee9882eefaa3c263dd6_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hudebn%C3%AD_kluby_a_festival_parky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f16bb2cb44c64ee9882eefaa3c263dd6/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f16bb2cb44c64ee9882eefaa3c263dd6/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f16bb2cb44c64ee9882eefaa3c263dd6/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f16bb2cb44c64ee9882eefaa3c263dd6/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f239c6222745417ba617c8d54afad1ad&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/f239c6222745417ba617c8d54afad1ad_0",
       "title": "Zábavní centra",
@@ -21068,6 +23144,201 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f2e7d14c208f44b99741710aeba77ab1&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/f2e7d14c208f44b99741710aeba77ab1_0",
+      "title": "Lázně",
+      "description": "Datová sada s prostorovou lokalizací lázní na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Lázně",
+        "Zdravotnictví",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2024-03-13T13:11:53.000Z",
+      "modified": "2024-03-13T13:21:24.566Z",
+      "publisher": {
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.5868,50.3549,15.8467,50.6312",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1710335768220r7804828523530876",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2024-03-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14095400,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-03-13",
+          "CreaDate": "2024-03-13",
+          "ModTime": "14:17:55.60",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "14:16:07.72",
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací lázní na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Lázně"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Lázně",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Lázně",
+              "Zdravotnictví",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Zdravotnictví a zdraví"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/f2e7d14c208f44b99741710aeba77ab1_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/L%C3%A1zn%C4%9B/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f2e7d14c208f44b99741710aeba77ab1/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f2e7d14c208f44b99741710aeba77ab1/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f2e7d14c208f44b99741710aeba77ab1/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f2e7d14c208f44b99741710aeba77ab1/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f51fcdb253344157a658e9fe3a4cd385&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/f51fcdb253344157a658e9fe3a4cd385_0",
       "title": "Válečné hroby",
@@ -21238,6 +23509,234 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/f51fcdb253344157a658e9fe3a4cd385/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f7c3fbb0791549bd8fa8c8dcb4818013&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/maps/f7c3fbb0791549bd8fa8c8dcb4818013_0",
+      "title": "Letní koupání",
+      "description": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro letní koupání na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+      "keyword": [
+        "Letní koupání",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-12-14T13:05:46.000Z",
+      "modified": "2023-12-14T14:13:33.719Z",
+      "publisher": {
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1693,50.1135,16.3019,50.6290",
+      "license": "<p>CC0</p>",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdDateSt": "2023-12-13",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 14045900,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-01-05",
+          "CreaDate": "2023-12-14",
+          "ModTime": "13:34:47.11",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "13:30:58.74",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": [
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:white;color:#4C4C4C;font-family:&quot;Arial&quot;,sans-serif;\">Datová sada s prostorovou lokalizací areálů určených pro letní koupání na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o.</span></p>",
+          "idCitation": {
+            "resTitle": "Letní koupání"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Letní koupání",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "<p>CC0</p>"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení",
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": 3,
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/maps/f7c3fbb0791549bd8fa8c8dcb4818013_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Letn%C3%AD_koup%C3%A1n%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f7c3fbb0791549bd8fa8c8dcb4818013/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f7c3fbb0791549bd8fa8c8dcb4818013/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f7c3fbb0791549bd8fa8c8dcb4818013/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f7c3fbb0791549bd8fa8c8dcb4818013/kml?layers=0"
         }
       ],
       "theme": [
