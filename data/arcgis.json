@@ -24440,7 +24440,17 @@
         "Školy",
         "Školská zařízení",
         "Školství",
-        "Královéhradecký kraj"
+        "Královéhradecký kraj",
+        "Dětský domov",
+        "Domov mládeže",
+        "Dům dětí a mládeže",
+        "Internát",
+        "Mateřská škola",
+        "Základní škola",
+        "Družina",
+        "Jídelna",
+        "Vyšší odborná škola",
+        "Základní umělecká škola"
       ],
       "issued": "2022-09-25T08:07:56.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
@@ -24493,10 +24503,11 @@
           "CreaDate": "2022-09-25",
           "ModTime": "23:06:34.02",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:11:39.35",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací všech škol a školských zařízení v Královéhradeckém kraji podle zřizovatele. Zdrojem dat je Školský informační portál Královéhradeckého kraje.",
           "idCitation": {
@@ -24526,7 +24537,17 @@
               "Školy",
               "Školská zařízení",
               "Školství",
-              "Královéhradecký kraj"
+              "Královéhradecký kraj",
+              "Dětský domov",
+              "Domov mládeže",
+              "Dům dětí a mládeže",
+              "Internát",
+              "Mateřská škola",
+              "Základní škola",
+              "Družina",
+              "Jídelna",
+              "Vyšší odborná škola",
+              "Základní umělecká škola"
             ]
           },
           "resConst": [
