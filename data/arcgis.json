@@ -18238,10 +18238,11 @@
           "CreaDate": "2023-02-02",
           "ModTime": "13:37:38.04",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:36:57.89",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje.",
           "idCitation": {
