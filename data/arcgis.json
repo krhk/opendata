@@ -9232,9 +9232,9 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-16T07:58:28.000Z",
-      "modified": "2023-07-14T05:52:10.600Z",
+      "modified": "2024-06-10T11:05:38.199Z",
       "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "fn": "Tomas_Slezak_DATAKHK",
@@ -9258,7 +9258,7 @@
             }
           }
         },
-        "mdFileID": "1689313802096r9978440602761387",
+        "mdFileID": "1718017372970r5679584317394959",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -9266,7 +9266,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-14",
+        "mdDateSt": "2024-06-10",
         "Esri": {
           "locales": {
             "locale": {
@@ -9275,17 +9275,18 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 8405800,
+          "CreaTime": 14324000,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-14",
-          "CreaDate": "2022-11-16",
-          "ModTime": "07:51:25.48",
+          "ModDate": "2024-06-10",
+          "CreaDate": "2022-09-21",
+          "ModTime": "13:05:10.45",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "07:50:01.50",
+        "mdTimeSt": "13:02:52.46",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací kin na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -9313,6 +9314,7 @@
             ]
           },
           "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -17994,9 +17996,9 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-12T09:29:26.000Z",
-      "modified": "2023-07-14T06:20:45.644Z",
+      "modified": "2024-06-10T11:28:51.460Z",
       "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "fn": "Tomas_Slezak_DATAKHK",
@@ -18004,7 +18006,7 @@
         "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "15.1768,50.1160,16.4647,50.6310",
+      "spatial": "15.1768,50.1160,16.4647,50.5882",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -18020,7 +18022,7 @@
             }
           }
         },
-        "mdFileID": "1689315508105r8583476739370961",
+        "mdFileID": "1718018832914r40686671992119594",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -18028,7 +18030,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-14",
+        "mdDateSt": "2024-06-10",
         "Esri": {
           "locales": {
             "locale": {
@@ -18037,21 +18039,22 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 12454100,
+          "CreaTime": 13243300,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-14",
+          "ModDate": "2024-06-10",
           "CreaDate": "2022-11-11",
-          "ModTime": "08:19:59.40",
+          "ModTime": "13:28:14.07",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "08:18:27.58",
+        "mdTimeSt": "13:27:12.40",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
-            "resTitle": "Kulturní domy"
+            "resTitle": "Kulturní doby"
           },
           "themeKeys": {
             "thesaName": {
@@ -18075,6 +18078,7 @@
             ]
           },
           "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
