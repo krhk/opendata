@@ -65,10 +65,11 @@
           "CreaDate": "2022-09-25",
           "ModTime": "09:10:20.05",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:00:05.37",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací služeben a stanic Policie ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -2348,10 +2349,11 @@
           "CreaDate": "2022-09-25",
           "ModTime": "13:34:31.77",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:33:05.42",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací výjezdových základen Zdravotnické záchranné služby Královéhradeckého kraje podle oblasti plošného pokrytí. Zdrojem dat je Zdravotnická záchranná služba Královéhradeckého kraje.",
           "idCitation": {
@@ -2949,10 +2951,11 @@
           "CreaDate": "2022-11-29",
           "ModTime": "10:41:28.04",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:40:27.11",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -4915,10 +4918,11 @@
           "CreaDate": "2022-08-02",
           "ModTime": "15:22:52.19",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "15:21:54.10",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací právnických osob v klastrech. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -6335,10 +6339,11 @@
           "CreaDate": "2022-09-25",
           "ModTime": "09:14:25.03",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:03:16.85",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací stanic a pracovišť Hasičského záchranného sboru ČR v Královéhradeckém kraji. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -7255,10 +7260,11 @@
           "CreaDate": "2022-08-03",
           "ModTime": "16:50:56.88",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:31:27.29",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plánu zimní údržby silnic ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
           "idCitation": {
@@ -8496,10 +8502,11 @@
           "CreaDate": "2023-01-23",
           "ModTime": "08:36:48.66",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:35:30.74",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací praktických lékařů pro dospělé. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -8674,10 +8681,11 @@
           "CreaDate": "2022-12-20",
           "ModTime": "13:27:20.00",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:26:20.93",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací nemovitých kulturních památek ČR zapsaných na Indikativní seznam národních kulturních památek ČR v Královéhradeckém kraji. Jedná se o seznam kulturních památek, které mají potenciál být prohlášeny národními kulturními památkami. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -14296,10 +14304,11 @@
           "CreaDate": "2022-10-22",
           "ModTime": "13:06:13.37",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:05:17.56",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací klastrů v evidenci Národní klastrové asociace. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -15468,10 +15477,11 @@
           "CreaDate": "2023-01-04",
           "ModTime": "08:33:03.14",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:30:47.01",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací praktických lékařů pro děti a dorost. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -15860,7 +15870,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "vlakove_linky"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -15887,7 +15898,7 @@
             }
           },
           "SyncTime": 15504700,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -15915,7 +15926,8 @@
                 "@_code": "3"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "vlakove_linky"
             }
           }
         },
@@ -16109,7 +16121,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "vlakove_linky"
-            }
+            },
+            "@_Name": "vlakove_linky"
           }
         },
         "refSysInfo": {
@@ -16154,6 +16167,7 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -16254,7 +16268,8 @@
                 "GeoObjTypCd": {
                   "@_value": "004"
                 }
-              }
+              },
+              "@_Name": "autobusove_zastavky_IREDO"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -16280,7 +16295,7 @@
             }
           },
           "SyncTime": 15551100,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -16308,7 +16323,8 @@
                 "@_code": "1"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "autobusove_zastavky_IREDO"
             }
           }
         },
@@ -16544,7 +16560,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "autobusove_zastavky_IREDO"
-            }
+            },
+            "@_Name": "autobusove_zastavky_IREDO"
           }
         },
         "refSysInfo": {
@@ -16579,6 +16596,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -18834,10 +18852,11 @@
           "CreaDate": "2023-06-05",
           "ModTime": "09:16:38.85",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:15:27.74",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -21964,10 +21983,11 @@
           "CreaDate": "2022-08-02",
           "ModTime": "13:57:01.43",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:54:05.72",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací železničních stanic a zastávek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejedná se o zobrazeních všech železničních stanic a zastávek, které se v Královéhradeckém kraji nacházejí. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
