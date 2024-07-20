@@ -295,10 +295,11 @@
           "CreaDate": "2022-09-22",
           "ModTime": "10:08:01.74",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:06:59.78",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
           "idCitation": {
@@ -488,10 +489,11 @@
           "CreaDate": "2023-03-15",
           "ModTime": "12:43:31.65",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:42:30.69",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací informačních center autobusové dopravy Veřejné dopravy Královéhradeckého kraje (VDKHK) včetně kontaktů na danou provozovnu. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -681,10 +683,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "12:07:33.78",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:06:40.33",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací přírodních zajímavostí na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -873,10 +876,11 @@
           "CreaDate": "2022-10-22",
           "ModTime": "12:19:09.63",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:18:16.32",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací průmyslových zón. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -1048,7 +1052,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "cyklovylety"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -1074,7 +1079,7 @@
             }
           },
           "SyncTime": 10390300,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -1102,7 +1107,8 @@
                 "@_code": "3"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "cyklovylety"
             }
           }
         },
@@ -1309,7 +1315,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "cyklovylety"
-            }
+            },
+            "@_Name": "cyklovylety"
           }
         },
         "refSysInfo": {
@@ -1339,6 +1346,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -1454,10 +1462,11 @@
           "CreaDate": "2022-11-11",
           "ModTime": "12:00:15.89",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:58:35.26",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zejména pomníků války 1866, které jsou v majetku Královéhradeckého kraje a jsou svěřené do správy Muzea východních Čech v Hradci Králové. Sada dále obsahuje několik dalších pomníků a pamětních desek 1. a 2. světové války umístěných v objektech škol zřizovaných Královéhradeckým krajem nebo na pozemcích Správy silnic KHK. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -1632,10 +1641,11 @@
           "CreaDate": "2022-09-07",
           "ModTime": "16:47:56.69",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:36:04.82",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plánovaných oprav silniční infrastruktury na rok 2022 vyjádřených liniově. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
           "idCitation": {
@@ -1893,7 +1903,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "přírodní_parky"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -1919,7 +1930,7 @@
             }
           },
           "SyncTime": 11010400,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -1947,7 +1958,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "přírodní_parky"
             }
           }
         },
@@ -2205,7 +2217,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "přírodní_parky"
-            }
+            },
+            "@_Name": "přírodní_parky"
           }
         },
         "refSysInfo": {
@@ -2235,6 +2248,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -2535,7 +2549,8 @@
                 "GeoObjTypCd": {
                   "@_value": "004"
                 }
-              }
+              },
+              "@_Name": "VpsVpoAs_ZUR_b"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -2561,7 +2576,7 @@
             }
           },
           "SyncTime": 9051900,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -2589,7 +2604,8 @@
                 "@_code": "1"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "VpsVpoAs_ZUR_b"
             }
           }
         },
@@ -2803,7 +2819,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "VpsVpoAs_ZUR_b"
-            }
+            },
+            "@_Name": "VpsVpoAs_ZUR_b"
           }
         },
         "refSysInfo": {
@@ -2835,6 +2852,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -3780,10 +3798,11 @@
           "CreaDate": "2022-09-21",
           "ModTime": "08:37:37.20",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:36:34.65",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lékařských pohotovostí pro děti a dospělé (mimo stomatologickou lékařskou pohotovost) v Královéhradeckém kraji. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -3942,7 +3961,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "US_RP_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -3968,7 +3988,7 @@
             }
           },
           "SyncTime": 9115600,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -3996,7 +4016,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "US_RP_p"
             }
           }
         },
@@ -4171,7 +4192,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "US_RP_p"
-            }
+            },
+            "@_Name": "US_RP_p"
           }
         },
         "refSysInfo": {
@@ -4203,6 +4225,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -4740,10 +4763,11 @@
           "CreaDate": "2022-08-02",
           "ModTime": "14:43:40.68",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:42:17.79",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací inovačních infrastruktur. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -5337,7 +5361,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "VpsVpoAs_ZUR_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -5363,7 +5388,7 @@
             }
           },
           "SyncTime": 9063300,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -5391,7 +5416,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "VpsVpoAs_ZUR_p"
             }
           }
         },
@@ -5631,7 +5657,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "VpsVpoAs_ZUR_p"
-            }
+            },
+            "@_Name": "VpsVpoAs_ZUR_p"
           }
         },
         "refSysInfo": {
@@ -5663,6 +5690,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -5765,7 +5793,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "a_o"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -5790,7 +5819,7 @@
             }
           },
           "SyncTime": 10180300,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -5818,7 +5847,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "a_o"
             }
           }
         },
@@ -6193,7 +6223,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "a_o"
-            }
+            },
+            "@_Name": "a_o"
           }
         },
         "refSysInfo": {
@@ -6225,6 +6256,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -6569,10 +6601,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "16:00:56.19",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:13:41.28",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací hradů na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -6798,10 +6831,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "16:31:21.90",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:48:40.40",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací židovských památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -7067,10 +7101,11 @@
           "CreaDate": "2022-11-16",
           "ModTime": "08:04:14.26",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:03:15.47",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací knihoven na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -7465,10 +7500,11 @@
           "ModDate": "2023-09-18",
           "CreaDate": "2023-09-06",
           "ModTime": "10:17:51.97",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:28:31.97",
+        "@_xml:lang": "en",
         "dataIdInfo": {
           "idAbs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -7687,10 +7723,11 @@
           "CreaDate": "2022-12-21",
           "ModTime": "15:21:31.59",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "15:19:00.90",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací liniových objektů (zdi, terasy, brány), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "idCitation": {
@@ -7865,10 +7902,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "16:18:26.39",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "15:38:13.26",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací pevností a opevnění na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -8096,10 +8134,11 @@
           "CreaDate": "2022-12-21",
           "ModTime": "10:17:42.73",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:16:17.46",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "idCitation": {
@@ -8861,7 +8900,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "VpsVpoAs_ZUR_l"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -8887,7 +8927,7 @@
             }
           },
           "SyncTime": 9055600,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -8915,7 +8955,8 @@
                 "@_code": "3"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "VpsVpoAs_ZUR_l"
             }
           }
         },
@@ -9142,7 +9183,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "VpsVpoAs_ZUR_l"
-            }
+            },
+            "@_Name": "VpsVpoAs_ZUR_l"
           }
         },
         "refSysInfo": {
@@ -9174,6 +9216,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -9486,10 +9529,11 @@
           "CreaDate": "2023-01-20",
           "ModTime": "08:26:43.77",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:25:05.39",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací ambulantních gynekologů. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -9666,10 +9710,11 @@
           "CreaDate": "2023-09-05",
           "ModTime": "12:36:11.65",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:11:56.10",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací studentů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -9885,7 +9930,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "RozvOsy_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -9911,7 +9957,7 @@
             }
           },
           "SyncTime": 9103200,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -9939,7 +9985,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "RozvOsy_p"
             }
           }
         },
@@ -10137,7 +10184,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "RozvOsy_p"
-            }
+            },
+            "@_Name": "RozvOsy_p"
           }
         },
         "refSysInfo": {
@@ -10169,6 +10217,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -10285,10 +10334,11 @@
           "CreaDate": "2022-12-21",
           "ModTime": "16:26:21.83",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:24:49.46",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací pozemků národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "idCitation": {
@@ -11165,7 +11215,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "USES_koncepce_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -11191,7 +11242,7 @@
             }
           },
           "SyncTime": 9090800,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -11219,7 +11270,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "USES_koncepce_p"
             }
           }
         },
@@ -11466,7 +11518,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "USES_koncepce_p"
-            }
+            },
+            "@_Name": "USES_koncepce_p"
           }
         },
         "refSysInfo": {
@@ -11498,6 +11551,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -11615,10 +11669,11 @@
           "CreaDate": "2023-09-05",
           "ModTime": "12:35:09.66",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:19:16.08",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací absolventů vysokých škol podle oborů za rok 2022. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -11828,10 +11883,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "14:46:35.20",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:45:41.90",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lanovek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -12019,10 +12075,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "16:04:17.24",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:39:04.24",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací infocenter na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -12664,6 +12721,7 @@
           "CreaDate": 20220929,
           "SyncOnce": "TRUE"
         },
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací technických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCredit": "",
@@ -12793,10 +12851,11 @@
           "CreaDate": "2022-08-02",
           "ModTime": "09:11:43.48",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:06:20.40",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací veřejných sbírek probíhajících v Královéhradeckém kraji. Zdrojem dat je Odbor majetkosprávní a krajský živnostenský úřad Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -13444,7 +13503,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "SpecObl_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -13470,7 +13530,7 @@
             }
           },
           "SyncTime": 9110600,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -13498,7 +13558,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "SpecObl_p"
             }
           }
         },
@@ -13712,7 +13773,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "SpecObl_p"
-            }
+            },
+            "@_Name": "SpecObl_p"
           }
         },
         "refSysInfo": {
@@ -13744,6 +13806,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -14055,10 +14118,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "15:43:47.56",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:28:11.39",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací architektonických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -14643,10 +14707,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "11:08:03.74",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:07:22.09",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací církevních památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -15046,7 +15111,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "Uzemni_Rezervy_ZUR_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -15072,7 +15138,7 @@
             }
           },
           "SyncTime": 9043900,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -15100,7 +15166,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "Uzemni_Rezervy_ZUR_p"
             }
           }
         },
@@ -15330,7 +15397,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "Uzemni_Rezervy_ZUR_p"
-            }
+            },
+            "@_Name": "Uzemni_Rezervy_ZUR_p"
           }
         },
         "refSysInfo": {
@@ -15362,6 +15430,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -16696,7 +16765,8 @@
                 "GeoObjTypCd": {
                   "@_value": "004"
                 }
-              }
+              },
+              "@_Name": "planovane_opravy_silnic_bodove"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -16723,7 +16793,7 @@
             }
           },
           "SyncTime": 10512400,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -16751,7 +16821,8 @@
                 "@_code": "1"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "planovane_opravy_silnic_bodove"
             }
           }
         },
@@ -17042,7 +17113,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "planovane_opravy_silnic_bodove"
-            }
+            },
+            "@_Name": "planovane_opravy_silnic_bodove"
           }
         },
         "refSysInfo": {
@@ -17075,11 +17147,12 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
-        "Veřejná doprava a silnice",
-        "Investice kraje"
+        "Investice kraje",
+        "Veřejná doprava a silnice"
       ],
       "distribution": [
         {
@@ -17190,10 +17263,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "16:29:16.56",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:33:05.96",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zámků na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -17669,10 +17743,11 @@
           "CreaDate": "2023-01-30",
           "ModTime": "14:07:29.51",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:06:16.00",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zubních lékařů. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -18067,10 +18142,11 @@
           "CreaDate": "2023-02-13",
           "ModTime": "09:35:46.14",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "09:34:33.62",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2022/2023. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -18653,10 +18729,11 @@
           "CreaDate": "2022-09-26",
           "ModTime": "14:20:31.58",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "14:14:45.60",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu studentů v jednotlivých školách. Data jsou za školní rok 2022/2023. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -19015,7 +19092,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "pamatkove_rezervace"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -19041,7 +19119,7 @@
             }
           },
           "SyncTime": 15213000,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -19069,7 +19147,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "pamatkove_rezervace"
             }
           }
         },
@@ -19354,7 +19433,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "pamatkove_rezervace"
-            }
+            },
+            "@_Name": "pamatkove_rezervace"
           }
         },
         "refSysInfo": {
@@ -19384,6 +19464,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -19500,10 +19581,11 @@
           "CreaDate": "2022-12-21",
           "ModTime": "13:43:33.98",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:42:15.41",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací bodových objektů (sochy apod.), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "idCitation": {
@@ -19693,10 +19775,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "16:23:21.28",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:00:04.74",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací rozhleden a vyhlídek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -20121,10 +20204,11 @@
           "CreaDate": "2022-10-22",
           "ModTime": "12:56:18.74",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "12:55:31.54",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací investičních pobídek na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest.",
           "idCitation": {
@@ -20548,7 +20632,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "Krajiny_ZUR_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -20574,7 +20659,7 @@
             }
           },
           "SyncTime": 9020600,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -20602,7 +20687,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "Krajiny_ZUR_p"
             }
           }
         },
@@ -20832,7 +20918,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "Krajiny_ZUR_p"
-            }
+            },
+            "@_Name": "Krajiny_ZUR_p"
           }
         },
         "refSysInfo": {
@@ -20864,6 +20951,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -20964,7 +21052,8 @@
                 "GeoObjTypCd": {
                   "@_value": "004"
                 }
-              }
+              },
+              "@_Name": "ZamOB_EK_b"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -20990,7 +21079,7 @@
             }
           },
           "SyncTime": 9082100,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -21018,7 +21107,8 @@
                 "@_code": "1"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "ZamOB_EK_b"
             }
           }
         },
@@ -21190,7 +21280,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "ZamOB_EK_b"
-            }
+            },
+            "@_Name": "ZamOB_EK_b"
           }
         },
         "refSysInfo": {
@@ -21222,6 +21313,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -21336,10 +21428,11 @@
           "CreaDate": "2022-09-28",
           "ModTime": "16:15:44.17",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "19:28:59.27",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací ostatních historických památek na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -21565,10 +21658,11 @@
           "CreaDate": "2023-05-31",
           "ModTime": "14:06:05.39",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:59:31.62",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací inovativních firem na území Královéhradeckého kraje. Zdrojem dat je Agentura pro podporu podnikání a investic CzechInvest. Vysvětlivky k datové sadě jsou k dispozici <a href='https://ik.imagekit.io/vapjygx9s2x/Ilustracni_fotky/Metodika.pdf?updatedAt=1685534258331' rel='nofollow ugc'>zde</a>",
           "idCitation": {
@@ -21782,10 +21876,11 @@
           "CreaDate": "2023-03-24",
           "ModTime": "16:38:52.28",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "13:35:15.51",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury v letech 2016 až 2022 vyjádřených bodově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.",
           "idCitation": {
@@ -22380,10 +22475,11 @@
           "CreaDate": "2023-01-04",
           "ModTime": "08:49:00.64",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "08:48:00.37",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Královéhradeckým krajem. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -22793,10 +22889,11 @@
           "CreaDate": "2022-09-29",
           "ModTime": "16:27:17.07",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "16:23:53.38",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací zábavních center na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {
@@ -23027,7 +23124,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "RozvObl_p"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -23053,7 +23151,7 @@
             }
           },
           "SyncTime": 9095900,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -23081,7 +23179,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "RozvObl_p"
             }
           }
         },
@@ -23279,7 +23378,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "RozvObl_p"
-            }
+            },
+            "@_Name": "RozvObl_p"
           }
         },
         "refSysInfo": {
@@ -23311,6 +23411,7 @@
             "formatName": "Třída prvků souborové geodatabáze"
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLvName": "dataset"
       },
       "category": [
@@ -23621,10 +23722,11 @@
           "CreaDate": "2022-11-11",
           "ModTime": "11:31:06.92",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "11:28:04.13",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací všech válečných hrobů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
@@ -24015,7 +24117,8 @@
                 "GeoObjTypCd": {
                   "@_value": "002"
                 }
-              }
+              },
+              "@_Name": "prirodni_pamatky_khk"
             },
             "topLvl": {
               "TopoLevCd": {
@@ -24049,7 +24152,7 @@
             }
           },
           "SyncTime": 7504000,
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "locales": {
             "locale": {
               "@_language": "cze",
@@ -24091,7 +24194,8 @@
                 "@_code": "4"
               },
               "efeacnt": 0,
-              "efeatyp": "Simple"
+              "efeatyp": "Simple",
+              "@_Name": "prirodni_pamatky_khk"
             }
           }
         },
@@ -24496,7 +24600,8 @@
               "enttypc": 0,
               "enttypt": "Feature Class",
               "enttypl": "prirodni_pamatky_khk"
-            }
+            },
+            "@_Name": "prirodni_pamatky_khk"
           }
         },
         "refSysInfo": {
@@ -24599,7 +24704,8 @@
               "formatName": "Shapefile"
             }
           }
-        }
+        },
+        "@_xml:lang": "cs"
       },
       "category": [
         "Životní prostředí"
@@ -24949,10 +25055,11 @@
           "CreaDate": "2023-05-31",
           "ModTime": "15:59:05.59",
           "SyncOnce": "TRUE",
-          "MapLyrSync": "false",
+          "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
         "mdTimeSt": "10:06:04.08",
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací divadel a filharmonií na území Královéhradeckého kraje. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu, p. o. prostřednictvím Turistického portálu Královéhradeckého kraje.",
           "idCitation": {

@@ -8831,9 +8831,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/TRAN",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE",
-        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
       "prvek_rúian": [
