@@ -104,7 +104,6 @@
     "https://open.datakhk.cz/e3f61ebe1c354fe5996a00159c1bbea5.jsonld",
     "https://open.datakhk.cz/e60773d598b14909b749f5e0be403ef1.jsonld",
     "https://open.datakhk.cz/e64c92bd463e442593e695137e061a35.jsonld",
-    "https://open.datakhk.cz/e79fe697594e4a43afe84ba29cf712e8.jsonld",
     "https://open.datakhk.cz/ebc0da36c2bd4fdb9505ddab8b789007.jsonld",
     "https://open.datakhk.cz/ee4afea713fe47829462a50e98e44a05.jsonld",
     "https://open.datakhk.cz/f16bb2cb44c64ee9882eefaa3c263dd6.jsonld",
@@ -11807,67 +11806,6 @@
           "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/e64c92bd463e442593e695137e061a35/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datakhk.cz/e79fe697594e4a43afe84ba29cf712e8.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-      "název": {
-        "cs": "Absolventi vysokých škol s bydlištěm a studiem v Královéhradeckém kraji"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "graf",
-          "covid"
-        ]
-      },
-      "téma": [],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/86"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datakhk.cz/documents/e79fe697594e4a43afe84ba29cf712e8",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datakhk.cz/documents/e79fe697594e4a43afe84ba29cf712e8",
-          "přístupové_url": "https://www.datakhk.cz/documents/e79fe697594e4a43afe84ba29cf712e8",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        },
-        {
-          "typ": "Distribuce",
-          "iri": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
-          "název": {
-            "cs": "ArcGIS GeoService"
-          },
-          "soubor_ke_stažení": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
-          "přístupové_url": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
-          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

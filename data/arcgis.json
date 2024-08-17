@@ -22214,51 +22214,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=e79fe697594e4a43afe84ba29cf712e8",
-      "landingPage": "https://www.datakhk.cz/documents/e79fe697594e4a43afe84ba29cf712e8",
-      "title": "Absolventi vysokých škol s bydlištěm a studiem v Královéhradeckém kraji",
-      "description": "{{description}}",
-      "keyword": [
-        "graf",
-        "covid"
-      ],
-      "issued": "2024-08-17T11:37:33.000Z",
-      "modified": "2024-08-17T11:37:33.000Z",
-      "publisher": {
-        "source": "KYZR_DATA_KHK"
-      },
-      "contactPoint": {
-        "fn": "KYZR_DATA_KHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "{{licenseInfo}}",
-      "metadata": "{{metadata.metadata}}",
-      "category": [],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/documents/e79fe697594e4a43afe84ba29cf712e8"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ebc0da36c2bd4fdb9505ddab8b789007&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/ebc0da36c2bd4fdb9505ddab8b789007_0",
       "title": "Autobusové linky VDKHK",
