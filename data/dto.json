@@ -39,6 +39,8 @@
     "https://open.datakhk.cz/311df195461541069a5690e9491eb092.jsonld",
     "https://open.datakhk.cz/36498157e8984a039af973cd8406af63.jsonld",
     "https://open.datakhk.cz/38402dfafbf4467cbb6fa29c546ad501.jsonld",
+    "https://open.datakhk.cz/398958e6596749bfbf8b0c33e40f04b1.jsonld",
+    "https://open.datakhk.cz/3a646486ab6643458f5fa9db9683d5ef.jsonld",
     "https://open.datakhk.cz/3b31adc233464ff3ad482313a4010377.jsonld",
     "https://open.datakhk.cz/3d2f89fd21d0450686d8933fac9a556e.jsonld",
     "https://open.datakhk.cz/3ec5df3a89d7470ea40330baadca74f4.jsonld",
@@ -84,6 +86,7 @@
     "https://open.datakhk.cz/ab928607832141f8bebb36261593107a.jsonld",
     "https://open.datakhk.cz/acd646469e604e12a99a1a0c409e180b.jsonld",
     "https://open.datakhk.cz/b03f47566c9a4ce4aa6ed8db765ae824.jsonld",
+    "https://open.datakhk.cz/b360bdd83e7442478775c5e5be8da4db.jsonld",
     "https://open.datakhk.cz/baf74cda7f4f49dd99686d8ba1f0a8d8.jsonld",
     "https://open.datakhk.cz/c5f13e739e184763a7afb709a2e4b198.jsonld",
     "https://open.datakhk.cz/c62b3bf8a0dd40b4b1d70bc419d5d6e4.jsonld",
@@ -2970,6 +2973,128 @@
           "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/38402dfafbf4467cbb6fa29c546ad501/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/398958e6596749bfbf8b0c33e40f04b1.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Absolventi vysokých škol s bydlištěm a studiem v Královéhradeckém kraji"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "graf",
+          "školství"
+        ]
+      },
+      "téma": [],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/documents/398958e6596749bfbf8b0c33e40f04b1",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/documents/398958e6596749bfbf8b0c33e40f04b1",
+          "přístupové_url": "https://www.datakhk.cz/documents/398958e6596749bfbf8b0c33e40f04b1",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
+          "přístupové_url": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/3a646486ab6643458f5fa9db9683d5ef.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Absolventi vysokých škol s bydlištěm v Královéhradeckém kraji studující mimo kraj"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "graf",
+          "školství"
+        ]
+      },
+      "téma": [],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/documents/3a646486ab6643458f5fa9db9683d5ef",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/documents/3a646486ab6643458f5fa9db9683d5ef",
+          "přístupové_url": "https://www.datakhk.cz/documents/3a646486ab6643458f5fa9db9683d5ef",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://e.infogram.com/40599127-edd3-41a6-b57e-f435e17e7697?src=embed",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://e.infogram.com/40599127-edd3-41a6-b57e-f435e17e7697?src=embed",
+          "přístupové_url": "https://e.infogram.com/40599127-edd3-41a6-b57e-f435e17e7697?src=embed",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -9075,6 +9200,67 @@
           "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/b03f47566c9a4ce4aa6ed8db765ae824/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/b360bdd83e7442478775c5e5be8da4db.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Absolventi vysokých škol s bydlištěm v Královéhradeckém kraji"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "graf",
+          "školství"
+        ]
+      },
+      "téma": [],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/documents/b360bdd83e7442478775c5e5be8da4db",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/documents/b360bdd83e7442478775c5e5be8da4db",
+          "přístupové_url": "https://www.datakhk.cz/documents/b360bdd83e7442478775c5e5be8da4db",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://e.infogram.com/75d83ed3-262e-4f51-94e7-9226534fec62?src=embed",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://e.infogram.com/75d83ed3-262e-4f51-94e7-9226534fec62?src=embed",
+          "přístupové_url": "https://e.infogram.com/75d83ed3-262e-4f51-94e7-9226534fec62?src=embed",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

@@ -5062,6 +5062,96 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=398958e6596749bfbf8b0c33e40f04b1",
+      "landingPage": "https://www.datakhk.cz/documents/398958e6596749bfbf8b0c33e40f04b1",
+      "title": "Absolventi vysokých škol s bydlištěm a studiem v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "školství"
+      ],
+      "issued": "2024-08-19T08:24:02.000Z",
+      "modified": "2024-08-19T08:24:02.000Z",
+      "publisher": {
+        "source": "KYZR_DATA_KHK"
+      },
+      "contactPoint": {
+        "fn": "KYZR_DATA_KHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/398958e6596749bfbf8b0c33e40f04b1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/39bde596-4737-470a-abb4-ab8bbdb98af4?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3a646486ab6643458f5fa9db9683d5ef",
+      "landingPage": "https://www.datakhk.cz/documents/3a646486ab6643458f5fa9db9683d5ef",
+      "title": "Absolventi vysokých škol s bydlištěm v Královéhradeckém kraji studující mimo kraj",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "školství"
+      ],
+      "issued": "2024-08-19T08:24:03.000Z",
+      "modified": "2024-08-19T08:24:03.000Z",
+      "publisher": {
+        "source": "KYZR_DATA_KHK"
+      },
+      "contactPoint": {
+        "fn": "KYZR_DATA_KHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/3a646486ab6643458f5fa9db9683d5ef"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/40599127-edd3-41a6-b57e-f435e17e7697?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3b31adc233464ff3ad482313a4010377&sublayer=0",
       "landingPage": "https://www.datakhk.cz/maps/3b31adc233464ff3ad482313a4010377_0",
       "title": "Solné jeskyně",
@@ -17446,6 +17536,51 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/b03f47566c9a4ce4aa6ed8db765ae824/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b360bdd83e7442478775c5e5be8da4db",
+      "landingPage": "https://www.datakhk.cz/documents/b360bdd83e7442478775c5e5be8da4db",
+      "title": "Absolventi vysokých škol s bydlištěm v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "školství"
+      ],
+      "issued": "2024-08-19T08:24:04.000Z",
+      "modified": "2024-08-19T08:24:39.000Z",
+      "publisher": {
+        "source": "KYZR_DATA_KHK"
+      },
+      "contactPoint": {
+        "fn": "KYZR_DATA_KHK",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b360bdd83e7442478775c5e5be8da4db"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/75d83ed3-262e-4f51-94e7-9226534fec62?src=embed"
         }
       ],
       "theme": [
