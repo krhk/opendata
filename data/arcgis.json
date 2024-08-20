@@ -8174,7 +8174,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-12-22T09:12:00.000Z",
-      "modified": "2023-07-14T11:48:31.165Z",
+      "modified": "2024-08-20T08:07:51.157Z",
       "publisher": {
         "source": "Tomas_Slezak_DATAKHK"
       },
@@ -8200,7 +8200,7 @@
             }
           }
         },
-        "mdFileID": "1671700578195r5698054700032535",
+        "mdFileID": "1724141023220r8224942548453087",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -8208,7 +8208,7 @@
             }
           }
         },
-        "mdDateSt": "2022-12-22",
+        "mdDateSt": "2024-08-20",
         "Esri": {
           "locales": {
             "locale": {
@@ -8218,21 +8218,29 @@
           },
           "ArcGISFormat": 1,
           "CreaTime": 16353100,
-          "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-          "ArcGISProfile": "ISO19139",
-          "ModDate": "2022-12-22",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2024-08-20",
           "CreaDate": "2022-12-21",
-          "ModTime": "10:17:42.73",
+          "ModTime": "10:06:49.42",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:16:17.46",
+        "mdTimeSt": "10:03:42.76",
         "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací plošných objektů (budovy), které jsou součástí národních kulturních památek na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Památkový katalog Národního památkového ústavu.",
           "idCitation": {
             "resTitle": "Národní kulturní památky - plošné objekty"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Národní kulturní památky plošné objekty",
           "dataChar": {
@@ -8247,6 +8255,13 @@
               "Památky",
               "Královéhradecký kraj"
             ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
           },
           "resConst": [
             {
