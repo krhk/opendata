@@ -18633,9 +18633,9 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-02T11:32:57.000Z",
-      "modified": "2023-07-14T11:38:29.844Z",
+      "modified": "2024-09-11T12:12:09.713Z",
       "publisher": {
-        "source": "Tomas_Slezak_DATAKHK"
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "fn": "Tomas_Slezak_DATAKHK",
@@ -18659,7 +18659,7 @@
             }
           }
         },
-        "mdFileID": "1689334618477r476962674924454",
+        "mdFileID": "1726057455499r9246692807946593",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -18667,7 +18667,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-14",
+        "mdDateSt": "2024-09-11",
         "Esri": {
           "locales": {
             "locale": {
@@ -18676,17 +18676,17 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 12180100,
+          "CreaTime": 13481100,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-14",
-          "CreaDate": "2023-02-02",
-          "ModTime": "13:37:38.04",
+          "ModDate": "2024-09-11",
+          "CreaDate": "2022-11-11",
+          "ModTime": "14:26:18.72",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "13:36:57.89",
+        "mdTimeSt": "14:24:14.100",
         "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací muzeí a galerií na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje a Turistický portál Královéhradeckého kraje.",
@@ -18716,6 +18716,7 @@
             ]
           },
           "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
