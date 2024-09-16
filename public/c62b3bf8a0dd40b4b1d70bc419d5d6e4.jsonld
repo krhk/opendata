@@ -28,12 +28,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/maps/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
+      "iri": "https://www.datakhk.cz/datasets/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/maps/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
-      "přístupové_url": "https://www.datakhk.cz/maps/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
+      "přístupové_url": "https://www.datakhk.cz/datasets/c62b3bf8a0dd40b4b1d70bc419d5d6e4_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
