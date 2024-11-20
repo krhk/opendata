@@ -84,24 +84,6 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
-      "název": {
-        "cs": "GeoJSON"
-      },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
-      "podmínky_užití": {
-        "typ": "Specifikace podmínek užití",
-        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-      }
-    },
-    {
-      "typ": "Distribuce",
       "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/shapefile?layers=0",
       "název": {
         "cs": "Shapefile"
@@ -120,6 +102,24 @@
     },
     {
       "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
+      "název": {
+        "cs": "GeoJSON"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geojson?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
       "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/kml?layers=0",
       "název": {
         "cs": "KML"
@@ -128,6 +128,96 @@
       "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/kml?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/filegdb?layers=0",
+      "název": {
+        "cs": "File Geodatabase"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/filegdb?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/filegdb?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/featureCollection?layers=0",
+      "název": {
+        "cs": "Feature Collection"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/featureCollection?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/featureCollection?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/excel?layers=0",
+      "název": {
+        "cs": "Excel"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/excel?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/excel?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geoPackage?layers=0",
+      "název": {
+        "cs": "GeoPackage"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geoPackage?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/geoPackage?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/sqlite?layers=0",
+      "název": {
+        "cs": "SQLite Geodatabase"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/sqlite?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3d2f89fd21d0450686d8933fac9a556e/sqlite?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
