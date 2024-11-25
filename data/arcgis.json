@@ -17,12 +17,13 @@
       "issued": "2022-09-25T08:57:30.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1695,50.0402,16.4661,50.7254",
@@ -282,12 +283,13 @@
       "issued": "2022-09-22T13:24:12.000Z",
       "modified": "2024-07-16T05:19:49.146Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1630,50.0804,16.5521,50.6607",
@@ -511,12 +513,13 @@
       "issued": "2023-03-16T13:02:26.000Z",
       "modified": "2023-07-14T10:44:30.067Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3553,50.1584,16.3392,50.6206",
@@ -740,12 +743,13 @@
       "issued": "2022-09-29T13:46:57.000Z",
       "modified": "2023-07-17T10:08:19.782Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1199,50.0713,16.5794,50.7790",
@@ -968,12 +972,13 @@
       "issued": "2022-10-22T20:58:55.000Z",
       "modified": "2023-07-17T10:19:49.288Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3711,50.1820,16.2638,50.6121",
@@ -1195,12 +1200,13 @@
       "issued": "2022-09-28T08:50:19.000Z",
       "modified": "2023-07-14T09:17:27.903Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.0831,50.0822,16.5137,50.7489",
@@ -1624,12 +1630,13 @@
       "issued": "2022-11-12T10:48:59.000Z",
       "modified": "2022-11-12T11:01:41.177Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2724,50.2106,16.1912,50.5801",
@@ -1838,12 +1845,13 @@
       "issued": "2022-09-07T10:34:37.000Z",
       "modified": "2023-07-14T12:08:11.642Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1951,50.1647,16.3140,50.6802",
@@ -2151,12 +2159,13 @@
       "issued": "2023-03-31T10:57:01.000Z",
       "modified": "2023-08-17T12:37:34.153Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.6321,50.0091,16.4314,50.6422",
@@ -2630,12 +2639,13 @@
       "issued": "2022-09-25T10:53:45.000Z",
       "modified": "2024-07-16T05:18:28.713Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3574,50.1680,16.3339,50.6749",
@@ -2867,12 +2877,13 @@
       "issued": "2021-11-02T22:49:11.000Z",
       "modified": "2023-06-14T13:20:53.661Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2573,50.1713,16.3153,50.6829",
@@ -3306,12 +3317,13 @@
       "issued": "2022-11-29T16:29:02.000Z",
       "modified": "2023-07-17T08:42:14.134Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3524,50.1856,15.9155,50.5651",
@@ -3535,12 +3547,13 @@
       "issued": "2023-03-29T14:40:11.000Z",
       "modified": "2024-03-20T12:32:44.188Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1940,49.9865,16.4393,50.7849",
@@ -3767,12 +3780,13 @@
       "issued": "2024-03-13T13:37:54.000Z",
       "modified": "2024-03-13T13:43:43.588Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.5912,50.4303,15.7821,50.6312",
@@ -3997,12 +4011,13 @@
       "issued": "2023-12-14T12:56:33.000Z",
       "modified": "2023-12-14T13:54:43.259Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3331,50.2134,16.3428,50.7251",
@@ -4276,12 +4291,13 @@
       "issued": "2022-09-21T14:38:52.000Z",
       "modified": "2024-04-09T10:29:14.757Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3574,50.1701,16.2704,50.5604",
@@ -4490,12 +4506,13 @@
       "issued": "2023-06-14T15:26:03.000Z",
       "modified": "2023-06-14T15:28:37.207Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "16.0661,50.3027,16.1683,50.3799",
@@ -4888,12 +4905,13 @@
       "issued": "2023-12-14T13:32:31.000Z",
       "modified": "2023-12-14T14:51:35.449Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1932,50.1157,16.3377,50.7123",
@@ -5152,12 +5170,13 @@
       "issued": "2023-04-17T08:35:17.000Z",
       "modified": "2024-03-20T12:47:33.738Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1986,49.9632,16.4739,50.7940",
@@ -5381,12 +5400,13 @@
       "issued": "2022-09-07T14:02:02.000Z",
       "modified": "2023-05-25T13:15:30.071Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8029,50.2042,15.9104,50.5640",
@@ -5595,12 +5615,13 @@
       "issued": "2022-09-07T14:32:02.000Z",
       "modified": "2023-05-25T13:23:36.684Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3475,50.1859,16.2019,50.4797",
@@ -5809,12 +5830,13 @@
       "issued": "2023-12-14T13:35:07.000Z",
       "modified": "2023-12-14T14:55:28.605Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3632,50.1621,16.2763,50.7341",
@@ -6100,12 +6122,13 @@
       "issued": "2021-11-02T23:07:09.000Z",
       "modified": "2023-06-14T14:13:30.310Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2019,49.9760,16.4606,50.8847",
@@ -6567,12 +6590,13 @@
       "issued": "2023-08-09T08:47:27.000Z",
       "modified": "2024-05-24T06:46:14.646Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1042,50.0384,16.5855,50.7805",
@@ -7164,12 +7188,13 @@
       "issued": "2022-09-25T09:58:47.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3600,50.1727,16.3355,50.6196",
@@ -7429,12 +7454,13 @@
       "issued": "2022-09-28T12:12:02.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1353,50.0780,16.3982,50.6679",
@@ -7694,12 +7720,13 @@
       "issued": "2022-09-29T14:47:13.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3528,50.1215,16.4688,50.4424",
@@ -7999,12 +8026,13 @@
       "issued": "2022-11-16T15:50:55.000Z",
       "modified": "2023-07-14T06:05:17.974Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1630,50.0483,16.5473,50.7251",
@@ -8228,12 +8256,13 @@
       "issued": "2023-02-13T15:29:18.000Z",
       "modified": "2024-07-16T05:22:17.782Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1986,49.9632,16.4739,50.7940",
@@ -8462,12 +8491,13 @@
       "issued": "2023-09-06T10:21:55.000Z",
       "modified": "2023-09-06T10:41:54.927Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "{{extent:computeSpatialProperty}}",
@@ -8740,12 +8770,13 @@
       "issued": "2022-12-21T14:14:49.000Z",
       "modified": "2023-07-14T11:46:43.951Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1344,50.2232,16.3336,50.5860",
@@ -8954,12 +8985,13 @@
       "issued": "2022-09-29T13:36:43.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1299,50.1802,16.5156,50.6305",
@@ -9221,12 +9253,13 @@
       "issued": "2022-12-22T09:12:00.000Z",
       "modified": "2024-08-20T08:07:51.157Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1343,50.1989,16.3629,50.6143",
@@ -9450,12 +9483,13 @@
       "issued": "2023-12-14T13:26:18.000Z",
       "modified": "2023-12-14T14:41:37.967Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1725,50.0779,16.3949,50.7345",
@@ -9713,12 +9747,13 @@
       "issued": "2023-02-09T07:18:05.000Z",
       "modified": "2023-07-17T08:16:19.754Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1802,50.0827,16.4647,50.7251",
@@ -9927,12 +9962,13 @@
       "issued": "2022-12-20T09:49:32.000Z",
       "modified": "2023-07-14T11:28:06.957Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.4515,50.1085,16.2757,50.6681",
@@ -10158,12 +10194,13 @@
       "issued": "2021-11-02T23:04:06.000Z",
       "modified": "2023-06-14T13:50:17.653Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8820,50.1814,16.3492,50.5913",
@@ -10610,12 +10647,13 @@
       "issued": "2022-11-16T07:58:28.000Z",
       "modified": "2024-06-10T11:05:38.199Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1768,50.0951,16.3320,50.6310",
@@ -10841,12 +10879,13 @@
       "issued": "2023-02-09T07:11:14.000Z",
       "modified": "2023-07-17T08:15:06.515Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1802,50.1178,16.4647,50.6508",
@@ -11057,12 +11096,13 @@
       "issued": "2023-09-05T08:09:45.000Z",
       "modified": "2023-09-05T10:18:24.233Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8148,50.1856,15.8379,50.2138",
@@ -11328,12 +11368,13 @@
       "issued": "2021-11-02T23:16:24.000Z",
       "modified": "2023-06-14T11:14:28.770Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2235,49.9776,16.2494,50.7129",
@@ -11751,12 +11792,13 @@
       "issued": "2022-12-21T15:23:14.000Z",
       "modified": "2023-07-14T11:50:47.907Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1343,50.1991,16.3637,50.6144",
@@ -11966,12 +12008,13 @@
       "issued": "2023-08-17T07:21:36.000Z",
       "modified": "2023-08-17T07:32:39.731Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2264,49.9846,16.4935,50.6509",
@@ -12718,12 +12761,13 @@
       "issued": "2021-11-02T23:11:59.000Z",
       "modified": "2023-06-14T11:56:00.012Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1453,49.9141,16.4501,50.9446",
@@ -13191,12 +13235,13 @@
       "issued": "2023-09-05T07:15:15.000Z",
       "modified": "2023-09-05T10:33:48.502Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8148,50.2015,15.8358,50.2138",
@@ -13440,12 +13485,13 @@
       "issued": "2022-09-28T18:14:51.000Z",
       "modified": "2023-07-14T11:30:00.805Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.5808,50.2257,16.4606,50.7339",
@@ -13667,12 +13713,13 @@
       "issued": "2022-09-28T12:36:57.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1768,50.0818,16.4728,50.7519",
@@ -13932,12 +13979,13 @@
       "issued": "2022-09-21T15:12:33.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.4828,50.2121,16.3342,50.6507",
@@ -14179,12 +14227,13 @@
       "issued": "2022-12-19T08:03:44.000Z",
       "modified": "2024-01-17T12:04:06.397Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3524,50.2038,15.9155,50.5651",
@@ -14448,12 +14497,13 @@
       "issued": "2022-09-29T14:06:50.000Z",
       "modified": "2023-07-17T10:45:08.451Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3405,50.1128,16.4663,50.7327",
@@ -14583,12 +14633,13 @@
       "issued": "2023-02-27T08:00:29.000Z",
       "modified": "2023-02-27T08:10:40.962Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1698,50.0823,16.5502,50.7468",
@@ -14857,12 +14908,13 @@
       "issued": "2023-03-29T06:19:23.000Z",
       "modified": "2023-06-14T12:47:26.694Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2019,49.9760,16.4606,50.8847",
@@ -15321,12 +15373,13 @@
       "issued": "2021-11-02T23:17:16.000Z",
       "modified": "2023-06-14T11:31:40.396Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1885,49.9521,16.4665,50.8484",
@@ -15760,12 +15813,13 @@
       "issued": "2024-06-11T07:13:45.000Z",
       "modified": "2024-06-11T07:19:54.134Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3525,50.1228,16.3342,50.6647",
@@ -15990,12 +16044,13 @@
       "issued": "2022-09-28T07:24:13.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1555,50.0974,16.4651,50.7359",
@@ -16275,12 +16330,13 @@
       "issued": "2022-10-22T19:47:15.000Z",
       "modified": "2023-07-14T11:07:17.278Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.5798,50.2127,15.9139,50.4523",
@@ -16504,12 +16560,13 @@
       "issued": "2023-01-03T12:56:13.000Z",
       "modified": "2024-01-02T12:57:53.990Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2727,50.1242,16.2799,50.6322",
@@ -16685,12 +16742,13 @@
       "issued": "2022-09-28T08:08:49.000Z",
       "modified": "2023-07-14T09:08:44.563Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1708,50.0529,16.5505,50.7360",
@@ -16911,12 +16969,13 @@
       "issued": "2023-12-14T13:22:46.000Z",
       "modified": "2023-12-14T14:36:25.662Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1715,50.0823,16.5528,50.7455",
@@ -17174,12 +17233,13 @@
       "issued": "2021-11-02T22:47:48.000Z",
       "modified": "2023-06-14T13:01:05.246Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.7796,50.0831,16.3885,50.6532",
@@ -17628,12 +17688,13 @@
       "issued": "2023-02-09T07:14:55.000Z",
       "modified": "2023-07-17T08:14:03.433Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1802,50.0827,16.4661,50.7251",
@@ -17841,12 +17902,13 @@
       "issued": "2023-12-14T13:29:22.000Z",
       "modified": "2023-12-14T14:46:12.743Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3459,50.1087,16.5540,50.7276",
@@ -18107,12 +18169,13 @@
       "issued": "2022-09-07T07:58:04.000Z",
       "modified": "2023-07-17T11:00:15.640Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "14.7576,49.8757,16.3621,50.8565",
@@ -18540,12 +18603,13 @@
       "issued": "2022-09-07T06:11:22.000Z",
       "modified": "2023-08-08T12:33:41.265Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "14.9765,49.9667,16.5967,50.7626",
@@ -19003,12 +19067,13 @@
       "issued": "2022-09-07T10:17:42.000Z",
       "modified": "2023-10-12T11:39:00.057Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8880,50.1576,16.1857,50.7044",
@@ -19520,12 +19585,13 @@
       "issued": "2022-09-29T14:31:24.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1698,50.0824,16.4642,50.6270",
@@ -19805,12 +19871,13 @@
       "issued": "2023-12-14T13:20:18.000Z",
       "modified": "2023-12-14T14:26:32.091Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1795,50.1069,16.4203,50.7453",
@@ -20070,12 +20137,13 @@
       "issued": "2023-02-09T07:22:39.000Z",
       "modified": "2023-07-17T12:09:32.021Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2160,50.0827,16.3917,50.6959",
@@ -20301,12 +20369,13 @@
       "issued": "2023-01-04T09:28:31.000Z",
       "modified": "2023-07-14T09:25:32.965Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2720,50.1245,16.2802,50.6317",
@@ -20539,12 +20608,13 @@
       "issued": "2023-02-13T11:26:19.000Z",
       "modified": "2023-07-17T07:45:44.184Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2720,50.1245,16.3416,50.6322",
@@ -20769,12 +20839,13 @@
       "issued": "2022-11-12T09:29:26.000Z",
       "modified": "2024-06-10T11:28:51.460Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1768,50.1160,16.4647,50.5882",
@@ -21000,12 +21071,13 @@
       "issued": "2023-02-02T11:32:57.000Z",
       "modified": "2024-09-11T12:27:37.396Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1592,50.1087,16.5096,50.7468",
@@ -21232,12 +21304,13 @@
       "issued": "2023-02-20T13:10:51.000Z",
       "modified": "2023-07-17T07:46:53.991Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3524,50.1856,15.9155,50.5651",
@@ -21467,12 +21540,13 @@
       "issued": "2022-11-29T16:25:52.000Z",
       "modified": "2023-06-27T08:18:03.370Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2720,50.1245,16.3416,50.6322",
@@ -21681,12 +21755,13 @@
       "issued": "2023-01-11T14:50:03.000Z",
       "modified": "2023-07-17T07:09:44.344Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1513,50.1593,16.3812,50.5807",
@@ -22189,12 +22264,13 @@
       "issued": "2022-12-21T11:36:07.000Z",
       "modified": "2023-07-14T11:44:18.165Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.8890,50.2635,16.3970,50.6448",
@@ -22418,12 +22494,13 @@
       "issued": "2022-09-29T13:58:31.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1698,50.0923,16.5127,50.7443",
@@ -22684,12 +22761,13 @@
       "issued": "2023-01-12T14:24:03.000Z",
       "modified": "2023-07-17T07:08:25.896Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1301,50.0712,16.4687,50.7682",
@@ -22917,12 +22995,13 @@
       "issued": "2022-10-22T19:04:24.000Z",
       "modified": "2023-07-14T10:56:48.868Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3592,50.1198,16.4657,50.6109",
@@ -23144,12 +23223,13 @@
       "issued": "2023-12-14T13:01:37.000Z",
       "modified": "2023-12-14T14:05:55.620Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1629,50.0781,16.4792,50.6946",
@@ -23431,12 +23511,13 @@
       "issued": "2021-11-02T22:34:53.000Z",
       "modified": "2023-06-14T10:39:24.952Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1886,49.9522,16.4665,50.8483",
@@ -23886,12 +23967,13 @@
       "issued": "2023-06-14T14:46:03.000Z",
       "modified": "2023-06-14T15:02:54.005Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.7097,50.1399,16.1815,50.6462",
@@ -24281,12 +24363,13 @@
       "issued": "2022-09-28T17:27:11.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1592,50.1501,16.4754,50.7524",
@@ -24546,12 +24629,13 @@
       "issued": "2023-05-31T11:56:06.000Z",
       "modified": "2023-05-31T12:07:20.503Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2529,50.0969,16.3405,50.6489",
@@ -24799,12 +24883,13 @@
       "issued": "2023-03-24T12:28:17.000Z",
       "modified": "2023-06-07T14:39:15.523Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.4291,50.0991,16.4805,50.7162",
@@ -25036,12 +25121,13 @@
       "issued": "2023-03-31T05:38:38.000Z",
       "modified": "2023-07-17T11:58:18.123Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1635,50.0650,16.4654,50.6732",
@@ -25268,12 +25354,13 @@
       "issued": "2023-03-31T07:22:33.000Z",
       "modified": "2024-03-18T11:57:52.014Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.0847,49.8622,16.4515,50.8414",
@@ -25503,12 +25590,13 @@
       "issued": "2023-01-04T08:04:18.000Z",
       "modified": "2024-10-09T08:12:00.495Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2719,50.0859,16.4684,50.6607",
@@ -25732,12 +25820,13 @@
       "issued": "2024-03-13T08:46:19.000Z",
       "modified": "2024-03-13T08:55:26.297Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3639,50.1160,16.3359,50.7258",
@@ -25987,12 +26076,13 @@
       "issued": "2022-09-29T14:22:35.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3508,50.1561,16.3465,50.7468",
@@ -26273,12 +26363,13 @@
       "issued": "2021-11-02T23:14:59.000Z",
       "modified": "2023-06-14T11:02:25.799Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.5781,50.0890,16.1641,50.7313",
@@ -26695,12 +26786,13 @@
       "issued": "2024-03-13T13:11:53.000Z",
       "modified": "2024-03-13T13:21:24.566Z",
       "publisher": {
+        "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.5868,50.3549,15.8467,50.6312",
@@ -26925,12 +27017,13 @@
       "issued": "2022-11-12T10:25:13.000Z",
       "modified": "2022-11-12T10:31:49.293Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1212,50.0517,16.5575,50.7468",
@@ -27138,12 +27231,13 @@
       "issued": "2023-12-14T13:05:46.000Z",
       "modified": "2023-12-14T14:13:33.719Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1693,50.1135,16.3019,50.6290",
@@ -27402,12 +27496,13 @@
       "issued": "2023-08-17T08:20:15.000Z",
       "modified": "2023-08-17T08:45:55.219Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.2010,49.9873,16.4394,50.7414",
@@ -28139,12 +28234,13 @@
       "issued": "2022-09-25T08:07:56.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.1632,50.0564,16.5516,50.7270",
@@ -28398,12 +28494,13 @@
       "issued": "2022-09-28T09:24:01.000Z",
       "modified": "2023-06-07T13:59:27.581Z",
       "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "15.3580,50.1233,16.3318,50.6303",
