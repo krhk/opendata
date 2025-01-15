@@ -3778,7 +3778,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2024-03-13T13:37:54.000Z",
-      "modified": "2024-03-13T13:43:43.588Z",
+      "modified": "2025-01-15T09:04:03.775Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -3789,7 +3789,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.5912,50.4303,15.7821,50.6312",
+      "spatial": "15.5888,50.4295,15.7821,50.6312",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -3805,7 +3805,7 @@
             }
           }
         },
-        "mdFileID": "1710337274842r2975603418591135",
+        "mdFileID": "1736931942692r44801838663870464",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -3813,7 +3813,7 @@
             }
           }
         },
-        "mdDateSt": "2024-03-13",
+        "mdDateSt": "2025-01-15",
         "Esri": {
           "locales": {
             "locale": {
@@ -3825,14 +3825,14 @@
           "CreaTime": 14354800,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-03-13",
+          "ModDate": "2025-01-15",
           "CreaDate": "2024-03-13",
-          "ModTime": "14:42:44.95",
+          "ModTime": "10:07:15.60",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "14:41:14.28",
+        "mdTimeSt": "10:05:42.11",
         "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací odborných léčebných ústavů na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
@@ -3847,7 +3847,13 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
-          "idPurp": "Odborné léčebné ústavy",
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -3909,6 +3915,11 @@
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
           }
         }
       },
@@ -26784,7 +26795,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2024-03-13T13:11:53.000Z",
-      "modified": "2024-03-13T13:21:24.566Z",
+      "modified": "2025-01-15T08:02:36.028Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -26811,7 +26822,7 @@
             }
           }
         },
-        "mdFileID": "1710335768220r7804828523530876",
+        "mdFileID": "1736928416945r4577681877160573",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -26819,7 +26830,7 @@
             }
           }
         },
-        "mdDateSt": "2024-03-13",
+        "mdDateSt": "2025-01-15",
         "Esri": {
           "locales": {
             "locale": {
@@ -26831,14 +26842,14 @@
           "CreaTime": 14095400,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-03-13",
+          "ModDate": "2025-01-15",
           "CreaDate": "2024-03-13",
-          "ModTime": "14:17:55.60",
+          "ModTime": "09:09:39.04",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "14:16:07.72",
+        "mdTimeSt": "09:06:56.42",
         "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací lázní na území Královéhradeckého kraje. Zdrojem dat je Odbor zdravotnictví Krajského úřadu Královéhradeckého kraje.",
@@ -26853,7 +26864,13 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
-          "idPurp": "Lázně",
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -26914,6 +26931,11 @@
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
           }
         }
       },
