@@ -272,6 +272,280 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0575292a366649d19580a2389c55fced&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/0575292a366649d19580a2389c55fced_0",
+      "title": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)",
+      "description": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "Přípoje",
+        "Veřejná doprava VDKHK",
+        "Doprava",
+        "Autobusy",
+        "Vlaky",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-01-20T09:06:00.000Z",
+      "modified": "2025-01-20T09:07:24.589Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdDateSt": "2025-01-20",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": "10:19:28.41",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2025-01-20",
+          "CreaDate": "2025-01-20",
+          "ModTime": "10:25:25.34",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "10:19:28.41",
+        "dataIdInfo": {
+          "idAbs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Přípoje",
+              "Veřejná doprava VDKHK",
+              "Doprava",
+              "Autobusy",
+              "Vlaky",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdFileID": "0575292a366649d19580a2389c55fced",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaručených_přípojů/FeatureServer"
+            }
+          }
+        },
+        "@_xml:lang": "en",
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
+          }
+        }
+      },
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0575292a366649d19580a2389c55fced_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaru%C4%8Den%C3%BDch_p%C5%99%C3%ADpoj%C5%AF/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0575292a366649d19580a2389c55fced/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0a65793445574552b78e7f1f0761ba13&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/0a65793445574552b78e7f1f0761ba13_0",
       "title": "Poskytovatelé sociálních služeb",
@@ -8482,284 +8756,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/4973fa51384f4e7ca5db80e4d9496f03/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=4c52403a43a5400085823930c55ab4ca&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0",
-      "title": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)",
-      "description": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
-      "keyword": [
-        "Zaručené přípoje",
-        "Veřejná doprava Královéhradeckého kraje",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2023-09-06T10:21:55.000Z",
-      "modified": "2023-09-06T10:41:54.927Z",
-      "publisher": {
-        "name": "Královéhradecký kraj",
-        "source": "Královéhradecký kraj"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "CC0",
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "4c52403a43a5400085823930c55ab4ca",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaručených_přípojů_(vyčkávání_autobusů_na_autobusy_a_vlaky)/FeatureServer"
-            }
-          }
-        },
-        "mdDateSt": "2023-09-06",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "ArcGISFormat": 1,
-          "CreaTime": "12:28:31.97",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-09-18",
-          "CreaDate": "2023-09-06",
-          "ModTime": "10:17:51.97",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "12:28:31.97",
-        "@_xml:lang": "en",
-        "dataIdInfo": {
-          "idAbs": "Datová sada obsahuje seznam zaručených přípojů - vyčkávání autobusů na autobusy a vlaky v rámci Veřejné dopravy Královéhradeckého kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
-          "idCitation": {
-            "date": {
-              "pubDate": "2023-09-06"
-            },
-            "resTitle": "Seznam zaručených přípojů (vyčkávání autobusů na autobusy a vlaky)"
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Zaručené přípoje",
-              "Veřejná doprava Královéhradeckého kraje",
-              "Královéhradecký kraj"
-            ]
-          },
-          "idPoC": {
-            "rpOrgName": "Královéhradecký kraj",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        }
-      },
-      "category": [
-        "Veřejná doprava a silnice"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/4c52403a43a5400085823930c55ab4ca_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_zaru%C4%8Den%C3%BDch_p%C5%99%C3%ADpoj%C5%AF_(vy%C4%8Dk%C3%A1v%C3%A1n%C3%AD_autobus%C5%AF_na_autobusy_a_vlaky)/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/4c52403a43a5400085823930c55ab4ca/sqlite?layers=0"
         }
       ],
       "theme": [
