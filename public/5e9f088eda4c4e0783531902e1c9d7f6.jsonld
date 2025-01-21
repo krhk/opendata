@@ -1,0 +1,61 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datakhk.cz/5e9f088eda4c4e0783531902e1c9d7f6.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Subjektivně vnímané zdraví podle krajů ČR"
+  },
+  "popis": {
+    "cs": "{{description}}"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "graf",
+      "Zdraví"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datakhk.cz/documents/5e9f088eda4c4e0783531902e1c9d7f6",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datakhk.cz/documents/5e9f088eda4c4e0783531902e1c9d7f6",
+      "přístupové_url": "https://www.datakhk.cz/documents/5e9f088eda4c4e0783531902e1c9d7f6",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://e.infogram.com/8fcd4d24-8c25-40b8-90a7-95b1152c6b82?src=embed",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://e.infogram.com/8fcd4d24-8c25-40b8-90a7-95b1152c6b82?src=embed",
+      "přístupové_url": "https://e.infogram.com/8fcd4d24-8c25-40b8-90a7-95b1152c6b82?src=embed",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
