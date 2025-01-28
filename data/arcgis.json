@@ -733,16 +733,17 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=0a65793445574552b78e7f1f0761ba13&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/0a65793445574552b78e7f1f0761ba13_0",
       "title": "Poskytovatelé sociálních služeb",
-      "description": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
+      "description": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Odbor sociálních věcí Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        "Poskytovatelé sociálních služeb",
+        "Sociální služby",
+        "Poskytovatelé",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-22T13:24:12.000Z",
-      "modified": "2024-07-16T05:19:49.146Z",
+      "modified": "2025-01-28T13:42:18.948Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -750,7 +751,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.1630,50.0804,16.5521,50.6607",
+      "spatial": "14.4464,50.0804,16.5521,50.6648",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -766,7 +767,7 @@
             }
           }
         },
-        "mdFileID": "1689581220359r39398432251105464",
+        "mdFileID": "1738071508505r8810112116492066",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -774,7 +775,7 @@
             }
           }
         },
-        "mdDateSt": "2023-07-17",
+        "mdDateSt": "2025-01-28",
         "Esri": {
           "locales": {
             "locale": {
@@ -783,20 +784,20 @@
             }
           },
           "ArcGISFormat": 1,
-          "CreaTime": 15065100,
+          "CreaTime": 15175100,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-07-17",
+          "ModDate": "2025-01-28",
           "CreaDate": "2022-09-22",
-          "ModTime": "10:08:01.74",
+          "ModTime": "14:40:59.42",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "10:06:59.78",
+        "mdTimeSt": "14:38:27.99",
         "@_xml:lang": "cs",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Registr poskytovatelů sociálních služeb.",
+          "idAbs": "Datová sada s prostorovou lokalizací zařízení poskytovatelů sociálních služeb na území Královéhradeckého kraje. Zdrojem dat je Odbor sociálních věcí Krajského úřadu Královéhradeckého kraje.",
           "idCitation": {
             "resTitle": "Poskytovatelé sociálních služeb"
           },
@@ -808,6 +809,13 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
           "idPurp": "Poskytovatelé sociálních služeb",
           "dataChar": {
             "CharSetCd": {
@@ -816,11 +824,13 @@
           },
           "searchKeys": {
             "keyword": [
-              "Poskytovatelé sociálních služeb",
+              "Sociální služby",
+              "Poskytovatelé",
               "Královéhradecký kraj"
             ]
           },
           "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -867,6 +877,11 @@
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
           }
         }
       },
