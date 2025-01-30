@@ -6,6 +6,99 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0018d80191e34862b6134250f2478c49",
+      "landingPage": "https://www.datakhk.cz/documents/0018d80191e34862b6134250f2478c49",
+      "title": "Kapitálové výdaje krajů do nemocnic na počet obyvatel kraje v roce 2021",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:09.000Z",
+      "modified": "2025-01-30T11:37:09.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/0018d80191e34862b6134250f2478c49"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/9795e83e-6a4d-4e00-ad8d-0ac997ae77cf?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=01634b3b927c4f34bf600ba38cb4475a",
+      "landingPage": "https://www.datakhk.cz/documents/01634b3b927c4f34bf600ba38cb4475a",
+      "title": "Počet obyvatel v MAS KHK",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Demografie"
+      ],
+      "issued": "2025-01-30T12:26:17.000Z",
+      "modified": "2025-01-30T12:26:17.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/01634b3b927c4f34bf600ba38cb4475a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/1813989f-5e88-4fa7-a7c5-03a371a73d11?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0286157fb9da48d894d37e0ce7eeac73",
       "landingPage": "https://www.datakhk.cz/documents/0286157fb9da48d894d37e0ce7eeac73",
       "title": "Hustota obyvatel v zemích EU",
@@ -684,6 +777,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=06124025b9ac45aab3a53f37aa10ca48",
+      "landingPage": "https://www.datakhk.cz/documents/06124025b9ac45aab3a53f37aa10ca48",
+      "title": "Počet očkování proti Covid-19 dle věkových skupin dle okresů a dle dávky",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Očkování"
+      ],
+      "issued": "2025-01-30T12:27:04.000Z",
+      "modified": "2025-01-30T12:27:04.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/06124025b9ac45aab3a53f37aa10ca48"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a3089124-49cc-4d58-b00d-c9cc624b8358?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0670d29271764d6ab59b1601dd0eb909",
       "landingPage": "https://www.datakhk.cz/documents/0670d29271764d6ab59b1601dd0eb909",
       "title": "Výdaje Královéhradeckého kraje do zdravotnictví",
@@ -722,6 +862,53 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/2742fc4f-cc68-4a5b-9927-44bd36e5bf2b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=06f4258c62db48509b233711c1173ec7",
+      "landingPage": "https://www.datakhk.cz/documents/06f4258c62db48509b233711c1173ec7",
+      "title": "Kapitálové výdaje do kultury",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:10.000Z",
+      "modified": "2025-01-30T11:37:10.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/06f4258c62db48509b233711c1173ec7"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ee4e471c-98c7-4ef4-bd91-39ff45b400df?src=embed"
         }
       ],
       "theme": [
@@ -1518,6 +1705,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/603d1717-ca29-4a4e-901a-082b19e8f3e1?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0f4f76a84b60407caf734d59ba5cc803",
+      "landingPage": "https://www.datakhk.cz/documents/0f4f76a84b60407caf734d59ba5cc803",
+      "title": "Počet personálu přímé práce dle jednotlivých druhů služeb v Královéhradeckém kraji - Služby sociální prevence",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:12.000Z",
+      "modified": "2025-01-30T12:28:12.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/0f4f76a84b60407caf734d59ba5cc803"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ba231d73-7200-4c6e-bb7c-ef84aad1aa66?src=embed"
         }
       ],
       "theme": [
@@ -2497,6 +2730,98 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/4a10cf54-d48f-4283-989e-9c78a98025f6?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=15c0207d2360406bbb253d507f5eed58",
+      "landingPage": "https://www.datakhk.cz/documents/15c0207d2360406bbb253d507f5eed58",
+      "title": "Predikce vývoje vybraných demografických ukazatelů v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Demografie"
+      ],
+      "issued": "2025-01-30T12:17:23.000Z",
+      "modified": "2025-01-30T12:17:23.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/15c0207d2360406bbb253d507f5eed58"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ac9f3d9d-06aa-4be8-90cf-c8d060d47e1a?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1632a37b8dfb45a29a2ee8287cf59b48",
+      "landingPage": "https://www.datakhk.cz/documents/1632a37b8dfb45a29a2ee8287cf59b48",
+      "title": "Kriminalita objasněnost případů dle druhu TSK",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kriminalita"
+      ],
+      "issued": "2025-01-30T11:57:09.000Z",
+      "modified": "2025-01-30T11:57:09.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/1632a37b8dfb45a29a2ee8287cf59b48"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/60f47fd4-7cfc-4f81-8bf0-6b551a30dac4?src=embed"
         }
       ],
       "theme": [
@@ -4422,6 +4747,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1cc62a86b5a747dca4d0c39d38e03dbd",
+      "landingPage": "https://www.datakhk.cz/documents/1cc62a86b5a747dca4d0c39d38e03dbd",
+      "title": "HPH v Královéhradeckém kraji podle odvětví",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "HDP",
+        "Ekonomika"
+      ],
+      "issued": "2025-01-30T11:21:13.000Z",
+      "modified": "2025-01-30T11:21:13.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/1cc62a86b5a747dca4d0c39d38e03dbd"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/223b0486-cd29-4e79-9352-0a8c81de6967?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1d16ee0ab0e34188bf53ba4841710718",
       "landingPage": "https://www.datakhk.cz/documents/1d16ee0ab0e34188bf53ba4841710718",
       "title": "Absolventi vysokých škol v Královéhradeckém kraji",
@@ -4460,6 +4832,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/1f8581de-6359-4514-802b-41166c38e846?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1d52ba78a3c34666b2503294ba70274b",
+      "landingPage": "https://www.datakhk.cz/documents/1d52ba78a3c34666b2503294ba70274b",
+      "title": "Hodnocení dotačních titulů Královéhradeckého kraje v oblasti památkové péče",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Dotace"
+      ],
+      "issued": "2025-01-30T11:57:54.000Z",
+      "modified": "2025-01-30T11:57:54.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/1d52ba78a3c34666b2503294ba70274b"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f69c9e37-7634-4d3b-9972-295498674364?src=embed"
         }
       ],
       "theme": [
@@ -4882,6 +5300,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=211c36bc100d41fdbaf6d1536dd39851",
+      "landingPage": "https://www.datakhk.cz/documents/211c36bc100d41fdbaf6d1536dd39851",
+      "title": "Celkový počet lůžek v hromadných ubytovacích zařízeních Královéhradeckého kraje v roce 2022",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ubytování",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:12:00.000Z",
+      "modified": "2025-01-30T12:12:00.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/211c36bc100d41fdbaf6d1536dd39851"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/0aa0f76b-4e0c-484b-b990-a3498fd4ed1b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2189952be5f848a99a6e24ab8b94a234",
       "landingPage": "https://www.datakhk.cz/documents/2189952be5f848a99a6e24ab8b94a234",
       "title": "Dashboard Kotlíkové dotace",
@@ -5244,6 +5709,52 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/229c0cb29b2e4838ac7ff4190c075d7c/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=22f5c1b15e5649eebf066e33b20398c2",
+      "landingPage": "https://www.datakhk.cz/documents/22f5c1b15e5649eebf066e33b20398c2",
+      "title": "Kriminalita dle druhu TSK",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kriminalita"
+      ],
+      "issued": "2025-01-30T11:57:11.000Z",
+      "modified": "2025-01-30T11:57:11.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/22f5c1b15e5649eebf066e33b20398c2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/6ba7cdb8-f8a5-4dbb-ac7d-ef1d35716be2?src=embed"
         }
       ],
       "theme": [
@@ -5626,6 +6137,53 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/24f82d8f89e54a6898377df6a4cbc831/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=26673b3239cc41cbb478818c7558997d",
+      "landingPage": "https://www.datakhk.cz/documents/26673b3239cc41cbb478818c7558997d",
+      "title": "Kapitálové výdaje Královéhradeckého kraje do nemocnic na 1 obyvatele",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:12.000Z",
+      "modified": "2025-01-30T11:37:12.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/26673b3239cc41cbb478818c7558997d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/311980a0-8b3b-4e51-a24c-416892207b49?src=embed"
         }
       ],
       "theme": [
@@ -6666,6 +7224,99 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2b47f7d0ee3b4a6fb315f83af314d190",
+      "landingPage": "https://www.datakhk.cz/documents/2b47f7d0ee3b4a6fb315f83af314d190",
+      "title": "Kapitálové výdaje do silnic - srovnání krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:11.000Z",
+      "modified": "2025-01-30T11:37:11.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/2b47f7d0ee3b4a6fb315f83af314d190"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/7457ffa2-a435-48ab-8a42-0603db3eb83b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2bb1401635534e638b5171ab8649703f",
+      "landingPage": "https://www.datakhk.cz/documents/2bb1401635534e638b5171ab8649703f",
+      "title": "Počet ekonomických subjektů v Královéhradeckém kraji a jejich rozdělení",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ekonomické subjekty"
+      ],
+      "issued": "2025-01-30T12:24:50.000Z",
+      "modified": "2025-01-30T12:24:50.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/2bb1401635534e638b5171ab8649703f"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/53854f9b-cc72-4e05-8593-84019e34a2f4?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2c3896cc89e54bd0bd05529f97f3e2fd",
       "landingPage": "https://www.datakhk.cz/documents/2c3896cc89e54bd0bd05529f97f3e2fd",
       "title": "Absolventi vysokých škol s bydlištěm v Královéhradeckém kraji studující mimo kraj",
@@ -7022,6 +7673,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2e901d10010b49189c934f873da3d21b",
+      "landingPage": "https://www.datakhk.cz/documents/2e901d10010b49189c934f873da3d21b",
+      "title": "Nejvýznamnější investiční transfery přijaté Královéhradeckým krajem",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Investice"
+      ],
+      "issued": "2025-01-30T12:23:24.000Z",
+      "modified": "2025-01-30T12:23:24.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/2e901d10010b49189c934f873da3d21b"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a446e60d-71b0-4dcd-8481-3257ed9af0da?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2ec713eca1994b2f9f4a166587e86e5f",
       "landingPage": "https://www.datakhk.cz/documents/2ec713eca1994b2f9f4a166587e86e5f",
       "title": "Alokace IROP v MAS",
@@ -7106,6 +7803,53 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/a237444b-8e61-4dc3-8eab-fc0de0033ec3?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2fdcf02fb18a4111a68d9f3485f6f256",
+      "landingPage": "https://www.datakhk.cz/documents/2fdcf02fb18a4111a68d9f3485f6f256",
+      "title": "Chráněná území v Královéhradeckém kraji - rozloha",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Chráněná území",
+        "Ochrana přírody"
+      ],
+      "issued": "2025-01-30T11:24:33.000Z",
+      "modified": "2025-01-30T11:24:33.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/2fdcf02fb18a4111a68d9f3485f6f256"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/aaba5796-f7ae-4cc5-bb1a-3d9796a44f29?src=embed"
         }
       ],
       "theme": [
@@ -7575,6 +8319,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=32a06290f9fa4903bd6bed20e51d3fb4",
+      "landingPage": "https://www.datakhk.cz/documents/32a06290f9fa4903bd6bed20e51d3fb4",
+      "title": "Kapitálové výdaje krajů do nemocnic v roce 2022",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:10.000Z",
+      "modified": "2025-01-30T11:37:10.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/32a06290f9fa4903bd6bed20e51d3fb4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/3cd9740a-c4fd-4de3-af20-2c079f4fb9c0?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=348a2a9b10d24832adf6ff837bf58039",
       "landingPage": "https://www.datakhk.cz/documents/348a2a9b10d24832adf6ff837bf58039",
       "title": "Podíl území lesů v zemích EU",
@@ -7659,6 +8450,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/01bcdd98-eff6-4275-9cd1-cce52d613e13?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=35d537d6fbee44988309fe8c5b05d0e2",
+      "landingPage": "https://www.datakhk.cz/documents/35d537d6fbee44988309fe8c5b05d0e2",
+      "title": "Vybrané charakteristiky bytových domů v krajích v letech 2011-2019 - tříleté průměry",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Byty"
+      ],
+      "issued": "2025-01-30T12:13:00.000Z",
+      "modified": "2025-01-30T12:13:00.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/35d537d6fbee44988309fe8c5b05d0e2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/393799b5-6c4e-4b88-b402-996750e250d7?src=embed"
         }
       ],
       "theme": [
@@ -7881,6 +8718,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=36734243deff4569a57b33f42326059d",
+      "landingPage": "https://www.datakhk.cz/documents/36734243deff4569a57b33f42326059d",
+      "title": "Nejvýznamnější zaměstnavatelé KHK",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Investice"
+      ],
+      "issued": "2025-01-30T12:23:24.000Z",
+      "modified": "2025-01-30T12:23:24.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/36734243deff4569a57b33f42326059d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8ee6f25e-c7b6-419a-90de-951ab2af7b28?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=36763f3a38cd4239a572af3b2b29ed5d",
       "landingPage": "https://www.datakhk.cz/documents/36763f3a38cd4239a572af3b2b29ed5d",
       "title": "Programové dotace do ORP Životní prostředí a zemědělství",
@@ -8011,6 +8894,53 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/53353447-7dfa-4baf-a3a5-127ebf8a5efb?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=382f448a716e45caa4c61a51b8af7fe0",
+      "landingPage": "https://www.datakhk.cz/documents/382f448a716e45caa4c61a51b8af7fe0",
+      "title": "Vývoj počtu hromadných ubytovacích zařízení v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ubytování",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:12:00.000Z",
+      "modified": "2025-01-30T12:12:00.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/382f448a716e45caa4c61a51b8af7fe0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a83b28ca-5c3d-487d-b9ab-b1420a7043f8?src=embed"
         }
       ],
       "theme": [
@@ -8562,6 +9492,53 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/3b31adc233464ff3ad482313a4010377/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3b7e739fe17b48069ec784a1491b8f94",
+      "landingPage": "https://www.datakhk.cz/documents/3b7e739fe17b48069ec784a1491b8f94",
+      "title": "Srovnání dopravní nehodovosti  v krajích v roce 2022",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Nehody",
+        "Doprava"
+      ],
+      "issued": "2025-01-30T11:58:57.000Z",
+      "modified": "2025-01-30T11:58:57.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/3b7e739fe17b48069ec784a1491b8f94"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8a097583-82a4-4f8b-8b2a-e2ccfce853b2?src=embed"
         }
       ],
       "theme": [
@@ -10217,6 +11194,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=40f971b374944a4990dacc7b6a7377a7",
+      "landingPage": "https://www.datakhk.cz/documents/40f971b374944a4990dacc7b6a7377a7",
+      "title": "Individuální vzdělávání v ZŠ",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Školy",
+        "Školství"
+      ],
+      "issued": "2025-01-30T11:46:58.000Z",
+      "modified": "2025-01-30T11:46:58.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/40f971b374944a4990dacc7b6a7377a7"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/493547f5-c5e0-4d45-a877-21f45a7bca0d?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=41a02a874c434059a5ec198d6c8de2c5",
       "landingPage": "https://www.datakhk.cz/documents/41a02a874c434059a5ec198d6c8de2c5",
       "title": "Sociální služby DUŠO do ORP",
@@ -10844,6 +11868,99 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=46cadd104392405e931bbbc16ccc5afd",
+      "landingPage": "https://www.datakhk.cz/documents/46cadd104392405e931bbbc16ccc5afd",
+      "title": "Kriminalita souhrn",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kriminalita"
+      ],
+      "issued": "2025-01-30T11:57:11.000Z",
+      "modified": "2025-01-30T11:57:11.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/46cadd104392405e931bbbc16ccc5afd"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/48a1b721-8089-40f5-8a58-9a971f2614a4?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=46ed2605d02e4cf39f57f098a42c91b5",
+      "landingPage": "https://www.datakhk.cz/documents/46ed2605d02e4cf39f57f098a42c91b5",
+      "title": "mapa olympiáda",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Školy",
+        "Školství"
+      ],
+      "issued": "2025-01-30T11:47:00.000Z",
+      "modified": "2025-01-30T11:47:00.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/46ed2605d02e4cf39f57f098a42c91b5"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/7ec4b3eb-a9d4-4248-8093-c7ab4dc7f8dd?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=48dd45260991486ebc4911d3b4e7c8d1",
       "landingPage": "https://www.datakhk.cz/documents/48dd45260991486ebc4911d3b4e7c8d1",
       "title": "Alokace MAS celkem",
@@ -11263,6 +12380,100 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4ed9c6fa45f1429da6bb834a708cbb03",
+      "landingPage": "https://www.datakhk.cz/documents/4ed9c6fa45f1429da6bb834a708cbb03",
+      "title": "HDP ČR na 1 obyvatele podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "HDP",
+        "Ekonomika"
+      ],
+      "issued": "2025-01-30T11:21:12.000Z",
+      "modified": "2025-01-30T11:21:12.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/4ed9c6fa45f1429da6bb834a708cbb03"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/44e08e2c-8779-4388-ad26-15327db43482?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4ee0667aaa604c168d59c08801772582",
+      "landingPage": "https://www.datakhk.cz/documents/4ee0667aaa604c168d59c08801772582",
+      "title": "Výjezdy Zdravotnické záchranné služby Královéhradeckého kraje dle nejčastější diagnózy",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZZS",
+        "Zdravotnictví"
+      ],
+      "issued": "2025-01-30T11:25:05.000Z",
+      "modified": "2025-01-30T11:25:05.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/4ee0667aaa604c168d59c08801772582"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/2a7c85b8-4584-4805-9e05-117a65794f38?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4ef598a790c945d8822a0b5656890121",
       "landingPage": "https://www.datakhk.cz/documents/4ef598a790c945d8822a0b5656890121",
       "title": "Hrubá přidaná hodnota v běžných cenách - Zemědělství, lesnictví a rybářství podle krajů",
@@ -11564,6 +12775,53 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/50bbfec8c7ec43a69448c6d6132282de/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=50ccde70e37c4c4caa3e2c5ff0da0d1e",
+      "landingPage": "https://www.datakhk.cz/documents/50ccde70e37c4c4caa3e2c5ff0da0d1e",
+      "title": "Hrubý domácí produkt v běžných cenách podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "HDP",
+        "Ekonomika"
+      ],
+      "issued": "2025-01-30T11:21:12.000Z",
+      "modified": "2025-01-30T11:21:12.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/50ccde70e37c4c4caa3e2c5ff0da0d1e"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/652f219d-e5b6-4e32-9d9c-fed9bdcf93e7?src=embed"
         }
       ],
       "theme": [
@@ -11976,6 +13234,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=55b069e83fe046319973cfebbb561b33",
+      "landingPage": "https://www.datakhk.cz/documents/55b069e83fe046319973cfebbb561b33",
+      "title": "Počet cizinců na 1000 obyvatel v ČR podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Cizinci"
+      ],
+      "issued": "2025-01-30T08:51:47.000Z",
+      "modified": "2025-01-30T08:51:47.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/55b069e83fe046319973cfebbb561b33"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/1084bbbb-ec58-425f-b389-b1f279151e49?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=56c16633c3ba4dbd98eaea014fbbea4d",
       "landingPage": "https://www.datakhk.cz/documents/56c16633c3ba4dbd98eaea014fbbea4d",
       "title": "Dotace dle jednotlivých programů (aktualita na web Chytrého regionu",
@@ -12014,6 +13318,54 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/cdda43ce-25ff-46ca-bbb7-b87a3960641e?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=57a0f32571b843d89e92783420bc8934",
+      "landingPage": "https://www.datakhk.cz/documents/57a0f32571b843d89e92783420bc8934",
+      "title": "Zapojené organizace (anglicky)",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Data",
+        "Graph",
+        "English"
+      ],
+      "issued": "2025-01-30T11:40:04.000Z",
+      "modified": "2025-01-30T11:40:04.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/57a0f32571b843d89e92783420bc8934"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8ca702da-c3a0-4558-818f-8747e9cf28d1?src=embed"
         }
       ],
       "theme": [
@@ -12430,6 +13782,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/2f90e107-086e-4a56-b807-5c6c47d3266c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5a3b4904c1d447c89434ebef72f282cc",
+      "landingPage": "https://www.datakhk.cz/documents/5a3b4904c1d447c89434ebef72f282cc",
+      "title": "Počet chovaných kusů zvířat v Zoo Dvůr Králové",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZOO"
+      ],
+      "issued": "2025-01-30T12:05:16.000Z",
+      "modified": "2025-01-30T12:05:16.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/5a3b4904c1d447c89434ebef72f282cc"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/2c41ff83-0106-4093-ac0c-0e013ff6b34a?src=embed"
         }
       ],
       "theme": [
@@ -13000,6 +14398,52 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/5f3f1b9709db4a0b95f04fb0582f232a/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5febfe2c85ce428b847c1ed6105e4259",
+      "landingPage": "https://www.datakhk.cz/documents/5febfe2c85ce428b847c1ed6105e4259",
+      "title": "Počet personálu přímé práce  v zařízeních pro zdravotně postižené v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:11.000Z",
+      "modified": "2025-01-30T12:28:11.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/5febfe2c85ce428b847c1ed6105e4259"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8062a8e3-07e7-408e-ba0d-7215390cd698?src=embed"
         }
       ],
       "theme": [
@@ -13739,6 +15183,99 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6210d572b3384490a04fbf0e76e4bc0f",
+      "landingPage": "https://www.datakhk.cz/documents/6210d572b3384490a04fbf0e76e4bc0f",
+      "title": "Čerpání dotací EU 2021 (5.8.2024)",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Dotace",
+        "EU"
+      ],
+      "issued": "2025-01-30T11:45:40.000Z",
+      "modified": "2025-01-30T11:45:40.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6210d572b3384490a04fbf0e76e4bc0f"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f8636ba6-8412-4f54-bb5b-3fc7b9dc507b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6313cc9bc9334d98882c0bd4f6ecc583",
+      "landingPage": "https://www.datakhk.cz/documents/6313cc9bc9334d98882c0bd4f6ecc583",
+      "title": "Kriminalita - škody dle druhu TSK",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kriminalita"
+      ],
+      "issued": "2025-01-30T11:57:10.000Z",
+      "modified": "2025-01-30T11:57:10.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6313cc9bc9334d98882c0bd4f6ecc583"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/77161eb5-b204-484b-a617-2ff99450fd80?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=63785f9b8c494aeda4814a3a78376177",
       "landingPage": "https://www.datakhk.cz/documents/63785f9b8c494aeda4814a3a78376177",
       "title": "Hospodaření kraje: Sdílené daně Královéhradeckého kraje",
@@ -13777,6 +15314,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/4b60800d-2e60-4f86-a595-61895f908e81?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6436c2fe22074841b45163bd98976cfa",
+      "landingPage": "https://www.datakhk.cz/documents/6436c2fe22074841b45163bd98976cfa",
+      "title": "Vybrané demografické ukazatele v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Demografie"
+      ],
+      "issued": "2025-01-30T12:17:24.000Z",
+      "modified": "2025-01-30T12:17:24.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6436c2fe22074841b45163bd98976cfa"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/30621d43-5fcd-4513-a7bc-a37c8795a2c8?src=embed"
         }
       ],
       "theme": [
@@ -15205,6 +16788,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6c1dee49bd5f4c85b392e6bb1753c5d2",
+      "landingPage": "https://www.datakhk.cz/documents/6c1dee49bd5f4c85b392e6bb1753c5d2",
+      "title": "Chované druhy zvířat v ZOO Dvůr Králové",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZOO"
+      ],
+      "issued": "2025-01-30T12:05:18.000Z",
+      "modified": "2025-01-30T12:05:18.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6c1dee49bd5f4c85b392e6bb1753c5d2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/7f4b2d8e-c66e-4f14-80bb-16bff426a8ee?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6c7673331dd54ccf9585dcb3410ca0e7&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/6c7673331dd54ccf9585dcb3410ca0e7_0",
       "title": "Národní kulturní památky - pozemky",
@@ -15422,6 +17051,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6d6252285688443d8fe5e37d6b30576a",
+      "landingPage": "https://www.datakhk.cz/documents/6d6252285688443d8fe5e37d6b30576a",
+      "title": "Počet očkování v Královéhradeckém kraji dle okresů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Očkování"
+      ],
+      "issued": "2025-01-30T12:27:02.000Z",
+      "modified": "2025-01-30T12:27:02.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6d6252285688443d8fe5e37d6b30576a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8b31d784-0155-40f7-8b38-9115ae3459b0?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6d6b8a092431454c9edd2c413c859d3a",
       "landingPage": "https://www.datakhk.cz/documents/6d6b8a092431454c9edd2c413c859d3a",
       "title": "Kotlíkové dotace počty žádostí",
@@ -15460,6 +17136,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/68542751-036c-4075-b219-8eaf9f277c2d?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6edda285ad784cf09b935e61b04091f1",
+      "landingPage": "https://www.datakhk.cz/documents/6edda285ad784cf09b935e61b04091f1",
+      "title": "Narozená/Vylíhlá mláďata v ZOO",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZOO"
+      ],
+      "issued": "2025-01-30T12:05:17.000Z",
+      "modified": "2025-01-30T12:05:17.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/6edda285ad784cf09b935e61b04091f1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/52c9eefc-bc97-429d-83ed-bd5c04264eb2?src=embed"
         }
       ],
       "theme": [
@@ -17452,6 +19174,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7f70fc52067044faba6fd574c0380b81",
+      "landingPage": "https://www.datakhk.cz/documents/7f70fc52067044faba6fd574c0380b81",
+      "title": "Dashboard nezaměstnanost",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Dashboard",
+        "English"
+      ],
+      "issued": "2025-01-30T11:43:56.000Z",
+      "modified": "2025-01-30T11:43:56.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/7f70fc52067044faba6fd574c0380b81"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/457451b6-99c9-4105-9659-6920bd70149b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=7ff72455859242519d30179fd259e169",
       "landingPage": "https://www.datakhk.cz/documents/7ff72455859242519d30179fd259e169",
       "title": "Hrubá přidaná hodnota v běžných cenách - Informační a komunikační činnosti podle krajů",
@@ -17772,6 +19541,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=81b2e6ec1d4c4c7e91bd25c70bba8a9f",
+      "landingPage": "https://www.datakhk.cz/documents/81b2e6ec1d4c4c7e91bd25c70bba8a9f",
+      "title": "Počet personálu přímé práce ve službách pro rodiny s dětmi v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:10.000Z",
+      "modified": "2025-01-30T12:28:10.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/81b2e6ec1d4c4c7e91bd25c70bba8a9f"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/938835bc-2b49-408c-ae9e-37592b1f440f?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=81b82d4c182543229ce15bb6ace78d22",
       "landingPage": "https://www.datakhk.cz/documents/81b82d4c182543229ce15bb6ace78d22",
       "title": "Alokace OP Z v MAS",
@@ -18084,6 +19899,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=833c62e941db4bada404d2e37efb15fb",
+      "landingPage": "https://www.datakhk.cz/documents/833c62e941db4bada404d2e37efb15fb",
+      "title": "Počet výjezdů zdravotnické záchranné služby za den v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZZS",
+        "Zdravotnictví"
+      ],
+      "issued": "2025-01-30T11:25:06.000Z",
+      "modified": "2025-01-30T11:25:06.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/833c62e941db4bada404d2e37efb15fb"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/6bc96045-b5e3-4fea-941a-a8003c7c0bb8?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=843ec501198f43ea9f4b3a00be7176f9",
       "landingPage": "https://www.datakhk.cz/documents/843ec501198f43ea9f4b3a00be7176f9",
       "title": "Hrubá přidaná hodnota v běžných cenách - Obchod, doprava, ubytování a pohostinství podle krajů",
@@ -18168,6 +20030,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/a846c44b-bf3a-43ba-989a-c4fe5279c69d?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=857df18dda8f47adbc9ce185e4e87cdf",
+      "landingPage": "https://www.datakhk.cz/documents/857df18dda8f47adbc9ce185e4e87cdf",
+      "title": "Počet druhů v ZOO dle tříd",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZOO"
+      ],
+      "issued": "2025-01-30T12:05:16.000Z",
+      "modified": "2025-01-30T12:05:16.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/857df18dda8f47adbc9ce185e4e87cdf"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ad93c922-40ef-47b4-981f-814590f8ad37?src=embed"
         }
       ],
       "theme": [
@@ -19149,6 +21057,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=86b2afab5e264a8eb2d030f9780efbfa",
+      "landingPage": "https://www.datakhk.cz/documents/86b2afab5e264a8eb2d030f9780efbfa",
+      "title": "Počet ekonomických subjektu v ČR podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ekonomické subjekty"
+      ],
+      "issued": "2025-01-30T12:24:49.000Z",
+      "modified": "2025-01-30T12:24:49.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/86b2afab5e264a8eb2d030f9780efbfa"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/5ce36b97-2ebf-47ec-ade9-932c2f67d731?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8728dda39a9f414686e35ba52a56cfe2",
       "landingPage": "https://www.datakhk.cz/documents/8728dda39a9f414686e35ba52a56cfe2",
       "title": "Investice do zdravotnictví z vlastních prostředků Královéhradeckého kraje",
@@ -19845,6 +21799,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8c693052be724065b255027a2805070b",
+      "landingPage": "https://www.datakhk.cz/documents/8c693052be724065b255027a2805070b",
+      "title": "Individuální vzdělávání v MŠ",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Školy",
+        "Školství"
+      ],
+      "issued": "2025-01-30T11:46:58.000Z",
+      "modified": "2025-01-30T11:46:58.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/8c693052be724065b255027a2805070b"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/535d17ff-d6ca-4827-9f2c-6c68d9469c58?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8d10f586c1ec4604931469a9d6c53816",
       "landingPage": "https://www.datakhk.cz/documents/8d10f586c1ec4604931469a9d6c53816",
       "title": "Dotace z EU na podané/schválené žádosti na 1 obec",
@@ -20376,6 +22377,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8eabd84c61464dacad476e058d27b4d6",
+      "landingPage": "https://www.datakhk.cz/documents/8eabd84c61464dacad476e058d27b4d6",
+      "title": "Návštěvnost turistických cílů podle typu",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kultura",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:07:22.000Z",
+      "modified": "2025-01-30T12:07:22.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/8eabd84c61464dacad476e058d27b4d6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/1a7b0dfa-ce18-4e75-a516-38a034eb21e6?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8ecc8847b9b54ef1bac90d17b8813617&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/8ecc8847b9b54ef1bac90d17b8813617_0",
       "title": "Základní umělecké školy",
@@ -20655,6 +22703,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8f8c93616e534c79b451a92c29094c9f",
+      "landingPage": "https://www.datakhk.cz/documents/8f8c93616e534c79b451a92c29094c9f",
+      "title": "Počet výjezdů Zdravotnické záchranné služby Královéhradeckého kraje dle věku",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZZS",
+        "Zdravotnictví"
+      ],
+      "issued": "2025-01-30T11:25:05.000Z",
+      "modified": "2025-01-30T11:25:05.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/8f8c93616e534c79b451a92c29094c9f"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/4b37e892-d2bf-49ef-9788-78d744f4ecec?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=90514b3a2bc24f18b5915ead838baafa",
       "landingPage": "https://www.datakhk.cz/documents/90514b3a2bc24f18b5915ead838baafa",
       "title": "Hrubá přidaná hodnota v běžných cenách - Činnosti v oblasti nemovitostí podle krajů",
@@ -20701,6 +22796,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=92f7f2e26acc4526bcd21a4589701d66",
+      "landingPage": "https://www.datakhk.cz/documents/92f7f2e26acc4526bcd21a4589701d66",
+      "title": "Proočkovanost obyvatel dle dávky a okresů trvalého bydliště",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Zdraví"
+      ],
+      "issued": "2025-01-30T11:38:19.000Z",
+      "modified": "2025-01-30T11:38:19.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/92f7f2e26acc4526bcd21a4589701d66"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/cc5f3447-b73b-414c-b416-50b2665cf33a?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9328cc6eaac84057a8bbd2ee60b85424",
       "landingPage": "https://www.datakhk.cz/documents/9328cc6eaac84057a8bbd2ee60b85424",
       "title": "Počet obyvatel v zemích EU",
@@ -20739,6 +22881,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/e74ff185-3a25-4e18-a87c-f27d1e3413a9?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=9351e0adb32e4c0fa678be5034aafbe6",
+      "landingPage": "https://www.datakhk.cz/documents/9351e0adb32e4c0fa678be5034aafbe6",
+      "title": "Počet ekonomických subjektů ČR na 1000 obyvatel podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ekonomické subjekty"
+      ],
+      "issued": "2025-01-30T12:24:50.000Z",
+      "modified": "2025-01-30T12:24:50.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/9351e0adb32e4c0fa678be5034aafbe6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a5d0367a-c4ea-40ae-a2da-0d1b9af2a3a4?src=embed"
         }
       ],
       "theme": [
@@ -21391,6 +23579,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/d4b4ad27-281d-4875-9fc9-c0b17e993e33?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=96aa6d61b96747d6873e98e99a5f10f8",
+      "landingPage": "https://www.datakhk.cz/documents/96aa6d61b96747d6873e98e99a5f10f8",
+      "title": "Počet personálu přímé práce ve službkách pro seniory v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:11.000Z",
+      "modified": "2025-01-30T12:28:11.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/96aa6d61b96747d6873e98e99a5f10f8"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/aa2b16cf-52ba-41d7-990e-e5e15893369d?src=embed"
         }
       ],
       "theme": [
@@ -23295,6 +25529,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a481cd7849f1421aa06ee6043e3b25cd",
+      "landingPage": "https://www.datakhk.cz/documents/a481cd7849f1421aa06ee6043e3b25cd",
+      "title": "Kapitálové výdaje do silnic – srovnání krajů na 1 obyvatele v Kč",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kapitálové výdaje",
+        "Investice"
+      ],
+      "issued": "2025-01-30T11:37:12.000Z",
+      "modified": "2025-01-30T11:37:12.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/a481cd7849f1421aa06ee6043e3b25cd"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f0ec16b9-57d8-44db-9184-d5c525820c02?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a4b65f0a6c8542c1a340b42172807273",
       "landingPage": "https://www.datakhk.cz/documents/a4b65f0a6c8542c1a340b42172807273",
       "title": "Dashboard Životní prostředí",
@@ -23379,6 +25660,53 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/edccc14f-73ae-41d9-897a-7bf310a3b6bd?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a5078b7e460c484499fc3636afc2ec7c",
+      "landingPage": "https://www.datakhk.cz/documents/a5078b7e460c484499fc3636afc2ec7c",
+      "title": "Kam na střední školu - nové",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Školy",
+        "Školství"
+      ],
+      "issued": "2025-01-30T11:46:59.000Z",
+      "modified": "2025-01-30T11:46:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/a5078b7e460c484499fc3636afc2ec7c"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/22d699fa-1fd3-476c-aad3-586ed64315e8?src=embed"
         }
       ],
       "theme": [
@@ -24270,6 +26598,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ab79fa1b79d54adeab5d8a42ae360a57",
+      "landingPage": "https://www.datakhk.cz/documents/ab79fa1b79d54adeab5d8a42ae360a57",
+      "title": "Nezaměstnanost - do Akademie",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Nezaměstnanost"
+      ],
+      "issued": "2025-01-30T12:10:50.000Z",
+      "modified": "2025-01-30T12:10:50.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/ab79fa1b79d54adeab5d8a42ae360a57"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ac83d08c-c58c-409d-81ea-ed70023602a2?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ab928607832141f8bebb36261593107a&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/ab928607832141f8bebb36261593107a_0",
       "title": "Autobusové zastávky VDKHK",
@@ -24727,6 +27101,99 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/ab928607832141f8bebb36261593107a/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ac0969073881451ca2cf0268756d04a6",
+      "landingPage": "https://www.datakhk.cz/documents/ac0969073881451ca2cf0268756d04a6",
+      "title": "Návštěvnost Zoo Dvůr Králové",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "ZOO"
+      ],
+      "issued": "2025-01-30T12:05:18.000Z",
+      "modified": "2025-01-30T12:05:18.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/ac0969073881451ca2cf0268756d04a6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/0438f98e-bff5-4b0e-90a0-acae99f1d803?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ac0adac914324167858d52e42b2619b4",
+      "landingPage": "https://www.datakhk.cz/documents/ac0adac914324167858d52e42b2619b4",
+      "title": "Chráněná území v Královéhradeckém kraji v roce 2021 - počet",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Chráněná území",
+        "Ochrana přírody"
+      ],
+      "issued": "2025-01-30T11:24:34.000Z",
+      "modified": "2025-01-30T11:24:34.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/ac0adac914324167858d52e42b2619b4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/b388787a-2572-4680-842c-fc3fcf3156d9?src=embed"
         }
       ],
       "theme": [
@@ -25300,6 +27767,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ad0b5818619047b1afdbde1468da059c",
+      "landingPage": "https://www.datakhk.cz/documents/ad0b5818619047b1afdbde1468da059c",
+      "title": "Hromadná ubytovací zařízení v Královéhradeckém kraji v roce 2021 dle typu",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ubytování",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:12:01.000Z",
+      "modified": "2025-01-30T12:12:01.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/ad0b5818619047b1afdbde1468da059c"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a65dadaf-9889-46fa-b275-65a5862379ca?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=afbfdd0a848e48d3bbb5fcbf9cb8cdd6",
       "landingPage": "https://www.datakhk.cz/documents/afbfdd0a848e48d3bbb5fcbf9cb8cdd6",
       "title": "Dashboard Cestovní Ruch",
@@ -25678,6 +28192,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b3154370143846e689aa356d9c41072c",
+      "landingPage": "https://www.datakhk.cz/documents/b3154370143846e689aa356d9c41072c",
+      "title": "Zaměstnanost v Královéhradeckém kraji podle věku",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Zaměstnanost"
+      ],
+      "issued": "2025-01-30T12:21:43.000Z",
+      "modified": "2025-01-30T12:21:43.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b3154370143846e689aa356d9c41072c"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/5083874d-a0d5-43eb-bab4-937b6bd1264f?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b58066a6014543a3b48fc0d202020e83",
       "landingPage": "https://www.datakhk.cz/documents/b58066a6014543a3b48fc0d202020e83",
       "title": "Dotace EU dle Operačního programu",
@@ -25716,6 +28276,193 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/0e30fe05-e0d9-4a29-93f7-c48f134bd832?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b606fc9bc39c440daa7ecfc825fa09e2",
+      "landingPage": "https://www.datakhk.cz/documents/b606fc9bc39c440daa7ecfc825fa09e2",
+      "title": "Hodnocení dotačních titulů Královéhradeckého kraje v oblasti kultury",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Dotace"
+      ],
+      "issued": "2025-01-30T11:57:55.000Z",
+      "modified": "2025-01-30T11:57:55.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b606fc9bc39c440daa7ecfc825fa09e2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/d3f5cfc8-afdf-4c0e-8fd9-9c207020501f?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b73d72d8f14c4e2dbec897915bc39992",
+      "landingPage": "https://www.datakhk.cz/documents/b73d72d8f14c4e2dbec897915bc39992",
+      "title": "Ukazatelů v grafech (anglicky)",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Data",
+        "Graph",
+        "English"
+      ],
+      "issued": "2025-01-30T11:40:03.000Z",
+      "modified": "2025-01-30T11:40:03.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b73d72d8f14c4e2dbec897915bc39992"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/5722c959-82c4-4d2f-b50f-e03803edcd85?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b7a2e99a878547a2a2da6552222c65b3",
+      "landingPage": "https://www.datakhk.cz/documents/b7a2e99a878547a2a2da6552222c65b3",
+      "title": "Návštěvnost významných kulturních akcí podporovaných Královéhradeckým krajem",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kultura",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:07:21.000Z",
+      "modified": "2025-01-30T12:07:21.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b7a2e99a878547a2a2da6552222c65b3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/6ed3f029-d02c-4ccf-86f9-cf3b40950a2e?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b86bdfbab6014a8798f185e4b3d5c344",
+      "landingPage": "https://www.datakhk.cz/documents/b86bdfbab6014a8798f185e4b3d5c344",
+      "title": "Zaměstnanost v Královéhradeckém kraji podle nejvyšší dosažené míry vzdělání",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Zaměstnanost"
+      ],
+      "issued": "2025-01-30T12:21:42.000Z",
+      "modified": "2025-01-30T12:21:42.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/b86bdfbab6014a8798f185e4b3d5c344"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/fcca8a9f-39c2-4d44-81a9-aae8524069c4?src=embed"
         }
       ],
       "theme": [
@@ -26735,6 +29482,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c65a8b4459c84ca8a5d64ab354896cba",
+      "landingPage": "https://www.datakhk.cz/documents/c65a8b4459c84ca8a5d64ab354896cba",
+      "title": "Aplikací v rozcestníku",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Aplikace"
+      ],
+      "issued": "2025-01-30T11:35:24.000Z",
+      "modified": "2025-01-30T11:35:24.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/c65a8b4459c84ca8a5d64ab354896cba"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ac1a7ba6-7cd5-47c8-b605-be2097dcdbf8?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c8b520be74ec45809348110222760a6a",
       "landingPage": "https://www.datakhk.cz/documents/c8b520be74ec45809348110222760a6a",
       "title": "Dashboard Školství a Výzkum",
@@ -26781,6 +29574,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c90d322cde6948d3ac7d39611f62211a",
+      "landingPage": "https://www.datakhk.cz/documents/c90d322cde6948d3ac7d39611f62211a",
+      "title": "Vývoj základních statistik návštěvnosti hromadných ubytovacích zařízení v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ubytování",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:11:59.000Z",
+      "modified": "2025-01-30T12:11:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/c90d322cde6948d3ac7d39611f62211a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f98fca17-85b4-41a1-87d7-acf8ed352ef1?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c9619a07d34a440382bd3d8086fbbe94",
       "landingPage": "https://www.datakhk.cz/documents/c9619a07d34a440382bd3d8086fbbe94",
       "title": "Aktivní případy Covid-19",
@@ -26819,6 +29659,98 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/ca68d751-cdaf-47d9-9e4f-29d20c1537c1?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cbf05e0783614e9b91e90723741a0d15",
+      "landingPage": "https://www.datakhk.cz/documents/cbf05e0783614e9b91e90723741a0d15",
+      "title": "Počet personálu přímé práce  v zařízeních hospicové péče v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:13.000Z",
+      "modified": "2025-01-30T12:28:13.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/cbf05e0783614e9b91e90723741a0d15"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/bebfc3dc-eb9b-402c-9e49-cc226fba37b9?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cbf64b0fe99047628c59a0e2a54c4e2e",
+      "landingPage": "https://www.datakhk.cz/documents/cbf64b0fe99047628c59a0e2a54c4e2e",
+      "title": "Počet personálu přímé práce  v zařízeních pro osoby s duševním onemocněním v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Sociální péče"
+      ],
+      "issued": "2025-01-30T12:28:13.000Z",
+      "modified": "2025-01-30T12:28:13.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/cbf64b0fe99047628c59a0e2a54c4e2e"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/c272b3fa-2e66-4314-a50a-bc76cec9be37?src=embed"
         }
       ],
       "theme": [
@@ -28807,6 +31739,146 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d013d65311554d889e3e21bb83d615d6",
+      "landingPage": "https://www.datakhk.cz/documents/d013d65311554d889e3e21bb83d615d6",
+      "title": "Proočkovanost populace KHK očkování proti Covid-19",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Zdraví"
+      ],
+      "issued": "2025-01-30T11:38:19.000Z",
+      "modified": "2025-01-30T11:38:19.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/d013d65311554d889e3e21bb83d615d6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/268563ba-e970-4715-92e5-da7325aca468?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d097a080489846e79b73b622fa53d5c9",
+      "landingPage": "https://www.datakhk.cz/documents/d097a080489846e79b73b622fa53d5c9",
+      "title": "Počet očkování proti Covid-19 dle věkových skupin v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Očkování"
+      ],
+      "issued": "2025-01-30T12:27:04.000Z",
+      "modified": "2025-01-30T12:27:04.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/d097a080489846e79b73b622fa53d5c9"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/4cae2917-25a7-47c8-acfc-c4098e2e7973?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d2f54aa2463c42499134ae47298a734d",
+      "landingPage": "https://www.datakhk.cz/documents/d2f54aa2463c42499134ae47298a734d",
+      "title": "Průměrná doba výstavby nových rodinných a bytových domů v krajích v letech 2011 - 2020",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Byty"
+      ],
+      "issued": "2025-01-30T12:16:23.000Z",
+      "modified": "2025-01-30T12:16:23.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/d2f54aa2463c42499134ae47298a734d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/8e84f781-6697-432f-811c-1aa9af8c47bf?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d3ea6d68bb3b421a8b988c4a58024a0f&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/d3ea6d68bb3b421a8b988c4a58024a0f_0",
       "title": "Rozhledny a vyhlídky",
@@ -29300,6 +32372,53 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/d417e5eaaf2844439842bb0ada976f5d/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d42eb5de852745d586c04a1fd26f726a",
+      "landingPage": "https://www.datakhk.cz/documents/d42eb5de852745d586c04a1fd26f726a",
+      "title": "Dopravní nehody v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Nehody",
+        "Doprava"
+      ],
+      "issued": "2025-01-30T11:58:58.000Z",
+      "modified": "2025-01-30T11:58:58.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/d42eb5de852745d586c04a1fd26f726a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/690db5f1-fa8c-4ddc-b621-2a2e9fabd54e?src=embed"
         }
       ],
       "theme": [
@@ -30417,6 +33536,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=dcbcebc250e14e8d92ca8491c1085288",
+      "landingPage": "https://www.datakhk.cz/documents/dcbcebc250e14e8d92ca8491c1085288",
+      "title": "Čisté využití pokojů v hromadných ubytovacích zařízeních Královéhradeckého kraje za rok 2019 až 2021",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Ubytování",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:11:59.000Z",
+      "modified": "2025-01-30T12:11:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/dcbcebc250e14e8d92ca8491c1085288"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/aeee155c-28ef-4eff-8eba-d54f06313bff?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=dd29231e9cb94dae80dece4aab79a477",
       "landingPage": "https://www.datakhk.cz/documents/dd29231e9cb94dae80dece4aab79a477",
       "title": "Individuální dotace v Královéhradeckém kraji",
@@ -31218,6 +34384,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=dfcaed323b4f46ca8d4a3536fd27235a",
+      "landingPage": "https://www.datakhk.cz/documents/dfcaed323b4f46ca8d4a3536fd27235a",
+      "title": "Návštěvnost turistických cílů v Královéhradeckém kraji dle kategorií",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Kultura",
+        "Cestovní ruch"
+      ],
+      "issued": "2025-01-30T12:07:23.000Z",
+      "modified": "2025-01-30T12:07:23.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/dfcaed323b4f46ca8d4a3536fd27235a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/a038573c-ad9f-4a55-bc8a-b60a42cee373?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=e138d5620184486eac2e3b772c82752e",
       "landingPage": "https://www.datakhk.cz/documents/e138d5620184486eac2e3b772c82752e",
       "title": "Nástroje využívané obcemi v Královéhradeckém kraji k podpoře památkové péče",
@@ -31264,6 +34477,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e19a62d8f9c94e6594efc5418531518d",
+      "landingPage": "https://www.datakhk.cz/documents/e19a62d8f9c94e6594efc5418531518d",
+      "title": "Počet cizinců zaměstnaných v Královéhradeckém kraji podle odvětví",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Cizinci"
+      ],
+      "issued": "2025-01-30T08:51:48.000Z",
+      "modified": "2025-01-30T08:51:48.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/e19a62d8f9c94e6594efc5418531518d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/b8c868ba-0c7e-474f-a17e-4d277e306397?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=e31ab52df5894bacaef7e6416bc15d7e",
       "landingPage": "https://www.datakhk.cz/documents/e31ab52df5894bacaef7e6416bc15d7e",
       "title": "Živě narozených na 1000 obyvatel srovnání kraje s EU",
@@ -31302,6 +34561,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/acc4bead-c173-40a3-979a-b07a8c6e958c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e32ee865f9db47fe9554a078c6c8a038",
+      "landingPage": "https://www.datakhk.cz/documents/e32ee865f9db47fe9554a078c6c8a038",
+      "title": "Počet obyvatel v Královéhradeckém kraji podle okresů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Demografie"
+      ],
+      "issued": "2025-01-30T12:26:16.000Z",
+      "modified": "2025-01-30T12:26:16.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/e32ee865f9db47fe9554a078c6c8a038"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/21276a2e-3404-4fb5-86ab-9580319843a2?src=embed"
         }
       ],
       "theme": [
@@ -32501,6 +35806,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ed0c9f43e0ac4544a170eff19556d285",
+      "landingPage": "https://www.datakhk.cz/documents/ed0c9f43e0ac4544a170eff19556d285",
+      "title": "Počet očkování proti COVID-19 v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Covid-19",
+        "Očkování"
+      ],
+      "issued": "2025-01-30T12:27:03.000Z",
+      "modified": "2025-01-30T12:27:03.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/ed0c9f43e0ac4544a170eff19556d285"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/36dcff19-ace0-41a0-bfce-8fe4fe1a9a0f?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ee4afea713fe47829462a50e98e44a05&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/ee4afea713fe47829462a50e98e44a05_0",
       "title": "Organizace Královéhradeckého kraje",
@@ -32767,6 +36119,53 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/d05ee65c-c451-461b-a0fd-5db17f6d7e4c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=efc686c75eab4f9c92990f58410124c5",
+      "landingPage": "https://www.datakhk.cz/documents/efc686c75eab4f9c92990f58410124c5",
+      "title": "Dashboard počty osob s uděleným pobytovým oprávněním v souvislosti s válkou na Ukrajině",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Dashboard",
+        "English"
+      ],
+      "issued": "2025-01-30T11:43:55.000Z",
+      "modified": "2025-01-30T11:43:55.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/efc686c75eab4f9c92990f58410124c5"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/6c9d5b4b-78e7-4e75-bf13-b73ff892a985?src=embed"
         }
       ],
       "theme": [
@@ -34475,6 +37874,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f6f4b0264d6c46fb95a6191abdaa0bb8",
+      "landingPage": "https://www.datakhk.cz/documents/f6f4b0264d6c46fb95a6191abdaa0bb8",
+      "title": "Nezaměstnanost ČR podle krajů",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Nezaměstnanost"
+      ],
+      "issued": "2025-01-30T12:10:50.000Z",
+      "modified": "2025-01-30T12:10:50.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/f6f4b0264d6c46fb95a6191abdaa0bb8"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/0538f0c7-3fa3-4feb-a5f5-b6ebe8616f30?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f7c3fbb0791549bd8fa8c8dcb4818013&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/f7c3fbb0791549bd8fa8c8dcb4818013_0",
       "title": "Letní koupání",
@@ -35466,6 +38911,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fa49c162db4746549372783ff116dc71",
+      "landingPage": "https://www.datakhk.cz/documents/fa49c162db4746549372783ff116dc71",
+      "title": "Vybrané charakteristiky bytů v krajích v letech 2011 až 2019 - tříleté průměry",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Byty"
+      ],
+      "issued": "2025-01-30T12:12:59.000Z",
+      "modified": "2025-01-30T12:12:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/fa49c162db4746549372783ff116dc71"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/ae46d376-04ca-4b4c-a7aa-704ccd03289c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=fadaea8f4295435d8596a53bfcc21b88",
       "landingPage": "https://www.datakhk.cz/documents/fadaea8f4295435d8596a53bfcc21b88",
       "title": "Děti a žáci se zdravotním postižením KHK v MŠ ZŠ a SŠ",
@@ -35596,6 +39087,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/feeff79b-70e0-47e0-a02c-1cbd9918e5fa?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fc1c42fd7e5648429b8a3aa8f0d3393a",
+      "landingPage": "https://www.datakhk.cz/documents/fc1c42fd7e5648429b8a3aa8f0d3393a",
+      "title": "Počet dokončených bytů na 1 000 obyvatel v krajích v roce 2023",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Byty"
+      ],
+      "issued": "2025-01-30T12:12:59.000Z",
+      "modified": "2025-01-30T12:12:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/fc1c42fd7e5648429b8a3aa8f0d3393a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/53e44bb1-ae2d-4d0c-8787-ae5f4ec71e53?src=embed"
         }
       ],
       "theme": [
@@ -36122,6 +39659,52 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/fde032684cd848d4a076fa978b8d5624/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fe30e81de4284e819686a8a9d2e71b4b",
+      "landingPage": "https://www.datakhk.cz/documents/fe30e81de4284e819686a8a9d2e71b4b",
+      "title": "Jarní kmenové stavy zvěře v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "Zvířata"
+      ],
+      "issued": "2025-01-30T11:22:23.000Z",
+      "modified": "2025-01-30T11:22:23.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/fe30e81de4284e819686a8a9d2e71b4b"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f5bbc88b-b619-4ea9-b1de-654890c37dfe?src=embed"
         }
       ],
       "theme": [
