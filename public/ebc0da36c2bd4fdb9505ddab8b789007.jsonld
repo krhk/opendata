@@ -11,8 +11,8 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "Autobusy",
       "Linky",
-      "Autobus",
       "VDKHK",
       "Královéhradecký kraj"
     ]
@@ -20,19 +20,19 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/TRAN"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_0",
+      "iri": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_7",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_0",
-      "přístupové_url": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_7",
+      "přístupové_url": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_7",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/7",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/7",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/7",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -63,12 +63,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=7",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -81,12 +81,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=7",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -99,12 +99,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=7",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -117,12 +117,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=7",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
@@ -135,12 +135,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=7",
       "název": {
         "cs": "File Geodatabase"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -153,12 +153,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=7",
       "název": {
         "cs": "Feature Collection"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/unknown",
       "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
       "podmínky_užití": {
@@ -171,12 +171,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=7",
       "název": {
         "cs": "Excel"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/unknown",
       "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
       "podmínky_užití": {
@@ -189,12 +189,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=7",
       "název": {
         "cs": "GeoPackage"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/unknown",
       "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
       "podmínky_užití": {
@@ -207,12 +207,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=7",
       "název": {
         "cs": "SQLite Geodatabase"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=7",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=7",
       "typ_média": "http://www.iana.org/assignments/media-types/unknown",
       "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
       "podmínky_užití": {

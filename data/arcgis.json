@@ -45047,18 +45047,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=ebc0da36c2bd4fdb9505ddab8b789007&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ebc0da36c2bd4fdb9505ddab8b789007&sublayer=7",
+      "landingPage": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_7",
       "title": "Autobusové linky VDKHK",
       "description": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
+        "Autobusy",
         "Linky",
-        "Autobus",
         "VDKHK",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-31T07:22:33.000Z",
-      "modified": "2024-03-18T11:57:52.014Z",
+      "modified": "2025-02-07T07:01:09.693Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -45085,15 +45085,15 @@
             }
           }
         },
-        "mdFileID": "1710762568605r36567680804914016",
+        "mdFileID": "1738911762251r3626907238709849",
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "010"
+              "@_value": "008"
             }
           }
         },
-        "mdDateSt": "2024-03-18",
+        "mdDateSt": "2025-02-07",
         "Esri": {
           "locales": {
             "locale": {
@@ -45105,14 +45105,14 @@
           "CreaTime": 14534600,
           "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-03-18",
+          "ModDate": "2025-02-07",
           "CreaDate": "2022-08-03",
-          "ModTime": "12:57:28.48",
+          "ModTime": "08:08:45.29",
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "12:49:28.08",
+        "mdTimeSt": "08:02:41.81",
         "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "Datová sada s prostorovou lokalizací autobusových linek využívaných pro Veřejnou dopravu Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy linky MHD a ty, které nejsou součástí dopravy v kompetenci kraje. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
@@ -45125,6 +45125,13 @@
                 "pubDate": "2008-06-01"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
             }
           },
           "idPurp": "Autobusové linky VDKHK",
@@ -45140,8 +45147,8 @@
           },
           "searchKeys": {
             "keyword": [
+              "Autobusy",
               "Linky",
-              "Autobus",
               "VDKHK",
               "Královéhradecký kraj"
             ]
@@ -45186,7 +45193,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "4326"
+                "@_code": "5514"
               }
             }
           }
@@ -45194,6 +45201,11 @@
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
           }
         }
       },
@@ -45206,77 +45218,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_0"
+          "accessURL": "https://www.datakhk.cz/datasets/ebc0da36c2bd4fdb9505ddab8b789007_7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/0"
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Autobusov%C3%A9_linky_VDKHK/FeatureServer/7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/csv?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/shapefile?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geojson?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/kml?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/filegdb?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/featureCollection?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/excel?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/geoPackage?layers=7"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/ebc0da36c2bd4fdb9505ddab8b789007/sqlite?layers=7"
         }
       ],
       "theme": [
