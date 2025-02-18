@@ -6098,7 +6098,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2022-11-29T16:29:02.000Z",
-      "modified": "2025-02-17T14:35:25.153Z",
+      "modified": "2025-02-17T14:42:13.055Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -39013,6 +39013,271 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/ccf33734938a4e638af65c9d8fa106e5/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cd2794dd2d334fe5bb360db8956507ae&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/cd2794dd2d334fe5bb360db8956507ae_0",
+      "title": "Počet studentů v oborech vyšších odborných škol zřizovaných krajem",
+      "description": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu studentů v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.",
+      "keyword": [
+        "VOŠ",
+        "Obory",
+        "Počet studentů",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-02-20T13:10:51.000Z",
+      "modified": "2025-02-17T15:44:16.760Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3524,50.1856,15.9155,50.5651",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpOrgName": "Královéhradecký kraj",
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          }
+        },
+        "mdFileID": "1739806797199r3518726321232415",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "010"
+            }
+          }
+        },
+        "mdDateSt": "2025-02-17",
+        "Esri": {
+          "locales": {
+            "locale": {
+              "@_language": "cze",
+              "@_country": "CZ"
+            }
+          },
+          "ArcGISFormat": 1,
+          "CreaTime": 11135800,
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ArcGISProfile": "INSPIRE",
+          "ModDate": "2025-02-17",
+          "CreaDate": "2022-09-26",
+          "ModTime": "16:46:49.13",
+          "SyncOnce": "TRUE",
+          "MapLyrSync": false,
+          "PublishStatus": "editor:esri.dijit.metadata.editor"
+        },
+        "mdTimeSt": "16:39:56.76",
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "Datová sada s prostorovou lokalizací vyšších odborných škol zřizovaných Královéhradeckým krajem včetně přehledu počtu studentů v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.",
+          "idCitation": {
+            "resTitle": "Počet studentů v oborech vyšších odborných škol zřizovaných krajem"
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "resMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "idPurp": "Počet studentů v oborech vyšších odborných škol zřizovaných krajem",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "VOŠ",
+              "Obory",
+              "Počet studentů",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Královéhradecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "resConst": [
+            {
+              "Consts": {
+                "useLimit": "CC0"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            },
+            {
+              "LegConsts": {
+                "othConsts": "Jiná omezení",
+                "accessConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "4326"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "mdConst": {
+          "Consts": {
+            "useLimit": "CC0"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/cd2794dd2d334fe5bb360db8956507ae_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_student%C5%AF_v_oborech_vy%C5%A1%C5%A1%C3%ADch_odborn%C3%BDch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd2794dd2d334fe5bb360db8956507ae/sqlite?layers=0"
         }
       ],
       "theme": [
