@@ -29607,18 +29607,18 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=97b02c71262b4d31971d2af702d12892&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/97b02c71262b4d31971d2af702d12892_0",
       "title": "Počet ubytovaných v domovech mládeže a internátech",
-      "description": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+      "description": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
-        "Školství",
         "Domovy mládeže",
         "Internáty",
+        "Školství",
         "Královéhradecký kraj"
       ],
       "issued": "2023-01-03T12:56:13.000Z",
-      "modified": "2024-01-02T12:57:53.990Z",
+      "modified": "2025-03-10T11:45:18.735Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29626,9 +29626,23 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.2727,50.1242,16.2799,50.6322",
+      "spatial": "15.2727,50.1242,16.2799,50.6284",
       "license": "<p>CC0</p>",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-03-10",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 15125200,
@@ -29651,15 +29665,22 @@
           }
         },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
-          "idCredit": "Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje",
+          "idAbs": "<p>Datová sada zobrazující počet ubytovaných v domovech mládeže a internátech. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
           "idCitation": {
-            "resTitle": "Počet ubytovaných v domovech mládeže a internátech"
+            "resTitle": "Počet ubytovaných v domovech mládeže a internátech",
+            "citId": {
+              "identCode": "publication"
+            }
           },
           "dataLang": {
             "languageCode": {
-              "@_value": "zun"
+              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -29668,7 +29689,8 @@
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
+            },
+            "keyword": "školství"
           },
           "idPurp": "Počet ubytovaných v domovech mládeže a internátech",
           "spatRpType": {
@@ -29676,27 +29698,56 @@
               "@_value": "001"
             }
           },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
           "searchKeys": {
             "keyword": [
-              "Školství",
               "Domovy mládeže",
               "Internáty",
+              "Školství",
               "Královéhradecký kraj"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": "<p>CC0</p>"
-            }
-          }
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "001"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
               }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
