@@ -7143,11 +7143,11 @@
         "cs": "Opravy silniční infrastruktury od roku 2016 - liniové"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2016 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s."
+        "cs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2015 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s."
       },
       "klíčové_slovo": {
         "cs": [
-          "Silnice II. a III. třídy",
+          "Silnice",
           "Opravy",
           "Královéhradecký kraj"
         ]
@@ -7157,7 +7157,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/ECON",
         "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],
@@ -10341,15 +10341,16 @@
       },
       "klíčové_slovo": {
         "cs": [
-          "Silnice II. a III. třídy",
-          "Stav povrchu",
+          "Slinice",
+          "Povrch",
+          "Stav",
           "Královéhradecký kraj"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
       ],

@@ -6565,14 +6565,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=229c0cb29b2e4838ac7ff4190c075d7c&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/229c0cb29b2e4838ac7ff4190c075d7c_0",
       "title": "Opravy silniční infrastruktury od roku 2016 - liniové",
-      "description": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2016 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.",
+      "description": "<p>Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2015 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.</p>",
       "keyword": [
-        "Silnice II. a III. třídy",
+        "Silnice",
         "Opravy",
         "Královéhradecký kraj"
       ],
       "issued": "2023-03-29T14:40:11.000Z",
-      "modified": "2024-03-20T12:32:44.188Z",
+      "modified": "2025-03-13T14:30:23.863Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -6583,7 +6583,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.1940,49.9865,16.4393,50.7849",
+      "spatial": "15.1971,49.9708,16.4738,50.7940",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -6592,112 +6592,126 @@
           }
         },
         "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1710937763762r4631899619192279",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2024-03-20",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
             }
           },
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-03-13",
+        "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 10314200,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-03-20",
-          "CreaDate": "2022-08-04",
-          "ModTime": "13:31:52.02",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "CreaDate": 20220804,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "13:29:23.29",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2016 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací oprav silniční infrastruktury od roku 2015 vyjádřených liniově. Jedná se o silnice II. a III. třídy, tedy těch, které jsou ve vlastnictví Královéhradeckého kraje. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a.s.</p>",
           "idCitation": {
-            "resTitle": "Opravy silniční infrastruktury od roku 2016 - liniové"
+            "date": {
+              "createDate": "2025-03-13T00:00:00"
+            },
+            "resTitle": "Opravy silniční infrastruktury od roku 2015 - liniové",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "themeKeys": {
             "thesaName": {
               "date": {
-                "pubDate": "2008-06-01"
+                "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
-          "idPurp": "Opravy silniční infrastruktury od roku 2016 - liniové",
+          "idPurp": "Opravy silniční infrastruktury od roku 2015 - liniové",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "018"
+            }
+          },
           "searchKeys": {
             "keyword": [
-              "Silnice II. a III. třídy",
+              "Silnice",
               "Opravy",
               "Královéhradecký kraj"
             ]
           },
           "idPoC": {
-            "rpOrgName": "Královéhradecký kraj",
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
             "role": {
               "RoleCd": {
-                "@_value": "007"
+                "@_value": "003"
               }
-            }
+            },
+            "rpOrgName": "Královéhradecký kraj"
           },
           "resConst": [
             {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
                   }
                 }
               }
             },
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
                   }
-                },
-                "othConsts": "Jiná omezení"
+                }
               }
             }
           ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -9585,14 +9599,15 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=311df195461541069a5690e9491eb092&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/311df195461541069a5690e9491eb092_0",
       "title": "Stav povrchu silnic",
-      "description": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
+      "description": "<p>Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.</p>",
       "keyword": [
-        "Silnice II. a III. třídy",
-        "Stav povrchu",
+        "Slinice",
+        "Povrch",
+        "Stav",
         "Královéhradecký kraj"
       ],
       "issued": "2023-04-17T08:35:17.000Z",
-      "modified": "2024-03-20T12:47:33.738Z",
+      "modified": "2025-03-13T13:20:59.800Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -9606,118 +9621,123 @@
       "spatial": "15.1986,49.9632,16.4739,50.7940",
       "license": "CC0",
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
         "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
           "role": {
             "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1710922597141r538437203215792",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "mdDateSt": "2024-03-20",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
+              "@_value": "003"
             }
           },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-03-13",
+        "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 13364300,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-03-20",
-          "CreaDate": "2022-09-07",
-          "ModTime": "09:17:37.17",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "CreaDate": 20220907,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "09:16:36.50",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací stavu povrchu silnic ve vlastnictví Královéhradeckého kraje, tedy silnic II. a III. třídy. Zdrojem dat je ÚDRŽBA SILNIC Královéhradeckého kraje a. s.</p>",
           "idCitation": {
-            "resTitle": "Stav povrchu silnic"
+            "date": {
+              "createDate": "2025-03-13T00:00:00"
+            },
+            "resTitle": "Stav povrchu silnic",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
           },
           "themeKeys": {
             "thesaName": {
               "date": {
-                "pubDate": "2008-06-01"
+                "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             }
           },
           "idPurp": "Stav povrchu silnic",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "018"
+            }
+          },
           "searchKeys": {
             "keyword": [
-              "Silnice II. a III. třídy",
-              "Stav povrchu",
+              "Slinice",
+              "Povrch",
+              "Stav",
               "Královéhradecký kraj"
             ]
           },
           "idPoC": {
-            "rpOrgName": "Královéhradecký kraj",
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
             "role": {
               "RoleCd": {
-                "@_value": "007"
+                "@_value": "002"
               }
-            }
+            },
+            "rpOrgName": "Královéhradecký kraj"
           },
           "resConst": [
             {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
                   }
                 }
               }
             },
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
                   }
-                },
-                "othConsts": "Jiná omezení"
+                }
               }
             }
           ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
         },
         "mdChar": {
           "CharSetCd": {
