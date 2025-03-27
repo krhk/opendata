@@ -38304,6 +38304,256 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cc4993a5a0294c3f948481ded8c23673&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/cc4993a5a0294c3f948481ded8c23673_0",
+      "title": "Počet žáků v oborech středních škol zřizovaných krajem",
+      "description": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Počet",
+        "Žáci",
+        "Střední školy",
+        "Školství",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2023-02-13T11:26:19.000Z",
+      "modified": "2025-03-24T08:51:03.047Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2720,50.1245,16.3416,50.6317",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-03-24",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 9081000,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20220922,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2025-03-24T00:00:00"
+            },
+            "resTitle": "Počet žáků v oborech středních škol zřizovaných krajem",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": "střední školy"
+          },
+          "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Počet",
+              "Žáci",
+              "Střední školy",
+              "Školství",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/cc4993a5a0294c3f948481ded8c23673_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_%C5%BE%C3%A1k%C5%AF_v_oborech_st%C5%99edn%C3%ADch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cc4993a5a0294c3f948481ded8c23673/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=cc49f55ba5744c82a990aad35a540d35",
       "landingPage": "https://www.datakhk.cz/documents/cc49f55ba5744c82a990aad35a540d35",
       "title": "Vývoj financování sociálních služeb pro osoby s duševním onemocněním v Královéhradeckém kraji",
@@ -39209,6 +39459,244 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/e1da6345-a8b1-4eb9-9b85-158242155065?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cd83e052346b47c8a60c7af76e539bda&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/cd83e052346b47c8a60c7af76e539bda_0",
+      "title": "Přijímací řízení na střední školy",
+      "description": "<p>Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Přijímací řízení",
+        "Střední školy",
+        "Školství",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2022-11-29T16:25:52.000Z",
+      "modified": "2025-03-11T11:23:50.673Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2720,50.1245,16.3416,50.6322",
+      "license": "CC0",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-03-11",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 13454700,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20221129,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se přijímacího řízení a další údaje. Data poskytl Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2025-03-11T00:00:00"
+            },
+            "resTitle": "Přijímací řízení na střední školy",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": "školství"
+          },
+          "idPurp": "Přijímací řízení na střední školy",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Přijímací řízení",
+              "Střední školy",
+              "Školství",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/cd83e052346b47c8a60c7af76e539bda_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99ij%C3%ADmac%C3%AD_%C5%99%C3%ADzen%C3%AD_na_st%C5%99edn%C3%AD_%C5%A1koly/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/cd83e052346b47c8a60c7af76e539bda/sqlite?layers=0"
         }
       ],
       "theme": [
