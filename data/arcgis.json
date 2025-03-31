@@ -41592,6 +41592,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d61c8a3eea584c76847db80d72fbd2b5",
+      "landingPage": "https://www.datakhk.cz/pages/d61c8a3eea584c76847db80d72fbd2b5",
+      "title": "Hackathon novinky 2025 druhé",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-03-31T12:24:10.000Z",
+      "modified": "2025-03-31T14:31:45.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": "{{categories}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/d61c8a3eea584c76847db80d72fbd2b5"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d69b0c15eaf44e46a5918a4d6f95877a&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/d69b0c15eaf44e46a5918a4d6f95877a_0",
       "title": "Jezdectví",
