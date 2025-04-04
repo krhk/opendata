@@ -20009,9 +20009,7 @@
           }
         }
       },
-      "category": [
-        "Zdravotnictví a zdraví"
-      ],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
