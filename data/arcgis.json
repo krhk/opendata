@@ -1009,6 +1009,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=05e95feaa2a24f5a8fe63b0c942563d8",
+      "landingPage": "https://www.datakhk.cz/documents/05e95feaa2a24f5a8fe63b0c942563d8",
+      "title": "Krajské programové dotace do inovací",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "dotace"
+      ],
+      "issued": "2025-04-07T10:28:59.000Z",
+      "modified": "2025-04-07T10:28:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/05e95feaa2a24f5a8fe63b0c942563d8"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/d9d5c806-49fb-44e5-9d1d-912e7af767b6?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=06124025b9ac45aab3a53f37aa10ca48",
       "landingPage": "https://www.datakhk.cz/documents/06124025b9ac45aab3a53f37aa10ca48",
       "title": "Počet očkování proti Covid-19 dle věkových skupin dle okresů a dle dávky",
@@ -2216,6 +2262,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/932c1e91-0ada-4817-804e-30d3bbfaef9b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0f1ca799b4d245cb845dafadc9ab167b",
+      "landingPage": "https://www.datakhk.cz/documents/0f1ca799b4d245cb845dafadc9ab167b",
+      "title": "Čerpání dotací EU 2021 (4.3.2025)",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "dotace"
+      ],
+      "issued": "2025-04-07T10:28:58.000Z",
+      "modified": "2025-04-07T10:28:58.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/0f1ca799b4d245cb845dafadc9ab167b"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f8636ba6-8412-4f54-bb5b-3fc7b9dc507b?src=embed"
         }
       ],
       "theme": [
@@ -6042,6 +6134,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=20a962d31caa4b8bb68cd1fe72809cdf",
+      "landingPage": "https://www.datakhk.cz/documents/20a962d31caa4b8bb68cd1fe72809cdf",
+      "title": "Čerpání dotací EU 2021 (4.3.2025)",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "EU Dotace"
+      ],
+      "issued": "2025-04-07T10:29:38.000Z",
+      "modified": "2025-04-07T12:08:05.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/20a962d31caa4b8bb68cd1fe72809cdf"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/f8636ba6-8412-4f54-bb5b-3fc7b9dc507b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=20cc24d9cb0a45989f8cb638a0fa2696",
       "landingPage": "https://www.datakhk.cz/documents/20cc24d9cb0a45989f8cb638a0fa2696",
       "title": "Krajské programové dotace Prevence rizikového chování",
@@ -9542,6 +9680,52 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/db213123-dc3a-4450-bb91-44f78edfa157?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=30502cca7dee4cb7a3a838dd8ed5402d",
+      "landingPage": "https://www.datakhk.cz/documents/30502cca7dee4cb7a3a838dd8ed5402d",
+      "title": "Programové dotace do inovací dle ORP",
+      "description": "{{description}}",
+      "keyword": [
+        "graf",
+        "dotace"
+      ],
+      "issued": "2025-04-07T10:28:58.000Z",
+      "modified": "2025-04-07T10:28:58.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/documents/30502cca7dee4cb7a3a838dd8ed5402d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://e.infogram.com/cd258f35-0853-4bd5-aa03-864398e8bf44?src=embed"
         }
       ],
       "theme": [
@@ -41580,44 +41764,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/d537a3ae646e4819b47cb37cbbec60a7/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d61c8a3eea584c76847db80d72fbd2b5",
-      "landingPage": "https://www.datakhk.cz/pages/d61c8a3eea584c76847db80d72fbd2b5",
-      "title": "Hackathon novinky 2025 druhé",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-03-31T12:24:10.000Z",
-      "modified": "2025-03-31T14:31:45.000Z",
-      "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "14.7517,50.0213,16.8722,50.7971",
-      "license": "{{licenseInfo}}",
-      "metadata": "{{metadata.metadata}}",
-      "category": "{{categories}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/pages/d61c8a3eea584c76847db80d72fbd2b5"
         }
       ],
       "theme": [
