@@ -18275,7 +18275,9 @@
           }
         }
       },
-      "category": "{{categories}}",
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",
