@@ -31137,9 +31137,7 @@
           }
         }
       },
-      "category": [
-        "Kultura a cestovní ruch"
-      ],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
