@@ -35105,6 +35105,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a4a692aa602a485c8288cbc6ad53ce2f",
+      "landingPage": "https://www.datakhk.cz/pages/a4a692aa602a485c8288cbc6ad53ce2f",
+      "title": "Spolupráce s Univerzitou Hradec Králové",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-04-29T10:48:48.000Z",
+      "modified": "2025-04-29T10:54:52.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/a4a692aa602a485c8288cbc6ad53ce2f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a4b65f0a6c8542c1a340b42172807273",
       "landingPage": "https://www.datakhk.cz/documents/a4b65f0a6c8542c1a340b42172807273",
       "title": "Dashboard Životní prostředí",
@@ -51857,6 +51895,44 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/8ce7d1ea-0cfa-40f9-a780-c7254f8f8a5a?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f5cdda7ea68d42a89469cec20ff6bd8a",
+      "landingPage": "https://www.datakhk.cz/pages/f5cdda7ea68d42a89469cec20ff6bd8a",
+      "title": "Nová stránka ",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-04-29T12:16:35.000Z",
+      "modified": "2025-04-29T12:17:55.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/f5cdda7ea68d42a89469cec20ff6bd8a"
         }
       ],
       "theme": [

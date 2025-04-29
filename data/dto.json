@@ -400,6 +400,7 @@
     "https://open.datakhk.cz/a417edc33dae4aaca6110f43bbda6371.jsonld",
     "https://open.datakhk.cz/a481cd7849f1421aa06ee6043e3b25cd.jsonld",
     "https://open.datakhk.cz/a48fa513ddb04b7d9d35d4aeab83f21c.jsonld",
+    "https://open.datakhk.cz/a4a692aa602a485c8288cbc6ad53ce2f.jsonld",
     "https://open.datakhk.cz/a4b65f0a6c8542c1a340b42172807273.jsonld",
     "https://open.datakhk.cz/a4c236c6e6e54cb498056eb405d27f43.jsonld",
     "https://open.datakhk.cz/a4ee47266e124352907d8b60c20e8b1a.jsonld",
@@ -574,6 +575,7 @@
     "https://open.datakhk.cz/f49beb8eccc74f54bae52be2b6de5302.jsonld",
     "https://open.datakhk.cz/f51fcdb253344157a658e9fe3a4cd385.jsonld",
     "https://open.datakhk.cz/f58487a1a29b40b6a74262f37047b7ed.jsonld",
+    "https://open.datakhk.cz/f5cdda7ea68d42a89469cec20ff6bd8a.jsonld",
     "https://open.datakhk.cz/f66275be97d64a48b2ae0fe22a2a05b7.jsonld",
     "https://open.datakhk.cz/f6f4b0264d6c46fb95a6191abdaa0bb8.jsonld",
     "https://open.datakhk.cz/f738174fc6384cb3989acf8646b5a826.jsonld",
@@ -36025,6 +36027,48 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/a4a692aa602a485c8288cbc6ad53ce2f.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Spolupráce s Univerzitou Hradec Králové"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/pages/a4a692aa602a485c8288cbc6ad53ce2f",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/pages/a4a692aa602a485c8288cbc6ad53ce2f",
+          "přístupové_url": "https://www.datakhk.cz/pages/a4a692aa602a485c8288cbc6ad53ce2f",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datakhk.cz/a4b65f0a6c8542c1a340b42172807273.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
@@ -52791,6 +52835,48 @@
           "přístupové_url": "https://e.infogram.com/8ce7d1ea-0cfa-40f9-a780-c7254f8f8a5a?src=embed",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/f5cdda7ea68d42a89469cec20ff6bd8a.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Nová stránka "
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/pages/f5cdda7ea68d42a89469cec20ff6bd8a",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/pages/f5cdda7ea68d42a89469cec20ff6bd8a",
+          "přístupové_url": "https://www.datakhk.cz/pages/f5cdda7ea68d42a89469cec20ff6bd8a",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
