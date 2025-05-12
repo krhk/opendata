@@ -28,6 +28,7 @@ export const META_LKOD = {
 		'Školství a výzkum': ['EDUC', 'TECH'],
 		'Kultura a cestovní ruch': ['EDUC'],
 		'Životní prostředí': ['ENVI'],
+		'_fallback': ['OP_DATPRO'],
 	} as Record<string, string[]>,
 	periodicity: {
 		'000': 'UNKNOWN',

@@ -37,6 +37,11 @@ export function detectTheme(dataset: any): string[] {
 		values = Array.from(dataset.category ?? []);
 	}
 
+	// Fallback theme
+	if (values.length <= 0) {
+		values = ['_fallback'];
+	}
+
 	return values.map((value: string) => {
 		return (CONFIG.META_LKOD.themes[value] ?? []).map(theme => {
 			return `http://publications.europa.eu/resource/authority/data-theme/${theme.toUpperCase()}`;
