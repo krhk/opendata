@@ -1,5 +1,7 @@
 import path from "path";
 
+const __dirname = path.resolve(path.dirname(new URL(import.meta.url).pathname));
+
 export const ARCGIS_URL = 'https://www.datakhk.cz/data.json';
 export const ARCGIS_FILE = path.resolve(__dirname, 'data/arcgis.json');
 

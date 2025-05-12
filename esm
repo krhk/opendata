@@ -1,2 +1,0 @@
-#!/bin/bash
-node -r esm -r ts-node/register/transpile-only -r tsconfig-paths/register "$@"

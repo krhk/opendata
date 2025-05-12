@@ -6,14 +6,14 @@ install:
 build: sync transform generate
 
 sync:
-	./esm src/bin/sync.ts
+	node --experimental-transform-types src/bin/sync.ts
 
 transform:
-	./esm src/bin/transform.ts
+	node --experimental-transform-types src/bin/transform.ts
 
 generate:
 	rm -rf public/*
-	./esm src/bin/generate.ts
+	node --experimental-transform-types src/bin/generate.ts
 
 lint:
 	npm run lint

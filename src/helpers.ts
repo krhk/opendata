@@ -11,27 +11,26 @@ export async function writeJson(file: string, data: any): Promise<void> {
 export async function mkdir(folder: string): Promise<void> {
 	try {
 		await fs.promises.mkdir(folder, { recursive: true });
-	} catch (e) {
-	}
+	} catch (e) {}
 }
 
 export function slugify(text: string): string {
 	return text
 		.toString()
-		.normalize('NFD')
-		.replace(/[\u0300-\u036f]/g, '')
+		.normalize("NFD")
+		.replace(/[\u0300-\u036f]/g, "")
 		.toLowerCase()
 		.trim()
-		.replace(/\s+/g, '-')
-		.replace(/[^\w-]+/g, '')
-		.replace(/--+/g, '-');
+		.replace(/\s+/g, "-")
+		.replace(/[^\w-]+/g, "")
+		.replace(/--+/g, "-");
 }
 
 export function parseArcgisIdentifier(str: string): string {
 	const url = new URL(str);
-	return url.searchParams.get('id') || str;
+	return url.searchParams.get("id") || str;
 }
 
 export function parseIdentifier(str: string): string {
-	return str.split('/').pop()!;
+	return str.split("/").pop()!;
 }
