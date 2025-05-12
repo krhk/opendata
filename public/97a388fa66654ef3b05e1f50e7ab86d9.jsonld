@@ -16,7 +16,9 @@
       "Svatby"
     ]
   },
-  "téma": [],
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+  ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
