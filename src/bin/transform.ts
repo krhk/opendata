@@ -43,6 +43,12 @@ import * as CONFIG from "../../config.ts";
 
 	// Datasets
 	for await (const arcgisDataset of arcgisDatasets) {
+
+		// Skip feeds and documents
+		if (arcgisDataset.landingPage && arcgisDataset.landingPage.startsWith("https://www.datakhk.cz/documents") || arcgisDataset.description === '{{description}}') {
+			continue;
+		}
+
 		const dataset: Partial<Lkod.Dataset> = {};
 
 		const id = parseArcgisIdentifier(arcgisDataset.identifier);
