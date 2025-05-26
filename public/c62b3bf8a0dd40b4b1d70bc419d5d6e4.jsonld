@@ -7,21 +7,21 @@
     "cs": "Dojížďka do středních škol"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do středních škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací středních škol v Královéhradeckém kraji, která obsahuje údaje týkající se dojížďky studentů do středních škol z jejich míst s trvalým bydlištěm a další údaje. Data poskytl Odbor školství a sportu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
-      "Dojížďka",
+      "Dojíˇžka",
       "Střední školy",
-      "Královéhradecký kraj",
-      "Školství"
+      "Školství",
+      "Královéhradecký kraj"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/EDUC",
     "http://publications.europa.eu/resource/authority/data-theme/TECH"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
