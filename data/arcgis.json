@@ -1531,6 +1531,255 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0be317969b43455b93d08666cabda783&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/0be317969b43455b93d08666cabda783_0",
+      "title": "Počet žáků dle oborů středních škol v Královéhradeckém kraji od školního roku 2021/2022",
+      "description": "<p></p><p>Datová sada s prostorovou lokalizací počtu žáků dle oborů středních škol v Královéhradeckém kraji od školního roku 2021/2022. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p><p><br></p><p></p>",
+      "keyword": [
+        "Počet žáků",
+        "Střední školy",
+        "Obory",
+        "Školství",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-16T13:38:04.000Z",
+      "modified": "2025-06-16T13:47:17.228Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.5353,50.1028,16.3416,50.6322",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-16",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 15264100,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20250616,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p></p><p>Datová sada s prostorovou lokalizací počtu žáků dle oborů středních škol v Královéhradeckém kraji od školního roku 2021/2022. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p><p><br></p><p></p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2025-06-16T00:00:00"
+            },
+            "resTitle": "Počet žáků dle oborů středních škol v Královéhradeckém kraji od školního roku 2021/2022",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Počet žáků dle oborů středních škol v Královéhradeckém kraji od školního roku 2021/2022",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Počet žáků",
+              "Střední školy",
+              "Obory",
+              "Školství",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Školství a výzkum"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0be317969b43455b93d08666cabda783_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Det_%C5%BE%C3%A1k%C5%AF_dle_obor%C5%AF_st%C5%99edn%C3%ADch_%C5%A1kol_v_KHK/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0be317969b43455b93d08666cabda783/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0c9a70167ac3452c9457e364f79d9097",
       "landingPage": "https://www.datakhk.cz/documents/0c9a70167ac3452c9457e364f79d9097",
       "title": "Průměrný věk obyvatel Královéhradeckého kraje",
@@ -42432,7 +42681,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=cc4993a5a0294c3f948481ded8c23673&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/cc4993a5a0294c3f948481ded8c23673_0",
       "title": "Počet žáků v oborech středních škol zřizovaných krajem",
-      "description": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+      "description": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Počet",
         "Žáci",
@@ -42502,7 +42751,17 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
           "idCitation": {
             "date": {
               "createDate": "2025-03-24T00:00:00"
