@@ -19174,6 +19174,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=568a398ebe9e40168a2eef7bb82044c0",
+      "landingPage": "https://www.datakhk.cz/pages/568a398ebe9e40168a2eef7bb82044c0",
+      "title": "Týden pro Digitální Česko 2025",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-06-18T11:18:51.000Z",
+      "modified": "2025-06-18T11:43:07.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/568a398ebe9e40168a2eef7bb82044c0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=56c16633c3ba4dbd98eaea014fbbea4d",
       "landingPage": "https://www.datakhk.cz/documents/56c16633c3ba4dbd98eaea014fbbea4d",
       "title": "Dotace dle jednotlivých programů (aktualita na web Chytrého regionu",
@@ -36629,7 +36667,7 @@
         ""
       ],
       "issued": "2025-04-29T10:48:48.000Z",
-      "modified": "2025-06-18T05:48:23.000Z",
+      "modified": "2025-06-18T10:53:53.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
