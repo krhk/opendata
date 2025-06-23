@@ -596,6 +596,152 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0445ecebd0624b588488700038715bf5&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/0445ecebd0624b588488700038715bf5_0",
+      "title": "Záplavové území pětileté vody",
+      "description": "",
+      "keyword": [
+        "Záplava",
+        "Povodeň",
+        "Pětiletá voda",
+        "Q5",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-23T13:12:06.000Z",
+      "modified": "2025-06-23T14:33:48.922Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2679,49.9849,16.3675,50.7972",
+      "license": "",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 15042900,
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idCitation": {
+            "resTitle": "Mapa"
+          },
+          "idPurp": "Záplavové území pětileté vody",
+          "searchKeys": {
+            "keyword": [
+              "Záplava",
+              "Povodeň",
+              "Pětiletá voda",
+              "Q5",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0445ecebd0624b588488700038715bf5_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btilet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0445ecebd0624b588488700038715bf5/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=049a2adab3ae40cfb8e005136badc0f9",
       "landingPage": "https://www.datakhk.cz/documents/049a2adab3ae40cfb8e005136badc0f9",
       "title": "Sdílené daně Královéhradeckého kraje",
@@ -5387,6 +5533,152 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/666541b8-d90c-458c-a5ce-ce5dd8441e3b?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1c1349c28556499ba2c17c571a9efad5&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/1c1349c28556499ba2c17c571a9efad5_0",
+      "title": "Záplavové území pětisetleté vody",
+      "description": "",
+      "keyword": [
+        "Záplava",
+        "Povodeň",
+        "Pětisetletá voda",
+        "Q500",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-23T14:09:49.000Z",
+      "modified": "2025-06-23T14:37:15.170Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2651,49.9995,16.3679,50.7972",
+      "license": "",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 16071000,
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idCitation": {
+            "resTitle": "Mapa"
+          },
+          "idPurp": "Záplavové území pětisetleté vody",
+          "searchKeys": {
+            "keyword": [
+              "Záplava",
+              "Povodeň",
+              "Pětisetletá voda",
+              "Q500",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/1c1349c28556499ba2c17c571a9efad5_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -11930,6 +12222,154 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/38402dfafbf4467cbb6fa29c546ad501/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3861250b6faa45e297b7116a2f0b51cd&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0",
+      "title": "Aktivní zóna záplavového území stoleté vody",
+      "description": "",
+      "keyword": [
+        "Aktivní zóna",
+        "Záplava",
+        "Povodeň",
+        "Stoletá voda",
+        "Q100",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-23T14:22:41.000Z",
+      "modified": "2025-06-23T14:38:04.088Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2679,49.9849,16.3676,50.7972",
+      "license": "",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 16195300,
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idCitation": {
+            "resTitle": "Mapa"
+          },
+          "idPurp": "Aktivní zóna záplavového území stoleté vody",
+          "searchKeys": {
+            "keyword": [
+              "Aktivní zóna",
+              "Záplava",
+              "Povodeň",
+              "Stoletá voda",
+              "Q100",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -27978,6 +28418,152 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d93751a3221478ca39a6e1ca6578047&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/7d93751a3221478ca39a6e1ca6578047_0",
+      "title": "Záplavové území stoleté vody",
+      "description": "",
+      "keyword": [
+        "Záplava",
+        "Povodeň",
+        "Stoletá voda",
+        "Q100",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-23T13:52:45.000Z",
+      "modified": "2025-06-23T14:36:18.445Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2679,49.9849,16.3679,50.7972",
+      "license": "",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 15491900,
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idCitation": {
+            "resTitle": "Mapa"
+          },
+          "idPurp": "Záplavové území stoleté vody",
+          "searchKeys": {
+            "keyword": [
+              "Záplava",
+              "Povodeň",
+              "Stoletá voda",
+              "Q100",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/7d93751a3221478ca39a6e1ca6578047_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7d93751a3221478ca39a6e1ca6578047/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=7e6b887fa1914d36823ed722b723552a",
       "landingPage": "https://www.datakhk.cz/documents/7e6b887fa1914d36823ed722b723552a",
       "title": "Vývoj zemí Evropské Unie",
@@ -30917,6 +31503,152 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/18cce8bd-c9a0-42af-a609-4a2faf67a486?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8a81ac1b830d42249ed3b38708e95243&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/8a81ac1b830d42249ed3b38708e95243_0",
+      "title": "Záplavové území dvacetileté vody",
+      "description": "",
+      "keyword": [
+        "Záplava",
+        "Povodeň",
+        "Dvacetiletá voda",
+        "Q20",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-23T13:33:42.000Z",
+      "modified": "2025-06-23T14:34:53.077Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2679,49.9849,16.3677,50.7972",
+      "license": "",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 15270600,
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "@_xml:lang": "cs",
+        "dataIdInfo": {
+          "idAbs": "",
+          "idCredit": "",
+          "idCitation": {
+            "resTitle": "Mapa"
+          },
+          "idPurp": "Záplavové území dvacetileté vody",
+          "searchKeys": {
+            "keyword": [
+              "Záplava",
+              "Povodeň",
+              "Dvacetiletá voda",
+              "Q20",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
+            }
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/8a81ac1b830d42249ed3b38708e95243_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_dvacetilet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8a81ac1b830d42249ed3b38708e95243/sqlite?layers=0"
         }
       ],
       "theme": [
