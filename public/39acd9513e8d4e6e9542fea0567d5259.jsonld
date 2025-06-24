@@ -1,21 +1,20 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datakhk.cz/3861250b6faa45e297b7116a2f0b51cd.jsonld",
+  "iri": "https://open.datakhk.cz/39acd9513e8d4e6e9542fea0567d5259.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Aktivní zóna záplavového území stoleté vody"
+    "cs": "Záplavové území pětisetleté vody"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací aktivní zóny záplavového území stoleté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA https://voda.gov.cz/ Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad."
+    "cs": "Datová sada s prostorovou lokalizací záplavového území pětisetleté vody vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA https://voda.gov.cz/ Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad."
   },
   "klíčové_slovo": {
     "cs": [
-      "Aktivní zóna",
       "Záplava",
       "Povodeň",
-      "Stoletá voda",
-      "Q100",
+      "Pětisetletá voda",
+      "Q500",
       "Životní prostředí",
       "Královéhradecký kraj"
     ]
@@ -30,12 +29,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0",
+      "iri": "https://www.datakhk.cz/datasets/39acd9513e8d4e6e9542fea0567d5259_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0",
-      "přístupové_url": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/datasets/39acd9513e8d4e6e9542fea0567d5259_0",
+      "přístupové_url": "https://www.datakhk.cz/datasets/39acd9513e8d4e6e9542fea0567d5259_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -48,12 +47,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -66,12 +65,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/csv?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/csv?layers=0",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/csv?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/csv?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/csv?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/csv?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -84,12 +83,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/shapefile?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/shapefile?layers=0",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/shapefile?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/shapefile?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/shapefile?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/shapefile?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -102,12 +101,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geojson?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/geojson?layers=0",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geojson?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geojson?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/geojson?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/geojson?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -120,12 +119,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/kml?layers=0",
+      "iri": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/kml?layers=0",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/kml?layers=0",
-      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/kml?layers=0",
+      "soubor_ke_stažení": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/kml?layers=0",
+      "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/kml?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {

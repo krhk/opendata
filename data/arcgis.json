@@ -599,7 +599,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=0445ecebd0624b588488700038715bf5&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/0445ecebd0624b588488700038715bf5_0",
       "title": "Záplavové území pětileté vody",
-      "description": "",
+      "description": "<p>Datová sada s prostorovou lokalizací záplavového území pětileté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
       "keyword": [
         "Záplava",
         "Povodeň",
@@ -611,8 +611,8 @@
       "issued": "2025-06-23T13:12:06.000Z",
       "modified": "2025-06-24T06:11:15.775Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -623,20 +623,77 @@
       "spatial": "15.2679,49.9849,16.3675,50.7972",
       "license": "",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-24",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 15042900,
+          "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250623,
           "SyncOnce": "TRUE"
         },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací záplavového území pětileté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
           "idCitation": {
-            "resTitle": "Mapa"
+            "date": {
+              "createDate": "2025-06-24T00:00:00"
+            },
+            "resTitle": "Záplavové území pětileté vody",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Záplavové území pětileté vody",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Záplava",
@@ -647,10 +704,38 @@
               "Královéhradecký kraj"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
@@ -5533,152 +5618,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/666541b8-d90c-458c-a5ce-ce5dd8441e3b?src=embed"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=1c1349c28556499ba2c17c571a9efad5&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/datasets/1c1349c28556499ba2c17c571a9efad5_0",
-      "title": "Záplavové území pětisetleté vody",
-      "description": "",
-      "keyword": [
-        "Záplava",
-        "Povodeň",
-        "Pětisetletá voda",
-        "Q500",
-        "Životní prostředí",
-        "Královéhradecký kraj"
-      ],
-      "issued": "2025-06-23T14:09:49.000Z",
-      "modified": "2025-06-23T14:37:15.170Z",
-      "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "Tomas_Slezak_DATAKHK",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "15.2651,49.9995,16.3679,50.7972",
-      "license": "",
-      "metadata": {
-        "Esri": {
-          "ArcGISFormat": 1,
-          "CreaTime": 16071000,
-          "CreaDate": 20250623,
-          "SyncOnce": "TRUE"
-        },
-        "@_xml:lang": "cs",
-        "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
-          "idCitation": {
-            "resTitle": "Mapa"
-          },
-          "idPurp": "Záplavové území pětisetleté vody",
-          "searchKeys": {
-            "keyword": [
-              "Záplava",
-              "Povodeň",
-              "Pětisetletá voda",
-              "Q500",
-              "Životní prostředí",
-              "Královéhradecký kraj"
-            ]
-          },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
-            }
-          }
-        }
-      },
-      "category": [
-        "Životní prostředí"
-      ],
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/1c1349c28556499ba2c17c571a9efad5_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/1c1349c28556499ba2c17c571a9efad5/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12233,7 +12172,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=3861250b6faa45e297b7116a2f0b51cd&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/3861250b6faa45e297b7116a2f0b51cd_0",
       "title": "Aktivní zóna záplavového území stoleté vody",
-      "description": "",
+      "description": "<p>Datová sada s prostorovou lokalizací aktivní zóny záplavového území stoleté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
       "keyword": [
         "Aktivní zóna",
         "Záplava",
@@ -12244,10 +12183,10 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-06-23T14:22:41.000Z",
-      "modified": "2025-06-23T14:38:04.088Z",
+      "modified": "2025-06-24T08:27:57.809Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12258,20 +12197,77 @@
       "spatial": "15.2679,49.9849,16.3676,50.7972",
       "license": "",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-24",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 16195300,
+          "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250623,
           "SyncOnce": "TRUE"
         },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací aktivní zóny záplavového území stoleté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
           "idCitation": {
-            "resTitle": "Mapa"
+            "date": {
+              "createDate": "2025-06-24T00:00:00"
+            },
+            "resTitle": "Aktivní zóna záplavového území stoleté vody",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Aktivní zóna záplavového území stoleté vody",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Aktivní zóna",
@@ -12283,10 +12279,38 @@
               "Královéhradecký kraj"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
@@ -12335,41 +12359,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/3861250b6faa45e297b7116a2f0b51cd/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12509,6 +12498,202 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/1b1cc482-82d3-4d78-a067-9ca0479d339c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=39acd9513e8d4e6e9542fea0567d5259&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/39acd9513e8d4e6e9542fea0567d5259_0",
+      "title": "Záplavové území pětisetleté vody",
+      "description": "<p>Datová sada s prostorovou lokalizací záplavového území pětisetleté vody vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
+      "keyword": [
+        "Záplava",
+        "Povodeň",
+        "Pětisetletá voda",
+        "Q500",
+        "Životní prostředí",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2025-06-24T07:28:19.000Z",
+      "modified": "2025-06-24T08:20:11.528Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.2651,49.9995,16.3679,50.7972",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-24",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 16071000,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20250623,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s prostorovou lokalizací záplavového území pětisetleté vody vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2025-06-24T00:00:00"
+            },
+            "resTitle": "Záplavové území pětisetleté vody",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Záplavové území pětisetleté vody",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Záplava",
+              "Povodeň",
+              "Pětisetletá voda",
+              "Q500",
+              "Životní prostředí",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/39acd9513e8d4e6e9542fea0567d5259_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1plavov%C3%A9_%C3%BAzem%C3%AD_p%C4%9Btisetlet%C3%A9_vody/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/39acd9513e8d4e6e9542fea0567d5259/kml?layers=0"
         }
       ],
       "theme": [
@@ -28421,7 +28606,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=7d93751a3221478ca39a6e1ca6578047&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/7d93751a3221478ca39a6e1ca6578047_0",
       "title": "Záplavové území stoleté vody",
-      "description": "",
+      "description": "<p>Datová sada s prostorovou lokalizací záplavového území stoleté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
       "keyword": [
         "Záplava",
         "Povodeň",
@@ -28431,10 +28616,10 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-06-23T13:52:45.000Z",
-      "modified": "2025-06-23T14:36:18.445Z",
+      "modified": "2025-06-24T06:47:42.381Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -28445,20 +28630,72 @@
       "spatial": "15.2679,49.9849,16.3679,50.7972",
       "license": "",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-24",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 15491900,
+          "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250623,
           "SyncOnce": "TRUE"
         },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací záplavového území stoleté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
           "idCitation": {
-            "resTitle": "Mapa"
+            "date": {
+              "createDate": "2025-06-24T00:00:00"
+            },
+            "resTitle": "Záplavové území stoleté vody",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Záplavové území stoleté vody",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Záplava",
@@ -28469,10 +28706,38 @@
               "Královéhradecký kraj"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },
@@ -31514,7 +31779,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=8a81ac1b830d42249ed3b38708e95243&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/8a81ac1b830d42249ed3b38708e95243_0",
       "title": "Záplavové území dvacetileté vody",
-      "description": "",
+      "description": "<p>Datová sada s prostorovou lokalizací záplavového území dvacetileté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
       "keyword": [
         "Záplava",
         "Povodeň",
@@ -31524,10 +31789,10 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-06-23T13:33:42.000Z",
-      "modified": "2025-06-24T06:10:34.972Z",
+      "modified": "2025-06-24T06:30:52.369Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -31538,20 +31803,72 @@
       "spatial": "15.2679,49.9849,16.3677,50.7972",
       "license": "",
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "role": {
+            "RoleCd": {
+              "@_value": "003"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": "2025-06-24",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 15270600,
+          "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250623,
           "SyncOnce": "TRUE"
         },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "",
-          "idCredit": "",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací záplavového území dvacetileté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://voda.gov.cz/\">https://voda.gov.cz/</a> Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad.</p>",
           "idCitation": {
-            "resTitle": "Mapa"
+            "date": {
+              "createDate": "2025-06-24T00:00:00"
+            },
+            "resTitle": "Záplavové území dvacetileté vody",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
           },
           "idPurp": "Záplavové území dvacetileté vody",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "Záplava",
@@ -31562,10 +31879,38 @@
               "Královéhradecký kraj"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": ""
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "003"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
             }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
           }
         }
       },

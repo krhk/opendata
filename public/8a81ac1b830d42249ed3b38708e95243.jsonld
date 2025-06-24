@@ -7,7 +7,7 @@
     "cs": "Záplavové území dvacetileté vody"
   },
   "popis": {
-    "cs": ""
+    "cs": "Datová sada s prostorovou lokalizací záplavového území dvacetileté vody. Zdrojem dat je Odbor životního prostředí a zemědělství Krajského úřadu Královéhradeckého kraje. Data stažena zVodohospodářského informačního portálu VODA https://voda.gov.cz/ Průběh polygonů záplavových území v této vrstvě je pouze ORIENTAČNÍ, jedná se o kompilaci dat jednotlivých dílčích záplavových území, v rámci které byly provedeny úpravy (vyhlazení) geometrie v místě návaznosti jednotlivých částí. Pro závazné informace ohledně průběhu polygonů kontaktujte správce daného vodního toku nebo místě příslušný vodoprávní úřad."
   },
   "klíčové_slovo": {
     "cs": [
