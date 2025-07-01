@@ -39770,6 +39770,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ac60029f3d2e4cfb8e00daaa08ee4780",
+      "landingPage": "https://www.datakhk.cz/pages/ac60029f3d2e4cfb8e00daaa08ee4780",
+      "title": "Dashboard oborů středních škol",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-07-01T06:41:28.000Z",
+      "modified": "2025-07-01T06:48:56.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/ac60029f3d2e4cfb8e00daaa08ee4780"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ad0b5818619047b1afdbde1468da059c",
       "landingPage": "https://www.datakhk.cz/documents/ad0b5818619047b1afdbde1468da059c",
       "title": "Hromadná ubytovací zařízení v Královéhradeckém kraji v roce 2021 dle typu",
