@@ -19807,7 +19807,7 @@
         ""
       ],
       "issued": "2025-06-18T11:18:51.000Z",
-      "modified": "2025-06-18T11:43:07.000Z",
+      "modified": "2025-07-02T06:37:42.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
@@ -21788,6 +21788,44 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/1e3cb8b7-0b35-47d8-8c2c-b1a9b5be99d9?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=618a8283acd44840aec408cdd90df4fd",
+      "landingPage": "https://www.datakhk.cz/pages/618a8283acd44840aec408cdd90df4fd",
+      "title": "Týden pro Digitální Česko před akcí",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-07-02T06:39:30.000Z",
+      "modified": "2025-07-02T08:10:18.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/618a8283acd44840aec408cdd90df4fd"
         }
       ],
       "theme": [
@@ -37744,7 +37782,7 @@
         ""
       ],
       "issued": "2025-04-29T10:48:48.000Z",
-      "modified": "2025-06-18T10:53:53.000Z",
+      "modified": "2025-07-02T08:26:15.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
