@@ -1715,6 +1715,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0b35e25b9ba14b12aeddb38d342699fc",
+      "landingPage": "https://www.datakhk.cz/pages/0b35e25b9ba14b12aeddb38d342699fc",
+      "title": "Novinky - nové grafy v podsekci výzkum a vývoj",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-07-14T12:42:27.000Z",
+      "modified": "2025-07-14T13:25:50.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/0b35e25b9ba14b12aeddb38d342699fc"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0bb803445b994e7fbb8ecef6b054caa4",
       "landingPage": "https://www.datakhk.cz/documents/0bb803445b994e7fbb8ecef6b054caa4",
       "title": "Vývoj výtěžnosti tříděných odpadů na 1 obyvetele v Královéhradeckém kraji",
