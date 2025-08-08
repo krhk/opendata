@@ -51445,9 +51445,7 @@
           }
         }
       },
-      "category": [
-        "Veřejná doprava a silnice"
-      ],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
