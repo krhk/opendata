@@ -38077,7 +38077,7 @@
         ""
       ],
       "issued": "2025-04-29T10:48:48.000Z",
-      "modified": "2025-07-02T08:26:15.000Z",
+      "modified": "2025-08-15T08:18:32.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
@@ -57924,6 +57924,44 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/fc365d95ea124c6fb18540f5e5a2eef1/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fca012df56174751a70a10ef6e4d8dcf",
+      "landingPage": "https://www.datakhk.cz/pages/fca012df56174751a70a10ef6e4d8dcf",
+      "title": "Datové karty za rok 2024 k nahlédnutí",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-08-15T07:43:10.000Z",
+      "modified": "2025-08-15T07:53:37.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/fca012df56174751a70a10ef6e4d8dcf"
         }
       ],
       "theme": [
