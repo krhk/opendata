@@ -11223,6 +11223,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3402df125fe64a0cb226238e58ee3bb9",
+      "landingPage": "https://www.datakhk.cz/pages/3402df125fe64a0cb226238e58ee3bb9",
+      "title": "Souhrnné statistiky o ÚSC a DSO",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-08-28T10:59:25.000Z",
+      "modified": "2025-08-28T11:39:43.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/3402df125fe64a0cb226238e58ee3bb9"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=348a2a9b10d24832adf6ff837bf58039",
       "landingPage": "https://www.datakhk.cz/documents/348a2a9b10d24832adf6ff837bf58039",
       "title": "Podíl území lesů v zemích EU",
