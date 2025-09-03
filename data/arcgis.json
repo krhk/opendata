@@ -41469,6 +41469,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b67743b015e24a8e810cfbdc7e44917b",
+      "landingPage": "https://www.datakhk.cz/pages/b67743b015e24a8e810cfbdc7e44917b",
+      "title": "Sekce Veřejná správa",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-09-03T13:49:03.000Z",
+      "modified": "2025-09-03T13:57:54.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/b67743b015e24a8e810cfbdc7e44917b"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b72db73f247447d392950fba9e871222",
       "landingPage": "https://www.datakhk.cz/documents/b72db73f247447d392950fba9e871222",
       "title": "Vývoj objemu dotací na dopravní obslužnost v Královéhradeckém kraji",
