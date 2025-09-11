@@ -20140,7 +20140,7 @@
         ""
       ],
       "issued": "2025-06-18T11:18:51.000Z",
-      "modified": "2025-07-02T06:37:42.000Z",
+      "modified": "2025-09-11T11:21:49.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
@@ -30904,6 +30904,42 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8618f0b5d9b74bb588456f2c8a1a98c8",
+      "landingPage": "https://www.datakhk.cz/pages/8618f0b5d9b74bb588456f2c8a1a98c8",
+      "title": "Týden pro Digitální Česko 2025",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2025-09-11T11:04:59.000Z",
+      "modified": "2025-09-11T11:04:59.000Z",
+      "publisher": {
+        "name": "Tomas_Slezak_DATAKHK",
+        "source": "Tomas_Slezak_DATAKHK"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/8618f0b5d9b74bb588456f2c8a1a98c8"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=865e048ea92349c98542b7f2db5d9d6c",
       "landingPage": "https://www.datakhk.cz/documents/865e048ea92349c98542b7f2db5d9d6c",
       "title": "Dostupnost kultury a kulturního dědictví z pohledu obcí v Královéhradeckém kraji",
@@ -38115,7 +38151,7 @@
         ""
       ],
       "issued": "2025-04-29T10:48:48.000Z",
-      "modified": "2025-08-15T08:18:32.000Z",
+      "modified": "2025-09-11T12:00:49.000Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
