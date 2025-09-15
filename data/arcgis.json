@@ -44281,14 +44281,14 @@
       "title": "Počet žáků v oborech středních škol zřizovaných krajem",
       "description": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
-        "Počet",
-        "Žáci",
-        "Střední školy",
+        "SŠ",
+        "Obory",
+        "Školy",
         "Školství",
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-13T11:26:19.000Z",
-      "modified": "2025-03-24T08:51:03.047Z",
+      "modified": "2025-09-15T05:47:30.251Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -44304,6 +44304,7 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
@@ -44315,16 +44316,22 @@
           },
           "role": {
             "RoleCd": {
-              "@_value": "003"
+              "@_value": "002"
             }
           },
           "rpOrgName": "Královéhradecký kraj"
         },
-        "mdDateSt": "2025-03-24",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9081000,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/cc4993a5a0294c3f948481ded8c23673/info/thumbnail/thumbnail1757915895014.png"
+              }
+            }
+          },
           "CreaDate": 20220922,
           "SyncOnce": "TRUE"
         },
@@ -44336,7 +44343,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -44350,27 +44360,21 @@
         },
         "dataIdInfo": {
           "idAbs": "<p>Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.</p>",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 0,
-                "southBL": 0,
-                "northBL": 0,
-                "westBL": 0
-              }
-            }
-          },
           "idCitation": {
             "date": {
-              "createDate": "2025-03-24T00:00:00"
+              "createDate": "2025-09-15T00:00:00"
             },
-            "resTitle": "Počet žáků v oborech středních škol zřizovaných krajem",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Počet žáků v oborech středních škol zřizovaných krajem"
+            },
             "citId": {
               "identCode": "publication"
             }
           },
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
@@ -44379,31 +44383,30 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": "střední školy"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
           },
-          "idPurp": "Počty žáků v oborech středních škol zřizovaných krajem",
+          "idPurp": "Datová sada s prostorovou lokalizací středních škol zřizovaných Královéhradeckým krajem včetně přehledu počtu žáků v jednotlivých školách. Data jsou za školní rok 2024/2025. Zdrojem dat je Odbor školství a sportu Krajského úřadu Královéhradeckého kraje.",
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "001"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
             }
           },
           "searchKeys": {
             "keyword": [
-              "Počet",
-              "Žáci",
-              "Střední školy",
+              "SŠ",
+              "Obory",
+              "Školy",
               "Školství",
               "Královéhradecký kraj"
             ]
