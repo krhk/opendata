@@ -39576,15 +39576,16 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=ab928607832141f8bebb36261593107a&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/ab928607832141f8bebb36261593107a_0",
       "title": "Autobusové zastávky VDKHK",
-      "description": "Datová sada s prostorovou lokalizací autobusových zastávek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
+      "description": "",
       "keyword": [
-        "Zastávky",
         "Autobus",
+        "Zastávky",
         "VDKHK",
+        "Doprava",
         "Královéhradecký kraj"
       ],
       "issued": "2022-09-07T06:11:22.000Z",
-      "modified": "2025-01-20T08:40:11.367Z",
+      "modified": "2025-09-15T11:43:03.885Z",
       "publisher": {
         "name": "Tomas_Slezak_DATAKHK",
         "source": "Tomas_Slezak_DATAKHK"
@@ -39595,360 +39596,38 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.9765,49.9667,16.5967,50.7626",
+      "spatial": "15.1215,50.0516,16.5542,50.7626",
       "license": "CC0",
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "spatRepInfo": {
-          "VectSpatRep": {
-            "geometObjs": {
-              "geoObjCnt": 0,
-              "geoObjTyp": {
-                "GeoObjTypCd": {
-                  "@_value": "004"
-                }
-              },
-              "@_Name": "autobusove_zastavky_IREDO"
-            },
-            "topLvl": {
-              "TopoLevCd": {
-                "@_value": "001"
-              }
-            }
-          }
-        },
-        "mdDateSt": "2022-08-22",
         "Esri": {
           "ArcGISFormat": 1,
-          "DataProperties": {
-            "itemProps": {
-              "imsContentType": 2,
-              "itemName": "autobusove_zastavky_IREDO",
-              "itemSize": 0
-            },
-            "coordRef": {
-              "csUnits": "Angular Unit: Degree (0.017453)",
-              "peXml": "<GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'><WKT>GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433],AUTHORITY[&quot;EPSG&quot;,4326]]</WKT><XOrigin>-399.99999999999989</XOrigin><YOrigin>-399.99999999999989</YOrigin><XYScale>1111948722.2222221</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>8.9831528411952133e-09</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><LeftLongitude>-180</LeftLongitude><WKID>4326</WKID><LatestWKID>4326</LatestWKID></GeographicCoordinateSystem>",
-              "type": "Geographic",
-              "geogcsn": "GCS_WGS_1984"
-            }
-          },
-          "SyncTime": 15551100,
-          "MapLyrSync": false,
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
-            }
-          },
-          "CreaTime": 15094800,
-          "SyncDate": "2022-08-22",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ArcGISProfile": "INSPIRE",
-          "ModDate": "2023-08-08",
-          "CreaDate": "2022-08-16",
-          "ModTime": "14:32:41.94",
-          "SyncOnce": "FALSE",
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "CreaTime": 15510800,
+          "CreaDate": 20220822,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "14:31:33.28",
-        "spdoinfo": {
-          "ptvctinf": {
-            "esriterm": {
-              "spindex": "TRUE",
-              "esritopo": "FALSE",
-              "linrefer": "FALSE",
-              "efeageom": {
-                "@_code": "1"
-              },
-              "efeacnt": 0,
-              "efeatyp": "Simple",
-              "@_Name": "autobusove_zastavky_IREDO"
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
+        "@_xml:lang": "cs",
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací autobusových zastávek v rámci Veřejné dopravy Královéhradeckého kraje (VDKHK). Nejsou zde obsaženy zastávky MHD. Zdrojem dat je Odbor dopravy a silničního hospodářství Krajského úřadu Královéhradeckého kraje.",
-          "envirDesc": "Esri ArcGIS 12.8.0.29751",
+          "idAbs": "",
+          "idCredit": "",
           "idCitation": {
-            "resTitle": "Autobusové zastávky VDKHK",
-            "presForm": {
-              "PresFormCd": {
-                "@_value": "005"
-              }
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZE"
-            },
-            "languageCode": {
-              "@_value": "ces"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
+            "resTitle": "Mapa"
           },
           "idPurp": "Autobusové zastávky VDKHK",
-          "spatRpType": {
-            "SpatRepTypCd": {
-              "@_value": "001"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
           "searchKeys": {
             "keyword": [
-              "Zastávky",
               "Autobus",
+              "Zastávky",
               "VDKHK",
+              "Doprava",
               "Královéhradecký kraj"
             ]
           },
-          "idPoC": {
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "eainfo": {
-          "detailed": {
-            "attr": [
-              {
-                "attrlabl": "OBJECTID",
-                "attwidth": 4,
-                "attrdef": "Internal feature number.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Sequential unique whole numbers that are automatically generated."
-                },
-                "attalias": "OBJECTID",
-                "attrtype": "OID"
-              },
-              {
-                "attrlabl": "Shape",
-                "attwidth": 0,
-                "attrdef": "Feature geometry.",
-                "attrdefs": "Esri",
-                "attscale": 0,
-                "atprecis": 0,
-                "attrdomv": {
-                  "udom": "Coordinates defining the features."
-                },
-                "attalias": "Shape",
-                "attrtype": "Geometry"
-              },
-              {
-                "attrlabl": "oznaceni",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "oznaceni",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "nazev",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "nazev",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "nazev_orp",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "nazev_orp",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "kod_orp",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "kod_orp",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "nazev_okre",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "nazev_okre",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "kod_okresu",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "kod_okresu",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "nazev_vusc",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "nazev_vusc",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "kod_vusc",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "kod_vusc",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "dp_id",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "dp_id",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "x",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "x",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "y",
-                "attwidth": 8,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "y",
-                "attrtype": "Double"
-              },
-              {
-                "attrlabl": "wkt",
-                "attwidth": 254,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "wkt",
-                "attrtype": "String"
-              },
-              {
-                "attrlabl": "kod_obce",
-                "attwidth": 4,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "kod_obce",
-                "attrtype": "Integer"
-              },
-              {
-                "attrlabl": "nazev_obce",
-                "attwidth": 48,
-                "attscale": 0,
-                "atprecis": 0,
-                "attalias": "nazev_obce",
-                "attrtype": "String"
-              }
-            ],
-            "enttyp": {
-              "enttypc": 0,
-              "enttypt": "Feature Class",
-              "enttypl": "autobusove_zastavky_IREDO"
-            },
-            "@_Name": "autobusove_zastavky_IREDO"
-          }
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              },
-              "idCodeSpace": "EPSG",
-              "idVersion": "6.2(3.0.1)"
+          "resConst": {
+            "Consts": {
+              "useLimit": ""
             }
           }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "1691497893946r808954840899468",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "transSize": 0
-          },
-          "distFormat": {
-            "formatName": "Třída prvků souborové geodatabáze"
-          }
-        },
-        "@_xml:lang": "cs",
-        "mdHrLvName": "dataset"
+        }
       },
       "category": [
         "Veřejná doprava a silnice"
@@ -44288,7 +43967,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2023-02-13T11:26:19.000Z",
-      "modified": "2025-09-15T05:47:30.251Z",
+      "modified": "2025-09-15T05:55:36.142Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
