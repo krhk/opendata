@@ -1765,8 +1765,8 @@
       "issued": "2025-01-30T13:04:26.000Z",
       "modified": "2025-01-30T13:04:26.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2060,8 +2060,8 @@
       "issued": "2025-01-30T13:01:00.000Z",
       "modified": "2025-01-30T13:01:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2106,8 +2106,8 @@
       "issued": "2025-01-21T09:25:20.000Z",
       "modified": "2025-01-21T09:25:20.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2153,8 +2153,8 @@
       "issued": "2025-01-31T07:24:36.000Z",
       "modified": "2025-01-31T07:24:36.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2201,8 +2201,8 @@
       "issued": "2023-03-16T13:02:26.000Z",
       "modified": "2025-01-17T06:39:29.798Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2431,8 +2431,8 @@
       "issued": "2022-09-29T13:46:57.000Z",
       "modified": "2023-07-17T10:08:19.782Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2661,8 +2661,8 @@
       "issued": "2025-01-31T07:28:25.000Z",
       "modified": "2025-01-31T07:28:25.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2707,8 +2707,8 @@
       "issued": "2025-01-30T13:06:12.000Z",
       "modified": "2025-01-30T13:06:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2995,8 +2995,8 @@
       "issued": "2025-01-30T13:08:54.000Z",
       "modified": "2025-01-30T13:08:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -3041,8 +3041,8 @@
       "issued": "2025-01-21T08:42:59.000Z",
       "modified": "2025-01-21T08:42:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -3087,8 +3087,8 @@
       "issued": "2025-01-30T12:28:12.000Z",
       "modified": "2025-01-30T12:28:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -3133,8 +3133,8 @@
       "issued": "2025-01-31T07:58:25.000Z",
       "modified": "2025-01-31T07:58:25.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -3179,8 +3179,8 @@
       "issued": "2025-01-21T08:36:48.000Z",
       "modified": "2025-01-21T08:36:48.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4656,8 +4656,8 @@
       "issued": "2025-01-31T07:54:10.000Z",
       "modified": "2025-01-31T07:54:10.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4702,8 +4702,8 @@
       "issued": "2025-01-21T08:44:55.000Z",
       "modified": "2025-01-21T08:44:55.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4749,8 +4749,8 @@
       "issued": "2022-11-12T10:48:59.000Z",
       "modified": "2022-11-12T11:01:41.177Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4963,8 +4963,8 @@
       "issued": "2025-01-21T09:31:24.000Z",
       "modified": "2025-01-21T09:31:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5009,8 +5009,8 @@
       "issued": "2025-01-21T08:59:29.000Z",
       "modified": "2025-01-21T08:59:29.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5057,8 +5057,8 @@
       "issued": "2023-03-31T10:57:01.000Z",
       "modified": "2023-08-17T12:37:34.153Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5537,8 +5537,8 @@
       "issued": "2025-01-31T07:23:20.000Z",
       "modified": "2025-01-31T07:23:20.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5583,8 +5583,8 @@
       "issued": "2025-01-30T12:42:48.000Z",
       "modified": "2025-01-30T12:42:48.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5629,8 +5629,8 @@
       "issued": "2025-01-21T08:37:05.000Z",
       "modified": "2025-01-21T08:37:05.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5675,8 +5675,8 @@
       "issued": "2022-09-25T10:53:45.000Z",
       "modified": "2024-07-16T05:18:28.713Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5913,8 +5913,8 @@
       "issued": "2021-11-02T22:49:11.000Z",
       "modified": "2023-06-14T13:20:53.661Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6353,8 +6353,8 @@
       "issued": "2025-01-30T11:21:13.000Z",
       "modified": "2025-01-30T11:21:13.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6399,8 +6399,8 @@
       "issued": "2025-01-21T08:31:31.000Z",
       "modified": "2025-01-21T08:31:31.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6445,8 +6445,8 @@
       "issued": "2025-01-30T12:29:28.000Z",
       "modified": "2025-01-30T12:29:28.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6491,8 +6491,8 @@
       "issued": "2025-01-30T11:57:54.000Z",
       "modified": "2025-01-30T11:57:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6537,8 +6537,8 @@
       "issued": "2025-01-21T09:25:58.000Z",
       "modified": "2025-01-21T09:25:58.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6583,8 +6583,8 @@
       "issued": "2025-01-21T08:42:52.000Z",
       "modified": "2025-01-21T08:42:52.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6629,8 +6629,8 @@
       "issued": "2025-01-21T08:42:55.000Z",
       "modified": "2025-01-21T08:42:55.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7149,8 +7149,8 @@
       "issued": "2025-01-21T09:25:59.000Z",
       "modified": "2025-01-21T09:25:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7195,8 +7195,8 @@
       "issued": "2025-01-21T08:42:40.000Z",
       "modified": "2025-01-21T08:42:40.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7241,8 +7241,8 @@
       "issued": "2025-01-30T13:29:19.000Z",
       "modified": "2025-01-30T13:29:19.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7533,8 +7533,8 @@
       "issued": "2025-01-30T11:57:11.000Z",
       "modified": "2025-01-30T11:57:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7579,8 +7579,8 @@
       "issued": "2025-01-21T09:31:27.000Z",
       "modified": "2025-01-21T09:31:27.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7625,8 +7625,8 @@
       "issued": "2025-01-30T13:06:14.000Z",
       "modified": "2025-01-30T13:06:14.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7671,8 +7671,8 @@
       "issued": "2025-01-21T09:25:21.000Z",
       "modified": "2025-01-21T09:25:21.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7717,8 +7717,8 @@
       "issued": "2025-01-21T08:36:56.000Z",
       "modified": "2025-01-21T08:36:56.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8009,8 +8009,8 @@
       "issued": "2025-01-30T09:29:12.000Z",
       "modified": "2025-01-31T08:35:53.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8056,8 +8056,8 @@
       "issued": "2025-01-30T11:37:12.000Z",
       "modified": "2025-01-30T11:37:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8102,8 +8102,8 @@
       "issued": "2025-01-21T08:36:52.000Z",
       "modified": "2025-01-21T08:36:52.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8148,8 +8148,8 @@
       "issued": "2025-01-30T13:01:04.000Z",
       "modified": "2025-01-30T13:01:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8474,8 +8474,8 @@
       "issued": "2025-01-31T08:02:14.000Z",
       "modified": "2025-01-31T08:02:14.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8520,8 +8520,8 @@
       "issued": "2022-09-21T14:38:52.000Z",
       "modified": "2025-01-13T13:30:56.872Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8733,8 +8733,8 @@
       "issued": "2025-01-21T09:32:18.000Z",
       "modified": "2025-01-21T09:32:18.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -8781,8 +8781,8 @@
       "issued": "2023-06-14T15:26:03.000Z",
       "modified": "2023-06-14T15:28:37.207Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9180,8 +9180,8 @@
       "issued": "2025-01-21T08:47:33.000Z",
       "modified": "2025-01-21T08:47:33.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9226,8 +9226,8 @@
       "issued": "2025-01-30T13:00:59.000Z",
       "modified": "2025-01-30T13:00:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9272,8 +9272,8 @@
       "issued": "2025-01-30T13:01:04.000Z",
       "modified": "2025-01-30T13:01:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9318,8 +9318,8 @@
       "issued": "2025-01-31T07:31:08.000Z",
       "modified": "2025-01-31T07:31:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9365,8 +9365,8 @@
       "issued": "2025-01-30T11:37:11.000Z",
       "modified": "2025-01-30T11:37:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9672,8 +9672,8 @@
       "issued": "2025-01-30T12:24:50.000Z",
       "modified": "2025-01-30T12:24:50.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9718,8 +9718,8 @@
       "issued": "2025-01-21T08:31:30.000Z",
       "modified": "2025-01-21T08:31:30.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9764,8 +9764,8 @@
       "issued": "2025-01-30T12:37:21.000Z",
       "modified": "2025-01-30T12:37:21.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9811,8 +9811,8 @@
       "issued": "2025-01-30T13:32:04.000Z",
       "modified": "2025-01-30T13:32:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -9857,8 +9857,8 @@
       "issued": "2025-01-30T13:08:08.000Z",
       "modified": "2025-01-30T13:08:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10167,8 +10167,8 @@
       "issued": "2025-01-21T08:36:53.000Z",
       "modified": "2025-01-21T08:36:53.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10213,8 +10213,8 @@
       "issued": "2025-01-30T12:23:24.000Z",
       "modified": "2025-01-30T12:23:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10259,8 +10259,8 @@
       "issued": "2025-01-21T08:34:03.000Z",
       "modified": "2025-01-21T08:34:03.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10305,8 +10305,8 @@
       "issued": "2025-01-21T08:44:55.000Z",
       "modified": "2025-01-21T08:44:55.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10351,8 +10351,8 @@
       "issued": "2025-01-30T12:44:31.000Z",
       "modified": "2025-01-30T12:44:31.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10397,8 +10397,8 @@
       "issued": "2025-01-30T12:42:46.000Z",
       "modified": "2025-01-30T12:42:46.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10444,8 +10444,8 @@
       "issued": "2025-01-30T11:24:33.000Z",
       "modified": "2025-01-30T11:24:33.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10490,8 +10490,8 @@
       "issued": "2025-01-21T08:43:00.000Z",
       "modified": "2025-01-21T08:43:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10536,8 +10536,8 @@
       "issued": "2025-01-31T07:34:24.000Z",
       "modified": "2025-01-31T07:34:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10819,8 +10819,8 @@
       "issued": "2025-01-21T09:32:20.000Z",
       "modified": "2025-01-21T09:32:20.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10865,8 +10865,8 @@
       "issued": "2025-01-30T12:48:36.000Z",
       "modified": "2025-01-30T12:48:36.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10911,8 +10911,8 @@
       "issued": "2025-01-21T09:32:23.000Z",
       "modified": "2025-01-21T09:32:23.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -10957,8 +10957,8 @@
       "issued": "2025-01-21T09:30:53.000Z",
       "modified": "2025-01-21T09:30:53.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11003,8 +11003,8 @@
       "issued": "2025-01-21T08:36:50.000Z",
       "modified": "2025-01-21T08:36:50.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11050,8 +11050,8 @@
       "issued": "2025-01-30T11:37:10.000Z",
       "modified": "2025-01-30T11:37:10.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11096,8 +11096,8 @@
       "issued": "2025-01-30T12:44:28.000Z",
       "modified": "2025-01-30T12:44:28.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11142,8 +11142,8 @@
       "issued": "2025-01-31T08:01:44.000Z",
       "modified": "2025-01-31T08:01:44.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11188,8 +11188,8 @@
       "issued": "2025-01-30T13:14:18.000Z",
       "modified": "2025-01-30T13:14:18.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11233,8 +11233,8 @@
       "issued": "2025-08-28T10:59:25.000Z",
       "modified": "2025-09-03T08:15:34.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11272,8 +11272,8 @@
       "issued": "2025-01-21T08:36:57.000Z",
       "modified": "2025-01-21T08:36:57.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11319,8 +11319,8 @@
       "issued": "2025-01-30T13:01:58.000Z",
       "modified": "2025-01-30T13:01:58.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11365,8 +11365,8 @@
       "issued": "2025-01-21T09:28:24.000Z",
       "modified": "2025-01-21T09:28:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11411,8 +11411,8 @@
       "issued": "2025-01-30T13:22:09.000Z",
       "modified": "2025-01-30T13:22:09.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11457,8 +11457,8 @@
       "issued": "2025-01-30T12:13:00.000Z",
       "modified": "2025-01-30T12:13:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11503,8 +11503,8 @@
       "issued": "2022-09-07T14:02:02.000Z",
       "modified": "2023-05-25T13:15:30.071Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11717,8 +11717,8 @@
       "issued": "2025-01-30T12:23:24.000Z",
       "modified": "2025-01-30T12:23:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11763,8 +11763,8 @@
       "issued": "2025-01-21T08:42:46.000Z",
       "modified": "2025-01-21T08:42:46.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11809,8 +11809,8 @@
       "issued": "2025-01-30T12:51:32.000Z",
       "modified": "2025-01-30T12:51:32.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11855,8 +11855,8 @@
       "issued": "2025-01-21T08:42:55.000Z",
       "modified": "2025-01-21T08:42:55.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11901,8 +11901,8 @@
       "issued": "2025-01-30T13:01:07.000Z",
       "modified": "2025-01-30T13:01:07.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11947,8 +11947,8 @@
       "issued": "2025-01-21T08:36:54.000Z",
       "modified": "2025-01-21T08:36:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -11994,8 +11994,8 @@
       "issued": "2025-01-30T12:12:00.000Z",
       "modified": "2025-01-30T12:12:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12041,8 +12041,8 @@
       "issued": "2022-09-07T14:32:02.000Z",
       "modified": "2023-05-25T13:23:36.684Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12454,8 +12454,8 @@
       "issued": "2025-01-21T08:42:38.000Z",
       "modified": "2025-01-21T08:42:38.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12500,8 +12500,8 @@
       "issued": "2025-01-30T12:35:52.000Z",
       "modified": "2025-01-30T12:35:52.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12547,8 +12547,8 @@
       "issued": "2025-01-31T07:36:57.000Z",
       "modified": "2025-01-31T07:36:57.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12789,8 +12789,8 @@
       "issued": "2025-01-30T12:57:09.000Z",
       "modified": "2025-01-30T12:57:09.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13124,8 +13124,8 @@
       "issued": "2025-01-30T13:10:41.000Z",
       "modified": "2025-01-30T13:10:41.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13171,8 +13171,8 @@
       "issued": "2025-01-30T11:58:57.000Z",
       "modified": "2025-01-30T11:58:57.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13217,8 +13217,8 @@
       "issued": "2025-01-30T13:06:11.000Z",
       "modified": "2025-01-30T13:06:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13263,8 +13263,8 @@
       "issued": "2025-01-30T12:49:54.000Z",
       "modified": "2025-01-30T12:49:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13309,8 +13309,8 @@
       "issued": "2025-01-30T13:22:08.000Z",
       "modified": "2025-01-30T13:22:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13597,8 +13597,8 @@
       "issued": "2024-12-13T09:52:50.000Z",
       "modified": "2025-01-13T15:24:45.659Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -13861,8 +13861,8 @@
       "issued": "2021-11-02T23:07:09.000Z",
       "modified": "2023-06-14T14:13:30.310Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14327,8 +14327,8 @@
       "issued": "2025-01-30T13:38:35.000Z",
       "modified": "2025-01-30T13:38:35.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14373,8 +14373,8 @@
       "issued": "2025-01-30T12:45:43.000Z",
       "modified": "2025-01-30T12:45:43.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14419,8 +14419,8 @@
       "issued": "2025-01-30T12:50:43.000Z",
       "modified": "2025-01-30T12:50:43.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14465,8 +14465,8 @@
       "issued": "2025-01-31T08:01:13.000Z",
       "modified": "2025-01-31T08:01:13.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14511,8 +14511,8 @@
       "issued": "2025-01-30T12:48:35.000Z",
       "modified": "2025-01-30T12:48:35.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -14560,8 +14560,8 @@
       "issued": "2023-08-09T08:47:27.000Z",
       "modified": "2024-12-03T14:03:56.616Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15158,8 +15158,8 @@
       "issued": "2025-01-21T08:34:01.000Z",
       "modified": "2025-01-21T08:34:01.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15204,8 +15204,8 @@
       "issued": "2022-09-25T09:58:47.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15470,8 +15470,8 @@
       "issued": "2022-09-28T12:12:02.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15736,8 +15736,8 @@
       "issued": "2025-01-30T13:14:19.000Z",
       "modified": "2025-01-30T13:14:19.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15783,8 +15783,8 @@
       "issued": "2025-01-30T11:46:58.000Z",
       "modified": "2025-01-30T11:46:58.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15829,8 +15829,8 @@
       "issued": "2025-01-30T12:37:54.000Z",
       "modified": "2025-01-30T12:37:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15875,8 +15875,8 @@
       "issued": "2025-01-21T08:46:16.000Z",
       "modified": "2025-01-21T08:46:16.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16184,8 +16184,8 @@
       "issued": "2025-01-30T13:06:16.000Z",
       "modified": "2025-01-30T13:06:16.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16230,8 +16230,8 @@
       "issued": "2022-09-29T14:47:13.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16777,8 +16777,8 @@
       "issued": "2025-01-30T12:42:42.000Z",
       "modified": "2025-01-30T12:42:42.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16824,8 +16824,8 @@
       "issued": "2022-11-16T15:50:55.000Z",
       "modified": "2023-07-14T06:05:17.974Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17053,8 +17053,8 @@
       "issued": "2025-01-30T13:06:12.000Z",
       "modified": "2025-01-30T13:06:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17099,8 +17099,8 @@
       "issued": "2025-01-21T08:36:49.000Z",
       "modified": "2025-01-21T08:36:49.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17145,8 +17145,8 @@
       "issued": "2025-01-30T11:57:11.000Z",
       "modified": "2025-01-30T11:57:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17192,8 +17192,8 @@
       "issued": "2025-01-30T11:47:00.000Z",
       "modified": "2025-01-30T11:47:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17238,8 +17238,8 @@
       "issued": "2025-01-30T13:33:08.000Z",
       "modified": "2025-01-30T13:33:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17284,8 +17284,8 @@
       "issued": "2025-01-30T13:22:09.000Z",
       "modified": "2025-01-30T13:22:09.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17330,8 +17330,8 @@
       "issued": "2025-01-30T13:01:06.000Z",
       "modified": "2025-01-30T13:01:06.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17376,8 +17376,8 @@
       "issued": "2025-01-30T12:46:14.000Z",
       "modified": "2025-01-30T12:46:14.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17422,8 +17422,8 @@
       "issued": "2025-01-21T08:34:01.000Z",
       "modified": "2025-01-21T08:34:01.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17469,8 +17469,8 @@
       "issued": "2025-01-31T07:30:06.000Z",
       "modified": "2025-01-31T07:30:06.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17516,8 +17516,8 @@
       "issued": "2023-02-13T15:29:18.000Z",
       "modified": "2024-07-16T05:22:17.782Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17993,8 +17993,8 @@
       "issued": "2025-01-30T12:42:50.000Z",
       "modified": "2025-01-30T12:42:50.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18039,8 +18039,8 @@
       "issued": "2025-01-31T07:34:24.000Z",
       "modified": "2025-01-31T07:34:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18085,8 +18085,8 @@
       "issued": "2025-01-21T08:46:15.000Z",
       "modified": "2025-01-21T08:46:15.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18131,8 +18131,8 @@
       "issued": "2025-01-21T08:42:42.000Z",
       "modified": "2025-01-21T08:42:42.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18177,8 +18177,8 @@
       "issued": "2025-01-30T12:34:55.000Z",
       "modified": "2025-01-30T12:34:55.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18223,8 +18223,8 @@
       "issued": "2025-01-30T13:06:14.000Z",
       "modified": "2025-01-30T13:06:14.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18513,8 +18513,8 @@
       "issued": "2025-01-21T08:54:22.000Z",
       "modified": "2025-01-21T08:54:22.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18559,8 +18559,8 @@
       "issued": "2025-01-30T12:51:32.000Z",
       "modified": "2025-01-30T12:51:32.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18606,8 +18606,8 @@
       "issued": "2025-01-30T11:21:12.000Z",
       "modified": "2025-01-30T11:21:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18653,8 +18653,8 @@
       "issued": "2025-01-30T11:25:05.000Z",
       "modified": "2025-01-30T11:25:05.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18699,8 +18699,8 @@
       "issued": "2025-01-21T09:32:22.000Z",
       "modified": "2025-01-21T09:32:22.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18987,8 +18987,8 @@
       "issued": "2025-01-21T09:27:37.000Z",
       "modified": "2025-01-21T09:27:37.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19292,8 +19292,8 @@
       "issued": "2022-12-21T14:14:49.000Z",
       "modified": "2023-07-14T11:46:43.951Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19508,8 +19508,8 @@
       "issued": "2025-01-30T11:21:12.000Z",
       "modified": "2025-01-30T11:21:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19554,8 +19554,8 @@
       "issued": "2025-01-30T13:33:08.000Z",
       "modified": "2025-01-30T13:33:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19600,8 +19600,8 @@
       "issued": "2025-01-30T13:00:56.000Z",
       "modified": "2025-01-30T13:00:56.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19646,8 +19646,8 @@
       "issued": "2025-01-21T09:24:40.000Z",
       "modified": "2025-01-21T09:24:40.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19692,8 +19692,8 @@
       "issued": "2022-09-29T13:36:43.000Z",
       "modified": "2022-09-29T00:00:00.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19958,8 +19958,8 @@
       "issued": "2025-01-21T08:44:59.000Z",
       "modified": "2025-01-21T08:44:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20004,8 +20004,8 @@
       "issued": "2025-01-21T08:47:35.000Z",
       "modified": "2025-01-21T08:47:35.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20050,8 +20050,8 @@
       "issued": "2025-01-30T08:51:47.000Z",
       "modified": "2025-01-30T08:51:47.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20097,8 +20097,8 @@
       "issued": "2025-01-31T07:54:11.000Z",
       "modified": "2025-01-31T07:54:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20142,8 +20142,8 @@
       "issued": "2025-06-18T11:18:51.000Z",
       "modified": "2025-09-11T11:21:49.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20181,8 +20181,8 @@
       "issued": "2025-01-21T08:43:02.000Z",
       "modified": "2025-01-21T08:43:02.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20229,8 +20229,8 @@
       "issued": "2025-01-30T11:40:04.000Z",
       "modified": "2025-01-30T11:40:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20277,8 +20277,8 @@
       "issued": "2022-12-22T09:12:00.000Z",
       "modified": "2024-08-20T08:07:51.157Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20507,8 +20507,8 @@
       "issued": "2025-01-21T08:37:01.000Z",
       "modified": "2025-01-21T08:37:01.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20553,8 +20553,8 @@
       "issued": "2025-01-30T12:35:51.000Z",
       "modified": "2025-01-30T12:35:51.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20599,8 +20599,8 @@
       "issued": "2025-01-30T12:42:51.000Z",
       "modified": "2025-01-30T12:42:51.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20645,8 +20645,8 @@
       "issued": "2025-01-30T12:34:52.000Z",
       "modified": "2025-01-30T12:34:52.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20934,8 +20934,8 @@
       "issued": "2025-01-21T08:42:40.000Z",
       "modified": "2025-01-21T08:42:40.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -20980,8 +20980,8 @@
       "issued": "2025-01-21T08:57:57.000Z",
       "modified": "2025-01-21T08:57:57.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21026,8 +21026,8 @@
       "issued": "2025-01-31T08:02:38.000Z",
       "modified": "2025-01-31T08:02:38.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21072,8 +21072,8 @@
       "issued": "2025-01-21T08:48:42.000Z",
       "modified": "2025-01-21T08:48:42.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21118,8 +21118,8 @@
       "issued": "2025-01-30T12:05:16.000Z",
       "modified": "2025-01-30T12:05:16.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21164,8 +21164,8 @@
       "issued": "2025-01-21T08:47:35.000Z",
       "modified": "2025-01-21T08:47:35.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21209,8 +21209,8 @@
       "issued": "2025-05-06T08:49:54.000Z",
       "modified": "2025-05-21T15:05:38.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21248,8 +21248,8 @@
       "issued": "2023-12-14T13:26:18.000Z",
       "modified": "2023-12-14T14:41:37.967Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21511,8 +21511,8 @@
       "issued": "2025-01-21T08:48:43.000Z",
       "modified": "2025-01-21T08:48:43.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21557,8 +21557,8 @@
       "issued": "2025-01-30T13:31:08.000Z",
       "modified": "2025-01-30T13:31:08.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21604,8 +21604,8 @@
       "issued": "2023-02-09T07:18:05.000Z",
       "modified": "2023-07-17T08:16:19.754Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21818,8 +21818,8 @@
       "issued": "2025-01-30T12:28:11.000Z",
       "modified": "2025-01-30T12:28:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21865,8 +21865,8 @@
       "issued": "2022-12-20T09:49:32.000Z",
       "modified": "2023-07-14T11:28:06.957Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22094,8 +22094,8 @@
       "issued": "2025-01-21T08:36:51.000Z",
       "modified": "2025-01-21T08:36:51.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22139,8 +22139,8 @@
       "issued": "2025-07-02T06:39:30.000Z",
       "modified": "2025-07-02T08:10:18.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22181,8 +22181,8 @@
       "issued": "2021-11-02T23:04:06.000Z",
       "modified": "2023-06-14T13:50:17.653Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22634,8 +22634,8 @@
       "issued": "2025-01-30T11:45:40.000Z",
       "modified": "2025-01-30T11:45:40.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22680,8 +22680,8 @@
       "issued": "2025-01-30T11:57:10.000Z",
       "modified": "2025-01-30T11:57:10.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22726,8 +22726,8 @@
       "issued": "2025-01-30T13:37:04.000Z",
       "modified": "2025-01-30T13:37:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -22772,8 +22772,8 @@
       "issued": "2025-01-21T09:27:37.000Z",
       "modified": "2025-01-21T09:27:37.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23050,8 +23050,8 @@
       "issued": "2025-01-30T12:17:24.000Z",
       "modified": "2025-01-30T12:17:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23339,8 +23339,8 @@
       "issued": "2025-01-31T07:24:37.000Z",
       "modified": "2025-01-31T07:24:37.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23386,8 +23386,8 @@
       "issued": "2025-01-31T07:24:38.000Z",
       "modified": "2025-01-31T07:24:38.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23676,8 +23676,8 @@
       "issued": "2025-01-21T09:27:39.000Z",
       "modified": "2025-01-21T09:27:39.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23722,8 +23722,8 @@
       "issued": "2025-01-21T08:31:29.000Z",
       "modified": "2025-01-21T08:31:29.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23768,8 +23768,8 @@
       "issued": "2025-01-21T09:26:35.000Z",
       "modified": "2025-01-21T09:26:35.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24045,8 +24045,8 @@
       "issued": "2025-01-21T08:42:59.000Z",
       "modified": "2025-01-21T08:42:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24091,8 +24091,8 @@
       "issued": "2025-01-30T12:40:59.000Z",
       "modified": "2025-01-30T12:40:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24137,8 +24137,8 @@
       "issued": "2025-01-21T09:31:25.000Z",
       "modified": "2025-01-21T09:31:25.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24183,8 +24183,8 @@
       "issued": "2025-01-30T12:31:42.000Z",
       "modified": "2025-01-30T12:31:42.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24229,8 +24229,8 @@
       "issued": "2025-01-30T12:42:44.000Z",
       "modified": "2025-01-30T12:42:44.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24275,8 +24275,8 @@
       "issued": "2025-01-30T12:48:37.000Z",
       "modified": "2025-01-30T12:48:37.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24321,8 +24321,8 @@
       "issued": "2025-01-31T07:31:09.000Z",
       "modified": "2025-01-31T07:31:09.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24369,8 +24369,8 @@
       "issued": "2023-02-09T07:11:14.000Z",
       "modified": "2023-07-17T08:15:06.515Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24582,8 +24582,8 @@
       "issued": "2025-01-21T08:42:54.000Z",
       "modified": "2025-01-21T08:42:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24902,8 +24902,8 @@
       "issued": "2021-11-02T23:16:24.000Z",
       "modified": "2023-06-14T11:14:28.770Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -25324,8 +25324,8 @@
       "issued": "2025-01-30T12:44:27.000Z",
       "modified": "2025-01-30T12:44:27.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -25370,8 +25370,8 @@
       "issued": "2025-01-30T13:08:53.000Z",
       "modified": "2025-01-30T13:08:53.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -25662,8 +25662,8 @@
       "issued": "2025-01-31T07:54:12.000Z",
       "modified": "2025-01-31T07:54:12.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26494,8 +26494,8 @@
       "issued": "2025-01-31T07:28:24.000Z",
       "modified": "2025-01-31T07:28:24.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26540,8 +26540,8 @@
       "issued": "2025-01-30T12:42:47.000Z",
       "modified": "2025-01-30T12:42:47.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26586,8 +26586,8 @@
       "issued": "2025-01-30T12:43:43.000Z",
       "modified": "2025-01-30T12:43:43.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26632,8 +26632,8 @@
       "issued": "2025-01-21T08:37:02.000Z",
       "modified": "2025-01-21T08:37:02.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26679,8 +26679,8 @@
       "issued": "2025-01-30T13:01:58.000Z",
       "modified": "2025-01-30T13:01:58.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26725,8 +26725,8 @@
       "issued": "2025-01-30T12:42:54.000Z",
       "modified": "2025-01-30T12:42:54.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26771,8 +26771,8 @@
       "issued": "2025-01-21T08:57:59.000Z",
       "modified": "2025-01-21T08:57:59.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26817,8 +26817,8 @@
       "issued": "2025-01-21T08:44:57.000Z",
       "modified": "2025-01-21T08:44:57.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -26864,8 +26864,8 @@
       "issued": "2023-08-17T07:21:36.000Z",
       "modified": "2023-08-17T07:32:39.731Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -27617,8 +27617,8 @@
       "issued": "2021-11-02T23:11:59.000Z",
       "modified": "2023-06-14T11:56:00.012Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -28089,8 +28089,8 @@
       "issued": "2025-01-30T13:22:11.000Z",
       "modified": "2025-01-30T13:22:11.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -28137,8 +28137,8 @@
       "issued": "2023-09-05T07:15:15.000Z",
       "modified": "2025-05-21T10:43:52.403Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29396,8 +29396,8 @@
       "issued": "2022-09-28T18:14:51.000Z",
       "modified": "2023-07-14T11:30:00.805Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29624,8 +29624,8 @@
       "issued": "2025-01-21T09:26:34.000Z",
       "modified": "2025-01-21T09:26:34.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29671,8 +29671,8 @@
       "issued": "2025-01-31T07:28:26.000Z",
       "modified": "2025-01-31T07:28:26.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29717,8 +29717,8 @@
       "issued": "2025-01-30T12:52:46.000Z",
       "modified": "2025-01-30T12:52:46.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29763,8 +29763,8 @@
       "issued": "2025-01-30T12:28:10.000Z",
       "modified": "2025-01-30T12:28:10.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -29809,8 +29809,8 @@
       "issued": "2025-01-21T08:34:04.000Z",
       "modified": "2025-01-21T08:34:04.000Z",
       "publisher": {
-        "name": "Tomas_Slezak_DATAKHK",
-        "source": "Tomas_Slezak_DATAKHK"
+        "name": "{{source}}",
+        "source": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -47077,15 +47077,15 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d4f253b7bab842be98555eb81f057e70&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/d4f253b7bab842be98555eb81f057e70_0",
-      "title": "Domovy dětí a mládeže a střediska volného času",
-      "description": "<p>Datová sada s prostorovou lokalizací domovů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Domy dětí a mládeže a střediska volného času",
+      "description": "<p>Datová sada s prostorovou lokalizací domů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "DDM",
         "Volný čas",
         "Královéhradecký kraj"
       ],
       "issued": "2025-09-09T10:46:40.000Z",
-      "modified": "2025-09-09T11:03:34.225Z",
+      "modified": "2025-10-14T10:09:36.816Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -47156,14 +47156,24 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací domovů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací domů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
           "idCitation": {
             "date": {
               "createDate": "2025-09-09T00:00:00"
             },
             "resTitle": {
               "@_Sync": "FALSE",
-              "#value": "Domovy dětí a mládeže a střediska volného času"
+              "#value": "Domy dětí a mládeže a střediska volného času"
             },
             "citId": {
               "identCode": "publication"
@@ -47186,7 +47196,7 @@
               }
             }
           },
-          "idPurp": "Datová sada s prostorovou lokalizací domovů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+          "idPurp": "Datová sada s prostorovou lokalizací domů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
           "dataChar": {
             "CharSetCd": {
               "@_Sync": "FALSE",
@@ -47240,7 +47250,9 @@
           }
         }
       },
-      "category": [],
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "distribution": [
         {
           "@type": "dcat:Distribution",

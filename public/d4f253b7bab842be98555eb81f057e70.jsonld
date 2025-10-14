@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Domovy dětí a mládeže a střediska volného času"
+    "cs": "Domy dětí a mládeže a střediska volného času"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací domovů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací domů dětí a mládeže a středisek volného času na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
@@ -17,7 +17,7 @@
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
