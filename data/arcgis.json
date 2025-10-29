@@ -29200,6 +29200,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7e368c70e6054cdbba0b7f7c80453eca",
+      "landingPage": "https://www.datakhk.cz/pages/7e368c70e6054cdbba0b7f7c80453eca",
+      "title": "Hackathon 2024 partneři",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-03-31T11:09:19.000Z",
+      "modified": "2025-10-29T12:59:43.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/7e368c70e6054cdbba0b7f7c80453eca"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=7e6b887fa1914d36823ed722b723552a",
       "landingPage": "https://www.datakhk.cz/documents/7e6b887fa1914d36823ed722b723552a",
       "title": "Vývoj zemí Evropské Unie",
