@@ -28031,7 +28031,7 @@
         ""
       ],
       "issued": "2021-05-10T21:08:08.000Z",
-      "modified": "2025-10-31T09:07:57.000Z",
+      "modified": "2025-11-03T10:04:39.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -60484,6 +60484,42 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/61e53455-ab19-4d3a-b002-703ef4a63880?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f126477f7c844478a442138f9f5c08bc",
+      "landingPage": "https://www.datakhk.cz/pages/f126477f7c844478a442138f9f5c08bc",
+      "title": "Kultura kultura",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2025-11-03T06:42:23.000Z",
+      "modified": "2025-11-03T06:42:23.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/f126477f7c844478a442138f9f5c08bc"
         }
       ],
       "theme": [
