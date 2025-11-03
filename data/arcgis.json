@@ -18380,7 +18380,7 @@
         ""
       ],
       "issued": "2021-10-09T18:55:33.000Z",
-      "modified": "2025-10-31T08:14:32.000Z",
+      "modified": "2025-11-03T15:12:30.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -60496,9 +60496,11 @@
       "landingPage": "https://www.datakhk.cz/pages/f126477f7c844478a442138f9f5c08bc",
       "title": "Kultura kultura",
       "description": "{{description}}",
-      "keyword": [],
+      "keyword": [
+        ""
+      ],
       "issued": "2025-11-03T06:42:23.000Z",
-      "modified": "2025-11-03T06:42:23.000Z",
+      "modified": "2025-11-03T15:49:58.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
