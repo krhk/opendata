@@ -40356,6 +40356,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=9c84685951ff48bd9007312ab1da60d4",
+      "landingPage": "https://www.datakhk.cz/pages/9c84685951ff48bd9007312ab1da60d4",
+      "title": "Dashboard návštěvnosti FN HK",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-11-11T08:26:48.000Z",
+      "modified": "2025-11-11T09:05:16.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/9c84685951ff48bd9007312ab1da60d4"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9c84bcf625774298be529d23ca01b806",
       "landingPage": "https://www.datakhk.cz/documents/9c84bcf625774298be529d23ca01b806",
       "title": "Výdaje krajů na dopravní obslužnost na obyvatele v roce 2020",
@@ -50141,7 +50179,7 @@
         ""
       ],
       "issued": "2021-05-16T20:16:56.000Z",
-      "modified": "2025-10-31T09:23:40.000Z",
+      "modified": "2025-11-11T09:36:13.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -60500,7 +60538,7 @@
         ""
       ],
       "issued": "2025-11-03T06:42:23.000Z",
-      "modified": "2025-11-05T11:57:00.000Z",
+      "modified": "2025-11-11T12:16:34.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -65123,7 +65161,7 @@
         ""
       ],
       "issued": "2021-05-13T13:14:39.000Z",
-      "modified": "2025-10-31T07:05:18.000Z",
+      "modified": "2025-11-11T08:44:29.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
