@@ -56500,6 +56500,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=df8a77b63ad848ca8dc7f197a8427dd4",
+      "landingPage": "https://www.datakhk.cz/pages/df8a77b63ad848ca8dc7f197a8427dd4",
+      "title": "Dotace EU v Královéhradeckém kraji",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-11-14T09:42:34.000Z",
+      "modified": "2025-11-14T09:47:00.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/df8a77b63ad848ca8dc7f197a8427dd4"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=dfcaed323b4f46ca8d4a3536fd27235a",
       "landingPage": "https://www.datakhk.cz/documents/dfcaed323b4f46ca8d4a3536fd27235a",
       "title": "Návštěvnost turistických cílů v Královéhradeckém kraji dle kategorií",
