@@ -1632,7 +1632,7 @@
         ""
       ],
       "issued": "2021-05-25T18:22:11.000Z",
-      "modified": "2025-10-31T08:44:14.000Z",
+      "modified": "2025-11-27T09:14:44.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -52316,6 +52316,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d03c86ed442c4e9195f9671fda511717",
+      "landingPage": "https://www.datakhk.cz/pages/d03c86ed442c4e9195f9671fda511717",
+      "title": "The Best 2025 ICT",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-11-27T08:54:33.000Z",
+      "modified": "2025-11-27T09:08:44.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/d03c86ed442c4e9195f9671fda511717"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d097a080489846e79b73b622fa53d5c9",
       "landingPage": "https://www.datakhk.cz/documents/d097a080489846e79b73b622fa53d5c9",
       "title": "Počet očkování proti Covid-19 dle věkových skupin v Královéhradeckém kraji",
@@ -56995,7 +57033,7 @@
         ""
       ],
       "issued": "2021-05-14T18:33:21.000Z",
-      "modified": "2025-10-31T08:59:02.000Z",
+      "modified": "2025-11-27T08:39:47.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -65275,7 +65313,7 @@
         ""
       ],
       "issued": "2021-05-14T11:52:41.000Z",
-      "modified": "2025-10-31T07:31:04.000Z",
+      "modified": "2025-11-27T09:03:59.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
