@@ -5492,7 +5492,7 @@
         ""
       ],
       "issued": "2023-05-03T14:31:07.000Z",
-      "modified": "2025-10-31T09:27:12.000Z",
+      "modified": "2025-12-10T14:40:29.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -6280,7 +6280,7 @@
         ""
       ],
       "issued": "2021-05-13T14:24:38.000Z",
-      "modified": "2025-10-31T09:26:51.000Z",
+      "modified": "2025-12-10T14:37:56.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -32433,7 +32433,7 @@
         ""
       ],
       "issued": "2024-04-15T08:28:29.000Z",
-      "modified": "2025-10-31T09:27:41.000Z",
+      "modified": "2025-12-10T14:41:52.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -36568,6 +36568,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8dad1a112d60423eba0281741e535102",
+      "landingPage": "https://www.datakhk.cz/pages/8dad1a112d60423eba0281741e535102",
+      "title": "Zpráva a datové karty 2024",
+      "description": "Výroční zprávy o stavu kraje v přehledných infografikách.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-12-10T14:07:22.000Z",
+      "modified": "2025-12-10T14:12:39.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/8dad1a112d60423eba0281741e535102"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8e1ef25a9a5d445e851ba8dc1c7f3f12",
       "landingPage": "https://www.datakhk.cz/pages/8e1ef25a9a5d445e851ba8dc1c7f3f12",
       "title": "Mapový příběh v sekci kultura",
@@ -37033,7 +37071,7 @@
         ""
       ],
       "issued": "2022-05-13T07:53:57.000Z",
-      "modified": "2025-10-31T09:26:31.000Z",
+      "modified": "2025-12-10T14:33:54.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -41014,7 +41052,7 @@
         ""
       ],
       "issued": "2025-01-31T11:18:53.000Z",
-      "modified": "2025-10-31T09:28:03.000Z",
+      "modified": "2025-12-10T14:44:54.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
