@@ -37244,7 +37244,9 @@
       "title": "Letiště",
       "description": "Datová sada s prostorovou lokalizací letišť na území Královéhradeckého kraje. Zdrojem dat je Odbor analýz, podpory řízení a kontroly Krajského úřadu Královéhradeckého kraje.",
       "keyword": [
-        ""
+        "Doprava",
+        "Letiště",
+        "Královéhradecký kraj"
       ],
       "issued": "2025-01-10T13:11:05.000Z",
       "modified": "2025-01-14T10:07:06.132Z",
@@ -37327,6 +37329,13 @@
             "CharSetCd": {
               "@_value": "004"
             }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Doprava",
+              "Letiště",
+              "Královéhradecký kraj"
+            ]
           },
           "idPoC": {
             "rpOrgName": "Královéhradecký kraj",
@@ -57071,7 +57080,7 @@
         ""
       ],
       "issued": "2021-05-14T18:33:21.000Z",
-      "modified": "2026-01-12T09:30:51.000Z",
+      "modified": "2026-01-14T09:13:27.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -57193,7 +57202,7 @@
         ""
       ],
       "issued": "2021-05-16T20:26:11.000Z",
-      "modified": "2025-10-31T09:18:40.000Z",
+      "modified": "2026-01-14T08:02:37.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
