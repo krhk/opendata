@@ -1624,6 +1624,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0979c2a0b20e452db7d290dc4d270441",
+      "landingPage": "https://www.datakhk.cz/pages/0979c2a0b20e452db7d290dc4d270441",
+      "title": "Hackathon 5. ročník",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-01-21T07:00:01.000Z",
+      "modified": "2026-01-21T07:14:16.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/0979c2a0b20e452db7d290dc4d270441"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=09ae5b8a42b24154a858b28f45a53a0a",
       "landingPage": "https://www.datakhk.cz/pages/09ae5b8a42b24154a858b28f45a53a0a",
       "title": "Novinky",
@@ -65360,7 +65398,7 @@
         ""
       ],
       "issued": "2021-05-14T11:52:41.000Z",
-      "modified": "2025-11-27T09:03:59.000Z",
+      "modified": "2026-01-21T07:22:45.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
