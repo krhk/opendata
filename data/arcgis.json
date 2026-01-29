@@ -25049,18 +25049,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=63be156a63564852b29cdaa27e420024&sublayer=0",
-      "landingPage": "https://www.datakhk.cz/datasets/63be156a63564852b29cdaa27e420024_0",
-      "title": "Trvalé záštity Rady Královéhradeckého kraje",
-      "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(76,76,76);font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovou lokalizací trvalých záštit Rady Královéhradeckého kraje v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</span></span></p>",
+      "identifier": "https://www.arcgis.com/home/item.html?id=63be156a63564852b29cdaa27e420024&sublayer=4",
+      "landingPage": "https://www.datakhk.cz/datasets/63be156a63564852b29cdaa27e420024_4",
+      "title": "Kulturní akce pořádané s trvalou záštitou Rady Královéhradeckého kraje 2026–2029",
+      "description": "<p><span style='font-family:&quot;Calibri&quot;,sans-serif; font-size:11.0pt;'>Kulturní akce pořádané s trvalou záštitou Rady Královéhradeckého kraje 2026–2029. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</span></p>",
       "keyword": [
-        "Záštity",
-        "Rada",
+        "Trvalé záštity",
+        "Rada KHK",
         "Kultura",
         "Královéhradecký kraj"
       ],
       "issued": "2025-06-05T08:09:24.000Z",
-      "modified": "2025-06-05T08:52:12.336Z",
+      "modified": "2026-01-29T12:57:39.218Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -25071,32 +25071,20 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.1762,50.1179,16.3506,50.5948",
+      "spatial": "15.1762,50.1179,16.5487,50.5948",
       "license": "",
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpCntInfo": {
-            "cntAddress": {
-              "eMailAdd": "tslezak@khk.cz"
-            }
-          },
-          "role": {
-            "RoleCd": {
-              "@_value": "002"
-            }
-          },
-          "rpOrgName": "Královéhradecký kraj"
-        },
-        "mdDateSt": "2025-06-05",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 10054600,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/63be156a63564852b29cdaa27e420024/info/thumbnail/thumbnail1769692762048.png"
+              }
+            }
+          },
           "CreaDate": 20250605,
           "SyncOnce": "TRUE"
         },
@@ -25108,7 +25096,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -25121,18 +25112,23 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(76,76,76);font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovou lokalizací trvalých záštit Rady Královéhradeckého kraje v Královéhradeckém kraji. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</span></span></p>",
+          "idAbs": "<p><span style='font-family:&quot;Calibri&quot;,sans-serif; font-size:11.0pt;'>Kulturní akce pořádané s trvalou záštitou Rady Královéhradeckého kraje 2026–2029. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.</span></p>",
           "idCitation": {
-            "date": {
-              "createDate": "2025-06-05T00:00:00"
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Kulturní akce pořádané s trvalou záštitou Rady Královéhradeckého kraje 2026–2029"
             },
-            "resTitle": "Trvalé záštity Rady Královéhradeckého kraje",
             "citId": {
               "identCode": "publication"
             }
           },
           "dataLang": {
+            "countryCode": {
+              "@_Sync": "FALSE",
+              "@_value": "CZ"
+            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
@@ -25141,27 +25137,42 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             }
           },
-          "idPurp": "Trvalé záštity Rady Královéhradeckého kraje",
+          "idPurp": "Kulturní akce pořádané s trvalou záštitou Rady Královéhradeckého kraje 2026–2029. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje.",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
-              "Záštity",
-              "Rada",
+              "Trvalé záštity",
+              "Rada KHK",
               "Kultura",
               "Královéhradecký kraj"
             ]
           },
           "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
             "role": {
               "RoleCd": {
-                "@_value": "003"
+                "@_value": "002"
               }
             },
             "rpOrgName": "Královéhradecký kraj"
@@ -25189,6 +25200,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         }
@@ -25202,77 +25214,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datakhk.cz/datasets/63be156a63564852b29cdaa27e420024_0"
+          "accessURL": "https://www.datakhk.cz/datasets/63be156a63564852b29cdaa27e420024_4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Trval%C3%A9_z%C3%A1%C5%A1tity_Rady_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Trval%C3%A9_z%C3%A1%C5%A1tity_Rady_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/csv?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/csv?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/shapefile?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/shapefile?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/geojson?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/geojson?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/kml?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/kml?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/filegdb?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/filegdb?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/featureCollection?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/featureCollection?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/excel?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/excel?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/geoPackage?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/geoPackage?layers=4"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/sqlite?layers=0"
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/63be156a63564852b29cdaa27e420024/sqlite?layers=4"
         }
       ],
       "theme": [
@@ -54319,7 +54331,7 @@
         ""
       ],
       "issued": "2021-05-08T20:52:30.000Z",
-      "modified": "2025-10-31T07:43:43.000Z",
+      "modified": "2026-01-29T13:27:49.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
