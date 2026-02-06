@@ -27,7 +27,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -111,7 +111,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -158,7 +158,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -204,7 +204,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -250,7 +250,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -296,7 +296,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -342,7 +342,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -884,7 +884,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -924,7 +924,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -970,7 +970,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1020,7 +1020,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "CC0",
       "metadata": {
         "mdLang": {
@@ -1290,7 +1290,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1337,7 +1337,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1383,7 +1383,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1430,7 +1430,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1514,7 +1514,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1598,7 +1598,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1681,7 +1681,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -1962,7 +1962,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2002,7 +2002,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2334,7 +2334,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2373,7 +2373,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2419,7 +2419,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2466,7 +2466,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -2974,7 +2974,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3020,7 +3020,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3308,7 +3308,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3354,7 +3354,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3400,7 +3400,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3484,7 +3484,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3530,7 +3530,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3575,7 +3575,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3880,7 +3880,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3926,7 +3926,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -3972,7 +3972,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4056,7 +4056,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4102,7 +4102,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4186,7 +4186,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4661,7 +4661,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4707,7 +4707,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4753,7 +4753,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4799,7 +4799,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -4845,7 +4845,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -5159,7 +5159,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -5205,7 +5205,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -5579,7 +5579,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -5618,7 +5618,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -5664,7 +5664,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -6192,7 +6192,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -6238,7 +6238,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -6284,7 +6284,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -6329,7 +6329,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7084,7 +7084,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7130,7 +7130,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7176,7 +7176,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7222,7 +7222,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7268,7 +7268,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7313,7 +7313,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7352,7 +7352,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7398,7 +7398,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7444,7 +7444,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7490,7 +7490,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7536,7 +7536,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7826,7 +7826,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7872,7 +7872,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -7956,7 +7956,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8002,7 +8002,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8048,7 +8048,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8340,7 +8340,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8386,7 +8386,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8432,7 +8432,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8478,7 +8478,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8524,7 +8524,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8816,7 +8816,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8863,7 +8863,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8909,7 +8909,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -8955,7 +8955,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -9281,7 +9281,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -9577,7 +9577,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -9616,7 +9616,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10063,7 +10063,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10147,7 +10147,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10193,7 +10193,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10239,7 +10239,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10286,7 +10286,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10593,7 +10593,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10639,7 +10639,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10685,7 +10685,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10732,7 +10732,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -10816,7 +10816,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11126,7 +11126,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11172,7 +11172,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11218,7 +11218,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11264,7 +11264,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11310,7 +11310,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11356,7 +11356,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11403,7 +11403,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11449,7 +11449,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11495,7 +11495,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11778,7 +11778,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11824,7 +11824,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11870,7 +11870,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -11916,7 +11916,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12000,7 +12000,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12047,7 +12047,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12093,7 +12093,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12139,7 +12139,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12185,7 +12185,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12230,7 +12230,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12268,7 +12268,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12307,7 +12307,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12354,7 +12354,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12400,7 +12400,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12484,7 +12484,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12530,7 +12530,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12828,7 +12828,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12874,7 +12874,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12920,7 +12920,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -12965,7 +12965,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13004,7 +13004,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13050,7 +13050,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13096,7 +13096,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13143,7 +13143,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13603,7 +13603,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13649,7 +13649,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13696,7 +13696,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13938,7 +13938,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -13983,7 +13983,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -14311,7 +14311,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -14358,7 +14358,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -14404,7 +14404,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -14450,7 +14450,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -14496,7 +14496,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15044,7 +15044,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15590,7 +15590,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15636,7 +15636,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15682,7 +15682,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15728,7 +15728,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -15774,7 +15774,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -16421,7 +16421,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -16466,7 +16466,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -17037,7 +17037,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -17084,7 +17084,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -17130,7 +17130,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -17176,7 +17176,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -17485,7 +17485,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18115,7 +18115,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18154,7 +18154,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18429,7 +18429,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18468,7 +18468,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18514,7 +18514,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18560,7 +18560,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18607,7 +18607,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18653,7 +18653,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18699,7 +18699,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18745,7 +18745,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18829,7 +18829,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18874,7 +18874,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18913,7 +18913,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18958,7 +18958,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -18998,7 +18998,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19560,7 +19560,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19606,7 +19606,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19728,7 +19728,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19773,7 +19773,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19812,7 +19812,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19858,7 +19858,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -19904,7 +19904,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20232,7 +20232,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20278,7 +20278,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20325,7 +20325,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20410,7 +20410,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20456,7 +20456,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20501,7 +20501,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -20782,7 +20782,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21303,7 +21303,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21387,7 +21387,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21433,7 +21433,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21479,7 +21479,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21791,7 +21791,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21837,7 +21837,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21883,7 +21883,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21928,7 +21928,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -21968,7 +21968,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22051,7 +22051,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22090,7 +22090,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22135,7 +22135,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22173,7 +22173,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22214,7 +22214,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22492,7 +22492,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22538,7 +22538,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22584,7 +22584,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22630,7 +22630,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22919,7 +22919,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -22964,7 +22964,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23002,7 +23002,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23041,7 +23041,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23087,7 +23087,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23133,7 +23133,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23179,7 +23179,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23225,7 +23225,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23270,7 +23270,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23571,7 +23571,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23609,7 +23609,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23648,7 +23648,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -23694,7 +23694,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24031,7 +24031,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24307,7 +24307,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24352,7 +24352,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24847,7 +24847,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24893,7 +24893,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24939,7 +24939,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -24985,7 +24985,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25030,7 +25030,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25313,7 +25313,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25602,7 +25602,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25649,7 +25649,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25939,7 +25939,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -25985,7 +25985,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26031,7 +26031,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26307,7 +26307,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26346,7 +26346,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26392,7 +26392,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26476,7 +26476,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26522,7 +26522,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26568,7 +26568,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26614,7 +26614,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26660,7 +26660,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -26921,7 +26921,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -27663,7 +27663,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -27709,7 +27709,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28001,7 +28001,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28047,7 +28047,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28092,7 +28092,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28348,7 +28348,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28432,7 +28432,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28479,7 +28479,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28525,7 +28525,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28570,7 +28570,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28609,7 +28609,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28654,7 +28654,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28693,7 +28693,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -28738,7 +28738,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29023,7 +29023,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29069,7 +29069,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29153,7 +29153,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29199,7 +29199,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29246,7 +29246,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29292,7 +29292,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29338,7 +29338,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -29384,7 +29384,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -30181,7 +30181,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -30219,7 +30219,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -30732,7 +30732,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31030,7 +31030,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31076,7 +31076,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31160,7 +31160,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31244,7 +31244,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31366,7 +31366,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31488,7 +31488,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31534,7 +31534,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31618,7 +31618,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31664,7 +31664,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31748,7 +31748,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31793,7 +31793,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31832,7 +31832,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31878,7 +31878,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -31924,7 +31924,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32234,7 +32234,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32280,7 +32280,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32325,7 +32325,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32365,7 +32365,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32410,7 +32410,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32449,7 +32449,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32761,7 +32761,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32808,7 +32808,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32854,7 +32854,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32938,7 +32938,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -32984,7 +32984,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33335,7 +33335,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33381,7 +33381,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33428,7 +33428,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33474,7 +33474,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33520,7 +33520,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33566,7 +33566,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33611,7 +33611,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -33650,7 +33650,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34163,7 +34163,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34202,7 +34202,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34657,7 +34657,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34703,7 +34703,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34749,7 +34749,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34795,7 +34795,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34841,7 +34841,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34886,7 +34886,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -34924,7 +34924,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35429,7 +35429,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35475,7 +35475,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35520,7 +35520,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35899,7 +35899,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35946,7 +35946,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -35993,7 +35993,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -36077,7 +36077,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -36122,7 +36122,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -36715,7 +36715,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -36761,7 +36761,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -36808,7 +36808,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37087,7 +37087,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37132,7 +37132,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37171,7 +37171,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37217,7 +37217,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37263,7 +37263,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37552,7 +37552,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37636,7 +37636,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37682,7 +37682,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37805,7 +37805,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37851,7 +37851,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37897,7 +37897,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -37943,7 +37943,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38274,7 +38274,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38313,7 +38313,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38359,7 +38359,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38443,7 +38443,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38488,7 +38488,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38527,7 +38527,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38572,7 +38572,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38839,7 +38839,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38884,7 +38884,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38923,7 +38923,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -38969,7 +38969,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39015,7 +39015,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39061,7 +39061,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39106,7 +39106,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39145,7 +39145,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39191,7 +39191,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39236,7 +39236,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39313,7 +39313,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39360,7 +39360,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39641,7 +39641,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39687,7 +39687,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39732,7 +39732,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39770,7 +39770,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39847,7 +39847,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39893,7 +39893,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39940,7 +39940,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -39986,7 +39986,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40031,7 +40031,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40070,7 +40070,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40116,7 +40116,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40161,7 +40161,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40427,7 +40427,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40511,7 +40511,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40800,7 +40800,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40846,7 +40846,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40893,7 +40893,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40939,7 +40939,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -40985,7 +40985,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41031,7 +41031,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41077,7 +41077,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41161,7 +41161,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41206,7 +41206,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41246,7 +41246,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41591,7 +41591,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -41637,7 +41637,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42138,7 +42138,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42184,7 +42184,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42230,7 +42230,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42529,7 +42529,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42576,7 +42576,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42622,7 +42622,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42667,7 +42667,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42706,7 +42706,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42752,7 +42752,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42798,7 +42798,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42845,7 +42845,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -42892,7 +42892,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43202,7 +43202,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43249,7 +43249,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43295,7 +43295,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43814,7 +43814,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43860,7 +43860,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43905,7 +43905,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43944,7 +43944,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -43990,7 +43990,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44035,7 +44035,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44074,7 +44074,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44120,7 +44120,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44204,7 +44204,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44487,7 +44487,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44534,7 +44534,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44580,7 +44580,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44625,7 +44625,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44665,7 +44665,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44711,7 +44711,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44833,7 +44833,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44879,7 +44879,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -44925,7 +44925,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45295,7 +45295,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45342,7 +45342,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45388,7 +45388,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45434,7 +45434,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45479,7 +45479,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45556,7 +45556,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45602,7 +45602,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45685,7 +45685,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45724,7 +45724,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45769,7 +45769,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45808,7 +45808,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45855,7 +45855,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -45901,7 +45901,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46250,7 +46250,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46295,7 +46295,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46373,7 +46373,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46421,7 +46421,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46468,7 +46468,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46513,7 +46513,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46553,7 +46553,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46599,7 +46599,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46644,7 +46644,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46722,7 +46722,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46844,7 +46844,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -46890,7 +46890,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47201,7 +47201,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47248,7 +47248,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47293,7 +47293,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47369,7 +47369,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47409,7 +47409,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47455,7 +47455,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47501,7 +47501,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47546,7 +47546,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47586,7 +47586,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47632,7 +47632,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47677,7 +47677,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47716,7 +47716,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47762,7 +47762,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47846,7 +47846,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47892,7 +47892,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47937,7 +47937,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -47977,7 +47977,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48024,7 +48024,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48070,7 +48070,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48116,7 +48116,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48199,7 +48199,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48275,7 +48275,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48558,7 +48558,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48635,7 +48635,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -48952,7 +48952,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49227,7 +49227,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49349,7 +49349,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49395,7 +49395,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49442,7 +49442,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49488,7 +49488,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49534,7 +49534,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49580,7 +49580,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49626,7 +49626,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49672,7 +49672,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49718,7 +49718,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49765,7 +49765,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49811,7 +49811,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49857,7 +49857,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -49902,7 +49902,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -50204,7 +50204,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -50249,7 +50249,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -50287,7 +50287,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -50326,7 +50326,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -50835,7 +50835,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -51139,7 +51139,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -51185,7 +51185,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -51469,7 +51469,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52022,7 +52022,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52061,7 +52061,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52340,7 +52340,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52387,7 +52387,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52472,7 +52472,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52518,7 +52518,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52563,7 +52563,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52601,7 +52601,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52639,7 +52639,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -52716,7 +52716,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -53264,7 +53264,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -53538,7 +53538,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -53887,7 +53887,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54213,7 +54213,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54297,7 +54297,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54342,7 +54342,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54381,7 +54381,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54427,7 +54427,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54473,7 +54473,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -54518,7 +54518,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55276,7 +55276,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55322,7 +55322,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55368,7 +55368,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55415,7 +55415,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55462,7 +55462,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55508,7 +55508,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -55553,7 +55553,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56516,7 +56516,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56563,7 +56563,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56609,7 +56609,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56694,7 +56694,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56741,7 +56741,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56787,7 +56787,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -56833,7 +56833,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57141,7 +57141,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57180,7 +57180,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57225,7 +57225,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57263,7 +57263,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57301,7 +57301,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57339,7 +57339,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57378,7 +57378,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57424,7 +57424,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57470,7 +57470,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57515,7 +57515,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57554,7 +57554,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57852,7 +57852,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -57891,7 +57891,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58173,7 +58173,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58451,7 +58451,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58535,7 +58535,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58581,7 +58581,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58627,7 +58627,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58672,7 +58672,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58749,7 +58749,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -58796,7 +58796,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59106,7 +59106,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59647,7 +59647,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59693,7 +59693,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59739,7 +59739,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59786,7 +59786,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59832,7 +59832,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59877,7 +59877,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59917,7 +59917,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -59964,7 +59964,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60010,7 +60010,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60284,7 +60284,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60331,7 +60331,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60377,7 +60377,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60423,7 +60423,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60470,7 +60470,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60553,7 +60553,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60592,7 +60592,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60637,7 +60637,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60677,7 +60677,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -60722,7 +60722,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -61970,7 +61970,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62016,7 +62016,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62062,7 +62062,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62582,7 +62582,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62843,7 +62843,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62927,7 +62927,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -62973,7 +62973,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63058,7 +63058,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63367,7 +63367,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63689,7 +63689,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63735,7 +63735,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63782,7 +63782,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -63829,7 +63829,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64640,7 +64640,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64686,7 +64686,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64731,7 +64731,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64770,7 +64770,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64816,7 +64816,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64862,7 +64862,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64908,7 +64908,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64953,7 +64953,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -64992,7 +64992,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65307,7 +65307,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65345,7 +65345,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65383,7 +65383,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65421,7 +65421,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65716,7 +65716,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
@@ -65762,7 +65762,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "\"\"",
       "license": "{{licenseInfo}}",
       "metadata": "{{metadata.metadata}}",
       "category": [],
