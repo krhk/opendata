@@ -15,7 +15,7 @@
   "dependencies": {
     "@types/lodash": "^4.17.16",
     "@types/node": "^13.13.52",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "typescript": "^4.9.5"
   },
   "devDependencies": {
