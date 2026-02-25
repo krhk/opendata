@@ -10315,13 +10315,15 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=2b8f4c0b14934ab5ad6f9d88af314808&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/2b8f4c0b14934ab5ad6f9d88af314808_0",
       "title": "Hospodářsky a sociálně ohrožené oblasti",
-      "description": "Datová sada s prostorovou lokalizací hospodářsky a sociálně ohrožených oblastí na území Královéhradeckého kraje. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.",
+      "description": "<p>Datová sada s prostorovou lokalizací hospodářsky a sociálně ohrožených oblastí na území Královéhradeckého kraje. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "HSOO",
+        "Ohrožené oblasti",
+        "Regionální rozvoj",
         "Královéhradecký kraj"
       ],
       "issued": "2025-01-29T15:55:48.000Z",
-      "modified": "2025-01-29T15:59:45.602Z",
+      "modified": "2026-02-25T00:00:00.000Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -10332,156 +10334,155 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "15.1405,50.0351,16.4278,50.7908",
+      "spatial": "15.1264,49.9273,16.5668,50.8901",
       "license": "CC0",
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
-          "rpOrgName": "Královéhradecký kraj",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1738166256260r5189152742583343",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "010"
-            }
-          }
-        },
-        "mdDateSt": "2025-01-29",
-        "Esri": {
-          "locales": {
-            "locale": {
-              "@_language": "cze",
-              "@_country": "CZ"
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
             }
           },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 16530600,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2025-02-03",
-          "CreaDate": "2025-01-29",
-          "ModTime": "12:49:05.18",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/2b8f4c0b14934ab5ad6f9d88af314808/info/thumbnail/thumbnail1772019674030.png"
+              }
+            }
+          },
+          "CreaDate": 20250129,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "16:57:35.72",
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
         "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
         "dataIdInfo": {
-          "idAbs": "Datová sada s prostorovou lokalizací hospodářsky a sociálně ohrožených oblastí na území Královéhradeckého kraje. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací hospodářsky a sociálně ohrožených oblastí na území Královéhradeckého kraje. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "idCitation": {
-            "resTitle": "Hospodářsky a sociálně ohrožené oblasti"
+            "date": {
+              "reviseDate": "2026-02-25T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Hospodářsky a sociálně ohrožené oblasti"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
           },
           "themeKeys": {
             "thesaName": {
               "date": {
-                "pubDate": "2008-06-01"
+                "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
-          },
-          "resMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "010"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
               }
             }
           },
           "idPurp": "Hospodářsky a sociálně ohrožené oblasti",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
               "HSOO",
+              "Ohrožené oblasti",
+              "Regionální rozvoj",
               "Královéhradecký kraj"
             ]
           },
           "idPoC": {
-            "rpOrgName": "Královéhradecký kraj",
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
             "role": {
               "RoleCd": {
-                "@_value": "007"
+                "@_value": "002"
               }
-            }
+            },
+            "rpOrgName": "Královéhradecký kraj"
           },
           "resConst": [
             {
-              "Consts": {
-                "useLimit": "CC0"
-              }
-            },
-            {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
                   }
                 }
               }
             },
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
                   }
                 }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
               }
             }
           ]
         },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "5514"
-              }
-            }
-          }
-        },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
-          }
-        },
-        "mdConst": {
-          "Consts": {
-            "useLimit": "CC0"
           }
         }
       },
