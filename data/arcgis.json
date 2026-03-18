@@ -3048,8 +3048,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0f2746acd5b94749858240b3dc828af5&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/0f2746acd5b94749858240b3dc828af5_0",
-      "title": "Schválené individuální dotace do okresů v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené individuální dotace do okresů v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Individuální dotace",
@@ -3057,7 +3057,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-03-27T08:05:52.000Z",
-      "modified": "2025-03-27T12:27:28.911Z",
+      "modified": "2026-03-18T11:05:12.384Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -3113,7 +3113,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -17819,8 +17819,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=42d36c17bbac4b6f9f4bf45c1e1dcb88&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/42d36c17bbac4b6f9f4bf45c1e1dcb88_0",
-      "title": "Schválené programové dotace do okresů v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené programové dotace do okresů v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Programové dotace",
@@ -17828,7 +17828,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-03-27T08:09:20.000Z",
-      "modified": "2025-03-27T12:29:30.159Z",
+      "modified": "2026-03-18T11:11:30.633Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -17884,7 +17884,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -19971,8 +19971,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4e000240e332439b82f1f7d63d9d087d&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/4e000240e332439b82f1f7d63d9d087d_0",
-      "title": "Schválené individuální a programové dotace do kraje v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené individuální a programové dotace do kraje v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Individuální dotace",
@@ -19981,7 +19981,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-03-27T07:49:23.000Z",
-      "modified": "2025-03-27T12:19:07.501Z",
+      "modified": "2026-03-18T09:26:37.355Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -20037,7 +20037,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -25380,8 +25380,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=651132ee12214f63b40e76253ca8e3ea&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/651132ee12214f63b40e76253ca8e3ea_0",
-      "title": "Schválené programové dotace do kraje v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené programové dotace do kraje v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Programové dotace",
@@ -25389,7 +25389,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-03-27T07:57:03.000Z",
-      "modified": "2025-03-27T12:21:23.007Z",
+      "modified": "2026-03-18T08:17:34.180Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -25445,7 +25445,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených programových dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -25716,8 +25716,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6630227b83774e5b84e5a5105d37c2ec&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/6630227b83774e5b84e5a5105d37c2ec_0",
-      "title": "Schválené individuální a programové dotace do okresů v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené individuální a programové dotace do okresů v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Individuální dotace",
@@ -25782,7 +25782,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních a programových dotací Královéhradeckého kraje do území okresů v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -40578,8 +40578,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9c9f2a398b4241a9b97898826f3dd4fd&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/9c9f2a398b4241a9b97898826f3dd4fd_0",
-      "title": "Schválené individuální dotace do kraje v letech 2021 - 2024",
-      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+      "title": "Schválené individuální dotace do kraje v letech 2021 - 2025",
+      "description": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
       "keyword": [
         "Dotace",
         "Individuální dotace",
@@ -40587,7 +40587,7 @@
         "Královéhradecký kraj"
       ],
       "issued": "2025-03-27T07:53:33.000Z",
-      "modified": "2025-03-27T12:23:14.753Z",
+      "modified": "2026-03-18T08:29:32.391Z",
       "publisher": {
         "name": "Královéhradecký kraj",
         "source": "Královéhradecký kraj"
@@ -40643,7 +40643,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2024. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
+          "idAbs": "<p>Datová sada s prostorovou lokalizací schválených individuálních dotací Královéhradeckého kraje do území Královéhradeckého kraje v letech 2021 - 2025. Zdrojem dat je Odbor regionálního rozvoje, grantů a dotací Krajského úřadu Královéhradeckého kraje.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
