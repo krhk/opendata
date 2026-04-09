@@ -10219,6 +10219,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2adcfccc60974cb993182013eee17912",
+      "landingPage": "https://www.datakhk.cz/pages/2adcfccc60974cb993182013eee17912",
+      "title": "Hackathon 2026 partneři",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-04-09T12:02:33.000Z",
+      "modified": "2026-04-09T12:24:03.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/2adcfccc60974cb993182013eee17912"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2b2f82b232c54a5c99ba8041b525a83a",
       "landingPage": "https://www.datakhk.cz/documents/2b2f82b232c54a5c99ba8041b525a83a",
       "title": "Registrované trestné činy v Královéhradeckém kraji",
@@ -26465,7 +26503,7 @@
         ""
       ],
       "issued": "2024-05-03T07:14:09.000Z",
-      "modified": "2025-10-31T07:24:24.000Z",
+      "modified": "2026-04-09T12:57:53.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -31821,7 +31859,7 @@
         ""
       ],
       "issued": "2021-05-16T20:15:17.000Z",
-      "modified": "2025-10-31T08:15:40.000Z",
+      "modified": "2026-04-09T07:33:27.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -65527,7 +65565,7 @@
         ""
       ],
       "issued": "2021-05-14T11:52:41.000Z",
-      "modified": "2026-02-16T08:06:13.000Z",
+      "modified": "2026-04-09T12:48:23.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"

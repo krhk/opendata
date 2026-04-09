@@ -44,6 +44,7 @@
     "https://open.datakhk.cz/285bc3ecf55b4c718069f05a4471815b.jsonld",
     "https://open.datakhk.cz/285d63d736184ea98831b1bfb0c1b610.jsonld",
     "https://open.datakhk.cz/28e8746d8e1c4049a8140092bd7f4d8d.jsonld",
+    "https://open.datakhk.cz/2adcfccc60974cb993182013eee17912.jsonld",
     "https://open.datakhk.cz/2b8f4c0b14934ab5ad6f9d88af314808.jsonld",
     "https://open.datakhk.cz/2dfef5cd6dab461d8eb5596de9dfc2e2.jsonld",
     "https://open.datakhk.cz/311df195461541069a5690e9491eb092.jsonld",
@@ -5159,6 +5160,50 @@
           "přístupové_url": "https://www.datakhk.cz/api/download/v1/items/28e8746d8e1c4049a8140092bd7f4d8d/sqlite?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datakhk.cz/2adcfccc60974cb993182013eee17912.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+      "název": {
+        "cs": "Hackathon 2026 partneři"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datakhk.cz/pages/2adcfccc60974cb993182013eee17912",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datakhk.cz/pages/2adcfccc60974cb993182013eee17912",
+          "přístupové_url": "https://www.datakhk.cz/pages/2adcfccc60974cb993182013eee17912",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
