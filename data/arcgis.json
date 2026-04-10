@@ -53085,6 +53085,44 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d413ce0b332e4d68a0416e49fd97ce8d",
+      "landingPage": "https://www.datakhk.cz/pages/d413ce0b332e4d68a0416e49fd97ce8d",
+      "title": "Hackathon 2026 mentoři a porotci",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-04-09T12:20:44.000Z",
+      "modified": "2026-04-10T06:36:49.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/d413ce0b332e4d68a0416e49fd97ce8d"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d417e5eaaf2844439842bb0ada976f5d&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/d417e5eaaf2844439842bb0ada976f5d_0",
       "title": "Památkové zóny",
@@ -65565,7 +65603,7 @@
         ""
       ],
       "issued": "2021-05-14T11:52:41.000Z",
-      "modified": "2026-04-09T12:48:23.000Z",
+      "modified": "2026-04-10T07:24:13.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
