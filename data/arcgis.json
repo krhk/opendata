@@ -61,7 +61,7 @@
         ""
       ],
       "issued": "2025-03-21T12:09:41.000Z",
-      "modified": "2025-10-31T07:17:20.000Z",
+      "modified": "2026-05-11T11:52:24.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -47313,6 +47313,44 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/baf74cda7f4f49dd99686d8ba1f0a8d8/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=bb8456bccb124cd186ac4f47851f1e2f",
+      "landingPage": "https://www.datakhk.cz/pages/bb8456bccb124cd186ac4f47851f1e2f",
+      "title": "28. ročník Konference ISSS 2026",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-05-11T14:03:52.000Z",
+      "modified": "2026-05-11T14:25:06.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/bb8456bccb124cd186ac4f47851f1e2f"
         }
       ],
       "theme": [
