@@ -4,14 +4,15 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
   "název": {
-    "cs": "Kulturní domy"
+    "cs": "Kulturní domy a kongresová centra"
   },
   "popis": {
-    "cs": "Datová sada s prostorovou lokalizací kulturních domů na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
+    "cs": "Datová sada s prostorovou lokalizací kulturních domů a kongresových center na území Královéhradeckého kraje. Zdrojem dat je Odbor kultury, památkové péče a cestovního ruchu Krajského úřadu Královéhradeckého kraje."
   },
   "klíčové_slovo": {
     "cs": [
       "Kulturní domy",
+      "Kongresová centra",
       "Kultura",
       "Královéhradecký kraj"
     ]
@@ -19,7 +20,7 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/EDUC"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/86"
   ],
