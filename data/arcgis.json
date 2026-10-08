@@ -368,6 +368,251 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0385b9e889904725b60474fbc7dca0cd&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/0385b9e889904725b60474fbc7dca0cd_0",
+      "title": "Kapitálové výdaje Královéhradeckého kraje",
+      "description": "<p>Datová sada kapitálové výdaje Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Výdaje",
+        "Kapitál",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T15:57:59.000Z",
+      "modified": "2026-05-20T12:26:52.316Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 17524800,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0385b9e889904725b60474fbc7dca0cd/info/thumbnail/thumbnail1779280150576.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada kapitálové výdaje Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Kapitálové výdaje Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Kapitálové výdaje Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Výdaje",
+              "Kapitál",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/0385b9e889904725b60474fbc7dca0cd_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Kapit%C3%A1lov%C3%A9_v%C3%BDdaje_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0385b9e889904725b60474fbc7dca0cd/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0385b9e889904725b60474fbc7dca0cd/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0385b9e889904725b60474fbc7dca0cd/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/0385b9e889904725b60474fbc7dca0cd/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=042d4ed225654f6b9c1f2b5036887e1e&sublayer=0",
       "landingPage": "https://www.datakhk.cz/datasets/042d4ed225654f6b9c1f2b5036887e1e_0",
       "title": "Služebny Policie ČR",
@@ -4016,6 +4261,463 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/5e94c6ca-e65a-4c18-9e62-2b4a28dbc461?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=12a0abafaacf4db6974b823bf41f9302&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/12a0abafaacf4db6974b823bf41f9302_0",
+      "title": "Kempy",
+      "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,74);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovým vymezením kempů v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</span></span></p>",
+      "keyword": [
+        "Kempy",
+        "Cestovní ruch",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-06-18T07:44:23.000Z",
+      "modified": "2026-06-18T08:00:22.837Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1692,50.0758,16.3513,50.7358",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-18"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 9402800,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20260618,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,74);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovým vymezením kempů v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</span></span></p>",
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-06-18T00:00:00",
+              "createDate": "2026-06-18T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Kempy"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-06-18T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Kempy",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Kempy",
+              "Cestovní ruch",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/12a0abafaacf4db6974b823bf41f9302_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Kempy/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a0abafaacf4db6974b823bf41f9302/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a0abafaacf4db6974b823bf41f9302/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a0abafaacf4db6974b823bf41f9302/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a0abafaacf4db6974b823bf41f9302/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=12a44806191a4e56a2300abad57abcd7&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/12a44806191a4e56a2300abad57abcd7_0",
+      "title": "Stavy na bankovních účtech Královéhradeckého kraje",
+      "description": "<p>Datová sada stavy na bankovních účtech Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Bankovní účty",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-14T06:28:36.000Z",
+      "modified": "2026-05-20T12:53:40.115Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8263700,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/12a44806191a4e56a2300abad57abcd7/info/thumbnail/thumbnail1779275452265.png"
+              }
+            }
+          },
+          "CreaDate": 20260514,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada stavy na bankovních účtech Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Stavy na bankovních účtech Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Stavy na bankovních účtech Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Bankovní účty",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/12a44806191a4e56a2300abad57abcd7_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stavy_na_bankovn%C3%ADch_%C3%BA%C4%8Dtech_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a44806191a4e56a2300abad57abcd7/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a44806191a4e56a2300abad57abcd7/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a44806191a4e56a2300abad57abcd7/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/12a44806191a4e56a2300abad57abcd7/kml?layers=0"
         }
       ],
       "theme": [
@@ -13085,6 +13787,253 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/7a23f284-63ec-4c72-af4b-1fd26786b11c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=376ccd4940c54a7098a6f3e239a7cd94&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/376ccd4940c54a7098a6f3e239a7cd94_0",
+      "title": "Investiční přijaté transfery Královéhradeckého kraje",
+      "description": "<p>Datová sada investiční přijaté transfery Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Investice",
+        "Transfer",
+        "yPřijaté",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T15:31:15.000Z",
+      "modified": "2026-06-05T10:25:44.567Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 17085700,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/376ccd4940c54a7098a6f3e239a7cd94/info/thumbnail/thumbnail1779279628455.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada investiční přijaté transfery Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Investiční přijaté transfery Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Investiční přijaté transfery Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Investice",
+              "Transfer",
+              "yPřijaté",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/376ccd4940c54a7098a6f3e239a7cd94_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investi%C4%8Dn%C3%AD_p%C5%99ijat%C3%A9_transfery_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/376ccd4940c54a7098a6f3e239a7cd94/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/376ccd4940c54a7098a6f3e239a7cd94/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/376ccd4940c54a7098a6f3e239a7cd94/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/376ccd4940c54a7098a6f3e239a7cd94/kml?layers=0"
         }
       ],
       "theme": [
@@ -23214,6 +24163,243 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=59f2976c902246d79a50a782bf666d27&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/59f2976c902246d79a50a782bf666d27_0",
+      "title": "Výdaje Královéhradeckého kraje",
+      "description": "<p>Datová sada výdaje Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Výdaje",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T16:52:19.000Z",
+      "modified": "2026-05-20T12:51:33.159Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 18501600,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/59f2976c902246d79a50a782bf666d27/info/thumbnail/thumbnail1779281573363.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada výdaje Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Výdaje Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Výdaje Královéhradeckého kraje",
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Výdaje",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/59f2976c902246d79a50a782bf666d27_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDdaje_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/59f2976c902246d79a50a782bf666d27/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/59f2976c902246d79a50a782bf666d27/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/59f2976c902246d79a50a782bf666d27/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/59f2976c902246d79a50a782bf666d27/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=59fdda9d4f3f4e0886b660ea245c1145",
       "landingPage": "https://www.datakhk.cz/documents/59fdda9d4f3f4e0886b660ea245c1145",
       "title": "Dopravní nehody s následky na životě nebo zdraví v Královéhradeckém kraji",
@@ -23344,6 +24530,283 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/78baa03c-d102-47c2-a407-83d5c6359761?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5ab0f07422714877a3799b9462671677&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/5ab0f07422714877a3799b9462671677_0",
+      "title": "Zvony na Broumovsku",
+      "description": "<p>Datové sada s prostorovým vymezením zvonů na Broumovsku. Zdrojem dat je Centrum investic, rozvoje a inovací, což je příspěvková organizace Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Zvony",
+        "Broumovsko",
+        "Cestovní ruch",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-02-02T08:04:41.000Z",
+      "modified": "2026-05-21T08:25:26.293Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "16.0826,50.4848,16.5372,50.6448",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8380100,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/5ab0f07422714877a3799b9462671677/info/thumbnail/thumbnail1770022933833.png"
+              }
+            }
+          },
+          "CreaDate": 20260202,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datové sada s prostorovým vymezením zvonů na Broumovsku. Zdrojem dat je Centrum investic, rozvoje a inovací, což je příspěvková organizace Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-02-02T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Zvony na Broumovsku"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Zvony na Broumovsku",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "008"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Zvony",
+              "Broumovsko",
+              "Cestovní ruch",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/5ab0f07422714877a3799b9462671677_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Zvony_na_Broumovsku/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/5ab0f07422714877a3799b9462671677/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -26557,6 +28020,270 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6841fa0e01ad4d099a394bdce0bee7d6&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/6841fa0e01ad4d099a394bdce0bee7d6_0",
+      "title": "Národní parky",
+      "description": "<p>Datová sada s prostorovým vymezením Krkonošského národního parku a jeho ochranného pásma. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</p>",
+      "keyword": [
+        "Cestovní ruch",
+        "Královéhradecký kraj",
+        "Národní parky",
+        "Ochrana přírody",
+        "Ochranná pásma",
+        "Životní prostředí"
+      ],
+      "issued": "2026-06-16T12:35:54.000Z",
+      "modified": "2026-06-17T11:15:53.596Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3576,50.5786,15.9091,50.8091",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-17"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 14100400,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/6841fa0e01ad4d099a394bdce0bee7d6/info/thumbnail/thumbnail1781693908578.png"
+              }
+            }
+          },
+          "CreaDate": 20260616,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s prostorovým vymezením Krkonošského národního parku a jeho ochranného pásma. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</p>",
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-06-17T00:00:00",
+              "createDate": "2026-06-17T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Národní parky"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-06-17T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Národní parky",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "007"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Cestovní ruch",
+              "Královéhradecký kraj",
+              "Národní parky",
+              "Ochrana přírody",
+              "Ochranná pásma",
+              "Životní prostředí"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/6841fa0e01ad4d099a394bdce0bee7d6_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/N%C3%A1rodn%C3%AD_parky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/6841fa0e01ad4d099a394bdce0bee7d6/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=692cb3428e4641ce9300b2d20e8b169f",
       "landingPage": "https://www.datakhk.cz/pages/692cb3428e4641ce9300b2d20e8b169f",
       "title": "Hackathon 2025 partneři",
@@ -29180,6 +30907,235 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/b4a68370-da05-4d7d-946b-c222851c7b77?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=70cae1050c7b4028b50fb059be490aaa&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/70cae1050c7b4028b50fb059be490aaa_0",
+      "title": "Sdílené daně Královéhradeckého kraje",
+      "description": "<p>Datová sada sdílené daně Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Sdílené daně",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-14T06:11:00.000Z",
+      "modified": "2026-05-20T09:36:50.904Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8090300,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/70cae1050c7b4028b50fb059be490aaa/info/thumbnail/thumbnail1779269835987.png"
+              }
+            }
+          },
+          "CreaDate": 20260514,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada sdílené daně Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Sdílené daně Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Sdílené daně Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Sdílené daně",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/70cae1050c7b4028b50fb059be490aaa_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Sd%C3%ADlen%C3%A9_dan%C4%9B_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/70cae1050c7b4028b50fb059be490aaa/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/70cae1050c7b4028b50fb059be490aaa/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/70cae1050c7b4028b50fb059be490aaa/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/70cae1050c7b4028b50fb059be490aaa/kml?layers=0"
         }
       ],
       "theme": [
@@ -32475,6 +34431,245 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/c9d0ee47-a8b4-4d1b-aef1-c7fa8f739780?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7ed7abb753e84fc2848404452a876170&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/7ed7abb753e84fc2848404452a876170_0",
+      "title": "Ukazatel dluhové služby Královéhradeckého kraje",
+      "description": "<p>Datová sada ukazatel dluhové služby Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Dluhová služba",
+        "Ukazatel",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-14T06:42:26.000Z",
+      "modified": "2026-05-20T12:49:50.600Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8394000,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7ed7abb753e84fc2848404452a876170/info/thumbnail/thumbnail1779275864480.png"
+              }
+            }
+          },
+          "CreaDate": 20260514,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada ukazatel dluhové služby Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Ukazatel dluhové služby v Královéhradeckém kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Ukazatel dluhové služby v Královéhradeckém kraji",
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Dluhová služba",
+              "Ukazatel",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/7ed7abb753e84fc2848404452a876170_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhov%C3%A9_slu%C5%BEby_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7ed7abb753e84fc2848404452a876170/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7ed7abb753e84fc2848404452a876170/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7ed7abb753e84fc2848404452a876170/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/7ed7abb753e84fc2848404452a876170/kml?layers=0"
         }
       ],
       "theme": [
@@ -36102,6 +38297,249 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8c1b34bb20f2459dbf70bdde22befcdf&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/8c1b34bb20f2459dbf70bdde22befcdf_0",
+      "title": "Příjmy Královéhradeckého kraje",
+      "description": "<p>Datová sada příjmy Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Příjmy",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T16:25:10.000Z",
+      "modified": "2026-05-20T12:39:01.325Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-20"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 18223400,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/8c1b34bb20f2459dbf70bdde22befcdf/info/thumbnail/thumbnail1779280603825.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada příjmy Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Příjmy Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Příjmy Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Příjmy",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/8c1b34bb20f2459dbf70bdde22befcdf_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADjmy_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8c1b34bb20f2459dbf70bdde22befcdf/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8c1b34bb20f2459dbf70bdde22befcdf/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8c1b34bb20f2459dbf70bdde22befcdf/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/8c1b34bb20f2459dbf70bdde22befcdf/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8c4b78db2ab9475292b3b0e457f5fd21",
       "landingPage": "https://www.datakhk.cz/documents/8c4b78db2ab9475292b3b0e457f5fd21",
       "title": "Vybrané charakteristiky rodinných domů v krajích v letech 2011 až 2019 - tříleté průměry",
@@ -37831,6 +40269,230 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/8bfcf4e3-2ba1-4014-9ed7-d3c0ff8d9afa?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=91f96204064a41b58814cafbe30ffec0&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/91f96204064a41b58814cafbe30ffec0_0",
+      "title": "Služby",
+      "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,74);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovým vymezením služeb v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</span></span></p>",
+      "keyword": [
+        "Služby",
+        "Cestovní ruch",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-06-18T08:54:29.000Z",
+      "modified": "2026-06-18T09:04:49.127Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.3331,50.0693,16.5540,50.7701",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-18"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 10504500,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20260618,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,74);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová sada s prostorovým vymezením služeb v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</span></span></p>",
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-06-18T00:00:00",
+              "createDate": "2026-06-18T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Služby"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-06-18T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Služby",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Služby",
+              "Cestovní ruch",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/91f96204064a41b58814cafbe30ffec0_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Slu%C5%BEby/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/91f96204064a41b58814cafbe30ffec0/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/91f96204064a41b58814cafbe30ffec0/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/91f96204064a41b58814cafbe30ffec0/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/91f96204064a41b58814cafbe30ffec0/kml?layers=0"
         }
       ],
       "theme": [
@@ -46041,6 +48703,280 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b43eb6eda5254eaaa484c15f53d8592f&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/b43eb6eda5254eaaa484c15f53d8592f_0",
+      "title": "Chráněné krajinné oblasti",
+      "description": "<p>Datová sada s prostorovým vymezením chráněných krajinných oblastí v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</p>",
+      "keyword": [
+        "Chráněné krajinné oblasti",
+        "Ochrana přírody",
+        "Životní prostředí",
+        "Cestovní ruch",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-06-16T12:58:24.000Z",
+      "modified": "2026-06-17T11:14:28.808Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.0224,50.1245,16.5930,50.6717",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-17"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 14073500,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/b43eb6eda5254eaaa484c15f53d8592f/info/thumbnail/thumbnail1781694911258.png"
+              }
+            }
+          },
+          "CreaDate": 20260616,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s prostorovým vymezením chráněných krajinných oblastí v našem kraji. Zdrojem dat je Královéhradecká krajská centrála cestovního ruchu.</p>",
+          "idCitation": {
+            "date": {
+              "createDate": "2026-06-17T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Chráněné krajinné oblasti"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-06-17T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Chráněné krajinné oblasti",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "007"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Chráněné krajinné oblasti",
+              "Ochrana přírody",
+              "Životní prostředí",
+              "Cestovní ruch",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Životní prostředí"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/b43eb6eda5254eaaa484c15f53d8592f_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Chr%C3%A1n%C4%9Bn%C3%A9_krajinn%C3%A9_oblasti/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/b43eb6eda5254eaaa484c15f53d8592f/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b58066a6014543a3b48fc0d202020e83",
       "landingPage": "https://www.datakhk.cz/documents/b58066a6014543a3b48fc0d202020e83",
       "title": "Dotace EU dle Operačního programu",
@@ -48239,6 +51175,247 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://www.datakhk.cz/pages/bff7590b47064e248a45f9de86e03e95"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c0bf0d9658ee480e8674dfb65f819f01&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/c0bf0d9658ee480e8674dfb65f819f01_0",
+      "title": "Dlouhodobé úvěry Královéhradeckého kraje",
+      "description": "<p>Datová sada dlouhodobých úvěrů Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Úvěry",
+        "Dlouhodobé úvěry",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T07:25:48.000Z",
+      "modified": "2026-05-20T11:22:41.504Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1042,50.0384,16.5855,50.7805",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8571600,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/c0bf0d9658ee480e8674dfb65f819f01/info/thumbnail/thumbnail1779276516377.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada dlouhodobých úvěrů Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Dlouhodobé úvěry Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Dlouhodobé úvěry Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Úvěry",
+              "Dlouhodobé úvěry",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/c0bf0d9658ee480e8674dfb65f819f01_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Dlouhodob%C3%A9_%C3%BAv%C4%9Bry_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/c0bf0d9658ee480e8674dfb65f819f01/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/c0bf0d9658ee480e8674dfb65f819f01/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/c0bf0d9658ee480e8674dfb65f819f01/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/c0bf0d9658ee480e8674dfb65f819f01/kml?layers=0"
         }
       ],
       "theme": [
@@ -53354,7 +56531,7 @@
         ""
       ],
       "issued": "2026-04-09T12:20:44.000Z",
-      "modified": "2026-10-06T07:35:02.000Z",
+      "modified": "2026-10-08T07:37:59.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -57902,6 +61079,245 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://www.datakhk.cz/pages/e331d8322e8a41f5b77b30a82839ba01"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e391a020e3cd488187ef69e36b64ce63&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/e391a020e3cd488187ef69e36b64ce63_0",
+      "title": "Investice Královéhradeckého kraje",
+      "description": "<p>Datová sada investice Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Investice",
+        "Královéhradecký kraj"
+      ],
+      "issued": "2026-05-13T14:21:27.000Z",
+      "modified": "2026-06-05T10:23:17.191Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 16202000,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/e391a020e3cd488187ef69e36b64ce63/info/thumbnail/thumbnail1779279236533.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada investice Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Investice Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Investice Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Investice",
+              "Královéhradecký kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/e391a020e3cd488187ef69e36b64ce63_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investice_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/e391a020e3cd488187ef69e36b64ce63/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/e391a020e3cd488187ef69e36b64ce63/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/e391a020e3cd488187ef69e36b64ce63/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/e391a020e3cd488187ef69e36b64ce63/kml?layers=0"
         }
       ],
       "theme": [
@@ -63269,6 +66685,245 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datakhk.cz/api/download/v1/items/f51fcdb253344157a658e9fe3a4cd385/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f556baa18b1246209265961368724298&sublayer=0",
+      "landingPage": "https://www.datakhk.cz/datasets/f556baa18b1246209265961368724298_0",
+      "title": "Dluh Královéhradeckého kraje",
+      "description": "<p>Datová sada dluhu Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+      "keyword": [
+        "Dluh",
+        "Královéhradeckého kraje"
+      ],
+      "issued": "2026-05-13T09:48:40.000Z",
+      "modified": "2026-05-20T11:25:41.729Z",
+      "publisher": {
+        "name": "Královéhradecký kraj",
+        "source": "Královéhradecký kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "15.1886,49.9522,16.4665,50.8484",
+      "license": "",
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tslezak@khk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "002"
+            }
+          },
+          "rpOrgName": "Královéhradecký kraj"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11302300,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/f556baa18b1246209265961368724298/info/thumbnail/thumbnail1779277450775.png"
+              }
+            }
+          },
+          "CreaDate": 20260513,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada dluhu Královéhradeckého kraje. Jedná se o oblast hospodaření Královéhradeckého kraje za roky 2020 až 2025 a hodnota je vždy vztažena ke 31.12. daného roku. Zdrojem dat je Odbor analýz a podpory řízení Krajského úřadu Královéhradeckého kraje.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 0,
+                "southBL": 0,
+                "northBL": 0,
+                "westBL": 0
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2026-05-20T00:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Dluh Královéhradeckého kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-20T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "Dluh Královéhradeckého kraje",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Dluh",
+              "Královéhradeckého kraje"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tslezak@khk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "002"
+              }
+            },
+            "rpOrgName": "Královéhradecký kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "category": [
+        "Kraj a dotace"
+      ],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/datasets/f556baa18b1246209265961368724298_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Dluh_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f556baa18b1246209265961368724298/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f556baa18b1246209265961368724298/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f556baa18b1246209265961368724298/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datakhk.cz/api/download/v1/items/f556baa18b1246209265961368724298/kml?layers=0"
         }
       ],
       "theme": [
