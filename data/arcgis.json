@@ -1915,7 +1915,7 @@
         ""
       ],
       "issued": "2021-05-25T18:22:11.000Z",
-      "modified": "2026-10-16T06:29:43.000Z",
+      "modified": "2026-10-22T12:27:50.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -13787,6 +13787,44 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/7a23f284-63ec-4c72-af4b-1fd26786b11c?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=370c32a867c1457cbbaeda03993041cd",
+      "landingPage": "https://www.datakhk.cz/pages/370c32a867c1457cbbaeda03993041cd",
+      "title": "Přednáška UHK - Datová platforma Královéhradeckého kraje",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-10-22T11:43:47.000Z",
+      "modified": "2026-10-22T12:21:02.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": "{{metadata.metadata}}",
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/370c32a867c1457cbbaeda03993041cd"
         }
       ],
       "theme": [
