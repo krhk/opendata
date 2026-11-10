@@ -14027,9 +14027,7 @@
           }
         }
       },
-      "category": [
-        "Kraj a dotace"
-      ],
+      "category": "{{categories}}",
       "distribution": [
         {
           "@type": "dcat:Distribution",
