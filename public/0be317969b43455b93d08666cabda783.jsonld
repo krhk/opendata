@@ -48,12 +48,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Det_%C5%BE%C3%A1k%C5%AF_dle_obor%C5%AF_st%C5%99edn%C3%ADch_%C5%A1kol_v_KHK/FeatureServer/4",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Počet_žáků_dle_oborů_středních_škol_v_KHK/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Det_%C5%BE%C3%A1k%C5%AF_dle_obor%C5%AF_st%C5%99edn%C3%ADch_%C5%A1kol_v_KHK/FeatureServer/4",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Det_%C5%BE%C3%A1k%C5%AF_dle_obor%C5%AF_st%C5%99edn%C3%ADch_%C5%A1kol_v_KHK/FeatureServer/4",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Počet_žáků_dle_oborů_středních_škol_v_KHK/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Počet_žáků_dle_oborů_středních_škol_v_KHK/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

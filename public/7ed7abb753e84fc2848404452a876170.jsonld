@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhov%C3%A9_slu%C5%BEby_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhové_služby_v_Královéhradeckém_kraji/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhov%C3%A9_slu%C5%BEby_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhov%C3%A9_slu%C5%BEby_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhové_služby_v_Královéhradeckém_kraji/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ukazatel_dluhové_služby_v_Královéhradeckém_kraji/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

@@ -44,12 +44,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_d%C4%9Bt%C3%AD_a_ml%C3%A1de%C5%BEe_a_st%C5%99ediska_voln%C3%A9ho_%C4%8Dasu/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_dětí_a_mládeže_a_střediska_volného_času/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_d%C4%9Bt%C3%AD_a_ml%C3%A1de%C5%BEe_a_st%C5%99ediska_voln%C3%A9ho_%C4%8Dasu/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_d%C4%9Bt%C3%AD_a_ml%C3%A1de%C5%BEe_a_st%C5%99ediska_voln%C3%A9ho_%C4%8Dasu/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_dětí_a_mládeže_a_střediska_volného_času/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Domovy_dětí_a_mládeže_a_střediska_volného_času/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

@@ -18,7 +18,8 @@
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
@@ -45,12 +46,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investi%C4%8Dn%C3%AD_p%C5%99ijat%C3%A9_transfery_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investiční_přijaté_transfery_Královéhradeckého_kraje/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investi%C4%8Dn%C3%AD_p%C5%99ijat%C3%A9_transfery_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investi%C4%8Dn%C3%AD_p%C5%99ijat%C3%A9_transfery_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investiční_přijaté_transfery_Královéhradeckého_kraje/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Investiční_přijaté_transfery_Královéhradeckého_kraje/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

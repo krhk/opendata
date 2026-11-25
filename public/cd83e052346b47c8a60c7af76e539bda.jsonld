@@ -46,12 +46,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99ij%C3%ADmac%C3%AD_%C5%99%C3%ADzen%C3%AD_na_st%C5%99edn%C3%AD_%C5%A1koly/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přijímací_řízení_na_střední_školy/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99ij%C3%ADmac%C3%AD_%C5%99%C3%ADzen%C3%AD_na_st%C5%99edn%C3%AD_%C5%A1koly/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99ij%C3%ADmac%C3%AD_%C5%99%C3%ADzen%C3%AD_na_st%C5%99edn%C3%AD_%C5%A1koly/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přijímací_řízení_na_střední_školy/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přijímací_řízení_na_střední_školy/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

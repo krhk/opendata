@@ -18,7 +18,7 @@
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+    "http://publications.europa.eu/resource/authority/data-theme/HEAL"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "prvek_rúian": [
@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborn%C3%A9_l%C3%A9%C4%8Debn%C3%A9_%C3%BAstavy/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborné_léčebné_ústavy/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborn%C3%A9_l%C3%A9%C4%8Debn%C3%A9_%C3%BAstavy/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborn%C3%A9_l%C3%A9%C4%8Debn%C3%A9_%C3%BAstavy/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborné_léčebné_ústavy/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Odborné_léčebné_ústavy/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

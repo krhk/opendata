@@ -48,12 +48,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivní_zóna_záplavového_území_stoleté_vody/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivn%C3%AD_z%C3%B3na_z%C3%A1plavov%C3%A9ho_%C3%BAzem%C3%AD_stolet%C3%A9_vody/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivní_zóna_záplavového_území_stoleté_vody/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Aktivní_zóna_záplavového_území_stoleté_vody/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

@@ -19,7 +19,7 @@
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+    "http://publications.europa.eu/resource/authority/data-theme/TRAN"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "prvek_rúian": [
@@ -46,12 +46,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C5%BDelezni%C4%8Dn%C3%AD_stanice_a_zast%C3%A1vky_VDKHK/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Železniční_stanice_a_zastávky_VDKHK/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C5%BDelezni%C4%8Dn%C3%AD_stanice_a_zast%C3%A1vky_VDKHK/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/%C5%BDelezni%C4%8Dn%C3%AD_stanice_a_zast%C3%A1vky_VDKHK/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Železniční_stanice_a_zastávky_VDKHK/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Železniční_stanice_a_zastávky_VDKHK/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

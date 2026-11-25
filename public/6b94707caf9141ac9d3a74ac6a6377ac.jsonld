@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovn%C3%AD_l%C3%A9taj%C3%ADc%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovní_létající_zařízení/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovn%C3%AD_l%C3%A9taj%C3%ADc%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovn%C3%AD_l%C3%A9taj%C3%ADc%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovní_létající_zařízení/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovní_létající_zařízení/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

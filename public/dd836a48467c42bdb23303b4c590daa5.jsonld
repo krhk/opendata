@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDznamn%C3%A9_oborov%C3%A9_z%C3%A1m%C4%9Bry_ekonomick%C3%A9ho_rozvoje_v_Z%C3%9AR/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Významné_oborové_záměry_ekonomického_rozvoje_v_ZÚR/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDznamn%C3%A9_oborov%C3%A9_z%C3%A1m%C4%9Bry_ekonomick%C3%A9ho_rozvoje_v_Z%C3%9AR/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDznamn%C3%A9_oborov%C3%A9_z%C3%A1m%C4%9Bry_ekonomick%C3%A9ho_rozvoje_v_Z%C3%9AR/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Významné_oborové_záměry_ekonomického_rozvoje_v_ZÚR/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Významné_oborové_záměry_ekonomického_rozvoje_v_ZÚR/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

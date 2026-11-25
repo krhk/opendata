@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_spr%C3%A1vn%C3%ADch_obvod%C5%AF_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_správních_obvodů_obcí_s_rozšířenou_působností_v_Královéhradeckém_kraji/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_spr%C3%A1vn%C3%ADch_obvod%C5%AF_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_spr%C3%A1vn%C3%ADch_obvod%C5%AF_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_správních_obvodů_obcí_s_rozšířenou_působností_v_Královéhradeckém_kraji/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_správních_obvodů_obcí_s_rozšířenou_působností_v_Královéhradeckém_kraji/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

@@ -44,12 +44,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pam%C3%A1tky_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0",
+      "iri": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přírodní_památky_včetně_ochranných_pásem/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pam%C3%A1tky_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0",
-      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pam%C3%A1tky_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0",
+      "soubor_ke_stažení": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přírodní_památky_včetně_ochranných_pásem/FeatureServer",
+      "přístupové_url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Přírodní_památky_včetně_ochranných_pásem/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
