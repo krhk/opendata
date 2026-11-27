@@ -108,7 +108,7 @@
         ""
       ],
       "issued": "2025-03-21T12:09:41.000Z",
-      "modified": "2026-05-11T11:52:24.000Z",
+      "modified": "2026-11-27T06:59:21.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -2285,7 +2285,7 @@
         ""
       ],
       "issued": "2026-01-21T07:00:01.000Z",
-      "modified": "2026-05-29T09:24:12.000Z",
+      "modified": "2026-11-27T07:01:35.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -7630,7 +7630,7 @@
         ""
       ],
       "issued": "2023-05-03T14:31:07.000Z",
-      "modified": "2025-12-10T14:40:29.000Z",
+      "modified": "2026-11-27T08:17:26.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -8753,7 +8753,7 @@
         ""
       ],
       "issued": "2021-05-13T14:24:38.000Z",
-      "modified": "2025-12-10T14:37:56.000Z",
+      "modified": "2026-11-27T08:15:29.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -15964,7 +15964,7 @@
         ""
       ],
       "issued": "2025-03-21T12:35:55.000Z",
-      "modified": "2025-10-31T07:25:30.000Z",
+      "modified": "2026-11-27T07:00:59.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -20498,7 +20498,7 @@
         ""
       ],
       "issued": "2021-05-14T12:24:10.000Z",
-      "modified": "2025-10-31T07:55:37.000Z",
+      "modified": "2026-11-27T11:52:43.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -26543,6 +26543,112 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/d30420de-1ca1-44f5-8f3d-0e8b6e88c5db?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4d8074c70164420bac60bc4f8e7ebbe2",
+      "landingPage": "https://www.datakhk.cz/pages/4d8074c70164420bac60bc4f8e7ebbe2",
+      "title": "Zpráva a datové karty 2025",
+      "description": "<p>TUTO POLOŽKU NEMAŽTE ANI NEUPRAVUJTE. Tuto položku spravuje aplikace ArcGIS Hub. Chcete-li udělat změny na této stránce, navštivte https://KHK-GIS.hub.arcgis.com:/overview/edit.</p>",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-11-27T08:04:48.000Z",
+      "modified": "2026-11-27T08:14:24.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "DCPLUS",
+          "CreaDate": 20261127,
+          "CreaTime": 8044800,
+          "ModDate": 20261127,
+          "ModTime": 8044800,
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/4d8074c70164420bac60bc4f8e7ebbe2/info/thumbnail/thumbnail_ago_downloaded.png",
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=4d8074c70164420bac60bc4f8e7ebbe2",
+                "itemIdentifier": "4d8074c70164420bac60bc4f8e7ebbe2",
+                "itemType": "Hub Page",
+                "resourceURL": "https://www.arcgis.com/sharing/rest/content/items/4d8074c70164420bac60bc4f8e7ebbe2/data"
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "resTitle": "Zpráva a datové karty 1"
+          },
+          "searchKeys": {
+            "keyword": ""
+          },
+          "idPurp": "Výroční zprávy o stavu kraje v přehledných infografikách.",
+          "idAbs": "<p>TUTO POLOŽKU NEMAŽTE ANI NEUPRAVUJTE. Tuto položku spravuje aplikace ArcGIS Hub. Chcete-li udělat změny na této stránce, navštivte https://KHK-GIS.hub.arcgis.com:/overview/edit.</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "westBL": {
+                  "#value": 14.751699020212678,
+                  "@_Sync": "FALSE"
+                },
+                "eastBL": {
+                  "#value": 16.87221357744177,
+                  "@_Sync": "FALSE"
+                },
+                "northBL": {
+                  "#value": 50.797134482590984,
+                  "@_Sync": "FALSE"
+                },
+                "southBL": {
+                  "#value": 50.02132782155252,
+                  "@_Sync": "FALSE"
+                },
+                "exTypeCode": {
+                  "#value": 1,
+                  "@_Sync": "TRUE"
+                }
+              }
+            }
+          }
+        },
+        "mdFileID": "4d8074c70164420bac60bc4f8e7ebbe2",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.arcgis.com/sharing/rest/content/items/4d8074c70164420bac60bc4f8e7ebbe2/data"
+            }
+          },
+          "distFormat": {
+            "formatName": "Hub Page"
+          }
+        },
+        "@_xml:lang": "en"
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/4d8074c70164420bac60bc4f8e7ebbe2"
         }
       ],
       "theme": [
@@ -43934,7 +44040,7 @@
         ""
       ],
       "issued": "2024-04-15T08:28:29.000Z",
-      "modified": "2025-12-10T14:41:52.000Z",
+      "modified": "2026-11-27T08:18:42.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -49450,7 +49556,7 @@
         ""
       ],
       "issued": "2025-12-10T14:07:22.000Z",
-      "modified": "2025-12-10T14:12:39.000Z",
+      "modified": "2026-11-27T08:20:50.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -50127,7 +50233,7 @@
         ""
       ],
       "issued": "2022-05-13T07:53:57.000Z",
-      "modified": "2026-07-28T05:52:41.000Z",
+      "modified": "2026-11-27T08:21:50.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -52086,7 +52192,7 @@
         ""
       ],
       "issued": "2025-03-21T11:54:07.000Z",
-      "modified": "2025-10-31T07:16:52.000Z",
+      "modified": "2026-11-27T06:58:44.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -55952,7 +56058,7 @@
         ""
       ],
       "issued": "2025-01-31T11:18:53.000Z",
-      "modified": "2025-12-10T14:44:54.000Z",
+      "modified": "2026-11-27T08:19:46.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -57374,7 +57480,7 @@
         ""
       ],
       "issued": "2025-03-21T12:19:58.000Z",
-      "modified": "2025-10-31T07:24:54.000Z",
+      "modified": "2026-11-27T07:00:21.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
@@ -62531,6 +62637,110 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://e.infogram.com/0e30fe05-e0d9-4a29-93f7-c48f134bd832?src=embed"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b58e6b40c2454a62b2d2afa2882ec5a7",
+      "landingPage": "https://www.datakhk.cz/pages/b58e6b40c2454a62b2d2afa2882ec5a7",
+      "title": "6. ročník hackathonu",
+      "description": "TUTO POLOŽKU NEMAŽTE ANI NEUPRAVUJTE. Tuto položku spravuje aplikace ArcGIS Hub. Chcete-li udělat změny na této stránce, navštivte https://KHK-GIS.hub.arcgis.com:/overview/edit.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2026-11-27T06:48:30.000Z",
+      "modified": "2026-11-27T06:55:45.000Z",
+      "publisher": {
+        "name": "{{source}}",
+        "source": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Tomas_Slezak_DATAKHK",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.7517,50.0213,16.8722,50.7971",
+      "license": "{{licenseInfo}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "DCPLUS",
+          "CreaDate": 20261127,
+          "CreaTime": 6483000,
+          "ModDate": 20261127,
+          "ModTime": 6483000,
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=b58e6b40c2454a62b2d2afa2882ec5a7",
+                "itemIdentifier": "b58e6b40c2454a62b2d2afa2882ec5a7",
+                "itemType": "Hub Page",
+                "resourceURL": "https://www.arcgis.com/sharing/rest/content/items/b58e6b40c2454a62b2d2afa2882ec5a7/data"
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "resTitle": "Hackathony 1"
+          },
+          "searchKeys": {
+            "keyword": ""
+          },
+          "idAbs": "TUTO POLOŽKU NEMAŽTE ANI NEUPRAVUJTE. Tuto položku spravuje aplikace ArcGIS Hub. Chcete-li udělat změny na této stránce, navštivte https://KHK-GIS.hub.arcgis.com:/overview/edit.",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "westBL": {
+                  "#value": 14.751699020212678,
+                  "@_Sync": "FALSE"
+                },
+                "eastBL": {
+                  "#value": 16.87221357744177,
+                  "@_Sync": "FALSE"
+                },
+                "northBL": {
+                  "#value": 50.797134482590984,
+                  "@_Sync": "FALSE"
+                },
+                "southBL": {
+                  "#value": 50.02132782155252,
+                  "@_Sync": "FALSE"
+                },
+                "exTypeCode": {
+                  "#value": 1,
+                  "@_Sync": "TRUE"
+                }
+              }
+            }
+          }
+        },
+        "mdFileID": "b58e6b40c2454a62b2d2afa2882ec5a7",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.arcgis.com/sharing/rest/content/items/b58e6b40c2454a62b2d2afa2882ec5a7/data"
+            }
+          },
+          "distFormat": {
+            "formatName": "Hub Page"
+          }
+        },
+        "@_xml:lang": "en"
+      },
+      "category": [],
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datakhk.cz/pages/b58e6b40c2454a62b2d2afa2882ec5a7"
         }
       ],
       "theme": [
@@ -88541,7 +88751,7 @@
         ""
       ],
       "issued": "2021-05-14T11:52:41.000Z",
-      "modified": "2026-10-23T06:46:55.000Z",
+      "modified": "2026-11-27T06:57:49.000Z",
       "publisher": {
         "name": "{{source}}",
         "source": "{{source}}"
